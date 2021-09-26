@@ -1,0 +1,52 @@
+{
+    "source": "https://devpost.com/software/beethoven-s-love-letter",
+    "title": "Beethoven's Love Letter",
+    "blurb": "Romantic & Immersive VR musical experience through a love letter from Beethoven",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/hUElezrhCUQ?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [
+        {
+            "title": "Moonlight",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/746/082/datas/original.PNG"
+        },
+        {
+            "title": "Open the letter, follow the heart",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/745/297/datas/original.png"
+        },
+        {
+            "title": "Follow the heart",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/746/083/datas/original.PNG"
+        }
+    ],
+    "team": [
+        {
+            "name": "Xindeling Pan",
+            "about": "Concept & UX",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/546/971/datas/profile.jpg"
+        },
+        {
+            "name": "Scottie113 Murrell",
+            "about": "Developer",
+            "photo": "https://avatars2.githubusercontent.com/u/35502207?height=180&v=4&width=180"
+        },
+        {
+            "name": "ShirlySpikes",
+            "about": "Sound design and music",
+            "photo": "https://graph.facebook.com/10212867947467710/picture?height=180&width=180"
+        },
+        {
+            "name": "Sam De Lara",
+            "about": "3D Artist & Animator",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/919/240/datas/profile.png"
+        }
+    ],
+    "built_with": [
+        "cubase",
+        "maya",
+        "unity"
+    ],
+    "content_html": "<div>\n<p>Beethoven wrote the moonlight sonata to describe his blind lover how he feels when the moon rises at night. Inspired by this love story, we created an immersive musical experience that lets you not only see and hear, but also feel and interact with the music, putting the user inside a classical masterpiece.</p>\n<p>We built an immersive music VR experience that is accessible for everyone including people with hearing impaired by leveraging the accurate sensors from the new Woojer ryg haptic vest. Transducers on the vest enables people with hearing impaired to feel the music through vibrations corresponding to low frequencies in the music.</p>\n</div>",
+    "content_md": "\nBeethoven wrote the moonlight sonata to describe his blind lover how he feels when the moon rises at night. Inspired by this love story, we created an immersive musical experience that lets you not only see and hear, but also feel and interact with the music, putting the user inside a classical masterpiece.\n\n\nWe built an immersive music VR experience that is accessible for everyone including people with hearing impaired by leveraging the accurate sensors from the new Woojer ryg haptic vest. Transducers on the vest enables people with hearing impaired to feel the music through vibrations corresponding to low frequencies in the music.\n\n\n"
+}

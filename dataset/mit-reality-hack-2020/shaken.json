@@ -1,0 +1,47 @@
+{
+    "source": "https://devpost.com/software/shaken",
+    "title": "Shaken - MIT Reality Hack",
+    "blurb": "Puerto Rico has been hit with more than a 1000 earthquakes over the past three weeks and our goal was to raise awareness about the misfortune of the locals.",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/blU8UPvUS5w?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "Daniel Sabio",
+            "about": "Creative Direction (Writing, Acting, music score, some 3D modeling)",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/745/199/datas/profile.jpg"
+        },
+        {
+            "name": "krispatl Pilcher",
+            "about": "Lead developer and Volumetric Film Capture",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/001/050/046/datas/profile.png"
+        },
+        {
+            "name": "Peter Lakatos",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/940/356/datas/profile.JPG"
+        },
+        {
+            "name": "Alexandros Lotsos",
+            "about": "",
+            "photo": "https://avatars2.githubusercontent.com/u/16785997?height=180&v=4&width=180"
+        },
+        {
+            "name": "Trilina",
+            "about": "",
+            "photo": "https://graph.facebook.com/2815659508498010/picture?height=180&width=180"
+        }
+    ],
+    "built_with": [
+        "dephtkit",
+        "kinect",
+        "normal",
+        "nreal",
+        "oculus-quest",
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>One of our teammate's family is from Puerto Rico, where over a 1000 earthquakes hit over the past three weeks. Thousands of homes were damaged and lost, forcing almost 10000 people to wait out the aftershocks in shelters. Electricity and water resources are also scarce in the region. Our project's goal is to raise awareness about the dire situation locals have been living in the past month and encourage viewers to help the affected. </p>\n<h2>What it does</h2>\n<p>We've built a narrative story piece VR experience that guides the viewer through the earthquake disaster in Ponce, Puerto Rico. Their journey goes through a sequence of scenes to grasp the graveness of the local's trauma and constant fear. There is also narration done by our Puerto Rican teammate Daniel Sabio, to fully immerse the viewer in the Caribbean experience. \nIn addition to the VR part, we also have an AR perspective, which is focused on data visualization and more factual information. </p>\n<h2>How we built it</h2>\n<p>We used the Unity game engine to build our VR experience on the Occulus Quest, and our AR experience on the Nreal mixed reality glasses. Daniel Sabio's narration was directed, acted, and captured live during the hackathon using a Microsoft Kinect and Depthkit, while all our 3D assets were also built live during the hackathon using Tiltbrush on a separate VR headset. A member of our team was dedicated to researching factual information and compiling their own report on the damages that Ponce suffered, highlights of which appear alongside Sabio's narration in our AR experience.</p>\n<h2>Challenges we ran into</h2>\n<p>Integration between Unity and GitHub did not work as seamlessly as we expected. Unity asset store plugin for GitHub and a mentor intending to help unfortunately ended up deleting our project files, which set us back quite significantly. But we did try to recreate our environment and restore the project. </p>\n<p>We also ran into some issues regarding video playback on nreal and no one could seemingly figure out what the problem was, but we ended up resolving the issue, the root of which turned out to be the transcoding upon video import.</p>\n<h2>Accomplishments that we're proud of</h2>\n<p>We are proud of the fact that we were able to use this many technologies and create multiple platforms for the experience. We had some hiccups with github - some unrelated to our actions - but we managed to keep our cool, rebuild and finish the project. </p>\n<h2>What we learned</h2>\n<p>We learned new skills in Tilt Brush and got familiar with the nreal developer environment. We learned valuable lessons about keeping a backup of our project and making sure that we have checkpoints. </p>\n<h2>What's next for Shaken</h2>\n<p>The concept to raise awareness through VR installations can be applied to any story that is worth telling. The next step would be creating a general framework for communicating any type of experience, both with infographics and emotional footage. </p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nOne of our teammate's family is from Puerto Rico, where over a 1000 earthquakes hit over the past three weeks. Thousands of homes were damaged and lost, forcing almost 10000 people to wait out the aftershocks in shelters. Electricity and water resources are also scarce in the region. Our project's goal is to raise awareness about the dire situation locals have been living in the past month and encourage viewers to help the affected. \n\n\n## What it does\n\n\nWe've built a narrative story piece VR experience that guides the viewer through the earthquake disaster in Ponce, Puerto Rico. Their journey goes through a sequence of scenes to grasp the graveness of the local's trauma and constant fear. There is also narration done by our Puerto Rican teammate Daniel Sabio, to fully immerse the viewer in the Caribbean experience. \nIn addition to the VR part, we also have an AR perspective, which is focused on data visualization and more factual information. \n\n\n## How we built it\n\n\nWe used the Unity game engine to build our VR experience on the Occulus Quest, and our AR experience on the Nreal mixed reality glasses. Daniel Sabio's narration was directed, acted, and captured live during the hackathon using a Microsoft Kinect and Depthkit, while all our 3D assets were also built live during the hackathon using Tiltbrush on a separate VR headset. A member of our team was dedicated to researching factual information and compiling their own report on the damages that Ponce suffered, highlights of which appear alongside Sabio's narration in our AR experience.\n\n\n## Challenges we ran into\n\n\nIntegration between Unity and GitHub did not work as seamlessly as we expected. Unity asset store plugin for GitHub and a mentor intending to help unfortunately ended up deleting our project files, which set us back quite significantly. But we did try to recreate our environment and restore the project. \n\n\nWe also ran into some issues regarding video playback on nreal and no one could seemingly figure out what the problem was, but we ended up resolving the issue, the root of which turned out to be the transcoding upon video import.\n\n\n## Accomplishments that we're proud of\n\n\nWe are proud of the fact that we were able to use this many technologies and create multiple platforms for the experience. We had some hiccups with github - some unrelated to our actions - but we managed to keep our cool, rebuild and finish the project. \n\n\n## What we learned\n\n\nWe learned new skills in Tilt Brush and got familiar with the nreal developer environment. We learned valuable lessons about keeping a backup of our project and making sure that we have checkpoints. \n\n\n## What's next for Shaken\n\n\nThe concept to raise awareness through VR installations can be applied to any story that is worth telling. The next step would be creating a general framework for communicating any type of experience, both with infographics and emotional footage. \n\n\n"
+}

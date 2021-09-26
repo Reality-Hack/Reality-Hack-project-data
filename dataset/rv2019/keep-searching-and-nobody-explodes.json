@@ -1,0 +1,49 @@
+{
+    "source": "https://devpost.com/software/keep-searching-and-nobody-explodes",
+    "title": "Keep Searching and Nobody Explodes",
+    "blurb": "Turn-based bomb defusion game for Magic Leap.",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/OL22EorEbVk?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "Andres Ornelas",
+            "about": "I worked on the game flow and overall mechanics, threading together the work of the team. I also contributed with 3D assets made with Spatiate.",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/688/660/datas/profile.jpg"
+        },
+        {
+            "name": "Dylan Dawkins",
+            "about": "I worked on programming the object handling mechanics as well as the explosions in the scene. ",
+            "photo": "https://avatars1.githubusercontent.com/u/43074920?height=180&v=4&width=180"
+        },
+        {
+            "name": "Janet Hwang",
+            "about": "",
+            "photo": "https://graph.facebook.com/2156828784342172/picture?height=180&width=180"
+        },
+        {
+            "name": "Allison Ing",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/3e9f282242498d0d3d5cbb949026f009?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Coby Palivathukal",
+            "about": "",
+            "photo": "https://graph.facebook.com/10218792081939973/picture?height=180&width=180"
+        }
+    ],
+    "built_with": [
+        "magic-leap",
+        "maya",
+        "photoshop",
+        "rider",
+        "spatiate",
+        "unity",
+        "unitygltf",
+        "visual-studio"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>We were inspired by our memories of childhood games like scavenger hunts, hide and seek, and 'I spy'. These games were simple but had the ability to elevate the magic of play in everyday environments.</p>\n<p>Our team started with the idea of 'Lava Leap', an AR, Magic Leap rendition of the analog game, 'The Floor is Lava!'. Further ideation on multi-player mechanics in spatial design led us to rethink how we could best leverage the real/virtual properties of an XR game. We realized the best way to leverage Magic Leap's spatial mapping, object occlusion, and controller interactivity was to pivot towards a game involving hiding and searching for a 3D object. The bomb aspect added some stakes to the game's entertaining narrative.</p>\n<h2>What it does</h2>\n<p>The game is a two player, turn-based game that uses a single Magic Leap One (ML1) headset. Set in a light-hearted and playful context, Player 1 sets a bomb and hides the tool needed to defuse it, while player 2 must then find the tool and use it to defuse the bomb before it explodes. Both players experience unexpected and fun surprises throughout the game that leads to playful and surreal interactions with 3D assets viewed using ML1.</p>\n<h2>How we built it</h2>\n<p>Unity Code, Spatiate, MLSDK<br/>\nSweat and tears.</p>\n<h2>Challenges we ran into</h2>\n<p>Some challenges we faced were implementing the relatively novel game mechanics and formulating a narrative to compliment our premise.</p>\n<h2>Accomplishments that we're proud of</h2>\n<p>Implementing effective spatial design and intuitive user interactions in AR; creating unique assets using Spatiate; testing the game using the Magic Leap Simulator.</p>\n<h2>What we learned</h2>\n<p>How to create a compelling AR user experience with spatial design; how to effectively collaborate on a Magic Leap project using Unity and Github.</p>\n<h2>What's next for Keep Searching and Nobody Explodes</h2>\n<p>Adding additional levels to the game that pose additional challenges to the user; creating new and amusing ways for the user to use hand motions to interact with 3D assets in AR. </p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nWe were inspired by our memories of childhood games like scavenger hunts, hide and seek, and 'I spy'. These games were simple but had the ability to elevate the magic of play in everyday environments.\n\n\nOur team started with the idea of 'Lava Leap', an AR, Magic Leap rendition of the analog game, 'The Floor is Lava!'. Further ideation on multi-player mechanics in spatial design led us to rethink how we could best leverage the real/virtual properties of an XR game. We realized the best way to leverage Magic Leap's spatial mapping, object occlusion, and controller interactivity was to pivot towards a game involving hiding and searching for a 3D object. The bomb aspect added some stakes to the game's entertaining narrative.\n\n\n## What it does\n\n\nThe game is a two player, turn-based game that uses a single Magic Leap One (ML1) headset. Set in a light-hearted and playful context, Player 1 sets a bomb and hides the tool needed to defuse it, while player 2 must then find the tool and use it to defuse the bomb before it explodes. Both players experience unexpected and fun surprises throughout the game that leads to playful and surreal interactions with 3D assets viewed using ML1.\n\n\n## How we built it\n\n\nUnity Code, Spatiate, MLSDK  \n\nSweat and tears.\n\n\n## Challenges we ran into\n\n\nSome challenges we faced were implementing the relatively novel game mechanics and formulating a narrative to compliment our premise.\n\n\n## Accomplishments that we're proud of\n\n\nImplementing effective spatial design and intuitive user interactions in AR; creating unique assets using Spatiate; testing the game using the Magic Leap Simulator.\n\n\n## What we learned\n\n\nHow to create a compelling AR user experience with spatial design; how to effectively collaborate on a Magic Leap project using Unity and Github.\n\n\n## What's next for Keep Searching and Nobody Explodes\n\n\nAdding additional levels to the game that pose additional challenges to the user; creating new and amusing ways for the user to use hand motions to interact with 3D assets in AR. \n\n\n"
+}

@@ -1,0 +1,42 @@
+{
+    "source": "https://devpost.com/software/playdate",
+    "title": "PLAYDATE",
+    "blurb": "It's a thing-network visualizer. ",
+    "awards": [],
+    "videos": [],
+    "images": [],
+    "team": [
+        {
+            "name": "Yujie Hong",
+            "about": "I worked on concept development, user interaction design and prototyping and Unity development.",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/424/320/datas/profile.jpg"
+        },
+        {
+            "name": "Joanne Cheung",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/424/606/datas/profile.jpg"
+        },
+        {
+            "name": "Jenny Shen",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/7af74dd8e5c9a0d18826237e71efe730?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Dan Taeyoung",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/61bfd27a1596dab8f465ce423392d930?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Austin Smith",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/48dca61143a85f3a565e7839c94c8515?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        }
+    ],
+    "built_with": [
+        "c#",
+        "rhino",
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>Ecology and human-computer interaction. </p>\n<h2>What it does</h2>\n<p>Users can interact with objects in the world (starting with a building), remove parts, and the parts touched will be transformed into its constituent elements. I.e. Log cabin -&gt; Log -&gt; Trees. The singular becomes the multiple.  </p>\n<h2>How we built it</h2>\n<p>We modelled assets and environment in Rhino and interactions in Unity </p>\n<h2>Challenges we ran into</h2>\n<p>Designing for real-life and virtual fields in reciprocity was difficult, especially when interacting with a field of objects. </p>\n<h2>What's next for playdate</h2>\n<p>Build the re-composition interactions. </p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nEcology and human-computer interaction. \n\n\n## What it does\n\n\nUsers can interact with objects in the world (starting with a building), remove parts, and the parts touched will be transformed into its constituent elements. I.e. Log cabin -> Log -> Trees. The singular becomes the multiple. \n\n\n## How we built it\n\n\nWe modelled assets and environment in Rhino and interactions in Unity \n\n\n## Challenges we ran into\n\n\nDesigning for real-life and virtual fields in reciprocity was difficult, especially when interacting with a field of objects. \n\n\n## What's next for playdate\n\n\nBuild the re-composition interactions. \n\n\n"
+}

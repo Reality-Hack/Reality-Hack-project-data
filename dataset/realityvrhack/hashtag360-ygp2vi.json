@@ -1,0 +1,23 @@
+{
+    "source": "https://devpost.com/software/hashtag360-ygp2vi",
+    "title": "hashtag360",
+    "blurb": "Instagram but 360",
+    "awards": [],
+    "videos": [],
+    "images": [],
+    "team": [
+        {
+            "name": "Jesslyn Tannady",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/0d781df703734e1afb7f421e6b2c5bc6?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Seda Kochian",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/2dec3d4d8c5e76e348fc677755fb446c?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        }
+    ],
+    "built_with": [],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>helllo</p>\n<h2>What it does</h2>\n<h2>How we built it</h2>\n<h2>Challenges we ran into</h2>\n<h2>Accomplishments that we're proud of</h2>\n<h2>What we learned</h2>\n<h2>What's next for hashtag360</h2>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nhelllo\n\n\n## What it does\n\n\n## How we built it\n\n\n## Challenges we ran into\n\n\n## Accomplishments that we're proud of\n\n\n## What we learned\n\n\n## What's next for hashtag360\n\n\n"
+}

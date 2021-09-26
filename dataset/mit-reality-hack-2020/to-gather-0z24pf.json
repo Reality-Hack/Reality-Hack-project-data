@@ -1,0 +1,39 @@
+{
+    "source": "https://devpost.com/software/to-gather-0z24pf",
+    "title": "To-Gather",
+    "blurb": "Making new friends and building a community is difficult and we understand that, hence we bring to you To-Gather to bring your community together! ",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/j3iyORDj1mc?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "Ikshita Gupta",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/a52e60b023803d8c13aaea0db52526ab?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Kristen Dong",
+            "about": "",
+            "photo": "https://media.licdn.com/dms/image/C4E03AQGu1GHQLVZTZQ/profile-displayphoto-shrink_100_100/0?e=1542844800&height=180&t=JWT-7v3zyRDaawRyVDk_kRevuvn7VnULYQhSnDWk9e0&v=beta&width=180"
+        },
+        {
+            "name": "shanilp7",
+            "about": "",
+            "photo": "https://avatars3.githubusercontent.com/u/23419126?height=180&v=4&width=180"
+        }
+    ],
+    "built_with": [
+        "adobe-creative-suite",
+        "aframe",
+        "arjs",
+        "blender",
+        "brackets",
+        "github",
+        "rhinoceros",
+        "sketch"
+    ],
+    "content_html": "<div>\n<h2>Inspiration- In today's world, social media is dominating our interactions, people don't know anymore what it feels like to be in communities and get to interact with new individuals in person. With that in mind, we created a collaborative, narrative building application that utilizes mobile AR. To help us design the user experience, we imagined this would be implemented in a large apartment complex where people tend to not know their neighbors.</h2>\n<h2>What it does- Users search for AR markers that contain part of a narrative. To complete the narrative, they need to meet up in person and scan all the markers together. To further encourage genuine conversations, the narratives focus on things you usually don\u2019t discuss with strangers, such as vulnerabilities and loneliness.</h2>\n<h2>How I built it - We used Aframe and Arjs platforms to primarily built our framework. We used creative tools live Adobe, Blender, sketch to make our model more interactive and visually appealing</h2>\n<h2>Accomplishments that I'm proud of - All of us, in our team had no prior experience with XR, and so this was a learning curve for all of us; realizing we could make something fully functional when we just started to learn about it and also accomplish our collective goal to fight Social Isolation.We ran into difficulty to work with multiple marker proximity and for the multiple marker to load a single model. Generally teams works in cluster of collective roles like all developers work together, the designers work together but with our project since we all came from different domain it was challenging to bring on board everyone's viewpoint and come to a solution.</h2>\n<h2>What I learned- Working with different roles when creating a technical product, learning about their needs - business and technical, product management and working with Aframe software.</h2>\n<h2>Future additions to this project- Although we have a working prototype of our model, we still would like to add features to enhance user experience like having option to choose from a genre of stories to have animated AR experience and to provide login functionality as well as the ability to be able to keep our application in community moderation.</h2>\n<p>Grand Challenge Choice #1 - Social Good\nGrand Challenge Choice #2 - AR</p>\n</div>",
+    "content_md": "\n## Inspiration- In today's world, social media is dominating our interactions, people don't know anymore what it feels like to be in communities and get to interact with new individuals in person. With that in mind, we created a collaborative, narrative building application that utilizes mobile AR. To help us design the user experience, we imagined this would be implemented in a large apartment complex where people tend to not know their neighbors.\n\n\n## What it does- Users search for AR markers that contain part of a narrative. To complete the narrative, they need to meet up in person and scan all the markers together. To further encourage genuine conversations, the narratives focus on things you usually don\u2019t discuss with strangers, such as vulnerabilities and loneliness.\n\n\n## How I built it - We used Aframe and Arjs platforms to primarily built our framework. We used creative tools live Adobe, Blender, sketch to make our model more interactive and visually appealing\n\n\n## Accomplishments that I'm proud of - All of us, in our team had no prior experience with XR, and so this was a learning curve for all of us; realizing we could make something fully functional when we just started to learn about it and also accomplish our collective goal to fight Social Isolation.We ran into difficulty to work with multiple marker proximity and for the multiple marker to load a single model. Generally teams works in cluster of collective roles like all developers work together, the designers work together but with our project since we all came from different domain it was challenging to bring on board everyone's viewpoint and come to a solution.\n\n\n## What I learned- Working with different roles when creating a technical product, learning about their needs - business and technical, product management and working with Aframe software.\n\n\n## Future additions to this project- Although we have a working prototype of our model, we still would like to add features to enhance user experience like having option to choose from a genre of stories to have animated AR experience and to provide login functionality as well as the ability to be able to keep our application in community moderation.\n\n\nGrand Challenge Choice #1 - Social Good\nGrand Challenge Choice #2 - AR\n\n\n"
+}

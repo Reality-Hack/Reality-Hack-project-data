@@ -1,0 +1,41 @@
+{
+    "source": "https://devpost.com/software/unnamed-vr-project",
+    "title": "Uncanny",
+    "blurb": "Uncanny World",
+    "awards": [],
+    "videos": [],
+    "images": [],
+    "team": [
+        {
+            "name": "Marcelo DeCastro",
+            "about": "Unity3D Programming",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/633/316/datas/profile.jpg"
+        },
+        {
+            "name": "kellian adams",
+            "about": "I was the game designer and storyteller. I worked on ideation, playmaps, wireframes and text. ",
+            "photo": "https://www.gravatar.com/avatar/f81ba121dd2abb1532c1643d9ba8a5ed?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Youssef Barhomi",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/ae20325f9765b7ff6b6fa2aa5494dc3d?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Monica Bolles",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/3fddb8a34a0e53c94c66f6faec23cb45?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Kathy Wu",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/540dff14656b6402fee29659f082f3ad?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        }
+    ],
+    "built_with": [
+        "microsoft-hololens",
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Description:</h2>\n<p>Human Well-Being/Entertainment</p>\n<p>Git:</p>\n<p><a href=\"https://github.com/treeborg/uncanny\" rel=\"nofollow\">https://github.com/treeborg/uncanny</a></p>\n</div>",
+    "content_md": "\n## Description:\n\n\nHuman Well-Being/Entertainment\n\n\nGit:\n\n\n<https://github.com/treeborg/uncanny>\n\n\n"
+}

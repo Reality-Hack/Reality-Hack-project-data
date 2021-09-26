@@ -1,0 +1,41 @@
+{
+    "source": "https://devpost.com/software/hyperviz",
+    "title": "HyperViz",
+    "blurb": "A VR medical visualization app that empowers physicians to better prepare for surgical procedures",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/L3ZVqKTJEyg?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "Ashish Bakshi",
+            "about": "I originated the idea, recruited team members, and led the team in the development of the prototype and pitch presentation.",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/746/741/datas/profile.jpg"
+        },
+        {
+            "name": "Beste Aydin",
+            "about": "I am an undergraduate student at the University of Michigan who is studying Computer Engineering. I was a developer for this project and was most excited to work with the hand tracking software/hardware.",
+            "photo": "https://avatars3.githubusercontent.com/u/35937246?height=180&v=4&width=180"
+        },
+        {
+            "name": "Gabriel Santa Maria",
+            "about": "I worked on general R&D, 3-D model optimization, shader and interaction programming.",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/918/152/datas/profile.jpg"
+        },
+        {
+            "name": "Eric Tao",
+            "about": "I worked on user flow, UX/UI design and wrote and recorded the in-app script. I helped with scoping, user testing, model and environment creation, and lastly helped create the presentation materials.",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/918/134/datas/profile.jpg"
+        }
+    ],
+    "built_with": [
+        "c#",
+        "leap-motion",
+        "unity",
+        "uwp",
+        "wmr"
+    ],
+    "content_html": "<div>\n<h2>Description</h2>\n<p>Every year, over 80 million CT scans are performed in the U.S. alone. Adding in MRI and other types of imaging, the number is even higher. This data is fundamentally in 3D, but is instead consumed by physicians as 2D, black and white images. To understand complex internal structures, doctors must flip through dozens or even hundreds of images in order to create a mental 3D reconstruction. This leads to a suboptimal understanding of patients\u2019 physiology and thus poor outcomes.</p>\n<p>HyperViz is a next-generation virtual reality medical visualization app that empowers physicians to better prepare for surgical procedures. We process 2D images like CT scans into 3D models, then visualize them in a VR environment, integrated with a photogrammetric scan of the patient. HyperViz segments the anatomical data to show different types of tissue, like skin, soft tissue, and bone.</p>\n<p>We built the app around a hand-tracking interface to maximize ease of use and enable physicians to rely on HyperViz without cumbersome controllers.</p>\n<h2>Team Members</h2>\n<p>Ashish Bakshi, Eric Tao, Gabriel Santa-Maria, Beste Aydin\n(Team 14)</p>\n<h2>Location</h2>\n<p>From day 2 onwards, we worked on the 3rd floor of the MIT Media Lab (Building E14), at table 3A-10.</p>\n<h2>Development</h2>\n<p>Platform: Windows 10 / HP Reverb Pro / Windows Mixed Reality + Leap Motion\nDevelopment Tools: Unity 2018.4.6f1, Microsoft Visual Studio 2019, Github\nSDKs: Mixed Reality Toolkit v2.0, Leap Motion SDK, Windows SDK\nAssets: Ashish Bakshi; Lazaroe\nPaid Assets: None</p>\n</div>",
+    "content_md": "\n## Description\n\n\nEvery year, over 80 million CT scans are performed in the U.S. alone. Adding in MRI and other types of imaging, the number is even higher. This data is fundamentally in 3D, but is instead consumed by physicians as 2D, black and white images. To understand complex internal structures, doctors must flip through dozens or even hundreds of images in order to create a mental 3D reconstruction. This leads to a suboptimal understanding of patients\u2019 physiology and thus poor outcomes.\n\n\nHyperViz is a next-generation virtual reality medical visualization app that empowers physicians to better prepare for surgical procedures. We process 2D images like CT scans into 3D models, then visualize them in a VR environment, integrated with a photogrammetric scan of the patient. HyperViz segments the anatomical data to show different types of tissue, like skin, soft tissue, and bone.\n\n\nWe built the app around a hand-tracking interface to maximize ease of use and enable physicians to rely on HyperViz without cumbersome controllers.\n\n\n## Team Members\n\n\nAshish Bakshi, Eric Tao, Gabriel Santa-Maria, Beste Aydin\n(Team 14)\n\n\n## Location\n\n\nFrom day 2 onwards, we worked on the 3rd floor of the MIT Media Lab (Building E14), at table 3A-10.\n\n\n## Development\n\n\nPlatform: Windows 10 / HP Reverb Pro / Windows Mixed Reality + Leap Motion\nDevelopment Tools: Unity 2018.4.6f1, Microsoft Visual Studio 2019, Github\nSDKs: Mixed Reality Toolkit v2.0, Leap Motion SDK, Windows SDK\nAssets: Ashish Bakshi; Lazaroe\nPaid Assets: None\n\n\n"
+}

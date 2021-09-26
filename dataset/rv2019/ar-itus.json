@@ -1,0 +1,36 @@
+{
+    "source": "https://devpost.com/software/ar-itus",
+    "title": "AR-itus",
+    "blurb": "Rehabilitating individuals who are suffering with hand-eye coordination problems.",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/tKCXJWlN_xw?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "Zhehai (Mark) Zhang",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/001/224/540/datas/profile.jpg"
+        },
+        {
+            "name": "Anish Aggarwal",
+            "about": "",
+            "photo": "https://avatars0.githubusercontent.com/u/30203792?height=180&v=4&width=180"
+        },
+        {
+            "name": "Noor Nasri",
+            "about": "",
+            "photo": "https://avatars1.githubusercontent.com/u/37914931?height=180&v=4&width=180"
+        }
+    ],
+    "built_with": [
+        "ar",
+        "c#",
+        "leap-motion",
+        "unity",
+        "vive-pro"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>One of our team members has an uncle who has Arthritis. It's very difficult for him to perform daily tasks that require hands and arms. This is a problem not just affecting people suffering Arthritis, but is also present in other diseases such as Parkinson's, Huntington's. Elderly also suffer the same problem. In order to help these individuals to regain their basic motor skills, our team decided to solve this problem. </p>\n<h2>What it does</h2>\n<p>AR-itus has 2 main features: Start and Goals. With three exercises - Gestures, dropping, and balance, these exercises evaluate the individual's time, accuracy, and shakiness. By analyzing these three factors, the user is able to practice daily and eventually see themselves progress and improve. With this technology, the user is not only able to train his/her hand eye coordination, but is also able to set SMART goals and view their progress along their journey to a healthier lifestyle.</p>\n<h2>How we built it</h2>\n<p>We used Unity, Leap Motion (motion sensor) and the Vive Pro Headset with AR. Our models were made with Cinema 4D and Photoshop.</p>\n<h2>Challenges we ran into</h2>\n<p>We had a lot of trouble setting up the hardware for Leap Motion and Vive Pro since SteamVR and the software were not compatible, so we had to edit the settings inside SteamVR to re enable the camera on the Vive Pro. Then, we had an issue of merging two projects since they were on different versions of Unity, and additionally, verifying both SDK's work on the same version of Unity. Additionally, we had other problems with hardware such as missing specific types of cables, and initially not having the Leap Motion until the second day. </p>\n<h2>Accomplishments that we're proud of</h2>\n<p>We're proud of being able to implement AR and Leap Motion in this process. Additionally, being able to get the tech to work after spending so much time is a big accomplishment we're proud of.</p>\n<h2>What we learned</h2>\n<p>We learnt how to use joints on the rig to determine specific hand signals based on the Vector positions, and how AR setup is different compared to VR setup on Unity. We also learnt how to make a flowing UI for better user interaction.</p>\n<h2>What's next for AR-itus</h2>\n<p>In order to make AR-itus more fun and interactive, implementing a virtual store where users can buy customization skins from earning credits by completing exercises would greatly improve reception of this application.</p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nOne of our team members has an uncle who has Arthritis. It's very difficult for him to perform daily tasks that require hands and arms. This is a problem not just affecting people suffering Arthritis, but is also present in other diseases such as Parkinson's, Huntington's. Elderly also suffer the same problem. In order to help these individuals to regain their basic motor skills, our team decided to solve this problem. \n\n\n## What it does\n\n\nAR-itus has 2 main features: Start and Goals. With three exercises - Gestures, dropping, and balance, these exercises evaluate the individual's time, accuracy, and shakiness. By analyzing these three factors, the user is able to practice daily and eventually see themselves progress and improve. With this technology, the user is not only able to train his/her hand eye coordination, but is also able to set SMART goals and view their progress along their journey to a healthier lifestyle.\n\n\n## How we built it\n\n\nWe used Unity, Leap Motion (motion sensor) and the Vive Pro Headset with AR. Our models were made with Cinema 4D and Photoshop.\n\n\n## Challenges we ran into\n\n\nWe had a lot of trouble setting up the hardware for Leap Motion and Vive Pro since SteamVR and the software were not compatible, so we had to edit the settings inside SteamVR to re enable the camera on the Vive Pro. Then, we had an issue of merging two projects since they were on different versions of Unity, and additionally, verifying both SDK's work on the same version of Unity. Additionally, we had other problems with hardware such as missing specific types of cables, and initially not having the Leap Motion until the second day. \n\n\n## Accomplishments that we're proud of\n\n\nWe're proud of being able to implement AR and Leap Motion in this process. Additionally, being able to get the tech to work after spending so much time is a big accomplishment we're proud of.\n\n\n## What we learned\n\n\nWe learnt how to use joints on the rig to determine specific hand signals based on the Vector positions, and how AR setup is different compared to VR setup on Unity. We also learnt how to make a flowing UI for better user interaction.\n\n\n## What's next for AR-itus\n\n\nIn order to make AR-itus more fun and interactive, implementing a virtual store where users can buy customization skins from earning credits by completing exercises would greatly improve reception of this application.\n\n\n"
+}

@@ -1,0 +1,79 @@
+{
+    "source": "https://devpost.com/software/one-billion-lost-australia-s-wildfires",
+    "title": "One Billion Lost: Australia's Wildfires VR Experience",
+    "blurb": "Australia is on fire. How will you and your animal pals escape?",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/MlHis_Ln_lw?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [
+        {
+            "title": "Rigging of origami style Rabbit Eared Bandicoots",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/911/503/datas/original.png"
+        },
+        {
+            "title": "Modelling of origami style Rabbit Eared Bandicoots",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/911/504/datas/original.png"
+        },
+        {
+            "title": "Modelling of origami style kangaroo",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/911/511/datas/original.png"
+        },
+        {
+            "title": "Rigging of origami style kangaroo model",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/911/510/datas/original.png"
+        },
+        {
+            "title": "Code snippet",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/911/509/datas/original.png"
+        },
+        {
+            "title": "Overview of the scene in Unity",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/911/512/datas/original.png"
+        },
+        {
+            "title": "Interactive start menu",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/911/505/datas/original.PNG"
+        },
+        {
+            "title": "Overview of the scene in Unity",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/916/579/datas/original.PNG"
+        },
+        {
+            "title": "Ingame view of origami style animal models roaming the scene",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/916/588/datas/original.PNG"
+        },
+        {
+            "title": "The scene ends with a low poly style earth and a poignant audio experience",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/916/626/datas/original.PNG"
+        },
+        {
+            "title": "If contacted by fire, the origami style animals burn up as if they are paper",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/916/627/datas/original.PNG"
+        },
+        {
+            "title": "If contacted by fire, the origami style animals burn up as if they are paper",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/916/628/datas/original.PNG"
+        },
+        {
+            "title": "Ingame view of the fires consuming the animal models",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/916/629/datas/original.PNG"
+        }
+    ],
+    "team": [
+        {
+            "name": "MATTHEW CUDMORE",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/c4a08c22a26d3e7401c3116935e07771?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        }
+    ],
+    "built_with": [
+        "blender",
+        "c#",
+        "clipstudio",
+        "oculus",
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>The rapidly advancing wildfires are an unstoppable force of nature, and you along with hundreds of helpless animals are trapped between that fire and a body of water. Where do you go?</p>\n<h2>What it does</h2>\n<p>We inject urgency into the scene with the mercilessly advancing wildfire. All around you the vibrant wildlife of Australia are disappearing by the second. Your natural inclination is to run to the water: this was the true reality for able bodied Australian animals and humans, many of whom had to escape to bodies of water to tread water for hours while waiting for wildfires to pass. Many were not so lucky.</p>\n<h2>How we built it</h2>\n<p>We sketched/modeled in Clip Studio and Blender before importing into Unity. Unity was the workhorse responsible for bringing together all assets into the VR environment. We scripted in C#. We prototyped with the Oculus Rift S acting as our HMD.</p>\n<h2>Challenges we ran into</h2>\n<p>We struggled with the tone and treatment of the subject matter, walking a careful balance between shock value, intimating a sense of helplessness and ending with a call to action to look after the animals of Australia and their environment.</p>\n<h2>Accomplishments that we're proud of</h2>\n<p>In order to make the VR experience suitable for all ages we made a conscious decision to abstract the animals in origami style. On contact with the fire, the origami animal models burn up and float skyward in plumes of ashes contributing to a growing sense of loss and helplessness.</p>\n<h2>What we learned</h2>\n<p>We learned a lot building a rapid prototyping and troubleshooting workflow with Unity and the Oculus especially around shaders, performance cost/optimization and spatial sound design.</p>\n<h2>What's next for One Billion Lost: Australia's Wildfires</h2>\n<p>With more time we'd like to apply more polish to animations, rigging and believable fire dynamics. We'd also like to better build out interactivity with the animals and perhaps inject small bits of gamification (ie carrying animals to safety in the water) to engage the user further.</p>\n<h2>Audio and photo attributions</h2>\n<p>News.com.au <a href=\"https://www.news.com.au/technology/environment/sir-david-attenborough-says-humans-have-overrun-the-world/news-story/279c49216accdcd3d55ddd49897f5f13\" rel=\"nofollow\">https://www.news.com.au/technology/environment/sir-david-attenborough-says-humans-have-overrun-the-world/news-story/279c49216accdcd3d55ddd49897f5f13</a></p>\n<p>CBS News <a href=\"https://www.cbsnews.com/news/australia-fires-over-1-billion-animals-feared-dead/\" rel=\"nofollow\">https://www.cbsnews.com/news/australia-fires-over-1-billion-animals-feared-dead/</a></p>\n<p>ITV news <a href=\"https://www.youtube.com/watch?v=EqZbfi3L1w0\" rel=\"nofollow\">https://www.youtube.com/watch?v=EqZbfi3L1w0</a></p>\n<p>ABC <a href=\"https://www.youtube.com/watch?v=LsiD5tB9yrc\" rel=\"nofollow\">https://www.youtube.com/watch?v=LsiD5tB9yrc</a></p>\n<p>Photograph by Carles Rabada <a href=\"https://unsplash.com/photos/v3v6uz-n-pQ\" rel=\"nofollow\">https://unsplash.com/photos/v3v6uz-n-pQ</a></p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nThe rapidly advancing wildfires are an unstoppable force of nature, and you along with hundreds of helpless animals are trapped between that fire and a body of water. Where do you go?\n\n\n## What it does\n\n\nWe inject urgency into the scene with the mercilessly advancing wildfire. All around you the vibrant wildlife of Australia are disappearing by the second. Your natural inclination is to run to the water: this was the true reality for able bodied Australian animals and humans, many of whom had to escape to bodies of water to tread water for hours while waiting for wildfires to pass. Many were not so lucky.\n\n\n## How we built it\n\n\nWe sketched/modeled in Clip Studio and Blender before importing into Unity. Unity was the workhorse responsible for bringing together all assets into the VR environment. We scripted in C#. We prototyped with the Oculus Rift S acting as our HMD.\n\n\n## Challenges we ran into\n\n\nWe struggled with the tone and treatment of the subject matter, walking a careful balance between shock value, intimating a sense of helplessness and ending with a call to action to look after the animals of Australia and their environment.\n\n\n## Accomplishments that we're proud of\n\n\nIn order to make the VR experience suitable for all ages we made a conscious decision to abstract the animals in origami style. On contact with the fire, the origami animal models burn up and float skyward in plumes of ashes contributing to a growing sense of loss and helplessness.\n\n\n## What we learned\n\n\nWe learned a lot building a rapid prototyping and troubleshooting workflow with Unity and the Oculus especially around shaders, performance cost/optimization and spatial sound design.\n\n\n## What's next for One Billion Lost: Australia's Wildfires\n\n\nWith more time we'd like to apply more polish to animations, rigging and believable fire dynamics. We'd also like to better build out interactivity with the animals and perhaps inject small bits of gamification (ie carrying animals to safety in the water) to engage the user further.\n\n\n## Audio and photo attributions\n\n\nNews.com.au <https://www.news.com.au/technology/environment/sir-david-attenborough-says-humans-have-overrun-the-world/news-story/279c49216accdcd3d55ddd49897f5f13>\n\n\nCBS News <https://www.cbsnews.com/news/australia-fires-over-1-billion-animals-feared-dead/>\n\n\nITV news <https://www.youtube.com/watch?v=EqZbfi3L1w0>\n\n\nABC <https://www.youtube.com/watch?v=LsiD5tB9yrc>\n\n\nPhotograph by Carles Rabada <https://unsplash.com/photos/v3v6uz-n-pQ>\n\n\n"
+}

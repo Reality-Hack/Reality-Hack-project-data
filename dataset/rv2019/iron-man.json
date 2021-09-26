@@ -1,0 +1,48 @@
+{
+    "source": "https://devpost.com/software/iron-man",
+    "title": "PresentXR",
+    "blurb": "Immersive Presentations",
+    "awards": [
+        "Best in Productivity"
+    ],
+    "videos": [
+        "https://www.youtube.com/embed/RIuSX3dxuDM?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "Bob Levy",
+            "about": "team formation, product & use case definition, videos, prototyping",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/744/900/datas/profile.jpg"
+        },
+        {
+            "name": "Lewis Gardner",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/748/578/datas/profile.png"
+        },
+        {
+            "name": "awbriones",
+            "about": "",
+            "photo": "https://avatars2.githubusercontent.com/u/22118264?height=180&v=4&width=180"
+        },
+        {
+            "name": "Aaron Moffatt",
+            "about": "",
+            "photo": "https://graph.facebook.com/10218496942434372/picture?height=180&width=180"
+        },
+        {
+            "name": "Elena Chong",
+            "about": "",
+            "photo": "https://avatars3.githubusercontent.com/u/2405664?height=180&v=4&width=180"
+        }
+    ],
+    "built_with": [
+        "leap-motion",
+        "microsoft-mr",
+        "oculus",
+        "unity",
+        "vive"
+    ],
+    "content_html": "<div>\n<p>PresentXR is an immersive solution where regular business users create &amp; deliver captivating presentations.  Unlike traditional presenting software, PresentXR boosts audience attention to your message instead of being distracted by their smartphones (which are now occluded from view).</p>\n<h2>Inspiration</h2>\n<ul>\n<li>Storytelling power of immersive media.</li>\n<li>Need for immersive content creation tools useable by business stakeholders.</li>\n<li>Pain at industry conference booth audiences paying more attention to their cellphone (which, in a headset, becomes impossible)</li>\n<li>Movies like Iron Man, Minority Report, Avatar, where spatial media has been used for user interaction surpassing what's possible on flat pieces of plastic</li>\n</ul>\n<h2>What it does</h2>\n<p>1) Composition</p>\n<ul>\n<li>Scenes-as-slides</li>\n<li>Add &amp; manipulate text, image, video, 3D models, sound, map, dataviz .. using Iron Man-style interface about your hand</li>\n</ul>\n<p>2) Presentation</p>\n<ul>\n<li>Paging through immersive scenes-as-slides</li>\n<li>Sample presentation that tells the story of global warming, which the user is asked to use our tool to complete</li>\n</ul>\n<h2>How we built it</h2>\n<ul>\n<li>Discussing pain points</li>\n<li>Exploring interaction models &amp; available resources</li>\n<li>Storyboarding workflows</li>\n<li>Decomposing work breakdown structure &amp; assignments</li>\n<li>Hourly \"stand up\"'s</li>\n</ul>\n<h2>Challenges we ran into</h2>\n<ul>\n<li>Incompatible packages</li>\n<li>Learning new SDKs &amp; hardware in finite time</li>\n<li>Collisions between static rigid bodies &amp; kinematics (poorly documented SDK use case)</li>\n</ul>\n<h2>Accomplishments that we're proud of</h2>\n<ul>\n<li>Interact in VR using hands</li>\n<li>Easy to use physical interaction with spatial content </li>\n<li>Document model for immersive \"PowerPoint\"</li>\n</ul>\n<h2>What we learned</h2>\n<ul>\n<li>Leap Motion SDK</li>\n</ul>\n<h2>What's next for PresentXR?</h2>\n<ul>\n<li>Import existing content e.g. PowerPoint slides, as a starting point for immersive slides one builds around (i.e. meet users where they already have content &amp; ease the transition)</li>\n<li>UI toolkit for uniquely spatial computing (as a basis for this &amp; other projects)</li>\n<li>Speaker training using AR (Method of Loci for memorizing your talk)</li>\n</ul>\n<h2>Team Bios</h2>\n<p><a href=\"http://aaronmoffatt.com/\" rel=\"nofollow\">Aaron Moffatt</a> has worked at the intersection of film, music, and technology for a decade and a half \u2013 as a bioinformatics software engineer, a VR/emerging technology startup founder, and a symphony and solo violinist.</p>\n<p>Lewis Gardner is a full-stack XR software engineer fluent in 15+ languages.</p>\n<p>Elena is a graduate research assistant at the MIT Media Lab. Her current research involves exploring the use of multi-sensory media to create new interactions that blend the digital realm with the physical.</p>\n<p>Aaron Briones is an Experience Designer with a formal education in Human Computer Interaction. He is passionate about creating experiences that people love using.</p>\n<p><a href=\"https://www.linkedin.com/in/boblevy/\" rel=\"nofollow\">Bob Levy</a> is CEO of <a href=\"https://www.immersionanalytics.com\" rel=\"nofollow\">Immersion Analytics</a>. He speaks regularly on XR with talks including MIT Technology Review's EmTech Caribbean, O\u2019Reilly Media\u2019s Strata Data Conference, DataWorld, StartupFest, QuantCon &amp; <a href=\"https://www.youtube.com/watch?v=s6mjACuna4U&amp;t=11s\" rel=\"nofollow\">AR in Action / MIT Media Lab</a>.</p>\n</div>",
+    "content_md": "\nPresentXR is an immersive solution where regular business users create & deliver captivating presentations. Unlike traditional presenting software, PresentXR boosts audience attention to your message instead of being distracted by their smartphones (which are now occluded from view).\n\n\n## Inspiration\n\n\n* Storytelling power of immersive media.\n* Need for immersive content creation tools useable by business stakeholders.\n* Pain at industry conference booth audiences paying more attention to their cellphone (which, in a headset, becomes impossible)\n* Movies like Iron Man, Minority Report, Avatar, where spatial media has been used for user interaction surpassing what's possible on flat pieces of plastic\n\n\n## What it does\n\n\n1) Composition\n\n\n* Scenes-as-slides\n* Add & manipulate text, image, video, 3D models, sound, map, dataviz .. using Iron Man-style interface about your hand\n\n\n2) Presentation\n\n\n* Paging through immersive scenes-as-slides\n* Sample presentation that tells the story of global warming, which the user is asked to use our tool to complete\n\n\n## How we built it\n\n\n* Discussing pain points\n* Exploring interaction models & available resources\n* Storyboarding workflows\n* Decomposing work breakdown structure & assignments\n* Hourly \"stand up\"'s\n\n\n## Challenges we ran into\n\n\n* Incompatible packages\n* Learning new SDKs & hardware in finite time\n* Collisions between static rigid bodies & kinematics (poorly documented SDK use case)\n\n\n## Accomplishments that we're proud of\n\n\n* Interact in VR using hands\n* Easy to use physical interaction with spatial content\n* Document model for immersive \"PowerPoint\"\n\n\n## What we learned\n\n\n* Leap Motion SDK\n\n\n## What's next for PresentXR?\n\n\n* Import existing content e.g. PowerPoint slides, as a starting point for immersive slides one builds around (i.e. meet users where they already have content & ease the transition)\n* UI toolkit for uniquely spatial computing (as a basis for this & other projects)\n* Speaker training using AR (Method of Loci for memorizing your talk)\n\n\n## Team Bios\n\n\n[Aaron Moffatt](http://aaronmoffatt.com/) has worked at the intersection of film, music, and technology for a decade and a half \u2013 as a bioinformatics software engineer, a VR/emerging technology startup founder, and a symphony and solo violinist.\n\n\nLewis Gardner is a full-stack XR software engineer fluent in 15+ languages.\n\n\nElena is a graduate research assistant at the MIT Media Lab. Her current research involves exploring the use of multi-sensory media to create new interactions that blend the digital realm with the physical.\n\n\nAaron Briones is an Experience Designer with a formal education in Human Computer Interaction. He is passionate about creating experiences that people love using.\n\n\n[Bob Levy](https://www.linkedin.com/in/boblevy/) is CEO of [Immersion Analytics](https://www.immersionanalytics.com). He speaks regularly on XR with talks including MIT Technology Review's EmTech Caribbean, O\u2019Reilly Media\u2019s Strata Data Conference, DataWorld, StartupFest, QuantCon & [AR in Action / MIT Media Lab](https://www.youtube.com/watch?v=s6mjACuna4U&t=11s).\n\n\n"
+}

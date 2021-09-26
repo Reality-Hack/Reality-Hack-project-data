@@ -1,0 +1,48 @@
+{
+    "source": "https://devpost.com/software/centiment-47dczp",
+    "title": "Centiment",
+    "blurb": "Brain Powered Advertising ",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/TIvxK0tYvNw?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "Jason Azayev",
+            "about": "I worked on the Machine Learning part of the application (pred.py), along with helping the system architecture, RESTful, and visualizations. ",
+            "photo": "https://media.licdn.com/mpr/mprx/0_tBVQ933OEQ6DrRvSUBme4nj0m39uvEqhUBmQ1z0OIK9DrsQTPvuHjzk0HtdDvsZKAPGHj1FxGn5S9mYrZX0sOzEPbn529mGuYX05zqxYuBK8pZJr-vWIv8l7FixpxmvgcbUEtEHdSDM?height=180&width=180"
+        },
+        {
+            "name": "Benjamin Reichman",
+            "about": "I worked on the mid-tier/system architecture, the data visualizations, and the Unity REST API",
+            "photo": "https://media.licdn.com/mpr/mprx/0_YVqxvNbJACM3LLA8qw8xUtm4zLMyizrDqwCx18h4vnnji5lrtwuxgNm4ttWjQXfTj2axRcTZMt4gLlltAWA_g82Npt4pLlzhNWAynTJMcPDKfbay44b-9zceyFG2ulCAjovPA1VfzR7?height=180&width=180"
+        },
+        {
+            "name": "Centiment",
+            "about": "",
+            "photo": "https://graph.facebook.com/1458330554288092/picture?height=180&width=180"
+        },
+        {
+            "name": "Satyam",
+            "about": "",
+            "photo": "https://avatars1.githubusercontent.com/u/17713264?height=180&v=4&width=180"
+        }
+    ],
+    "built_with": [
+        "convnet",
+        "css3",
+        "emotiv",
+        "html5",
+        "matplot",
+        "neo4j",
+        "python",
+        "python-package-index",
+        "r",
+        "react",
+        "sas",
+        "unity"
+    ],
+    "content_html": "<div>\n<p>Advertising is broken - Pepsi, Facebook, the russian hacking - its all wrong.</p>\n<p>Its an industry lacking in human emotion.</p>\n<p>The answer is Centiment.</p>\n<p>At the intersection of neuroscience and sentiment analysis for advertising, Centiment is focused on equality and ethics, we bring these to the world of advertising in the form of human emotion, intertwined with artificial intelligence.</p>\n<p>We use these things to resolve a problem we are all facing:</p>\n<p>The serving of irrelevant, and sometimes detrimental ads and content to the wrong audience.</p>\n<p>We have all been victim to that online ad or pre-roll video that follows a user around the internet, just because you happened to visit a website once. For some this extends beyond just annoyance to being squeezed into online echo chambers, which limit economically, psychologically and emotionally.</p>\n<p>Poor experiences like this have led to the unprecedented rise in ad blockers.</p>\n<p>Add the limited contextualized targeting capabilities that brands can use for their video advertising campaigns, coupled with the lack of emotional insights available to ad content creators and marketers, it's not surprising that campaign managers are struggling to justify their video ad budgets.</p>\n<p>we have created an AI-driven product to help brands and agencies to:</p>\n<p>understand their audience better\nemotionally optimize written and visual content before release\ntarget the right audience at the right time.</p>\n<p>How we help brands improve their video ad targeting capabilities</p>\n<p>Neurodata + sentiment  = neurosentiment personas</p>\n<p>We have built this first in unity, having created neural data adjusted interruption of unity content based on emotiv EEG scans.</p>\n<p>in the future when we get the resources we would like to deploy this within a real-time bidding environment, and apply further machine learning so that these emotional personas are refined over time.</p>\n<h2>Challenges we ran into</h2>\n<ul>\n<li>Limited number of training subjects in a short period of time</li>\n<li>time</li>\n<li>lack of access to real time feed from Emotiv</li>\n<li>Unity</li>\n<li>Database </li>\n<li>getting signed in </li>\n</ul>\n<h2>Accomplishments that we're proud of</h2>\n<p>reading peoples minds and creating machine learning in one day that analyses </p>\n<h2>What we learned</h2>\n<p>how to grit</p>\n<h2>What's next for Centiment</h2>\n<p>dominate the world</p>\n<h1>required rule details</h1>\n<p>Micah Brown + Centiment + 929 377 0648\nCarlos Villette Jason Azayev Benjamin Reichman Satyam Sharma\nFilm + Advertising  + EEG Data Driven VR Content Interruption to Advertise\n6 + Table 9 + Table 9\nEnvironment:\nGear VR\nNumpy, Matpotlib, Emotiv, Neo4j (cipher) Unity, C#, HTML, Pyhton, Native (RESTful API)\nEmotiv SDK, Unity SDK,<br/>\nBrain API (on the spot)<br/>\nAssets - N/A \nLibraries - Matplotlib, Numpy\nAll done here\nA link to a video (11:00 pm)\nAll projects should be submitted to the hackathon GitHub account (TBA) before judging begins \nAll projects submitted will be subject to a code-review</p>\n</div>",
+    "content_md": "\nAdvertising is broken - Pepsi, Facebook, the russian hacking - its all wrong.\n\n\nIts an industry lacking in human emotion.\n\n\nThe answer is Centiment.\n\n\nAt the intersection of neuroscience and sentiment analysis for advertising, Centiment is focused on equality and ethics, we bring these to the world of advertising in the form of human emotion, intertwined with artificial intelligence.\n\n\nWe use these things to resolve a problem we are all facing:\n\n\nThe serving of irrelevant, and sometimes detrimental ads and content to the wrong audience.\n\n\nWe have all been victim to that online ad or pre-roll video that follows a user around the internet, just because you happened to visit a website once. For some this extends beyond just annoyance to being squeezed into online echo chambers, which limit economically, psychologically and emotionally.\n\n\nPoor experiences like this have led to the unprecedented rise in ad blockers.\n\n\nAdd the limited contextualized targeting capabilities that brands can use for their video advertising campaigns, coupled with the lack of emotional insights available to ad content creators and marketers, it's not surprising that campaign managers are struggling to justify their video ad budgets.\n\n\nwe have created an AI-driven product to help brands and agencies to:\n\n\nunderstand their audience better\nemotionally optimize written and visual content before release\ntarget the right audience at the right time.\n\n\nHow we help brands improve their video ad targeting capabilities\n\n\nNeurodata + sentiment = neurosentiment personas\n\n\nWe have built this first in unity, having created neural data adjusted interruption of unity content based on emotiv EEG scans.\n\n\nin the future when we get the resources we would like to deploy this within a real-time bidding environment, and apply further machine learning so that these emotional personas are refined over time.\n\n\n## Challenges we ran into\n\n\n* Limited number of training subjects in a short period of time\n* time\n* lack of access to real time feed from Emotiv\n* Unity\n* Database\n* getting signed in\n\n\n## Accomplishments that we're proud of\n\n\nreading peoples minds and creating machine learning in one day that analyses \n\n\n## What we learned\n\n\nhow to grit\n\n\n## What's next for Centiment\n\n\ndominate the world\n\n\n# required rule details\n\n\nMicah Brown + Centiment + 929 377 0648\nCarlos Villette Jason Azayev Benjamin Reichman Satyam Sharma\nFilm + Advertising + EEG Data Driven VR Content Interruption to Advertise\n6 + Table 9 + Table 9\nEnvironment:\nGear VR\nNumpy, Matpotlib, Emotiv, Neo4j (cipher) Unity, C#, HTML, Pyhton, Native (RESTful API)\nEmotiv SDK, Unity SDK,  \n\nBrain API (on the spot)  \n\nAssets - N/A \nLibraries - Matplotlib, Numpy\nAll done here\nA link to a video (11:00 pm)\nAll projects should be submitted to the hackathon GitHub account (TBA) before judging begins \nAll projects submitted will be subject to a code-review\n\n\n"
+}

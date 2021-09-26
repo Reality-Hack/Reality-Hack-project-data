@@ -1,0 +1,44 @@
+{
+    "source": "https://devpost.com/software/nudge-m0yzp5",
+    "title": "Nudge",
+    "blurb": "An AR app that helps start conversations",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/IQ9PetAPLa8?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "Lily Fan",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/0abe865ca812cccc6e7ffbf2ea3eee9a?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Natasha Polozenko",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/e0ba0b27b0116653a1a24003f991b8f2?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "David Z",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/9a6e3b0ae810e5874e7058860ef4c37a?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Lucas Callado",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/424/894/datas/profile.jpg"
+        },
+        {
+            "name": "Arnon Karnkaeng",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/bd9cf533f5fa2ba198008734d3c9a80e?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        }
+    ],
+    "built_with": [
+        "microsoft-cognitive-services",
+        "unity",
+        "vuforia"
+    ],
+    "content_html": "<div>\n<p>Team Lead: Natasha Polozenko 6176025248\nCategory: Human Connection\nLocation: Table 17 on 6 floor by window/\"balcony\"</p>\n<h2>Inspiration</h2>\n<p>We were inspired by how AR (particularly in Pokemon Go) started organic conversations, brought people together and created communities.</p>\n<h2>What it does</h2>\n<p>It allows users to scan other users and figure out mutual interests to organically start conversations. </p>\n<h2>How we built it</h2>\n<p>We used Unity, CSharp, Microsoft-Cognitive-Services, and Vuforia.</p>\n<h2>Challenges we ran into</h2>\n<p>The act of actually mapping something next to a face proved to be something more difficult than anticipated. </p>\n<h2>Accomplishments that we're proud of</h2>\n<p>We've managed to accomplish facial tracking on the Tango.</p>\n<h2>What's next for Nudge</h2>\n<p>Ideally, this would eventually recognize individual faces instead just sensing when there's a face in front of the camera. This would allow customization with the different graphics. Nudge could ideally become a more interactive experience with more motion instead of tracking static images. With technological processing advances, the tracking would also ideally be more immediate.</p>\n</div>",
+    "content_md": "\nTeam Lead: Natasha Polozenko 6176025248\nCategory: Human Connection\nLocation: Table 17 on 6 floor by window/\"balcony\"\n\n\n## Inspiration\n\n\nWe were inspired by how AR (particularly in Pokemon Go) started organic conversations, brought people together and created communities.\n\n\n## What it does\n\n\nIt allows users to scan other users and figure out mutual interests to organically start conversations. \n\n\n## How we built it\n\n\nWe used Unity, CSharp, Microsoft-Cognitive-Services, and Vuforia.\n\n\n## Challenges we ran into\n\n\nThe act of actually mapping something next to a face proved to be something more difficult than anticipated. \n\n\n## Accomplishments that we're proud of\n\n\nWe've managed to accomplish facial tracking on the Tango.\n\n\n## What's next for Nudge\n\n\nIdeally, this would eventually recognize individual faces instead just sensing when there's a face in front of the camera. This would allow customization with the different graphics. Nudge could ideally become a more interactive experience with more motion instead of tracking static images. With technological processing advances, the tracking would also ideally be more immediate.\n\n\n"
+}

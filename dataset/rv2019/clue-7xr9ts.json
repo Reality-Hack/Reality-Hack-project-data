@@ -1,0 +1,82 @@
+{
+    "source": "https://devpost.com/software/clue-7xr9ts",
+    "title": "IN.CLASS",
+    "blurb": "*IN.CLASS* is an immersive in-classroom tool for students and teachers that helps with focus and learning.",
+    "awards": [],
+    "videos": [
+        "https://player.vimeo.com/video/312386857?byline=0&portrait=0&title=0#t="
+    ],
+    "images": [
+        {
+            "title": "IN.CLASS",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/743/408/datas/original.jpg"
+        },
+        {
+            "title": "Concept Art: Student watching teacher",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/742/499/datas/original.jpg"
+        },
+        {
+            "title": "Desktop during math class",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/742/536/datas/original.jpg"
+        },
+        {
+            "title": "Desktop during science",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/742/537/datas/original.jpg"
+        },
+        {
+            "title": "Looking up and seeing live closed-captioning",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/742/539/datas/original.jpg"
+        },
+        {
+            "title": "Sequence 1 (Closed Caption UI)",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/742/584/datas/original.png"
+        },
+        {
+            "title": "Sequence 2 (CC + Desk UI))",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/742/585/datas/original.png"
+        },
+        {
+            "title": "Sequence 3 (Desk UI)",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/742/586/datas/original.png"
+        },
+        {
+            "title": "Sequence 4 (Desk UI)",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/742/587/datas/original.png"
+        }
+    ],
+    "team": [
+        {
+            "name": "Tuba Ozkan",
+            "about": "",
+            "photo": "https://avatars0.githubusercontent.com/u/21373984?height=180&v=4&width=180"
+        },
+        {
+            "name": "JJ Rohrer",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/742/372/datas/profile.jpg"
+        },
+        {
+            "name": "Taeyeon Kim",
+            "about": "",
+            "photo": "https://graph.facebook.com/1924651354269918/picture?height=180&width=180"
+        },
+        {
+            "name": "Nouf A.",
+            "about": "",
+            "photo": "https://avatars2.githubusercontent.com/u/22034616?height=180&v=4&width=180"
+        },
+        {
+            "name": "Edward Lok",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/c36628556d3c1dca3bc4d404adef027f?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        }
+    ],
+    "built_with": [
+        "ibm-watson",
+        "magic-leap",
+        "poly-toolkit",
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Tools/SDKs/APIs</h2>\n<p>Magic Leap, Unity, IBM Watson Unity Plugin (Speech-to-Text), Free models from Unity Asset Store.</p>\n<h2>Inspiration</h2>\n<p>Modern schools are still based upon an old factory paradigm that struggles to meet the individualized needs that each student deserves. Schools won't go away anytime soon. Student variation will never go away. With <strong>In. Class,</strong> it is the boring, uniform classroom that goes away.</p>\n<p>We started with a <strong>North Star</strong> of helping english learners. Research shows the students learn a language best when shown closed-captions below a video.  We wanted to add this to real-life transcription to classrooms.  Once we brought that technology to the student, it opened a rich world classroom possibilities.  <strong>IN.CLASS</strong> is <strong>accessible</strong> by providing <em>closed captioning</em>, by tracking <em>focus</em>, and by facilitating truly <em>differentiated learning</em>.</p>\n<p><strong>IN.CLASS</strong> is an immersive in-classroom tool for students and teachers that helps with focus and learning.\nBy providing unique tools, such as closed captions and 3D visual aids, it increases students comprehension and eases the teaching burden. While teachers can review the engagement level of the students, real-time transcriptions of the course support english learners. 3D tools let teachers push 3d objects to helps everyone better learn the material.  Differentiation lets a teacher push, say, a <em>3D heart</em> to each student's desk, but each students may receive different models of varying complexity, depending upon their own learning plan.</p>\n<h2>What it does</h2>\n<p><strong>IN.CLASS</strong> is a platform that helps both the teacher, and the student.</p>\n<p><strong>IN.CLASS</strong> brings augmented reality to the classroom, and gives teachers a control panel to monitor student progress, follow lesson plans, and bring Mixed-Reality-aware tools to their fingertips. </p>\n<p>Students see their desks transformed from a boring slab, into a dynamic workbench. The student can receive pushed learning-objects from the teacher.  Items can range from simple quiz questions, to personalized learning aids, such as 3D visual aids and experiential simulations. </p>\n<p>Feedback tools, such as automatic attentiveness tracking, give teachers ways to more easily tailor the the class in real-time.</p>\n<h2>Technology Differentiation</h2>\n<ul>\n<li>Real-Time closed-captioning of the teacher</li>\n<li>Teacher initiated on-desk quizzes</li>\n<li>Teacher initiated 3D objects to the desktop</li>\n<li>Attention tracking of students, relaying to teacher</li>\n</ul>\n<h2>Value Differentiation</h2>\n<ul>\n<li>Built-In Differentiated Experiences (The teacher could push a 3D <em>heart</em> to the class, and AP students would receive a more detailed model, but standard student could receive a less details model appropriate to their own learning plan).</li>\n<li>Each student has a different set of needs, and can receive a unique experience, depending upon their situation.</li>\n<li>English Learners can receive real-time transcription</li>\n<li><p>Deaf students could read transcription, or potentially pipe-in real-time signing services</p></li>\n<li><p>A large class demands much from a teacher, our <strong>Teaching Control Panel</strong> helps</p></li>\n<li><p>Instantly track attention and/or confusion (via eye tracking) and tailor the lesson, accordingly.</p></li>\n<li><p>Quickly and dynamically push 3D visual aids to students</p></li>\n</ul>\n<h2>How we built it</h2>\n<p>We're using the Magic Leap to create a mixed-reality environment for the student.  Unity is our engine, and IBM Watson provides our real-time transcription services.</p>\n<h2>Challenges we ran into</h2>\n<p>None of us had worked with the Magic Leap before, so a lot of time was with system basics. We explored the capabilities of the system and spent way to long getting the dev tools installed.</p>\n<h2>Accomplishments that we're proud of</h2>\n<p>The transcription concept works surprisingly well.</p>\n<h2>What we learned</h2>\n<p>Brainstorming with a diverse group can lead to great new ideas.</p>\n<h2>What's next for <strong>In. Class</strong></h2>\n<p><strong>IN.CLASS</strong> is a fun proof of concept that shows a possible future for the classroom, but the underlying idea of the  teacher-student connected platform is a powerful concept that could implemented with existing technologies and budgets.  Our team hopes to incubate the concept into a practical product.</p>\n<p>What would a one-year product look like? Imagine starting with Magic Leap classroom as the vision, but targeting classes with Smart Boards and iPads, which are in place today. A teacher you could still pushing quizzes, questions, and 3d objects to each iPad. Objects and questions could still be differentiated based upon the student. Teachers could project a room-sized object and students would lift their iPad to see an augmented view of the room, seeing that room-sized object.  </p>\n<p>Unrelated to learning objects, realtime transcripts, pushed to an mobile phone or to simpler over-the-eye displays (like Google Glass, or Epson Smart Glasses), could be implemented and tested in-class within the year.</p>\n</div>",
+    "content_md": "\n## Tools/SDKs/APIs\n\n\nMagic Leap, Unity, IBM Watson Unity Plugin (Speech-to-Text), Free models from Unity Asset Store.\n\n\n## Inspiration\n\n\nModern schools are still based upon an old factory paradigm that struggles to meet the individualized needs that each student deserves. Schools won't go away anytime soon. Student variation will never go away. With **In. Class,** it is the boring, uniform classroom that goes away.\n\n\nWe started with a **North Star** of helping english learners. Research shows the students learn a language best when shown closed-captions below a video. We wanted to add this to real-life transcription to classrooms. Once we brought that technology to the student, it opened a rich world classroom possibilities. **IN.CLASS** is **accessible** by providing *closed captioning*, by tracking *focus*, and by facilitating truly *differentiated learning*.\n\n\n**IN.CLASS** is an immersive in-classroom tool for students and teachers that helps with focus and learning.\nBy providing unique tools, such as closed captions and 3D visual aids, it increases students comprehension and eases the teaching burden. While teachers can review the engagement level of the students, real-time transcriptions of the course support english learners. 3D tools let teachers push 3d objects to helps everyone better learn the material. Differentiation lets a teacher push, say, a *3D heart* to each student's desk, but each students may receive different models of varying complexity, depending upon their own learning plan.\n\n\n## What it does\n\n\n**IN.CLASS** is a platform that helps both the teacher, and the student.\n\n\n**IN.CLASS** brings augmented reality to the classroom, and gives teachers a control panel to monitor student progress, follow lesson plans, and bring Mixed-Reality-aware tools to their fingertips. \n\n\nStudents see their desks transformed from a boring slab, into a dynamic workbench. The student can receive pushed learning-objects from the teacher. Items can range from simple quiz questions, to personalized learning aids, such as 3D visual aids and experiential simulations. \n\n\nFeedback tools, such as automatic attentiveness tracking, give teachers ways to more easily tailor the the class in real-time.\n\n\n## Technology Differentiation\n\n\n* Real-Time closed-captioning of the teacher\n* Teacher initiated on-desk quizzes\n* Teacher initiated 3D objects to the desktop\n* Attention tracking of students, relaying to teacher\n\n\n## Value Differentiation\n\n\n* Built-In Differentiated Experiences (The teacher could push a 3D *heart* to the class, and AP students would receive a more detailed model, but standard student could receive a less details model appropriate to their own learning plan).\n* Each student has a different set of needs, and can receive a unique experience, depending upon their situation.\n* English Learners can receive real-time transcription\n* Deaf students could read transcription, or potentially pipe-in real-time signing services\n* A large class demands much from a teacher, our **Teaching Control Panel** helps\n* Instantly track attention and/or confusion (via eye tracking) and tailor the lesson, accordingly.\n* Quickly and dynamically push 3D visual aids to students\n\n\n## How we built it\n\n\nWe're using the Magic Leap to create a mixed-reality environment for the student. Unity is our engine, and IBM Watson provides our real-time transcription services.\n\n\n## Challenges we ran into\n\n\nNone of us had worked with the Magic Leap before, so a lot of time was with system basics. We explored the capabilities of the system and spent way to long getting the dev tools installed.\n\n\n## Accomplishments that we're proud of\n\n\nThe transcription concept works surprisingly well.\n\n\n## What we learned\n\n\nBrainstorming with a diverse group can lead to great new ideas.\n\n\n## What's next for **In. Class**\n\n\n**IN.CLASS** is a fun proof of concept that shows a possible future for the classroom, but the underlying idea of the teacher-student connected platform is a powerful concept that could implemented with existing technologies and budgets. Our team hopes to incubate the concept into a practical product.\n\n\nWhat would a one-year product look like? Imagine starting with Magic Leap classroom as the vision, but targeting classes with Smart Boards and iPads, which are in place today. A teacher you could still pushing quizzes, questions, and 3d objects to each iPad. Objects and questions could still be differentiated based upon the student. Teachers could project a room-sized object and students would lift their iPad to see an augmented view of the room, seeing that room-sized object. \n\n\nUnrelated to learning objects, realtime transcripts, pushed to an mobile phone or to simpler over-the-eye displays (like Google Glass, or Epson Smart Glasses), could be implemented and tested in-class within the year.\n\n\n"
+}

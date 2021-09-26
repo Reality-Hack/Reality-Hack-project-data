@@ -1,0 +1,61 @@
+{
+    "source": "https://devpost.com/software/n-1",
+    "title": "N+1",
+    "blurb": "A Magic Leap storytelling experience. Immersive theatre meets AR in this tale of escaping a boring job.",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/dQw4w9WgXcQ?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [
+        {
+            "title": "The book with image target and AI-generated poem",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/746/675/datas/original.JPG"
+        },
+        {
+            "title": "&quot;Very important&quot; file to alphabetize",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/746/679/datas/original.png"
+        },
+        {
+            "title": "Initial Idea",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/746/689/datas/original.JPG"
+        },
+        {
+            "title": "Fakeout app logo",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/746/693/datas/original.png"
+        }
+    ],
+    "team": [
+        {
+            "name": "Casey Krub",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/680/595/datas/profile.png"
+        },
+        {
+            "name": "E P",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/89e33029000fc2cdb78dcbd5b78361bb?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Samuel Lepoil",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/746/610/datas/profile.jpg"
+        },
+        {
+            "name": "Christopher Dahm",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/fae25bbfd35e8fc4ddfa6f54e159a9cf?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "ListheDis",
+            "about": "",
+            "photo": "https://avatars0.githubusercontent.com/u/17203774?height=180&v=4&width=180"
+        }
+    ],
+    "built_with": [
+        "lumen-sdk",
+        "magic-leap",
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Location</h2>\n<p>E14, 3rd Floor, Conference Room E15-359</p>\n<h2>Dev Tools</h2>\n<p>Unity</p>\n<h2>SDKs</h2>\n<p>Lumen</p>\n<h2>Libraries</h2>\n<p>Standard Unity and Magic Leap libraries</p>\n<h2>Assets in project we did not create</h2>\n<p>Photo marker: Flickr <a href=\"https://www.flickr.com/photos/usgeologicalsurvey/16927843961/\" rel=\"nofollow\">U.S. Geological Survey\n\"View on the Blue River near Mount Powell, looking up. Summit County, Colorado. 1874.\"</a><br/>\nFor The Bristlecone Snag by a computer (AI poetry bot by Zack Scholl) p. 32 <a href=\"https://issuu.com/dukeupb/docs/thearchive_fall2011\" rel=\"nofollow\">The Archive Fall 2011</a><br/>\n<a href=\"https://www.turbosquid.com/3d-models/3d-button-emergency-1326689\" rel=\"nofollow\">Red Button</a><br/>\n<a href=\"https://freesound.org/people/Nightwatcher98/sounds/407292/\" rel=\"nofollow\">Office Ambience</a></p>\n<h2>Inspiration</h2>\n<p>Inspired by the video games Fa\u00e7ade, Keep Talking and Nobody Explodes, Virtual Virtual Reality and immersive experiences like Draw Me Close which blend real actors within virtual experiences. </p>\n<h2>What it does</h2>\n<p>An AR (Magic Leap) storytelling experience with an actor. You are in a boring office environment, you put the headset on and a mysterious narrator helps you to escape. </p>\n</div>",
+    "content_md": "\n## Location\n\n\nE14, 3rd Floor, Conference Room E15-359\n\n\n## Dev Tools\n\n\nUnity\n\n\n## SDKs\n\n\nLumen\n\n\n## Libraries\n\n\nStandard Unity and Magic Leap libraries\n\n\n## Assets in project we did not create\n\n\nPhoto marker: Flickr [U.S. Geological Survey\n\"View on the Blue River near Mount Powell, looking up. Summit County, Colorado. 1874.\"](https://www.flickr.com/photos/usgeologicalsurvey/16927843961/)  \n\nFor The Bristlecone Snag by a computer (AI poetry bot by Zack Scholl) p. 32 [The Archive Fall 2011](https://issuu.com/dukeupb/docs/thearchive_fall2011)  \n\n[Red Button](https://www.turbosquid.com/3d-models/3d-button-emergency-1326689)  \n\n[Office Ambience](https://freesound.org/people/Nightwatcher98/sounds/407292/)\n\n\n## Inspiration\n\n\nInspired by the video games Fa\u00e7ade, Keep Talking and Nobody Explodes, Virtual Virtual Reality and immersive experiences like Draw Me Close which blend real actors within virtual experiences. \n\n\n## What it does\n\n\nAn AR (Magic Leap) storytelling experience with an actor. You are in a boring office environment, you put the headset on and a mysterious narrator helps you to escape. \n\n\n"
+}

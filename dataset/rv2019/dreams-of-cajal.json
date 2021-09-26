@@ -1,0 +1,46 @@
+{
+    "source": "https://devpost.com/software/dreams-of-cajal",
+    "title": "Dreams of Cajal",
+    "blurb": "Inside the mind of a discoverer of the mind.",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/SFIuPrvuyP8?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "Jeffery DelViscio",
+            "about": "I conceived the idea of \"Dreams of Cajal.\" I also contributed as a 3D artist, concept designer, sound recordist and editor. It's amazing to me that a group of strangers could come together so fast and so harmoniously to build such an ambitious piece of immersive science storytelling.",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/742/753/datas/profile.jpg"
+        },
+        {
+            "name": "Pakinam Amer",
+            "about": "I contributed as researcher, script writer, story designer and asset curator. I had tremendous fun visualizing narratives in Tiltbrush for our project, and on the sidelines, learning how to create 3D models in Blender for the very first time. I may be biased but I believe we have the most kickass team in this hackathon! ",
+            "photo": "https://avatars1.githubusercontent.com/u/46689846?height=180&v=4&width=180"
+        },
+        {
+            "name": "reinosomartin",
+            "about": "I am the voice of Cajal on this project, thanks to a Spanish accent that my teammates describe as intimate and charming. I developed the main lab scene, basic interactions, transitions and animations. I also set up the programming environment and kept the repository and code updated. The bulk of my work was on Unity, connecting 3D neural models with the evolving scenes and core VR interactions. ",
+            "photo": "https://graph.facebook.com/10210462753643575/picture?height=180&width=180"
+        },
+        {
+            "name": "Sean Manton",
+            "about": "I contributed as a developer, interaction designer, and musician. On the dev side, I worked on the main tracing and trigger interactions within the neuron scenes, as well as various other little bits.",
+            "photo": "https://avatars2.githubusercontent.com/u/4335536?height=180&v=4&width=180"
+        },
+        {
+            "name": "Arwa Alsaati",
+            "about": "I contributed to concept and story design, built 3D models of human neurons in Maya, in addition to creating art in Tiltbrush and acquiring sound effects.",
+            "photo": "https://avatars2.githubusercontent.com/u/36837528?height=180&v=4&width=180"
+        }
+    ],
+    "built_with": [
+        "blender",
+        "c#",
+        "maya",
+        "tiltbrush",
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>\u201cLike the entomologist in search of colorful butterflies, my attention has chased in the gardens of the grey matter cells with delicate and elegant shapes, the mysterious butterflies of the soul, whose beating of wings may one day reveal to us the secrets of the mind.\u201d -- Santiago Ramon Y Cajal</p>\n<p>There\u2019s neuroscience before Santiago Ramon Y Cajal, and neuroscience after, and they\u2019re not the same. Long before MRIs, Cajal was interrogating consciousness, dream states and the inner universe of the brain through the lens of his microscope. He was co-awarded the Nobel prize in 1906 \"in recognition of [his] work on the structure of the nervous system.\"</p>\n<h2>What it does</h2>\n<p>\"Dreams of Cajal\" is a virtual dive into mind of the forefather of neuroscience. Viewers are transported through his lab onto the microscope where he discovered, in vibrant detail, the structures that power the human brain. </p>\n<h2>How we built it</h2>\n<p>\"Dreams of Cajal\" was built in Maya, Tiltbrush, Unity, and Audition. </p>\n<h2>Challenges we ran into</h2>\n<p>You try making accurate representations of human neurons into playable game objects some time.</p>\n<p>The tracing mechanic is so intuitive in concept, but it turned out to require quite a few hacks in order to make it work.</p>\n<h2>Accomplishments that we're proud of</h2>\n<p>Making accurate representations of human neurons into playable game objects. </p>\n<p>Crafting a satisfying feeling tracing mechanic.</p>\n<p>Budgeting our time and adapting our original concept repeatedly in order to get not only a working prototype of the core interactions, but successfully putting everything together into a narrative experience.</p>\n<h2>What we learned</h2>\n<p>We learned that there's a rich vein of opportunity for immersive storytelling at the intersection between science and art. Also, it takes many talents + a heaping pile of collaboration to pull something like this off in 2.5 days. </p>\n<h2>What's next for \"Dreams of Cajal\"</h2>\n<p>We would love to go back and really iron out fine grained user interaction, make all custom objects and refine the environments, and we would love to just generally build more richness into the experience. </p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\n\u201cLike the entomologist in search of colorful butterflies, my attention has chased in the gardens of the grey matter cells with delicate and elegant shapes, the mysterious butterflies of the soul, whose beating of wings may one day reveal to us the secrets of the mind.\u201d -- Santiago Ramon Y Cajal\n\n\nThere\u2019s neuroscience before Santiago Ramon Y Cajal, and neuroscience after, and they\u2019re not the same. Long before MRIs, Cajal was interrogating consciousness, dream states and the inner universe of the brain through the lens of his microscope. He was co-awarded the Nobel prize in 1906 \"in recognition of [his] work on the structure of the nervous system.\"\n\n\n## What it does\n\n\n\"Dreams of Cajal\" is a virtual dive into mind of the forefather of neuroscience. Viewers are transported through his lab onto the microscope where he discovered, in vibrant detail, the structures that power the human brain. \n\n\n## How we built it\n\n\n\"Dreams of Cajal\" was built in Maya, Tiltbrush, Unity, and Audition. \n\n\n## Challenges we ran into\n\n\nYou try making accurate representations of human neurons into playable game objects some time.\n\n\nThe tracing mechanic is so intuitive in concept, but it turned out to require quite a few hacks in order to make it work.\n\n\n## Accomplishments that we're proud of\n\n\nMaking accurate representations of human neurons into playable game objects. \n\n\nCrafting a satisfying feeling tracing mechanic.\n\n\nBudgeting our time and adapting our original concept repeatedly in order to get not only a working prototype of the core interactions, but successfully putting everything together into a narrative experience.\n\n\n## What we learned\n\n\nWe learned that there's a rich vein of opportunity for immersive storytelling at the intersection between science and art. Also, it takes many talents + a heaping pile of collaboration to pull something like this off in 2.5 days. \n\n\n## What's next for \"Dreams of Cajal\"\n\n\nWe would love to go back and really iron out fine grained user interaction, make all custom objects and refine the environments, and we would love to just generally build more richness into the experience. \n\n\n"
+}

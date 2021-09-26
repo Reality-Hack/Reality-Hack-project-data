@@ -1,0 +1,55 @@
+{
+    "source": "https://devpost.com/software/sound-space",
+    "title": "Sound Space",
+    "blurb": "Acoustic Simulation and Visualization - VR Architectural Design to understand acoustic influence on design",
+    "awards": [
+        "Best use of Autodesk forge cloud platform",
+        "Best in Industrial & Commercial"
+    ],
+    "videos": [
+        "https://www.youtube.com/embed/3bQfJdd1CYg?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [
+        {
+            "title": "Group Working",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/742/541/datas/original.jpg"
+        },
+        {
+            "title": "Group Photo",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/746/687/datas/original.jpg"
+        }
+    ],
+    "team": [
+        {
+            "name": "Adam Chernick",
+            "about": "I worked on the Forge Web Application. Getting our Revit Model and Data through to Unity/VR. ",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/748/500/datas/profile.jpg"
+        },
+        {
+            "name": "Zeyu Ren",
+            "about": "I worked on the visual effects, animation, and visual development with After Effects and Unity.",
+            "photo": "https://www.gravatar.com/avatar/635a800df15eb8cf17a68baa1d7ebdfb?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Sabrina Naumovski",
+            "about": "I worked on the user interface in Unity, the 3D model in Revit, and the general graphic design, specifically of the UI.",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/748/332/datas/profile.JPG"
+        },
+        {
+            "name": "Christopher Morse",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/748/866/datas/profile.jpg"
+        },
+        {
+            "name": "Luke Gehron",
+            "about": "",
+            "photo": "https://avatars0.githubusercontent.com/u/4754292?height=180&v=4&width=180"
+        }
+    ],
+    "built_with": [
+        "forge",
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>OUR IDEA</h2>\n<p>Acoustic Simulation and Visualization - VR Architectural Design to understand acoustic influence on design</p>\n<h2>Inspiration</h2>\n<p>XR technologies enable us to visualize things that are intangible, and we want to take advantage of this opportunity to enhance the process of designing for design elements that are inherently non-visual. These tools can influence design in a new way.</p>\n<h2>What Sound Space Does</h2>\n<p>Provides architects with a visual tool to be more sensitive and aware of the acoustic impacts of their different design options.</p>\n<h2>OUR TEAM</h2>\n<p>TEAM MEMBER 1: Luke Gehron works at Payette (architecture) in Boston where he has previous research work in creating acoustic simulations/visualizations for architecture. For this project he developed the C# script in Unity to control the particle simulation. He has a BArch from  Auburn University.</p>\n<p>TEAM MEMBER 2: Christopher Morse works at SHoP Architects in NYC. Has extensive experience in VR, specifically related to how it integrates into the architectural realm. Key previous VR project includes the Jenny Sabin Studio MoMA PS1 entry. He has a Masters Degree in Architecture from Cornell.</p>\n<p>TEAM MEMBER 3: Sabrina Naumovski is a Senior Research/Design Fellow at TerreformONE in Brooklyn, NY. She received her graduate degree from the Institute for Advanced Architecture of Catalonia (IAAC), and her B.Arch from NJIT.</p>\n<p>TEAM MEMBER 4:  Adam Chernick works at SHoP where he researches and develops for the Architecture, Engineering, and Construction industry and previously at HOK. He received his M.Arch from Pratt, and his bachelors degree from University of Colorado.</p>\n<p>TEAM MEMBER 5: Zeyu Ren is currently a graduate Student at RISD in the Digital Arts program.</p>\n</div>",
+    "content_md": "\n## OUR IDEA\n\n\nAcoustic Simulation and Visualization - VR Architectural Design to understand acoustic influence on design\n\n\n## Inspiration\n\n\nXR technologies enable us to visualize things that are intangible, and we want to take advantage of this opportunity to enhance the process of designing for design elements that are inherently non-visual. These tools can influence design in a new way.\n\n\n## What Sound Space Does\n\n\nProvides architects with a visual tool to be more sensitive and aware of the acoustic impacts of their different design options.\n\n\n## OUR TEAM\n\n\nTEAM MEMBER 1: Luke Gehron works at Payette (architecture) in Boston where he has previous research work in creating acoustic simulations/visualizations for architecture. For this project he developed the C# script in Unity to control the particle simulation. He has a BArch from Auburn University.\n\n\nTEAM MEMBER 2: Christopher Morse works at SHoP Architects in NYC. Has extensive experience in VR, specifically related to how it integrates into the architectural realm. Key previous VR project includes the Jenny Sabin Studio MoMA PS1 entry. He has a Masters Degree in Architecture from Cornell.\n\n\nTEAM MEMBER 3: Sabrina Naumovski is a Senior Research/Design Fellow at TerreformONE in Brooklyn, NY. She received her graduate degree from the Institute for Advanced Architecture of Catalonia (IAAC), and her B.Arch from NJIT.\n\n\nTEAM MEMBER 4: Adam Chernick works at SHoP where he researches and develops for the Architecture, Engineering, and Construction industry and previously at HOK. He received his M.Arch from Pratt, and his bachelors degree from University of Colorado.\n\n\nTEAM MEMBER 5: Zeyu Ren is currently a graduate Student at RISD in the Digital Arts program.\n\n\n"
+}

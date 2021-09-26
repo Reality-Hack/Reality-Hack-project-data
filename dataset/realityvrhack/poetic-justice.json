@@ -1,0 +1,28 @@
+{
+    "source": "https://devpost.com/software/poetic-justice",
+    "title": "Poetic Justice",
+    "blurb": "InteractiveSpoken Word Poetry in Virtual Reality",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/xJXQ-fyjPO8?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "Kylila Bullard",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/420/999/datas/profile.jpg"
+        }
+    ],
+    "built_with": [
+        "adobe-illustrator",
+        "iphone-sdk",
+        "photoshop",
+        "theta",
+        "unity",
+        "visual-studio",
+        "youtube"
+    ],
+    "content_html": "<div>\n<h2>Inspiration Millenials, housing affordability , and the struggle to reach the American dream.</h2>\n<h2>What it does Involves the consumer in a powerful and interactive narrative that is entertaining , emotional , and empathic.</h2>\n<h2>How we built it VR Video with Theta, Premier, , Drop Box, and H4n Zoom Field recorder and Creative Commons Music</h2>\n<h2>Challenges we ran into: Conversion and time, and people having other obligations</h2>\n<h2>Accomplishments that we're proud of: I submitted something :-)</h2>\n<h2>What we learned: That VR video is fun , and more complicated than I expected</h2>\n<h2>What's next for Poetic Justice: Keep creating and getting better with VR film. Learn how to use Unity to make the film more interactive , powerful, and educational.</h2>\n</div>",
+    "content_md": "\n## Inspiration Millenials, housing affordability , and the struggle to reach the American dream.\n\n\n## What it does Involves the consumer in a powerful and interactive narrative that is entertaining , emotional , and empathic.\n\n\n## How we built it VR Video with Theta, Premier, , Drop Box, and H4n Zoom Field recorder and Creative Commons Music\n\n\n## Challenges we ran into: Conversion and time, and people having other obligations\n\n\n## Accomplishments that we're proud of: I submitted something :-)\n\n\n## What we learned: That VR video is fun , and more complicated than I expected\n\n\n## What's next for Poetic Justice: Keep creating and getting better with VR film. Learn how to use Unity to make the film more interactive , powerful, and educational.\n\n\n"
+}

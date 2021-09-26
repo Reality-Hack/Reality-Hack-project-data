@@ -1,0 +1,33 @@
+{
+    "source": "https://devpost.com/software/adelante-offerings-of-rememberance",
+    "title": "Adelante: Offerings of Remembrance",
+    "blurb": "A VR app for people dealing with the loss of a loved one with interactive elements to honor the loved one & the loss.",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/aIUKCawTvRg?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "Ryan Sullivan",
+            "about": "",
+            "photo": "https://avatars0.githubusercontent.com/u/13654313?height=180&v=4&width=180"
+        },
+        {
+            "name": "achoko Allela",
+            "about": "",
+            "photo": "https://avatars0.githubusercontent.com/u/46793932?height=180&v=4&width=180"
+        },
+        {
+            "name": "Susan Kapuscinski Gaylord",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/b375c340f71225a4ed39c957d76a4ddb?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        }
+    ],
+    "built_with": [
+        "steamvr",
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Location, floor, and room</h2>\n<p>Vive area, 6th floor Media Lab</p>\n<h2>The development tools used to build the project</h2>\n<p>Unity, PolyToolkit</p>\n<h2>SDKs used in the project</h2>\n<p>SteamVR</p>\n<h2>APIs used in the project</h2>\n<h2>Any assets used in the project that you did not create</h2>\n<p>Unity Standard Assets</p>\n<p><a href=\"https://assetstore.unity.com/packages/3d/environments/landscapes/free-rocks-19288\" rel=\"nofollow\">https://assetstore.unity.com/packages/3d/environments/landscapes/free-rocks-19288</a></p>\n<p><a href=\"https://assetstore.unity.com/packages/vfx/shaders/water-effect-fits-for-lowpoly-style-87810\" rel=\"nofollow\">https://assetstore.unity.com/packages/vfx/shaders/water-effect-fits-for-lowpoly-style-87810</a></p>\n<p><a href=\"https://assetstore.unity.com/packages/tools/terrain/microsplat-96478\" rel=\"nofollow\">https://assetstore.unity.com/packages/tools/terrain/microsplat-96478</a></p>\n<p><a href=\"https://assetstore.unity.com/packages/3d/environments/landscapes/realistic-terrain-collection-lite-47726\" rel=\"nofollow\">https://assetstore.unity.com/packages/3d/environments/landscapes/realistic-terrain-collection-lite-47726</a></p>\n<p><a href=\"https://assetstore.unity.com/packages/3d/environments/landscapes/winter-zone-mini-107583\" rel=\"nofollow\">https://assetstore.unity.com/packages/3d/environments/landscapes/winter-zone-mini-107583</a></p>\n<p><a href=\"https://assetstore.unity.com/packages/3d/fallen-tree-barrier-free-49089\" rel=\"nofollow\">https://assetstore.unity.com/packages/3d/fallen-tree-barrier-free-49089</a></p>\n<p><a href=\"https://assetstore.unity.com/packages/vfx/shaders/mk-glass-free-100712\" rel=\"nofollow\">https://assetstore.unity.com/packages/vfx/shaders/mk-glass-free-100712</a></p>\n<p><a href=\"https://free3d.com/3d-model/tree-house-69127.html\" rel=\"nofollow\">https://free3d.com/3d-model/tree-house-69127.html</a></p>\n<p><a href=\"https://assetstore.unity.com/packages/3d/props/food/bretwalda-halloween-74177\" rel=\"nofollow\">https://assetstore.unity.com/packages/3d/props/food/bretwalda-halloween-74177</a></p>\n<p><a href=\"https://assetstore.unity.com/packages/3d/environments/landscapes/photoscanned-moutainsrocks-pbr-130876\" rel=\"nofollow\">https://assetstore.unity.com/packages/3d/environments/landscapes/photoscanned-moutainsrocks-pbr-130876</a></p>\n<p><a href=\"https://assetstore.unity.com/packages/3d/characters/animals/living-birds-15649\" rel=\"nofollow\">https://assetstore.unity.com/packages/3d/characters/animals/living-birds-15649</a></p>\n<h2>Any libraries used in the project</h2>\n<h2>Any components not created at the hackathon</h2>\n<h2>A link to a video of a screen capture of the application on Youtube</h2>\n</div>",
+    "content_md": "\n## Location, floor, and room\n\n\nVive area, 6th floor Media Lab\n\n\n## The development tools used to build the project\n\n\nUnity, PolyToolkit\n\n\n## SDKs used in the project\n\n\nSteamVR\n\n\n## APIs used in the project\n\n\n## Any assets used in the project that you did not create\n\n\nUnity Standard Assets\n\n\n<https://assetstore.unity.com/packages/3d/environments/landscapes/free-rocks-19288>\n\n\n<https://assetstore.unity.com/packages/vfx/shaders/water-effect-fits-for-lowpoly-style-87810>\n\n\n<https://assetstore.unity.com/packages/tools/terrain/microsplat-96478>\n\n\n<https://assetstore.unity.com/packages/3d/environments/landscapes/realistic-terrain-collection-lite-47726>\n\n\n<https://assetstore.unity.com/packages/3d/environments/landscapes/winter-zone-mini-107583>\n\n\n<https://assetstore.unity.com/packages/3d/fallen-tree-barrier-free-49089>\n\n\n<https://assetstore.unity.com/packages/vfx/shaders/mk-glass-free-100712>\n\n\n<https://free3d.com/3d-model/tree-house-69127.html>\n\n\n<https://assetstore.unity.com/packages/3d/props/food/bretwalda-halloween-74177>\n\n\n<https://assetstore.unity.com/packages/3d/environments/landscapes/photoscanned-moutainsrocks-pbr-130876>\n\n\n<https://assetstore.unity.com/packages/3d/characters/animals/living-birds-15649>\n\n\n## Any libraries used in the project\n\n\n## Any components not created at the hackathon\n\n\n## A link to a video of a screen capture of the application on Youtube\n\n\n"
+}

@@ -1,0 +1,41 @@
+{
+    "source": "https://devpost.com/software/achievar",
+    "title": "AchieVAR",
+    "blurb": "AchieVAR gives you a virtual teacher to help you learn, train, or do physical therapy on mixed reality devices.",
+    "awards": [],
+    "videos": [],
+    "images": [],
+    "team": [
+        {
+            "name": "Giri S",
+            "about": "Worked on permanently recording events to an immutable unimpeachable blockchain, NLP for guiding the cognitive experience and sensing the sentiment(s) of the scenario(s).",
+            "photo": "https://media.licdn.com/mpr/mprx/0_1NOWt-euo5n1Owc7vK6HV5oSobj7ZW6fqn6FqbYSE5HajMUiJL6byhWSWvja4VEiMLXW1XoD_GwmRSv-sFRvs6I36GwfRS0aJFRElFO2DiY_AUXtvnSXAPrjQBl0tSe0Kkx59JQB2tX?height=180&width=180"
+        },
+        {
+            "name": "Nima Zeighami",
+            "about": "I was the Project Manager, I did the audio design and voice acting for the application, and I helped execute the teams vision for immersive and experimental technologies, including Windows Mixed Reality and HoloLens.  In addition, I did a small portion of the software development.",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/413/592/datas/profile.JPG"
+        },
+        {
+            "name": "Andres Cuervo",
+            "about": "I made the logo, demoed animation for the logo, and cleaned up some 3D model assets.",
+            "photo": "https://avatars1.githubusercontent.com/u/5826638?height=180&v=4&width=180"
+        },
+        {
+            "name": "Jacob Shepherd",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/742/190/datas/profile.jpg"
+        },
+        {
+            "name": "Khanh Le",
+            "about": "",
+            "photo": "https://media.licdn.com/mpr/mprx/0_-ev3kqfdK2vjXlpRyfQ-knxbKE3PH-SRKWTYkBg977zCcnsUYm5Docd4YXTSwzuc1wB0wr_XrHAq?height=180&width=180"
+        }
+    ],
+    "built_with": [
+        "microsoft-hololens",
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Team Info</h2>\n<p>Floor: 6</p>\n<p>Location: Table near door to room.</p>\n<p>Room: E14-674</p>\n<p>Table Number: 4</p>\n<p>Team Leader: Jacob Shepherd, phone number (913)626-4777</p>\n<p>Platform: Windows Mixed Reality, HoloLens</p>\n<p>Dev Tools: Unity, Visual Studio Community, Mixamo, Blender, Structure Sensor, iOS Voice Memos, </p>\n<h2>Inspiration</h2>\n<p>Jacob was inspired by the need of healthcare providers to validate the completion of physical therapy and the need for employers to verify a candidates education credentials.  This lead to an end-to-end design in which software facilitates the teaching and recording of a learning experience.  </p>\n<h2>What it does</h2>\n<p>AchieVAR is an app that gives you a mixed reality learning experience, allowing you to make selections using your voice.  It then records your achievement on a blockchain.</p>\n<h2>How I built it</h2>\n<p>We built the application in Unity and HoloToolkit.  Assets were acquired from SketchFab and Mixamo, and 3D scanned using the Occipital Structure Sensor.  Animations were created using Mixamo.  3D assets were modified using Simplygon, Blender and Meshlab.  Audio assets were recorded on iPhone using Voice Recorder.</p>\n<h2>Challenges I ran into</h2>\n<p>We ran into challenges with compatibility with different versions of Unity, mismatched versions of Unity on our development machines, HoloToolkit and MRToolkit versions and support on our devices.  In addition, the 3D scans we did using the Structure Sensor were too high-poly, and thus we were unable to use them without huge performance issues.  So we tried to use Simplygon to decimate them, but there were huge issues with Simplygon's support as they'd recently been bought by Microsoft, thus, it is unsupported as a plugin in the newest version of Unity, 2017.</p>\n<h2>Accomplishments that I'm proud of</h2>\n<p>We are proud of creating an AR app that has limitless real-world application, that is controlled by your voice.</p>\n<h2>What I learned</h2>\n<p>We learned to absolutely not use experimental software stacks without good documentation when time is a factor.</p>\n<h2>What's next for AchieVAR</h2>\n<p>AchieVAR may be developed further, specifically in the healthcare space.</p>\n</div>",
+    "content_md": "\n## Team Info\n\n\nFloor: 6\n\n\nLocation: Table near door to room.\n\n\nRoom: E14-674\n\n\nTable Number: 4\n\n\nTeam Leader: Jacob Shepherd, phone number (913)626-4777\n\n\nPlatform: Windows Mixed Reality, HoloLens\n\n\nDev Tools: Unity, Visual Studio Community, Mixamo, Blender, Structure Sensor, iOS Voice Memos, \n\n\n## Inspiration\n\n\nJacob was inspired by the need of healthcare providers to validate the completion of physical therapy and the need for employers to verify a candidates education credentials. This lead to an end-to-end design in which software facilitates the teaching and recording of a learning experience. \n\n\n## What it does\n\n\nAchieVAR is an app that gives you a mixed reality learning experience, allowing you to make selections using your voice. It then records your achievement on a blockchain.\n\n\n## How I built it\n\n\nWe built the application in Unity and HoloToolkit. Assets were acquired from SketchFab and Mixamo, and 3D scanned using the Occipital Structure Sensor. Animations were created using Mixamo. 3D assets were modified using Simplygon, Blender and Meshlab. Audio assets were recorded on iPhone using Voice Recorder.\n\n\n## Challenges I ran into\n\n\nWe ran into challenges with compatibility with different versions of Unity, mismatched versions of Unity on our development machines, HoloToolkit and MRToolkit versions and support on our devices. In addition, the 3D scans we did using the Structure Sensor were too high-poly, and thus we were unable to use them without huge performance issues. So we tried to use Simplygon to decimate them, but there were huge issues with Simplygon's support as they'd recently been bought by Microsoft, thus, it is unsupported as a plugin in the newest version of Unity, 2017.\n\n\n## Accomplishments that I'm proud of\n\n\nWe are proud of creating an AR app that has limitless real-world application, that is controlled by your voice.\n\n\n## What I learned\n\n\nWe learned to absolutely not use experimental software stacks without good documentation when time is a factor.\n\n\n## What's next for AchieVAR\n\n\nAchieVAR may be developed further, specifically in the healthcare space.\n\n\n"
+}

@@ -1,0 +1,46 @@
+{
+    "source": "https://devpost.com/software/drama-club",
+    "title": "Drama Club",
+    "blurb": "A \"Guitar Hero\" style game for actors and performers.",
+    "awards": [],
+    "videos": [],
+    "images": [],
+    "team": [
+        {
+            "name": "Harish",
+            "about": "I worked on UX design with Gloria Chow. I also worked on testing and tweaking the gameplay scoring code. ",
+            "photo": "https://avatars2.githubusercontent.com/u/362292?height=180&v=4&width=180"
+        },
+        {
+            "name": "AsierT",
+            "about": "I\u2019m working on art, brainstorming,  3d content creations and illustration",
+            "photo": "https://avatars3.githubusercontent.com/u/31211802?height=180&v=4&width=180"
+        },
+        {
+            "name": "Becky Lane",
+            "about": "",
+            "photo": "https://graph.facebook.com/10154715855227471/picture?height=180&width=180"
+        },
+        {
+            "name": "Jacob Madden",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/704/859/datas/profile.jpg"
+        },
+        {
+            "name": "gloria chow",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/780/004/datas/profile.JPG"
+        }
+    ],
+    "built_with": [
+        "3ds-max",
+        "ibm-watson",
+        "merge",
+        "photoshop",
+        "samsung-gear-vr",
+        "unity",
+        "vuforia"
+    ],
+    "content_html": "<div>\n<h2>Team Members</h2>\n<p>Becky Lane - \nHarish Tella\nJacob Madden\nGloria Chow\nAsier Taberna</p>\n<h2>Location</h2>\n<p>6th Floor, Table 11</p>\n<h2>Category</h2>\n<p>Gaming and Entertainment</p>\n<h2>Platform</h2>\n<p>GearVR</p>\n<h2>Description</h2>\n<p>Do you need a partner to help you memorize a speech or lines for a play or film? Do you want to act out your favorite scenes with friends or a computer-generated reader? Do want to practice performing your speech in front of an audience? Drama Club is the VR experience for you.</p>\n<h2>What it does</h2>\n<p>Like  <em>Guitar Hero</em> for performers. <strong>Drama Club</strong> is a VR acting and performing experience where participants can either choose a script from a popular film or play or load their own material. Then, users can memorize lines, perform scenes or speeches, and receive accuracy feedback from a virtual \u201cdirector\u201d powered by IBM Watson.  A virtual actor will run lines with you, or grab friends to act out a scene. There's also Merge Cube integration to incorporate virtual tactile props. Users can grab a skull when reciting Hamlet's soliloquy or a sword when acting out the scene from <em>The Princess Bride</em>! </p>\n<h2>Who it's for</h2>\n<p><strong>Drama Club</strong> is for actors, public speakers, and VR game enthusiasts. It's a fun and exciting way to commit text to memory and challenge friends in a gameplay format.</p>\n<p>Use Drama Club as a memorization tool, or enter <strong>Performance Mode</strong> that rewards accurate line performance and penalizes you for taking a peek at  your script. As mistakes stack up, the stage lights begin to dim. Too many mistakes? The lights go down and the curtain closes.  Watch out for tomatoes! Flawless performance? Watch the awards statues pile up and read rave reviews in the media.</p>\n<h2>How we built it</h2>\n<p>Unity, Merge Cube, 3ds, IBM Watson</p>\n<h2>GitHub</h2>\n<p><a href=\"https://github.com/Reality-Virtually-Hackathon/Drama-Club\" rel=\"nofollow\">https://github.com/Reality-Virtually-Hackathon/Drama-Club</a></p>\n</div>",
+    "content_md": "\n## Team Members\n\n\nBecky Lane - \nHarish Tella\nJacob Madden\nGloria Chow\nAsier Taberna\n\n\n## Location\n\n\n6th Floor, Table 11\n\n\n## Category\n\n\nGaming and Entertainment\n\n\n## Platform\n\n\nGearVR\n\n\n## Description\n\n\nDo you need a partner to help you memorize a speech or lines for a play or film? Do you want to act out your favorite scenes with friends or a computer-generated reader? Do want to practice performing your speech in front of an audience? Drama Club is the VR experience for you.\n\n\n## What it does\n\n\nLike *Guitar Hero* for performers. **Drama Club** is a VR acting and performing experience where participants can either choose a script from a popular film or play or load their own material. Then, users can memorize lines, perform scenes or speeches, and receive accuracy feedback from a virtual \u201cdirector\u201d powered by IBM Watson. A virtual actor will run lines with you, or grab friends to act out a scene. There's also Merge Cube integration to incorporate virtual tactile props. Users can grab a skull when reciting Hamlet's soliloquy or a sword when acting out the scene from *The Princess Bride*! \n\n\n## Who it's for\n\n\n**Drama Club** is for actors, public speakers, and VR game enthusiasts. It's a fun and exciting way to commit text to memory and challenge friends in a gameplay format.\n\n\nUse Drama Club as a memorization tool, or enter **Performance Mode** that rewards accurate line performance and penalizes you for taking a peek at your script. As mistakes stack up, the stage lights begin to dim. Too many mistakes? The lights go down and the curtain closes. Watch out for tomatoes! Flawless performance? Watch the awards statues pile up and read rave reviews in the media.\n\n\n## How we built it\n\n\nUnity, Merge Cube, 3ds, IBM Watson\n\n\n## GitHub\n\n\n<https://github.com/Reality-Virtually-Hackathon/Drama-Club>\n\n\n"
+}

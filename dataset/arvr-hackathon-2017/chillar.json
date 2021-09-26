@@ -1,0 +1,48 @@
+{
+    "source": "https://devpost.com/software/chillar",
+    "title": "ChillAR",
+    "blurb": "An AR meditation experience that transports you to a world of surreal bubbly creatures.",
+    "awards": [],
+    "videos": [],
+    "images": [
+        {
+            "title": "ChillAR ",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/546/829/datas/original.png"
+        }
+    ],
+    "team": [
+        {
+            "name": "Shan Liu",
+            "about": "Design strategy, 3D modeling",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/517/592/datas/profile.png"
+        },
+        {
+            "name": "Jessica Ho",
+            "about": "",
+            "photo": "https://media.licdn.com/mpr/mprx/0_tBVQ93C0a8sA9IcutPmQjFk0ENxuvERSOBuHKNy0a1EDrsQr46meBLH0H1sxPVQ8Y6CeBLwxGn5S9mwORX0sOzEPbn529mGuYX05zqxYuBK8pZJr-vWIv8l7FixpxmvgcbUEt686KuM?height=180&width=180"
+        },
+        {
+            "name": "Megan Valanidas",
+            "about": "",
+            "photo": "https://avatars3.githubusercontent.com/u/24512730?height=180&v=4&width=180"
+        },
+        {
+            "name": "jsiegelmann",
+            "about": "",
+            "photo": "https://avatars1.githubusercontent.com/u/31635151?height=180&v=4&width=180"
+        },
+        {
+            "name": "zhaodiwang",
+            "about": "",
+            "photo": "https://avatars3.githubusercontent.com/u/32549370?height=180&v=4&width=180"
+        }
+    ],
+    "built_with": [
+        "maya",
+        "merge-vr",
+        "unity",
+        "vuforia"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>Your brain is fuzzy; you are tired but not ready to sleep; you want to escape to a private space in a public place -- ChillAR is here to help! Put on our AR headset, and you will experience surreal soundscapes and morphing geometries juxtaposed with your reality -- it is essentially your mind's screensaver. </p>\n<p>We used James Turrell's Skyspace as our inspiration, and explored mood colors and mood soundscapes to bring calming effects. </p>\n<h2>What it does</h2>\n<p>ChillAR is an augmented reality based application that overlays your reality with calming visuals and soundscapes. ChillAR uses the MergeVR cube as visual tracker and trigger for your calming AR experience. Start the app by rolling the MergeVR cube to dive into one of six augmented reality scenarios, each configured to sooth your mind through a different effect. Ranging from little orbs of light naturally spawning and dancing through your field of vision to a white sphere slowly growing in front of you in tandem to your heartbeat, ChillAR is supposed to work off of your natural body feedback to make each experience a personal one. Within one roll of the dice, the visuals will increase in intensity to create a natural crescendo, culminating in a white screen for a couple of seconds, until the opacity decreases and reality slowly sets in again.</p>\n<h2>How we built it</h2>\n<p>Our team consists of 4 designers and 1 software engineer. With a majority of us being visual thinkers, we started the project by brainstorming on whiteboards. We listed all the calming elements that we thought of, and narrowed down to three that were realistic for us to build. Three of the designers (Megan, Julian, Shan) were tasked with creating one visual effect each, architect Zhaodi was tasked with sound effects, and software engineer Jessica took on learning Vuforia and Unity integration. </p>\n<p>Technologies that we used were: Unity as game engine; Vuforia as AR platform; Merge cubes as visual trackers; Maya as asset builder. </p>\n<h2>Challenges we ran into</h2>\n<p>Because none of us had much Unity experience before this hackathon, our biggest challenge was to translate our vision into prototypes. We spent the first day to learn Unity and do tutorials, and the second day figuring out how to integrate our separate files together into one holistic experience. We had to eliminate down to one visual effect to demo, from the original three, because of a lack of technical support (e.g. the Maya animation Shan made could not be exported into Unity) </p>\n<h2>Accomplishments that we're proud of</h2>\n<p>We had a fantastic brainstorm session. With systematic design thinking, we successfully narrowed down from a vague idea \"relaxation in AR\", to actionable work plans for each teammate. </p>\n<p>Also, without little to no knowledge in Unity, we managed to individually create the visual effect that we envisioned, even though we could not bring them together. </p>\n<h2>What we learned</h2>\n<p>It's important to have at least one team member to implement the vision. </p>\n<h2>What's next for ChillAR</h2>\n<p>We want to have a variety of visual effects to accommodate different personal preferences. </p>\n<p>ChillAR can also become a share experience among multiple players - we are looking forward to expand this into an AR icebreaker. </p>\n<p>See our work in progress on GitHub: \n<a href=\"https://github.com/Reality-Virtually-Hackathon/ChillAR\" rel=\"nofollow\">link</a></p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nYour brain is fuzzy; you are tired but not ready to sleep; you want to escape to a private space in a public place -- ChillAR is here to help! Put on our AR headset, and you will experience surreal soundscapes and morphing geometries juxtaposed with your reality -- it is essentially your mind's screensaver. \n\n\nWe used James Turrell's Skyspace as our inspiration, and explored mood colors and mood soundscapes to bring calming effects. \n\n\n## What it does\n\n\nChillAR is an augmented reality based application that overlays your reality with calming visuals and soundscapes. ChillAR uses the MergeVR cube as visual tracker and trigger for your calming AR experience. Start the app by rolling the MergeVR cube to dive into one of six augmented reality scenarios, each configured to sooth your mind through a different effect. Ranging from little orbs of light naturally spawning and dancing through your field of vision to a white sphere slowly growing in front of you in tandem to your heartbeat, ChillAR is supposed to work off of your natural body feedback to make each experience a personal one. Within one roll of the dice, the visuals will increase in intensity to create a natural crescendo, culminating in a white screen for a couple of seconds, until the opacity decreases and reality slowly sets in again.\n\n\n## How we built it\n\n\nOur team consists of 4 designers and 1 software engineer. With a majority of us being visual thinkers, we started the project by brainstorming on whiteboards. We listed all the calming elements that we thought of, and narrowed down to three that were realistic for us to build. Three of the designers (Megan, Julian, Shan) were tasked with creating one visual effect each, architect Zhaodi was tasked with sound effects, and software engineer Jessica took on learning Vuforia and Unity integration. \n\n\nTechnologies that we used were: Unity as game engine; Vuforia as AR platform; Merge cubes as visual trackers; Maya as asset builder. \n\n\n## Challenges we ran into\n\n\nBecause none of us had much Unity experience before this hackathon, our biggest challenge was to translate our vision into prototypes. We spent the first day to learn Unity and do tutorials, and the second day figuring out how to integrate our separate files together into one holistic experience. We had to eliminate down to one visual effect to demo, from the original three, because of a lack of technical support (e.g. the Maya animation Shan made could not be exported into Unity) \n\n\n## Accomplishments that we're proud of\n\n\nWe had a fantastic brainstorm session. With systematic design thinking, we successfully narrowed down from a vague idea \"relaxation in AR\", to actionable work plans for each teammate. \n\n\nAlso, without little to no knowledge in Unity, we managed to individually create the visual effect that we envisioned, even though we could not bring them together. \n\n\n## What we learned\n\n\nIt's important to have at least one team member to implement the vision. \n\n\n## What's next for ChillAR\n\n\nWe want to have a variety of visual effects to accommodate different personal preferences. \n\n\nChillAR can also become a share experience among multiple players - we are looking forward to expand this into an AR icebreaker. \n\n\nSee our work in progress on GitHub: \n[link](https://github.com/Reality-Virtually-Hackathon/ChillAR)\n\n\n"
+}

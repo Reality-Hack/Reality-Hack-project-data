@@ -1,0 +1,35 @@
+{
+    "source": "https://devpost.com/software/lazar",
+    "title": "LazAR",
+    "blurb": "A mixed reality physical game using Lighthouse position tracking and Tango AR to create a laser maze puzzle",
+    "awards": [],
+    "videos": [],
+    "images": [],
+    "team": [
+        {
+            "name": "Geva Patz",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/2e63d4a78d3537913c0638bfc3356c23?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Douglas Patz",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/121591c0564092035499cb0056c35fea?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Javair Ratliff",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/e953be4f1215746e0718182afb8889d0?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        }
+    ],
+    "built_with": [
+        "fpga",
+        "intel-curie",
+        "lighthouse",
+        "steamvr",
+        "tango",
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Summary</h2>\n<p>We're all Vive developers who are interested in pushing the great Lighthouse tracking technology in new directions. We've developed hardware which works as a Lighthouse tracked object and were looking for a project to experiment with whole body tracking in a non-VR context. Mobile AR with Tango seemed like an excellent environment to pair this with.</p>\n<h2>Location</h2>\n<p>6th floor, table 39</p>\n<h2>Contact telephone</h2>\n<p>617.319.5217</p>\n<h2>Vertical</h2>\n<p>Entertainment &amp; storytelling (with a side of human connection)</p>\n</div>",
+    "content_md": "\n## Summary\n\n\nWe're all Vive developers who are interested in pushing the great Lighthouse tracking technology in new directions. We've developed hardware which works as a Lighthouse tracked object and were looking for a project to experiment with whole body tracking in a non-VR context. Mobile AR with Tango seemed like an excellent environment to pair this with.\n\n\n## Location\n\n\n6th floor, table 39\n\n\n## Contact telephone\n\n\n617.319.5217\n\n\n## Vertical\n\n\nEntertainment & storytelling (with a side of human connection)\n\n\n"
+}

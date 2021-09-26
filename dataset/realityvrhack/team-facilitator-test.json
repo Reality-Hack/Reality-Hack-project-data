@@ -1,0 +1,55 @@
+{
+    "source": "https://devpost.com/software/team-facilitator-test",
+    "title": "Team Facilitator Test",
+    "blurb": "Team Facilitator Test",
+    "awards": [],
+    "videos": [],
+    "images": [],
+    "team": [
+        {
+            "name": "Scott W. Greenwald",
+            "about": "I really built absolutely everything. But I don't mind other people taking some credit, why do I need all the credit?",
+            "photo": "https://www.gravatar.com/avatar/051f3c1db1fcdcc359e7d9495e621804?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Luna Yuan",
+            "about": ":)",
+            "photo": "https://www.gravatar.com/avatar/8001043b1298ca7a66ff577b119507a5?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "pauric",
+            "about": "I took the requirements from the customers and gave them to the developers, I'm a people person god-dammit",
+            "photo": "https://www.gravatar.com/avatar/c43ef26b500cbb00fa935d8d5a95d76f?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Ana Hurka-Robles",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/0501d35cac8fdc611e4134fd2628dd09?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "ana-test ana-test",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/476ea40bc28a30112b13e0540c3f215e?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Steven Max Patterson",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/464d2163bf0c74ffaa7d4eba24612e1f?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Arpit  Gupta",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/772/062/datas/profile.png"
+        },
+        {
+            "name": "Praveen Aravamudham",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/c28ea15260e57772a58db58711102c8f?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        }
+    ],
+    "built_with": [
+        "iphone-sdk"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>Placeholder</p>\n<h2>What it does</h2>\n<h2>How we built it</h2>\n<h2>Challenges we ran into</h2>\n<h2>Accomplishments that we're proud of</h2>\n<h2>What we learned</h2>\n<h2>What's next for Team Facilitator Test</h2>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nPlaceholder\n\n\n## What it does\n\n\n## How we built it\n\n\n## Challenges we ran into\n\n\n## Accomplishments that we're proud of\n\n\n## What we learned\n\n\n## What's next for Team Facilitator Test\n\n\n"
+}

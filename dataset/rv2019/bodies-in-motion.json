@@ -1,0 +1,48 @@
+{
+    "source": "https://devpost.com/software/bodies-in-motion",
+    "title": "Bodies In Motion",
+    "blurb": "Computer Vision in VR to improve Physical Therapy and Exercise Form",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/GNX8vEDfg2A?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "Tania De Gasperis",
+            "about": "",
+            "photo": "https://media.licdn.com/dms/image/C5603AQEq6Sr53qpT9Q/profile-displayphoto-shrink_100_100/0?e=1553126400&height=180&t=KJIBj9YU7wXswxnDr6v2FAzawlJQo4WtT1uk69SI5c4&v=beta&width=180"
+        },
+        {
+            "name": "Brianne Baker",
+            "about": "",
+            "photo": "https://avatars3.githubusercontent.com/u/45960041?height=180&v=4&width=180"
+        },
+        {
+            "name": "Daniel Bryand",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/c854e9372564492cef7fd0b692e9bf4c?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Max Orozco",
+            "about": "",
+            "photo": "https://avatars1.githubusercontent.com/u/13499370?height=180&v=4&width=180"
+        }
+    ],
+    "built_with": [
+        "google-poly",
+        "mocapclub.com",
+        "node.js",
+        "opencv",
+        "poly-toolkit",
+        "probuilder",
+        "simplejson",
+        "socket.io",
+        "steamvr",
+        "tensorflow.js",
+        "unity",
+        "unityassetstore"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>Physical Therapy can be a daunting and lengthy process. For outpatients, compliance to the proper form for physical therapy can dramatically improve outcomes. However, once outside the doctor's office it is difficult to remember the intricacies of the movements. </p>\n<h2>What it does</h2>\n<p>Android device uses Computer Vision to collect user's movement. These motions are then mirrored inside the HMD providing the user with a real time feed of personal body movement. An animated character provides an example of proper movements, and the user can improve form by self correcting posture vs example. </p>\n<h2>How I built it</h2>\n<p>Android OpenCV captures user movement. Web Sockets send data to HMD. Animations are using Motion Capture data. Environment is created using Unity. </p>\n<h2>Challenges I ran into</h2>\n<p>Establishing Websockets. Animation</p>\n<h2>Accomplishments that I'm proud of</h2>\n<p>Sending OpenCV to a HMD. Application towards rehabilitation. </p>\n<h2>What I learned</h2>\n<p>Node.JS, Socket.IO, learned websockets. Some members first time using Unity. </p>\n<h2>What's next for Bodies In Motion</h2>\n<p>Visual and audio cues to user when deviations from correct form are observed. Incorporation of various Physical Therapy exercises. Incorporation of fitness programs, providing feedback on sports performance. </p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nPhysical Therapy can be a daunting and lengthy process. For outpatients, compliance to the proper form for physical therapy can dramatically improve outcomes. However, once outside the doctor's office it is difficult to remember the intricacies of the movements. \n\n\n## What it does\n\n\nAndroid device uses Computer Vision to collect user's movement. These motions are then mirrored inside the HMD providing the user with a real time feed of personal body movement. An animated character provides an example of proper movements, and the user can improve form by self correcting posture vs example. \n\n\n## How I built it\n\n\nAndroid OpenCV captures user movement. Web Sockets send data to HMD. Animations are using Motion Capture data. Environment is created using Unity. \n\n\n## Challenges I ran into\n\n\nEstablishing Websockets. Animation\n\n\n## Accomplishments that I'm proud of\n\n\nSending OpenCV to a HMD. Application towards rehabilitation. \n\n\n## What I learned\n\n\nNode.JS, Socket.IO, learned websockets. Some members first time using Unity. \n\n\n## What's next for Bodies In Motion\n\n\nVisual and audio cues to user when deviations from correct form are observed. Incorporation of various Physical Therapy exercises. Incorporation of fitness programs, providing feedback on sports performance. \n\n\n"
+}

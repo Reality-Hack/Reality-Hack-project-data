@@ -1,0 +1,20 @@
+{
+    "source": "https://devpost.com/software/fear-conquer-your-fear-of-public-speaking",
+    "title": "+-Fear - Conquer your fear of public speaking",
+    "blurb": "Mixed reality application that allows someone to practice speaking in public to hologram \"audiences\" ",
+    "awards": [],
+    "videos": [],
+    "images": [],
+    "team": [
+        {
+            "name": "Martin Tarr",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/420/907/datas/profile.jpg"
+        }
+    ],
+    "built_with": [
+        "microsoft-hololens"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>Team leader has a fear of speaking in public</p>\n<h2>What it does</h2>\n<p>Display holographic images of audiences where the player can practice speaking to audiences of different sizes</p>\n<h2>How I built it</h2>\n<p>Microsoft HoloLens</p>\n<h2>Challenges I ran into</h2>\n<p>No team member had Unity or HoloLens experience</p>\n<h2>Accomplishments that I'm proud of</h2>\n<p>Diving in and learning new technologies</p>\n<h2>What I learned</h2>\n<p>Intro to Unity and HoloLens</p>\n<h2>What's next for +-Fear - Conquer your fear of public speaking</h2>\n<p>undecided</p>\n<p>Team Leader Shailee Rindani 404-271-5393</p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nTeam leader has a fear of speaking in public\n\n\n## What it does\n\n\nDisplay holographic images of audiences where the player can practice speaking to audiences of different sizes\n\n\n## How I built it\n\n\nMicrosoft HoloLens\n\n\n## Challenges I ran into\n\n\nNo team member had Unity or HoloLens experience\n\n\n## Accomplishments that I'm proud of\n\n\nDiving in and learning new technologies\n\n\n## What I learned\n\n\nIntro to Unity and HoloLens\n\n\n## What's next for +-Fear - Conquer your fear of public speaking\n\n\nundecided\n\n\nTeam Leader Shailee Rindani 404-271-5393\n\n\n"
+}

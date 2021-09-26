@@ -1,0 +1,46 @@
+{
+    "source": "https://devpost.com/software/airspace",
+    "title": "AirSpace",
+    "blurb": "Augmented Reality for Air Traffic Control",
+    "awards": [
+        "Future Mobility: UX and new interaction methods [Sponsored by Volvo Cars]"
+    ],
+    "videos": [
+        "https://www.youtube.com/embed/Q_xMBfK21oc?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "Terrell Ibanez",
+            "about": "Team Lead / Developer",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/917/979/datas/profile.jpg"
+        },
+        {
+            "name": "ManuelGarzon",
+            "about": "I am a industrial designer. I work in ideation, human centered design and UX",
+            "photo": "https://graph.facebook.com/10156456110535146/picture?height=180&width=180"
+        },
+        {
+            "name": "Adam Halawani",
+            "about": "VR/AR Unity developer ",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/001/561/146/datas/profile.jpg"
+        },
+        {
+            "name": "Juan Gill",
+            "about": "Lead Designer - Unity Integration with 3D assets. Environment and Animation Design",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/924/153/datas/profile.jpeg"
+        },
+        {
+            "name": "Fan Marin",
+            "about": "UX/UI, branding, video editing. ",
+            "photo": "https://lh3.googleusercontent.com/a-/AOh14GjR7rztQ3psFobnxN5RlWG5kD9zgnwVEUpEe9hQ?height=180&width=180"
+        }
+    ],
+    "built_with": [
+        "c#",
+        "magic-leap",
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>Air traffic controllers use flat radar displays to view air traffic around an airport. However, unlike cars, planes move in 3 dimensions as they have an altitude component, so it's difficult to visualize exactly how far away they are from each other. Two planes overlapping may be right on top of each other about to crash, or several nautical miles away, free and clear.</p>\n<h2>What it does</h2>\n<p>AirSpace air traffic controllers visualize airplanes in 3D world space as opposed to 2D. This prototype shows the Boston Logan International airport and planes with their airline / flight information.</p>\n<h2>How we built it</h2>\n<p>We used the Unity engine with the Magic Leap One augmented reality headset.</p>\n<h2>Challenges we ran into</h2>\n<p>Had difficulties with detecting flat surfaces using plane detection for airport placement in the real-world</p>\n<p>Had issues with animations not scaling properly in Unity</p>\n<h2>Accomplishments that we're proud of</h2>\n<p>Being able to place airports on flat surfaces</p>\n<p>Visualizing planes in 3D world space</p>\n<h2>What we learned</h2>\n<p>How to develop for the Magic Leap</p>\n<p>How to use Unity animations</p>\n<h2>What's next for AirSpace</h2>\n<p>Interactive Flight Management - Adding the ability for air traffic controllers to issue commands directly in the interface</p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nAir traffic controllers use flat radar displays to view air traffic around an airport. However, unlike cars, planes move in 3 dimensions as they have an altitude component, so it's difficult to visualize exactly how far away they are from each other. Two planes overlapping may be right on top of each other about to crash, or several nautical miles away, free and clear.\n\n\n## What it does\n\n\nAirSpace air traffic controllers visualize airplanes in 3D world space as opposed to 2D. This prototype shows the Boston Logan International airport and planes with their airline / flight information.\n\n\n## How we built it\n\n\nWe used the Unity engine with the Magic Leap One augmented reality headset.\n\n\n## Challenges we ran into\n\n\nHad difficulties with detecting flat surfaces using plane detection for airport placement in the real-world\n\n\nHad issues with animations not scaling properly in Unity\n\n\n## Accomplishments that we're proud of\n\n\nBeing able to place airports on flat surfaces\n\n\nVisualizing planes in 3D world space\n\n\n## What we learned\n\n\nHow to develop for the Magic Leap\n\n\nHow to use Unity animations\n\n\n## What's next for AirSpace\n\n\nInteractive Flight Management - Adding the ability for air traffic controllers to issue commands directly in the interface\n\n\n"
+}

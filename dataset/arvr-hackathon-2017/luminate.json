@@ -1,0 +1,42 @@
+{
+    "source": "https://devpost.com/software/luminate",
+    "title": "Luminate",
+    "blurb": "Luminate elevates the experience of making digital monetary donations.",
+    "awards": [
+        "Best Everyday Mobile AR Hacks - 3rd"
+    ],
+    "videos": [
+        "https://www.youtube.com/embed/wvW1n66s9KQ?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "Kaitlyn-Irvine",
+            "about": "UI/UX, Brand Strategy, Storytelling, Project Management, Copywriting",
+            "photo": "https://avatars1.githubusercontent.com/u/22640105?height=180&v=4&width=180"
+        },
+        {
+            "name": "Angela May Nguyen",
+            "about": "Contributed to images, app idea, design, animations, copy.",
+            "photo": "https://media.licdn.com/mpr/mprx/0_xPs-kBv0qWU-PQiHM5CtfqkOzpc-9Fi40Ba-T_wOqVMPPBG5MBaPW_r0BMUP1NiNxBC-dBPxy4V1v_TZPhxau_OPJ4Vtv_QkvhxAbCIY-JfOxvg4JldxF9L7MShCp_Avp_ROhyUe6CY?height=180&width=180"
+        },
+        {
+            "name": "Jesse Litton",
+            "about": "I worked on the UI Integrations for the app.",
+            "photo": "https://avatars0.githubusercontent.com/u/696100?height=180&v=4&width=180"
+        },
+        {
+            "name": "Prayash Thapa",
+            "about": "ARKit + SceneKit + Firebase integration.",
+            "photo": "https://www.gravatar.com/avatar/f1750886d1d3a3cd99b0fc9824350348?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        }
+    ],
+    "built_with": [
+        "arkit",
+        "firebase",
+        "scenekit",
+        "swift"
+    ],
+    "content_html": "<div>\n<h2>Team Information</h2>\n<p><strong>Team Name:</strong> Reality.af</p>\n<p><strong>Team Lead:</strong> Prayash Thapa (303) 883-7541</p>\n<p><strong>Full-Team:</strong> Prayash Thapa, Angela Nguyen, Jesse Litton, Kaitlyn Irvine, </p>\n<p><strong>Location, Floor, and Room:</strong>\n(#49) Third floor, past the kitchen, around the purple sofas in the Living Mobile/Civic Media area</p>\n<h2>Project Information</h2>\n<p>Category: Education / AR/VR for Good</p>\n<p><strong>Project Name:</strong> Luminate\n<strong>Project Description:</strong>\nLuminate elevates the experience of making digital monetary donations. Luminate allows anyone to send funds and inspirational messages in a virtual lantern to a geo-tagged  fundraising location. Using Augmented Reality, recipients in that designated area can then explore the lanterns in real time with their mobile device.</p>\n<h2>Development Information</h2>\n<p><strong>Development Tools Used to Build:</strong>\nXcode</p>\n<p><strong>SDKs used:</strong>\nFirebase, ARkit, SceneKit</p>\n<p><strong>APIs used:</strong>\nFirebase</p>\n<p><strong>Any assets used that you did not create:</strong>\n[Water image]\nCC0 License \u2013 Free for personal/commercial use. No attribution required.\n<a href=\"https://www.pexels.com/photo/sea-water-blue-sun-62307/\" rel=\"nofollow\">https://www.pexels.com/photo/sea-water-blue-sun-62307/</a></p>\n<p>[Las Vegas Memorial image]\nJoel Angel Juarez, Las Vegas Review-Journal\n<a href=\"https://www.reviewjournal.com/wp-content/uploads/2017/10/9368727_web1_shootingday5_jj_001.jpg\" rel=\"nofollow\">https://www.reviewjournal.com/wp-content/uploads/2017/10/9368727_web1_shootingday5_jj_001.jpg</a></p>\n<p><strong>Any Libraries used:</strong>\nLBTA components</p>\n<p><strong>Screen capture of the application:</strong>\n<a href=\"https://youtu.be/wvW1n66s9KQ\" rel=\"nofollow\">https://youtu.be/wvW1n66s9KQ</a></p>\n<p><strong>Any components not created at the hackathon:</strong>\nNone.</p>\n</div>",
+    "content_md": "\n## Team Information\n\n\n**Team Name:** Reality.af\n\n\n**Team Lead:** Prayash Thapa (303) 883-7541\n\n\n**Full-Team:** Prayash Thapa, Angela Nguyen, Jesse Litton, Kaitlyn Irvine, \n\n\n**Location, Floor, and Room:**\n(#49) Third floor, past the kitchen, around the purple sofas in the Living Mobile/Civic Media area\n\n\n## Project Information\n\n\nCategory: Education / AR/VR for Good\n\n\n**Project Name:** Luminate\n**Project Description:**\nLuminate elevates the experience of making digital monetary donations. Luminate allows anyone to send funds and inspirational messages in a virtual lantern to a geo-tagged fundraising location. Using Augmented Reality, recipients in that designated area can then explore the lanterns in real time with their mobile device.\n\n\n## Development Information\n\n\n**Development Tools Used to Build:**\nXcode\n\n\n**SDKs used:**\nFirebase, ARkit, SceneKit\n\n\n**APIs used:**\nFirebase\n\n\n**Any assets used that you did not create:**\n[Water image]\nCC0 License \u2013 Free for personal/commercial use. No attribution required.\n<https://www.pexels.com/photo/sea-water-blue-sun-62307/>\n\n\n[Las Vegas Memorial image]\nJoel Angel Juarez, Las Vegas Review-Journal\n<https://www.reviewjournal.com/wp-content/uploads/2017/10/9368727_web1_shootingday5_jj_001.jpg>\n\n\n**Any Libraries used:**\nLBTA components\n\n\n**Screen capture of the application:**\n<https://youtu.be/wvW1n66s9KQ>\n\n\n**Any components not created at the hackathon:**\nNone.\n\n\n"
+}

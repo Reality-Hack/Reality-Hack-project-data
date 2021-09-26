@@ -1,0 +1,46 @@
+{
+    "source": "https://devpost.com/software/embiggen-the-embiggening",
+    "title": "Embiggen: The Embiggening",
+    "blurb": "Utilizing scaling to traverse large game maps while growing and shrinking items to interact with environment.",
+    "awards": [],
+    "videos": [],
+    "images": [],
+    "team": [
+        {
+            "name": "Chris Goodwin",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/2ef668fd13c15474ac1fc8c2c97db4bd?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Martin E",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/a5cd34672e0b9a6463cbcf551e5bcdb8?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Murch Ewings",
+            "about": "",
+            "photo": "https://media.licdn.com/dms/image/C4E03AQG9GNAI670qHg/profile-displayphoto-shrink_800_800/0?e=1564617600&height=180&t=tPGni7nmNoE-fqPo1mjUKNBZJ2C1rnKRTNW85cOXjAU&v=beta&width=180"
+        },
+        {
+            "name": "Thomas Rind",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/1bfec425f8b29eef6ecad3d906d4cbf1?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "liz Pasek-Allen",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/869cafc40b8b96beb241e51ee28f8946?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Charlie Pennington",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/9830a49a8f08e29994c8c8e9df0b74c0?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        }
+    ],
+    "built_with": [
+        "unity",
+        "vive"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>What began as detestation for teleportation as a lazy means\nof travel embiggenned into something more. By introducing\nthe scale mechanic, we aim to engender in the player a\ndeeper appreciation for his or her surroundings. We allow the\nplayer to move about the environment natrually.  We beleive\nthat expanding upon the preexisting human experience is the\nbest way to interact with the virtual world. This retains comfort\nwhile allowing the user to experience the amazing.</p>\n<h2>What it does</h2>\n<p>Allows you to traverse long distance by walking instead of\nteleporting. Also allows the user to either grow or shrink their\ncharacter and found items to problem solve and find\nalternative and creative use cases as they progress through\nthe world.</p>\n<h2>How we built it</h2>\n<p>With unity, the vive, and a little bit of luck.</p>\n<h2>Challenges we ran into</h2>\n<h2>Accomplishments that we're proud of</h2>\n<h2>What we learned</h2>\n<h2>What's next for Embiggen: The Embiggening</h2>\n<h2>The name of your team lead</h2>\n<p>Chris Goodwin</p>\n<h2>The team lead's telephone number</h2>\n<p>805-602-7848</p>\n<h2>The location where the judges can find your team including the floor number</h2>\n<p>6th floor.  Table 16/15</p>\n<h2>The vertical category in which you are competing</h2>\n<p>Entertainment/Gaming</p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nWhat began as detestation for teleportation as a lazy means\nof travel embiggenned into something more. By introducing\nthe scale mechanic, we aim to engender in the player a\ndeeper appreciation for his or her surroundings. We allow the\nplayer to move about the environment natrually. We beleive\nthat expanding upon the preexisting human experience is the\nbest way to interact with the virtual world. This retains comfort\nwhile allowing the user to experience the amazing.\n\n\n## What it does\n\n\nAllows you to traverse long distance by walking instead of\nteleporting. Also allows the user to either grow or shrink their\ncharacter and found items to problem solve and find\nalternative and creative use cases as they progress through\nthe world.\n\n\n## How we built it\n\n\nWith unity, the vive, and a little bit of luck.\n\n\n## Challenges we ran into\n\n\n## Accomplishments that we're proud of\n\n\n## What we learned\n\n\n## What's next for Embiggen: The Embiggening\n\n\n## The name of your team lead\n\n\nChris Goodwin\n\n\n## The team lead's telephone number\n\n\n805-602-7848\n\n\n## The location where the judges can find your team including the floor number\n\n\n6th floor. Table 16/15\n\n\n## The vertical category in which you are competing\n\n\nEntertainment/Gaming\n\n\n"
+}

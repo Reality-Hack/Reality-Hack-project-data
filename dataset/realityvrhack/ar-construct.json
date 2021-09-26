@@ -1,0 +1,38 @@
+{
+    "source": "https://devpost.com/software/ar-construct",
+    "title": "AR.Construct",
+    "blurb": "AR.Construct seeks to demonstrate assisted 3D assembly through the use of LEGO bricks",
+    "awards": [],
+    "videos": [],
+    "images": [],
+    "team": [
+        {
+            "name": "Tim Marquart",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/03d32e1653c054a2b59b07fbc6090365?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Gabe Evans",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/81a85c50965fc057e2b22ab1e7231566?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Jarrett Linowes",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/f25a02a329830261c375fc15bffa7dc8?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Jonathan Stets",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/451893ba5c7b18da8bb91fa42bdbf5a9?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        }
+    ],
+    "built_with": [
+        "microsoft-hololens",
+        "unity",
+        "visual-studio",
+        "vuforia"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>Today, almost everything that is built is created using 2D drawings, from bridges, to furniture, to rockets. Augmented reality presents an opportunity to view building instructions superimposed upon the item being built. This will improve efficiency for several industries and allow for more effective assembly instructions.</p>\n<h2>What it does</h2>\n<p>The project creates virtual LEGO bricks located in the user's field of vision to instruct them on the next step of the building process. </p>\n<h2>How We built it</h2>\n<p>Vuforia tracks an image that is used to pinpoint the location of the LEGO bricks. Each step in the process is triggered by user input, showing the user the next step. We used Unity to arrange the objects in 3D space, and the Hololens to project this image into the user's field of view.</p>\n<h2>Challenges I ran into</h2>\n<p>The software proved to be extremely challenging and had several bugs. The image tracking was inconsistent in the level of tracking accuracy it provided, and several issues with Visual Studio slowed development.</p>\n<h2>Accomplishments that I'm proud of</h2>\n<p>I am proud that the team has come together and we have solved many of our issues. The product is working well, but there is some work left before we are ready for tomorrow.</p>\n<h2>What I learned</h2>\n<p>Personally, I learned a lot more about Unity, got to see firsthand many of the issues that can come up, and improved my ability to work with a team</p>\n<h2>What's next for AR.Construct</h2>\n<p>This tool is a proof of concept to show what is possible with the technology. By extending the capabilities of the program, it can be used to construct more complex assemblies.</p>\n<h2>Notes</h2>\n<p>Team Lead - Tim Marquart\n832-940-4477\nFloor 6, Table 9\nCommerce/Industry (Engineering / Construction) </p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nToday, almost everything that is built is created using 2D drawings, from bridges, to furniture, to rockets. Augmented reality presents an opportunity to view building instructions superimposed upon the item being built. This will improve efficiency for several industries and allow for more effective assembly instructions.\n\n\n## What it does\n\n\nThe project creates virtual LEGO bricks located in the user's field of vision to instruct them on the next step of the building process. \n\n\n## How We built it\n\n\nVuforia tracks an image that is used to pinpoint the location of the LEGO bricks. Each step in the process is triggered by user input, showing the user the next step. We used Unity to arrange the objects in 3D space, and the Hololens to project this image into the user's field of view.\n\n\n## Challenges I ran into\n\n\nThe software proved to be extremely challenging and had several bugs. The image tracking was inconsistent in the level of tracking accuracy it provided, and several issues with Visual Studio slowed development.\n\n\n## Accomplishments that I'm proud of\n\n\nI am proud that the team has come together and we have solved many of our issues. The product is working well, but there is some work left before we are ready for tomorrow.\n\n\n## What I learned\n\n\nPersonally, I learned a lot more about Unity, got to see firsthand many of the issues that can come up, and improved my ability to work with a team\n\n\n## What's next for AR.Construct\n\n\nThis tool is a proof of concept to show what is possible with the technology. By extending the capabilities of the program, it can be used to construct more complex assemblies.\n\n\n## Notes\n\n\nTeam Lead - Tim Marquart\n832-940-4477\nFloor 6, Table 9\nCommerce/Industry (Engineering / Construction) \n\n\n"
+}

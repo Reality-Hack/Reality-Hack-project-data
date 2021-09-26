@@ -1,0 +1,42 @@
+{
+    "source": "https://devpost.com/software/algoar",
+    "title": "AlgoAR",
+    "blurb": "Immersive AR real time learning platform ",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/hqjmS1M4Tlo?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "Siddharth Kumar",
+            "about": "I worked on designing.",
+            "photo": "https://media.licdn.com/mpr/mprx/0_Plbbb71Cdi8MDGqOq8U8AkCGVg3pDmNjBRsTBAxkdiy0DCBgBiskFciGwK2KZ8RBGZsGnGCbZq8yfxnt6V9HKNGXfq8pfxQOlV9Hiv1CsquyfxMzKfRilTfaJfyrYdcvX3oeLmPSf_AzuRntmfd4tl?height=180&width=180"
+        },
+        {
+            "name": "Hairuo0118",
+            "about": "",
+            "photo": "https://avatars0.githubusercontent.com/u/32548072?height=180&v=4&width=180"
+        },
+        {
+            "name": "Mona Kim",
+            "about": "",
+            "photo": "https://avatars3.githubusercontent.com/u/22137972?height=180&v=4&width=180"
+        },
+        {
+            "name": "yunizoo",
+            "about": "",
+            "photo": "https://avatars3.githubusercontent.com/u/24235510?height=180&v=4&width=180"
+        }
+    ],
+    "built_with": [
+        "cinema-4d",
+        "photoshop",
+        "photoview-360",
+        "solidworks",
+        "unity",
+        "vuforia"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>We were inspired by difficult classes about algorithms in computing and engineering. These classes often require students to study complicated pseudo code to understand algorithms, however we found a better way to have fun while learning. </p>\n<h2>What it does</h2>\n<p>It teaches user to learn computer science algorithm by rearranging the order of physical cards. The user will see an array of real cards through the camera, and virtual numbers will be generated on the card through the camera by recognizing different cards. Then, the user will rearrange the order of the cards to learn algorithm.</p>\n<p>To make learning fun, we have created a system that helps a person build a mental model of an algorithm by following the steps of the algorithm using real objects. The real objects are tracked using computer vision and the </p>\n<h2>How we built it</h2>\n<p>We used Unity, Vuforia, a webcam, and Vuforia VuMark cards. We worked in unity to integrate VuMark Cards with an Augmented Reality Overlay.</p>\n<h2>Challenges we ran into</h2>\n<p>Initially we worked on integrating Vuforia and the Hololens. The latest software for each was not compatible and unfortunately we had to pivot to a webcam and laptop.\nWe also have difficulty displaying different number on different cards at the same time.</p>\n<h2>Accomplishments that we're proud of</h2>\n<p>Working together to learn the Vuforia API and to think about the future of education through Augmented Reality.</p>\n<h2>What we learned</h2>\n<p>We learned how to pivot and work together! </p>\n<h2>What's next for AlgoAR</h2>\n<p>To create more procedure lessons in the virtual classroom, and the content includes engineering, computer science and other lessons. For example, we want to create a maker classroom where you can disassemble or assemble a drone/robots, or learn about different robots and other maker projects for free in a procedure steps.</p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nWe were inspired by difficult classes about algorithms in computing and engineering. These classes often require students to study complicated pseudo code to understand algorithms, however we found a better way to have fun while learning. \n\n\n## What it does\n\n\nIt teaches user to learn computer science algorithm by rearranging the order of physical cards. The user will see an array of real cards through the camera, and virtual numbers will be generated on the card through the camera by recognizing different cards. Then, the user will rearrange the order of the cards to learn algorithm.\n\n\nTo make learning fun, we have created a system that helps a person build a mental model of an algorithm by following the steps of the algorithm using real objects. The real objects are tracked using computer vision and the \n\n\n## How we built it\n\n\nWe used Unity, Vuforia, a webcam, and Vuforia VuMark cards. We worked in unity to integrate VuMark Cards with an Augmented Reality Overlay.\n\n\n## Challenges we ran into\n\n\nInitially we worked on integrating Vuforia and the Hololens. The latest software for each was not compatible and unfortunately we had to pivot to a webcam and laptop.\nWe also have difficulty displaying different number on different cards at the same time.\n\n\n## Accomplishments that we're proud of\n\n\nWorking together to learn the Vuforia API and to think about the future of education through Augmented Reality.\n\n\n## What we learned\n\n\nWe learned how to pivot and work together! \n\n\n## What's next for AlgoAR\n\n\nTo create more procedure lessons in the virtual classroom, and the content includes engineering, computer science and other lessons. For example, we want to create a maker classroom where you can disassemble or assemble a drone/robots, or learn about different robots and other maker projects for free in a procedure steps.\n\n\n"
+}

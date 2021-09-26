@@ -1,0 +1,32 @@
+{
+    "source": "https://devpost.com/software/life-cmlf20",
+    "title": "Life",
+    "blurb": "Life is a Virtual reality experience transforming real-time datastream into an immersive surreal environment. This whole project is about only one everchanging number - the world population.",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/Uf0n0wXQ6K4?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [
+        {
+            "title": "Flower representing each person&#39;s unique birth ID",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/243/datas/original.png"
+        },
+        {
+            "title": "Teleport",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/244/datas/original.png"
+        }
+    ],
+    "team": [
+        {
+            "name": "miaguo19 Guo",
+            "about": "",
+            "photo": "https://avatars0.githubusercontent.com/u/54534621?height=180&v=4&width=180"
+        }
+    ],
+    "built_with": [
+        "c#",
+        "vive"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<ul>\n<li>The theory of id, ego, and superego</li>\n<li>Landscape painting</li>\n<li>The idea and conception of life and death</li>\n<li>Visualization</li>\n</ul>\n<h2>What it does</h2>\n<ul>\n<li>A whole 3d experience about a single 2d number.</li>\n<li>The VR application visualizes live population data from worldometer.org by using the nature and landscape as the canvas. </li>\n<li>It shows how the world population changes at every moment. </li>\n<li>The user can pick up random flowers on the ground that represents the new life being born at each moment. The users will be able to see the unique id of the flower.</li>\n<li>The user will be able to interact with the fish and whales at the end. It represents the dead since life comes from water. </li>\n<li>It offers a holistic and different experience of data visualization.</li>\n</ul>\n<h2>How I built it</h2>\n<ul>\n<li>We used Unity and C#</li>\n</ul>\n<h2>Challenges I ran into</h2>\n<ul>\n<li>Wiring the data into the visualization</li>\n</ul>\n<h2>Accomplishments that I'm proud of</h2>\n<p>This is the first VR project for some of the members. </p>\n<h2>What I learned</h2>\n<ul>\n<li>Unity development. </li>\n</ul>\n<h2>What's next for Life</h2>\n<p>We imagined 2 more scenes, where the player will enter the ocean and submerge into the dead world. We will link the live death data and use similar visualizations. \nFirst, add two other scenes. Due to the time limitation, we could only build the first</p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\n* The theory of id, ego, and superego\n* Landscape painting\n* The idea and conception of life and death\n* Visualization\n\n\n## What it does\n\n\n* A whole 3d experience about a single 2d number.\n* The VR application visualizes live population data from worldometer.org by using the nature and landscape as the canvas.\n* It shows how the world population changes at every moment.\n* The user can pick up random flowers on the ground that represents the new life being born at each moment. The users will be able to see the unique id of the flower.\n* The user will be able to interact with the fish and whales at the end. It represents the dead since life comes from water.\n* It offers a holistic and different experience of data visualization.\n\n\n## How I built it\n\n\n* We used Unity and C#\n\n\n## Challenges I ran into\n\n\n* Wiring the data into the visualization\n\n\n## Accomplishments that I'm proud of\n\n\nThis is the first VR project for some of the members. \n\n\n## What I learned\n\n\n* Unity development.\n\n\n## What's next for Life\n\n\nWe imagined 2 more scenes, where the player will enter the ocean and submerge into the dead world. We will link the live death data and use similar visualizations. \nFirst, add two other scenes. Due to the time limitation, we could only build the first\n\n\n"
+}

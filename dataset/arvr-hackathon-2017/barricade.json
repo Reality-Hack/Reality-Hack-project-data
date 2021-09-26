@@ -1,0 +1,46 @@
+{
+    "source": "https://devpost.com/software/barricade",
+    "title": "Barricade",
+    "blurb": "The classic game rampart gets a modern interpretation with spacial mapping and 3d awareness in the Hololens.",
+    "awards": [
+        "Best Microsoft Mixed Reality project"
+    ],
+    "videos": [
+        "https://www.youtube.com/embed/yq26Cb4TND0?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [
+        {
+            "title": "Level generation based on your environment",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/546/873/datas/original.png"
+        }
+    ],
+    "team": [
+        {
+            "name": "Scott Niejadlik",
+            "about": "Original concept creation, team management, world space angle and position shader coding,  extraction of the meshes after spatial understanding is complete in offer to turn them into game object locations. helping concept the algorithms and helped code for the grid based solution solving tiles, modelled the simple structures presented, textured a few of them.",
+            "photo": "https://lh3.googleusercontent.com/a-/AOh14GiY3WX8vYskRERZ8mqDEx8TqszGipo1hZzuyH3R4A?height=180&width=180"
+        },
+        {
+            "name": "Tin Chag",
+            "about": "Spatial Mapping + Understanding,\nNetworking, \nMenu UI.",
+            "photo": "https://www.gravatar.com/avatar/de2a1e57672f86438dbae1a0c307ad45?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "F O",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/980/054/datas/profile.jpg"
+        },
+        {
+            "name": "Sean Nealon",
+            "about": "",
+            "photo": "https://avatars3.githubusercontent.com/u/18402909?height=180&v=4&width=180"
+        }
+    ],
+    "built_with": [
+        "c#",
+        "microsoft-hololens",
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>On the night of January 3rd, before any of us ever knew each other we all woke up in a cold sweat.  The image of castles on a majestic peak overlooking a mighty ocean.  On the horizon, pirate ships emerged from the briney deep.  We were all shocked to realize that we all shared this same vision.  We knew we had to build this experience, like the misty morning ocean breeze, it stirred out spirits and inspired us to take on this mighty challenge.</p>\n<h2>What it does</h2>\n<p>Quick to the Baracades!  Scan your immediate environment and watch it transform into a lush and tropical archipelago, your furniture transforms into mighty cliffs rising out of the oceans. Prime territory for your defensive positions from the the fearsome pirates that want to destroy your lovely tropical paradise. Construct your Barricades and fortify your towns in a strategic race to construct.  Then prepare your defenses and destroy the enemy.  Rinse and repeat till you are either dead or king of the oceans.</p>\n<h2>How we built it</h2>\n<p>Red bull, Unity, C#, Hololens, SMiles, Free food, Swag, and Charisma.  Also a healthy dose of human adrenal glands.</p>\n<h2>Challenges we ran into</h2>\n<p>Tile based placement and algorithms to determine when our constructions are complete.  Shader complexity for painting the environment based on angles and postions.  Spatial mapping and understanding to help identify prime locations for placement of assets.  Sharing services is very hard, we were able to get a basic version of it working which is impressive in it's own right. </p>\n<p>More to come tomorrow.</p>\n<h2>Accomplishments that we're proud of</h2>\n<p>Spatial mapping used to generate the playing level, level calculations in order to determine castle placement viability on the grid, sharing services in order to allow a very rudimentary coop mode. </p>\n<h2>What we learned</h2>\n<p>Spatial understanding queries and extracting meshes from the mixed reality toolkit.  Networked sharing of holograms and interfaces.  Explored complex shader algorithms in order to create adaptive environments.  Learning Fill hole algorithms and custom building a prototype to mimic the original rampart style castle build phases. The the hololens continues to amaze us with its capabilities and feeling of living in the future.</p>\n<h2>What's next for Barricade</h2>\n<p>Expanding the scope of the game engine, allowing for full placement of castle pieces and ship spawning, full combat mode, sharing coop more, and network play.  </p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nOn the night of January 3rd, before any of us ever knew each other we all woke up in a cold sweat. The image of castles on a majestic peak overlooking a mighty ocean. On the horizon, pirate ships emerged from the briney deep. We were all shocked to realize that we all shared this same vision. We knew we had to build this experience, like the misty morning ocean breeze, it stirred out spirits and inspired us to take on this mighty challenge.\n\n\n## What it does\n\n\nQuick to the Baracades! Scan your immediate environment and watch it transform into a lush and tropical archipelago, your furniture transforms into mighty cliffs rising out of the oceans. Prime territory for your defensive positions from the the fearsome pirates that want to destroy your lovely tropical paradise. Construct your Barricades and fortify your towns in a strategic race to construct. Then prepare your defenses and destroy the enemy. Rinse and repeat till you are either dead or king of the oceans.\n\n\n## How we built it\n\n\nRed bull, Unity, C#, Hololens, SMiles, Free food, Swag, and Charisma. Also a healthy dose of human adrenal glands.\n\n\n## Challenges we ran into\n\n\nTile based placement and algorithms to determine when our constructions are complete. Shader complexity for painting the environment based on angles and postions. Spatial mapping and understanding to help identify prime locations for placement of assets. Sharing services is very hard, we were able to get a basic version of it working which is impressive in it's own right. \n\n\nMore to come tomorrow.\n\n\n## Accomplishments that we're proud of\n\n\nSpatial mapping used to generate the playing level, level calculations in order to determine castle placement viability on the grid, sharing services in order to allow a very rudimentary coop mode. \n\n\n## What we learned\n\n\nSpatial understanding queries and extracting meshes from the mixed reality toolkit. Networked sharing of holograms and interfaces. Explored complex shader algorithms in order to create adaptive environments. Learning Fill hole algorithms and custom building a prototype to mimic the original rampart style castle build phases. The the hololens continues to amaze us with its capabilities and feeling of living in the future.\n\n\n## What's next for Barricade\n\n\nExpanding the scope of the game engine, allowing for full placement of castle pieces and ship spawning, full combat mode, sharing coop more, and network play. \n\n\n"
+}

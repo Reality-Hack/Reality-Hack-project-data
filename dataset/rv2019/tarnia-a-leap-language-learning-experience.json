@@ -1,0 +1,44 @@
+{
+    "source": "https://devpost.com/software/tarnia-a-leap-language-learning-experience",
+    "title": "Tarnia",
+    "blurb": "Creating an AR environment where the user can learn a language by exploring the world around with Tarnia",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/UNikLK6pxOI?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "Josue V",
+            "about": "",
+            "photo": "https://media.licdn.com/dms/image/C4E03AQFpqbcyfQYFTA/profile-displayphoto-shrink_100_100/0?e=1553126400&height=180&t=TEqiOf-7AbJ-9o3Qk3T-0Hg3ms14Vd-vsv7_eqaE7u4&v=beta&width=180"
+        },
+        {
+            "name": "Fin Ambsdorf",
+            "about": "",
+            "photo": "https://avatars1.githubusercontent.com/u/32569726?height=180&v=4&width=180"
+        },
+        {
+            "name": "Ruiming Wang",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/742/748/datas/profile.jpg"
+        },
+        {
+            "name": "Seyitan Oke",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/412/928/datas/profile.jpg"
+        }
+    ],
+    "built_with": [
+        "blender",
+        "c#",
+        "google-cloud",
+        "ibm-watson",
+        "json",
+        "magic-leap",
+        "mixamo",
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>What inspired us</h2>\n<p>Our whole team is made of individuals where everyone had to learn a second language. We realized that everyone had their own different learning styles that allowed them to learn the language. There are some visual learners, spacial learners, audio learners, and kinetic learners. Classic curriculums have always catered to the paper based memorizing style of learning. We saw a potential for the Magic Leap to allow us to create new language learning experiences that cater to specific learning styles. By using the Magic Leap spatial computing capabilities, with the power of Google's Cloud API we thought we could create a learning experience catered to visual-spatial learners.</p>\n<h2>What it does</h2>\n<p>The Tarnia application uses a task-based learning approached backed by research to set the user on a quest to find items in their space. When they find the items, Tarnia will teach them the German word for the object in the room that they are pointing at. The Magic Leap will keep the translated label of the word in the 3d space and the user can revisit if necessary.</p>\n<h2>How we built it</h2>\n<p>We used the Magic Leap SDK for Unity as a Starting Point to capture a 2D Image with the Magic Leap. Then we worked on a Way to use the Google Vision API, Text to Speech and Translate  with Unity. After that was done, we were able to create a MVP that captures a 2D Image, upload it to Google, analyze it and then tells the User the what he is seeing in his chosen Language.</p>\n<h2>Challenges we ran into</h2>\n<p>We had some Problems with Github as well as with the Magic Leap SDK as it was a completely new toolset for us.</p>\n<h2>Accomplishments that we are proud of</h2>\n<p>The Integration and process flow to identify and image from the magic leap in live view is our greatest accomplishments. We believe this will be the backbone for creating a free flowing task base learning experience.</p>\n<h2>What's next for Tarnia</h2>\n<p>Next we want to continue to develop more modes for learning, more games, and more stories. We think that the magic leap will enable easier language learning experience for different learning styles. For the foreseeable future, we will be designing task based games (proven by research), visual spatial (enables spatial learners), and story based(bringing in human narratives to language learning) experiences.</p>\n</div>",
+    "content_md": "\n## What inspired us\n\n\nOur whole team is made of individuals where everyone had to learn a second language. We realized that everyone had their own different learning styles that allowed them to learn the language. There are some visual learners, spacial learners, audio learners, and kinetic learners. Classic curriculums have always catered to the paper based memorizing style of learning. We saw a potential for the Magic Leap to allow us to create new language learning experiences that cater to specific learning styles. By using the Magic Leap spatial computing capabilities, with the power of Google's Cloud API we thought we could create a learning experience catered to visual-spatial learners.\n\n\n## What it does\n\n\nThe Tarnia application uses a task-based learning approached backed by research to set the user on a quest to find items in their space. When they find the items, Tarnia will teach them the German word for the object in the room that they are pointing at. The Magic Leap will keep the translated label of the word in the 3d space and the user can revisit if necessary.\n\n\n## How we built it\n\n\nWe used the Magic Leap SDK for Unity as a Starting Point to capture a 2D Image with the Magic Leap. Then we worked on a Way to use the Google Vision API, Text to Speech and Translate with Unity. After that was done, we were able to create a MVP that captures a 2D Image, upload it to Google, analyze it and then tells the User the what he is seeing in his chosen Language.\n\n\n## Challenges we ran into\n\n\nWe had some Problems with Github as well as with the Magic Leap SDK as it was a completely new toolset for us.\n\n\n## Accomplishments that we are proud of\n\n\nThe Integration and process flow to identify and image from the magic leap in live view is our greatest accomplishments. We believe this will be the backbone for creating a free flowing task base learning experience.\n\n\n## What's next for Tarnia\n\n\nNext we want to continue to develop more modes for learning, more games, and more stories. We think that the magic leap will enable easier language learning experience for different learning styles. For the foreseeable future, we will be designing task based games (proven by research), visual spatial (enables spatial learners), and story based(bringing in human narratives to language learning) experiences.\n\n\n"
+}

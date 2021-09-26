@@ -1,0 +1,44 @@
+{
+    "source": "https://devpost.com/software/strangers-with-us",
+    "title": "Strangers Within Us",
+    "blurb": "A ride through an unknown neighborhood reveals our misconceptions of those around us.",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/pvEWU6p1ICE?enablejsapi=1&hl=en_US&rel=0&start=22&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "Fabian Patino",
+            "about": "Contributed with my experience with 360 video on setting up the shots and with equipment.   Troubleshooting technical difficulties as well. ",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/420/703/datas/profile.jpg"
+        },
+        {
+            "name": "Haider Ali",
+            "about": "I worked as a VR Director of Photography ",
+            "photo": "https://media.licdn.com/mpr/mprx/0_tDCUdnnQbDj8ImYFgy9VXTxbFRT8IO1BcdsU2CsbXZY3Im-UUDqvFFZbTJDjDx-VRyVVCkBFIYyTDV1VYYbb3CnImYyhDsncRYbZo__65xWuFuSwBfA9EcScaIQrks36tjiBSg_lAkm?height=180&width=180"
+        },
+        {
+            "name": "Ezequiellenard",
+            "about": "I worked on the script and as a creative producer",
+            "photo": "https://avatars3.githubusercontent.com/u/32619536?height=180&v=4&width=180"
+        },
+        {
+            "name": "Musharaf",
+            "about": "",
+            "photo": "https://graph.facebook.com/1932658956760887/picture?height=180&width=180"
+        },
+        {
+            "name": "Hemalt",
+            "about": "",
+            "photo": "https://graph.facebook.com/10156020312048322/picture?height=180&width=180"
+        }
+    ],
+    "built_with": [
+        "photoshop",
+        "ricoh",
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>To explore the misconceptions we may have about unknown places and people.</p>\n<h2>What it does</h2>\n<p>Build empathy through a 360 video experience</p>\n<h2>How I built it</h2>\n<p>We used the Ricoh Theta V to film  and final cut to edit.  </p>\n<h2>Challenges I ran into</h2>\n<p>Framing the story into the correct perspective without falling into stereotypes.  Quickly planning out and filming in locations unknown to any of the devs.  Engaging locals to participate in our video experience.</p>\n<h2>Accomplishments that I'm proud of</h2>\n<p>Being able to include a community in this case which was the Boys and Girls Club of Boston.  We were able to connect and have a great time with a large range of demographics and the process itself become collaborative and inclusive. </p>\n<h2>What I learned</h2>\n<p>Not to judge a book by its cover.  Technology has a way to connect us and immerse us into situations we would normally want to avoid due to our misunderstandings of communities we don't have regular contact with.</p>\n<h2>What's next for Strangers With Us</h2>\n<p>Explore more interactive manners to further explore this seem and create greater empathy and understanding.  We want to create a better sense of community.</p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nTo explore the misconceptions we may have about unknown places and people.\n\n\n## What it does\n\n\nBuild empathy through a 360 video experience\n\n\n## How I built it\n\n\nWe used the Ricoh Theta V to film and final cut to edit. \n\n\n## Challenges I ran into\n\n\nFraming the story into the correct perspective without falling into stereotypes. Quickly planning out and filming in locations unknown to any of the devs. Engaging locals to participate in our video experience.\n\n\n## Accomplishments that I'm proud of\n\n\nBeing able to include a community in this case which was the Boys and Girls Club of Boston. We were able to connect and have a great time with a large range of demographics and the process itself become collaborative and inclusive. \n\n\n## What I learned\n\n\nNot to judge a book by its cover. Technology has a way to connect us and immerse us into situations we would normally want to avoid due to our misunderstandings of communities we don't have regular contact with.\n\n\n## What's next for Strangers With Us\n\n\nExplore more interactive manners to further explore this seem and create greater empathy and understanding. We want to create a better sense of community.\n\n\n"
+}

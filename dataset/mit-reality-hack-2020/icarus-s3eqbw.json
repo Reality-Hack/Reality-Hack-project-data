@@ -1,0 +1,64 @@
+{
+    "source": "https://devpost.com/software/icarus-s3eqbw",
+    "title": "Icarus",
+    "blurb": "A Simulation of the Human Anthropocene",
+    "awards": [],
+    "videos": [
+        "https://player.vimeo.com/video/385861344?byline=0&portrait=0&title=0#t="
+    ],
+    "images": [
+        {
+            "title": "Primary Navigation Interface - Photo 1",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/121/datas/original.jpg"
+        },
+        {
+            "title": "Primary Navigation Interface - Photo 2",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/122/datas/original.jpg"
+        },
+        {
+            "title": "Primary Navigation Interface - Photo 3",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/123/datas/original.jpg"
+        },
+        {
+            "title": "Luscious Forest - Photo 1",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/131/datas/original.jpg"
+        },
+        {
+            "title": "Luscious Forest - Photo 2",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/132/datas/original.jpg"
+        },
+        {
+            "title": "Luscious Forest - Photo 3",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/125/datas/original.jpg"
+        },
+        {
+            "title": "Incinerated Forest",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/124/datas/original.jpg"
+        }
+    ],
+    "team": [
+        {
+            "name": "deleted deleted",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/6bd927cbe9b5c30834e5f44cb03c3541?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        }
+    ],
+    "built_with": [
+        "aftereffects",
+        "c#",
+        "cinema4d",
+        "houdini",
+        "leap-motion",
+        "mediaencoder",
+        "octanerender",
+        "photoshop",
+        "substancedesigner",
+        "substancepainter",
+        "topazlabs",
+        "unfold3d",
+        "unity",
+        "varjo"
+    ],
+    "content_html": "<div>\n<h1>Icarus - Earth Has Fallen.</h1>\n<p>Welcome to Icarus. Inspired by recent wildfires and natural disasters, Icarus is an ultra-high resolution virtual reality experience. The experience begins in a man-made room, giving the user the choice to one of three natural environments.</p>\n<p>Upon entering one of the environments, users are presented with the ability to impact their world through direct object manipulation. As users steadily tarnish the world, a social parallel to what humanity has done to Earth, the conditions degrade rapidly.</p>\n<p>The experience ends in a eerie scene of the world bereft of life, on fire. This is a commentary on the recent wildfires and natural disasters that have been ravaging the planet. We'd like Icarus to raise awareness for these kinds of events, and thanks to the ultra-high resolution of the Varjo headset, we can depict these kinds of changes in unparalleled quality.</p>\n</div>",
+    "content_md": "\n# Icarus - Earth Has Fallen.\n\n\nWelcome to Icarus. Inspired by recent wildfires and natural disasters, Icarus is an ultra-high resolution virtual reality experience. The experience begins in a man-made room, giving the user the choice to one of three natural environments.\n\n\nUpon entering one of the environments, users are presented with the ability to impact their world through direct object manipulation. As users steadily tarnish the world, a social parallel to what humanity has done to Earth, the conditions degrade rapidly.\n\n\nThe experience ends in a eerie scene of the world bereft of life, on fire. This is a commentary on the recent wildfires and natural disasters that have been ravaging the planet. We'd like Icarus to raise awareness for these kinds of events, and thanks to the ultra-high resolution of the Varjo headset, we can depict these kinds of changes in unparalleled quality.\n\n\n"
+}

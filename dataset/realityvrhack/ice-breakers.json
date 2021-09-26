@@ -1,0 +1,33 @@
+{
+    "source": "https://devpost.com/software/ice-breakers",
+    "title": "Ice Breakers",
+    "blurb": "Travel through (literally) Greenland go to places that the laws of physics won't allow you to travel to in real life!",
+    "awards": [],
+    "videos": [],
+    "images": [],
+    "team": [
+        {
+            "name": "Alexandra Boghosian",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/9e812f84667beae23528ad1d6cd0b3e8?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Shaash S",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/92ef2056cb056fc7ab80f8e75c91da4b?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Michael Wissner",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/546/969/datas/profile.jpg"
+        },
+        {
+            "name": "Qiushuo Wang",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/fcb6bf9669232c17664aa009c44a875d?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        }
+    ],
+    "built_with": [],
+    "content_html": "<div>\n<h2>Important information requested</h2>\n<p>Alexandra Boghosian,\n9176700235,\n6th floor, table 13,\nEducation</p>\n<h2>Inspiration</h2>\n<p>I've been sending scientists into the field with 360 cameras to document their work, and I realized that eventually we are going to photograph the planet in 360. and that's going to get boring.</p>\n<p><strong>we are taking people through the ice sheets</strong>\nbecause...</p>\n<p>1) they are remote\n2) they are dangerous\n3) they are dark half the year\n4) they are beautiful\n5) and they are important for sea level rise and climate change</p>\n<h2>What it does</h2>\n<p>We built a model of Greenland from real data that have been collected via satellite and airborne missions. We move around the surface of Greenland in a plane, the way that the majority of data are collected, pointing out important features along the way. We also take you below the ice, so you can discover a place that hasn't seen the atmosphere in over 100,000 years!</p>\n<h2>How I built it</h2>\n<p>Working on it! With real data, and unity</p>\n<h2>Future plans</h2>\n<p>So many... we will tell you about them!</p>\n</div>",
+    "content_md": "\n## Important information requested\n\n\nAlexandra Boghosian,\n9176700235,\n6th floor, table 13,\nEducation\n\n\n## Inspiration\n\n\nI've been sending scientists into the field with 360 cameras to document their work, and I realized that eventually we are going to photograph the planet in 360. and that's going to get boring.\n\n\n**we are taking people through the ice sheets**\nbecause...\n\n\n1) they are remote\n2) they are dangerous\n3) they are dark half the year\n4) they are beautiful\n5) and they are important for sea level rise and climate change\n\n\n## What it does\n\n\nWe built a model of Greenland from real data that have been collected via satellite and airborne missions. We move around the surface of Greenland in a plane, the way that the majority of data are collected, pointing out important features along the way. We also take you below the ice, so you can discover a place that hasn't seen the atmosphere in over 100,000 years!\n\n\n## How I built it\n\n\nWorking on it! With real data, and unity\n\n\n## Future plans\n\n\nSo many... we will tell you about them!\n\n\n"
+}

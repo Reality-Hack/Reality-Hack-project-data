@@ -1,0 +1,50 @@
+{
+    "source": "https://devpost.com/software/d2",
+    "title": "D2",
+    "blurb": "Depression diagnosis for Diabetes patients, hacked in 48h for #RealityVirtuallyHack",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/a-uA7xsdAKQ?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [
+        {
+            "title": "Explore Nature, find coins, enjoy the fireworks!",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/424/144/datas/original.jpg"
+        }
+    ],
+    "team": [
+        {
+            "name": "Konrad Feiler",
+            "about": "Engineer, polyglot programmer, nature enthusiast",
+            "photo": "https://www.gravatar.com/avatar/0fd70f0e37ab418e86035c1ccad58eee?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Rohit Agrawal",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/424/260/datas/profile.jpg"
+        },
+        {
+            "name": "Sarfraz Ahmad",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/b37ce38af182aec3d4e86d2d23039036?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Jeanne Kelly",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/782/594/datas/profile.jpeg"
+        },
+        {
+            "name": "RikasShen",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/424/270/datas/profile.jpg"
+        }
+    ],
+    "built_with": [
+        "android-wear",
+        "gearvr",
+        "iot",
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>What it does</h2>\n<p>Our concept is to provide a self administered, entertaining and approachable method of relief from depression to patients with diabetes.\nWe propose a lush tranquil exploratory virtual environment with moments of discovery, gratification and reward. Our experience will allow the patient to freely explore a lush natural setting with moments of magical discovery, distracting the patients attention from their illness and depression - allowing them moments of joy that can actually improve their condition and quality of life.</p>\n<h2>How we built it</h2>\n<p>Through collaborative effort of a multi dimensional team consisting of a Game Developer, Software Designer, Product Manager, Physician and Software engineer.\nWe developed our product using Unity platform, Gear VR (Oculus) and Samsung S6. </p>\n<h2>Challenges we ran into</h2>\n<p>Apart from bug fixes, there were some issues with the linking of navigation with the field of vision. Designing for depressed patients is also difficult and the immersive surrounding will evolve based on the feedback from the users over the period of time.</p>\n<h2>Accomplishments that we're proud of</h2>\n<p>We got great feedback and confidence in our concept from many experts.\nWe also managed to add the navigation component and discovery of objects in the scene to the immersive experience.\nWe were running tight on time but still were able to add many additional components to the immersive surrounding.</p>\n<h2>What we learned</h2>\n<p>We learned many things about the unity platform and how to work in collaborative atmosphere. Depression in diabetic patients is an under-addressed issue with high costs to individuals and society. We should all probably be spending a lot more time walking in nature.</p>\n<h2>What's next for D2</h2>\n<p>To validate the results of our effort in a clinical study. The results will help us to refine our product and to make it more user engaging.\nOur ultimate aim is to make it cost effective so that it be used by users all over the globe. </p>\n<p>Team Lead: Rohit Agrawal , 8572346739, Floor 6 - Table 8, Human Well-Being - Health</p>\n</div>",
+    "content_md": "\n## What it does\n\n\nOur concept is to provide a self administered, entertaining and approachable method of relief from depression to patients with diabetes.\nWe propose a lush tranquil exploratory virtual environment with moments of discovery, gratification and reward. Our experience will allow the patient to freely explore a lush natural setting with moments of magical discovery, distracting the patients attention from their illness and depression - allowing them moments of joy that can actually improve their condition and quality of life.\n\n\n## How we built it\n\n\nThrough collaborative effort of a multi dimensional team consisting of a Game Developer, Software Designer, Product Manager, Physician and Software engineer.\nWe developed our product using Unity platform, Gear VR (Oculus) and Samsung S6. \n\n\n## Challenges we ran into\n\n\nApart from bug fixes, there were some issues with the linking of navigation with the field of vision. Designing for depressed patients is also difficult and the immersive surrounding will evolve based on the feedback from the users over the period of time.\n\n\n## Accomplishments that we're proud of\n\n\nWe got great feedback and confidence in our concept from many experts.\nWe also managed to add the navigation component and discovery of objects in the scene to the immersive experience.\nWe were running tight on time but still were able to add many additional components to the immersive surrounding.\n\n\n## What we learned\n\n\nWe learned many things about the unity platform and how to work in collaborative atmosphere. Depression in diabetic patients is an under-addressed issue with high costs to individuals and society. We should all probably be spending a lot more time walking in nature.\n\n\n## What's next for D2\n\n\nTo validate the results of our effort in a clinical study. The results will help us to refine our product and to make it more user engaging.\nOur ultimate aim is to make it cost effective so that it be used by users all over the globe. \n\n\nTeam Lead: Rohit Agrawal , 8572346739, Floor 6 - Table 8, Human Well-Being - Health\n\n\n"
+}

@@ -1,0 +1,31 @@
+{
+    "source": "https://devpost.com/software/aurar",
+    "title": "AurAR",
+    "blurb": "AR experience that let you see your aura ",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/UCG_o-ZMD2d-C-REEx4xGR7w?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "Mengzhen Xiao",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/fe511dac228b2bebe81ea5db71d0673f?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Lin Zhang",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/742/205/datas/profile.jpg"
+        }
+    ],
+    "built_with": [
+        "aframe",
+        "clmtrackr",
+        "javascript",
+        "posenet",
+        "three.js"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>Our inspiration comes from the aura photo trend. We have seen a lot of people sharing their aura photo online, like this: <a href=\"https://www.instagram.com/p/BstxMarFCDt/?utm_source=ig_web_options_share_sheet\" rel=\"nofollow\">https://www.instagram.com/p/BstxMarFCDt/?utm_source=ig_web_options_share_sheet</a>. We like the idea and think we can bring this experience in a more interactive and dynamic setting in AR. </p>\n<h2>What it does</h2>\n<p>We plan to give as many people as possible to access this experience; therefore we are building for web AR. The user will open our website on a web browser. They are instructed to take a selfie and it will be analyzed and show their aura displayed. </p>\n<h2>How we built it</h2>\n<p>In this project, we are using aframe-ar, three.js, clmtrackr, and posenet.</p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nOur inspiration comes from the aura photo trend. We have seen a lot of people sharing their aura photo online, like this: <https://www.instagram.com/p/BstxMarFCDt/?utm_source=ig_web_options_share_sheet>. We like the idea and think we can bring this experience in a more interactive and dynamic setting in AR. \n\n\n## What it does\n\n\nWe plan to give as many people as possible to access this experience; therefore we are building for web AR. The user will open our website on a web browser. They are instructed to take a selfie and it will be analyzed and show their aura displayed. \n\n\n## How we built it\n\n\nIn this project, we are using aframe-ar, three.js, clmtrackr, and posenet.\n\n\n"
+}

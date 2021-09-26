@@ -1,0 +1,49 @@
+{
+    "source": "https://devpost.com/software/vr-story-tellers",
+    "title": "VR Story Tellers",
+    "blurb": "Let your story come alive into an Interactive VR, real time, right from the pages of a book or any text input.",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/0TdY-7lcVP8?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "Yuta Toga",
+            "about": "sound design, sound part of unity develop ",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/420/695/datas/profile.jpg"
+        },
+        {
+            "name": "Nabanita De",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/424/582/datas/profile.jpg"
+        },
+        {
+            "name": "Adrian Babilinski",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/420/691/datas/profile.jpg"
+        },
+        {
+            "name": "pat pataranutaporn",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/59f516b4fcf9f48508883070ce4aefde?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Biswaraj Kar",
+            "about": "",
+            "photo": "https://res.cloudinary.com/devpost/image/upload/b_transparent,c_pad,g_center,h_150,w_150/v1476193365/xetevcinokz23blvoqgz.jpg?height=180&width=180"
+        }
+    ],
+    "built_with": [
+        "amazon-web-services",
+        "google-cardboard",
+        "ibm-watson",
+        "ibmwatsontoneanalyzer",
+        "microsoft-azure-cognitive-services",
+        "microsoftcognitiveservices",
+        "unity",
+        "visual-studio"
+    ],
+    "content_html": "<div>\n<p>The Inception of the project was at the MIT Media Lab Reality Virtually Hackathon, where all of our team members brainstormed &amp; came up with this idea of turning text to a Virtual Reality Experience in real time.</p>\n<h2>Main Idea:</h2>\n<p>On entering your story on our website, the app generates the viewable VR content including real life characters(images), objects in proper locations - scenes(background), coupled with a background sound based on the characters, actions and mood on the Story plot.</p>\n<h2>Interface:</h2>\n<p>We have built a website to enter your own story (as plain text). As you click on submit, we analyze and figure out the main objects,  their descriptions, the background and the overall mood of the story using machine learning and natural language processing.\nWe used Machine learning APIs of Microsoft Cognitive Services and the IBM Watson Tone Analyzer. We combine the outputs of the APIs into a single JSON file, which is then stored on the Cloud (Amazon Web Services). The file is picked up by Unity and analyzed to pull up assets and related animations based on the objects and background sounds based on the mood of the plot. The objects are placed relative to each other with the appropriate background and a background music is played real time. This entire experience is viewable on Google Cardboard. We typically chose Cardboard as it is one of the cheapest VR device available with the best experience, hence more users would get access to the app.</p>\n<h2>Challenges:</h2>\n<p>Integrating and mapping all the components to each other: Cloud, Machine Learning, VR and Web Development especially since its our first hackathon for most of us and none of us had any experience with prior AWS and most of us had no prior VR experience and how we learnt everything on the fly at the Hackathon and implemented it end-to-end within one and half days was a tough job, done well, with extreme dedication.</p>\n<h2>UseCases:</h2>\n<ul>\n<li>Can be used by educational institutes heavily, to engage students in the learning experience, can be used by parents (best when they are away), engaging kids in a great learning experience etc. Best used for Entertainment purposes.</li>\n<li>Can be used to help children with learning disabilities (dyslexia, autism) to read stories and experience content.</li>\n<li>Can be used by Writers, to visualize their plots to see how it would be like to have a movie out of it. Also to engage more users, to their writing skills through this brilliant experience. </li>\n<li>Can be used by Directors to visualize plots and do cost estimates based on assets and locations and also hire the best actors for the movies. </li>\n<li>Can be used by book lovers who think movies made, donot do justice to their amazing books. </li>\n</ul>\n<h2>Future Scope:</h2>\n<ul>\n<li>We can use EEG emotion sensors built into a simple headset to monitor the user's emotion and dynamically change the content. (specially make custom apps for children with this)</li>\n<li>The machine learning algorithm can be enhanced to more effectively find the subject, object and the scene, which will enhance the overall text to VR quality.</li>\n<li>We can have a database of assets based on the stories we evaluate and keep adding assets to it as more stories are read which have new assets in it.</li>\n<li>We can automate the asset-pull method which dynamically downloads new assets if not present in the current asset database.</li>\n</ul>\n<h2>Vertical:</h2>\n<p>Entertainment/Storytelling/Education</p>\n</div>",
+    "content_md": "\nThe Inception of the project was at the MIT Media Lab Reality Virtually Hackathon, where all of our team members brainstormed & came up with this idea of turning text to a Virtual Reality Experience in real time.\n\n\n## Main Idea:\n\n\nOn entering your story on our website, the app generates the viewable VR content including real life characters(images), objects in proper locations - scenes(background), coupled with a background sound based on the characters, actions and mood on the Story plot.\n\n\n## Interface:\n\n\nWe have built a website to enter your own story (as plain text). As you click on submit, we analyze and figure out the main objects, their descriptions, the background and the overall mood of the story using machine learning and natural language processing.\nWe used Machine learning APIs of Microsoft Cognitive Services and the IBM Watson Tone Analyzer. We combine the outputs of the APIs into a single JSON file, which is then stored on the Cloud (Amazon Web Services). The file is picked up by Unity and analyzed to pull up assets and related animations based on the objects and background sounds based on the mood of the plot. The objects are placed relative to each other with the appropriate background and a background music is played real time. This entire experience is viewable on Google Cardboard. We typically chose Cardboard as it is one of the cheapest VR device available with the best experience, hence more users would get access to the app.\n\n\n## Challenges:\n\n\nIntegrating and mapping all the components to each other: Cloud, Machine Learning, VR and Web Development especially since its our first hackathon for most of us and none of us had any experience with prior AWS and most of us had no prior VR experience and how we learnt everything on the fly at the Hackathon and implemented it end-to-end within one and half days was a tough job, done well, with extreme dedication.\n\n\n## UseCases:\n\n\n* Can be used by educational institutes heavily, to engage students in the learning experience, can be used by parents (best when they are away), engaging kids in a great learning experience etc. Best used for Entertainment purposes.\n* Can be used to help children with learning disabilities (dyslexia, autism) to read stories and experience content.\n* Can be used by Writers, to visualize their plots to see how it would be like to have a movie out of it. Also to engage more users, to their writing skills through this brilliant experience.\n* Can be used by Directors to visualize plots and do cost estimates based on assets and locations and also hire the best actors for the movies.\n* Can be used by book lovers who think movies made, donot do justice to their amazing books.\n\n\n## Future Scope:\n\n\n* We can use EEG emotion sensors built into a simple headset to monitor the user's emotion and dynamically change the content. (specially make custom apps for children with this)\n* The machine learning algorithm can be enhanced to more effectively find the subject, object and the scene, which will enhance the overall text to VR quality.\n* We can have a database of assets based on the stories we evaluate and keep adding assets to it as more stories are read which have new assets in it.\n* We can automate the asset-pull method which dynamically downloads new assets if not present in the current asset database.\n\n\n## Vertical:\n\n\nEntertainment/Storytelling/Education\n\n\n"
+}

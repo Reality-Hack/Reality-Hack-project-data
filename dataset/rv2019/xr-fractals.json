@@ -1,0 +1,53 @@
+{
+    "source": "https://devpost.com/software/xr-fractals",
+    "title": "XR Fractals",
+    "blurb": "Experience the natural mathematical beauty of fractals: now in 3D space!",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/KaFup61hNMQ?enablejsapi=1&hl=en_US&rel=0&start=6&version=3&wmode=transparent"
+    ],
+    "images": [
+        {
+            "title": "Fractal in AR Space ",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/746/504/datas/original.png"
+        },
+        {
+            "title": "Opening Portal",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/746/535/datas/original.png"
+        }
+    ],
+    "team": [
+        {
+            "name": "IAN MACKENZIE",
+            "about": "I thought of the idea for creating interactive fractals in 3D space for XR devices after being inspired by 2D mobile app Fraksl.",
+            "photo": "https://avatars0.githubusercontent.com/u/32595467?height=180&v=4&width=180"
+        },
+        {
+            "name": "Sukhraj Johal",
+            "about": "I worked on creating the UI and the overall user experience within the app. As well as designing the interactive features that the user can perform in AR space!",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/948/027/datas/profile.png"
+        },
+        {
+            "name": "Eozin Che",
+            "about": "I worked on creating AR portal and interactive functions. ",
+            "photo": "https://avatars3.githubusercontent.com/u/5435638?height=180&v=4&width=180"
+        },
+        {
+            "name": "Michelle Yakubek",
+            "about": "I worked on researching different methods for generation and experimented with devices and portal placement.",
+            "photo": "https://www.gravatar.com/avatar/4f18f8c52e645fd0de0fcc92e1b1da72?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Matt Ross",
+            "about": "",
+            "photo": "https://avatars0.githubusercontent.com/u/4544594?height=180&v=4&width=180"
+        }
+    ],
+    "built_with": [
+        "arkit",
+        "c#",
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>First: what <em>are</em> fractals? Fractals are complex structures based on a simple core shape or pattern, and can be found in many places, both mathematical and natural.</p>\n<p><img alt=\"Examples of fractals\" data-canonical-url=\"https://bstillman.weebly.com/uploads/9/4/3/8/9438325/3119540_orig.jpg\" src=\"https://res.cloudinary.com/devpost/image/fetch/s--sgdWQTdN--/c_limit,f_auto,fl_lossy,q_auto:eco,w_900/https://bstillman.weebly.com/uploads/9/4/3/8/9438325/3119540_orig.jpg\"/></p>\n<p>Inspired by the aesthetics of two-dimensional fractals, our team set out to explore the possibility of fractal generation in three-dimensional space.</p>\n<h2>What it does</h2>\n<p>Our iOS mobile app enables users to fiddle with fractals anywhere and anytime! Users interact with an immersive \"fractal portal\" through which they are able to experiment with their own geometric designs. With reactive sound and an intuitive interface, XR Fractals is an intriguing, entertaining mobile experience.</p>\n<h2>How we built it</h2>\n<p>XR Fractals uses Unity and ARKit.</p>\n<h2>SDKs, APIs, Libraries and Assets Used</h2>\n<p>ARKit was used to build the project. </p>\n<p>Spiral Icon in project (under public domain) - <a href=\"https://thenounproject.com/search/?q=spiral&amp;i=11045\" rel=\"nofollow\">https://thenounproject.com/search/?q=spiral&amp;i=11045</a></p>\n<h2>Challenges we ran into</h2>\n<p>Before we even started our project, one of our first challenges was deciding which technologies XR Fractals would use. We experimented with both VR and AR devices, but ultimately settled on a simple mobile AR app. With this platform, our app enables users to explore aesthetically interesting fractals on a whim.</p>\n<h2>Accomplishments that we're proud of</h2>\n<p>We ran through many possible ideas for ways to generate our 3D fractals, as well as ways for users to interact with their creations. After playing around with shaders and mirrors, we decided to code our own recursive geometry for users to build fractal shapes with. We developed reactive audio that reflects the intricacy of our fractals. And to present our core experience, we devised and successfully implemented an immersive portal and an engaging UI for our users.</p>\n<h2>What we learned</h2>\n<p>Iteration is key: although our team has faced setback after setback, adaptability and willingness to start moving in a new direction have enabled us to successfully develop an entertaining app. Just like a fractal, we've expanded upon our core idea to create an amazing structure!</p>\n<h2>What's next for XR Fractals</h2>\n<p>Our fractals still have more space to grow! While XR Fractals is currently focused in augmented reality, as our team name implies, our app could easily extend to new devices and new technologies. Future expansion into VR or even a continuation of AR with wearable devices would introduce an entirely new level of immersion.</p>\n<h2>About the Team</h2>\n<p>Sukhraj Johal - A third year student at Sheridan College studying Game Design. Encompasses skills in game development, visual art, and UI/UX. </p>\n<p>Michelle Yakubek - Developer</p>\n<p>Eozin Che - Developer </p>\n<p>Ian Mackenzie - C# Developer recently graduated from the New Hampshire Technical Institute. AR/VR Developer and Enthusiast</p>\n<p>Matt Ross - Sound Designer </p>\n<h2>Hackathon Theme and Category</h2>\n<p><strong>Hackathon Theme</strong> \nArts, Media, Entertainment</p>\n<p><strong>Category</strong> \nVisual Art</p>\n<h2>Contact and Location Details</h2>\n<p><strong>Team location</strong>\n6th floor, Main Presentation Room, 3 tables from the door</p>\n<p><strong>Contact</strong>\nIan Mackenzie:  603-209-5658</p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nFirst: what *are* fractals? Fractals are complex structures based on a simple core shape or pattern, and can be found in many places, both mathematical and natural.\n\n\n![Examples of fractals](https://res.cloudinary.com/devpost/image/fetch/s--sgdWQTdN--/c_limit,f_auto,fl_lossy,q_auto:eco,w_900/https://bstillman.weebly.com/uploads/9/4/3/8/9438325/3119540_orig.jpg)\n\n\nInspired by the aesthetics of two-dimensional fractals, our team set out to explore the possibility of fractal generation in three-dimensional space.\n\n\n## What it does\n\n\nOur iOS mobile app enables users to fiddle with fractals anywhere and anytime! Users interact with an immersive \"fractal portal\" through which they are able to experiment with their own geometric designs. With reactive sound and an intuitive interface, XR Fractals is an intriguing, entertaining mobile experience.\n\n\n## How we built it\n\n\nXR Fractals uses Unity and ARKit.\n\n\n## SDKs, APIs, Libraries and Assets Used\n\n\nARKit was used to build the project. \n\n\nSpiral Icon in project (under public domain) - <https://thenounproject.com/search/?q=spiral&i=11045>\n\n\n## Challenges we ran into\n\n\nBefore we even started our project, one of our first challenges was deciding which technologies XR Fractals would use. We experimented with both VR and AR devices, but ultimately settled on a simple mobile AR app. With this platform, our app enables users to explore aesthetically interesting fractals on a whim.\n\n\n## Accomplishments that we're proud of\n\n\nWe ran through many possible ideas for ways to generate our 3D fractals, as well as ways for users to interact with their creations. After playing around with shaders and mirrors, we decided to code our own recursive geometry for users to build fractal shapes with. We developed reactive audio that reflects the intricacy of our fractals. And to present our core experience, we devised and successfully implemented an immersive portal and an engaging UI for our users.\n\n\n## What we learned\n\n\nIteration is key: although our team has faced setback after setback, adaptability and willingness to start moving in a new direction have enabled us to successfully develop an entertaining app. Just like a fractal, we've expanded upon our core idea to create an amazing structure!\n\n\n## What's next for XR Fractals\n\n\nOur fractals still have more space to grow! While XR Fractals is currently focused in augmented reality, as our team name implies, our app could easily extend to new devices and new technologies. Future expansion into VR or even a continuation of AR with wearable devices would introduce an entirely new level of immersion.\n\n\n## About the Team\n\n\nSukhraj Johal - A third year student at Sheridan College studying Game Design. Encompasses skills in game development, visual art, and UI/UX. \n\n\nMichelle Yakubek - Developer\n\n\nEozin Che - Developer \n\n\nIan Mackenzie - C# Developer recently graduated from the New Hampshire Technical Institute. AR/VR Developer and Enthusiast\n\n\nMatt Ross - Sound Designer \n\n\n## Hackathon Theme and Category\n\n\n**Hackathon Theme** \nArts, Media, Entertainment\n\n\n**Category** \nVisual Art\n\n\n## Contact and Location Details\n\n\n**Team location**\n6th floor, Main Presentation Room, 3 tables from the door\n\n\n**Contact**\nIan Mackenzie: 603-209-5658\n\n\n"
+}

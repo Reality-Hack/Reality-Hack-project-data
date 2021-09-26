@@ -1,0 +1,38 @@
+{
+    "source": "https://devpost.com/software/peekn-ar-reality-virtually-hackathon-mit",
+    "title": "PeekN- AR ",
+    "blurb": "Foobar",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/nMidO4T0iyw?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "Jenny Hu",
+            "about": "",
+            "photo": "https://media.licdn.com/mpr/mprx/0_xCohPsJ3S0jEE0ZlpFc_1jeXaPgEEAvASFcF6kHTaY32EjZNxkcL1re3j2lCJjUNVPc_3fdkadj7ehLOHdU7kTWFMdjfehWcVdU7c8ZT2dA7ehnpRpnk5NkD7-3iJn4y7-bfAU4mMYu6IkMULFyxU6?height=180&width=180"
+        },
+        {
+            "name": "soonhokwn",
+            "about": "",
+            "photo": "https://avatars0.githubusercontent.com/u/25261260?height=180&v=4&width=180"
+        },
+        {
+            "name": "Thomas P.",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/540/620/datas/profile.png"
+        },
+        {
+            "name": "Andy Chen",
+            "about": "",
+            "photo": "https://media.licdn.com/mpr/mprx/0_iXEyCaF1lHZW1iCeQhp-oMd1qUeWP3SHfXO-XUe1lw8HPApHG6pyfSd1BHAzv8CkEvKpQ46PgSberLUdEB78EVFx4SbdrLZHfB7xTR-t1ut5V1_N_6JA37p_Z4gJMLfJQqIK6LTUJZW?height=180&width=180"
+        }
+    ],
+    "built_with": [
+        "arkit",
+        "xcode"
+    ],
+    "content_html": "<div>\n<p>Team: Beacon AR\nLead: Soonho Kwon, 4088073739\nMembers: Soonho Kwon, Rosanne Hu (former member), Thomas Pintaric, Andy Chen\nCategory: Architecture\nBrief Statement: Holding your phone allows you to identify the precise location of your site of interest in your actual visual field. Upon physically reaching your site, you can immersively, without physically obstructing or distracting your field of vision, visualize into the interior of your site.  A final option to examine the 360-degree internal environment of the site is also available.</p>\n<p>Video: <a href=\"https://www.youtube.com/watch?v=nMidO4T0iyw&amp;feature=em-upload_owner\" rel=\"nofollow\">link</a></p>\n<p>Location: Floor 3, Room E15-341, Table Number 57\nEnvironment:\nPlatform: ARKit, Unity, Vuforia\nDevelopment tools: Xcode, Photoscan Pro, Photoshop, iMovie\nSDKs: ARKit\nAPIs: Ricoh API\nAssets: Photogrammetry of MIT Great Dome, 360 Imagery of Great Dome Standard &amp; HDR, 360 Video of Great Dome, MIT locator pin, Video assets, \"Good Starts\" from Youtube Audio Library \nLibraries: CoreLocation and ARKit on ios, and <a href=\"https://github.com/ProjectDent/ARKit-CoreLocation\" rel=\"nofollow\">https://github.com/ProjectDent/ARKit-CoreLocation</a>\nNo components created outside the hackathon.</p>\n<h2>Overview</h2>\n<p>We are using Augmented Reality to provide people with an immersive perspective into the interior environments and dynamics of the physical places around them.  By doing so, we are able to bring immediate glimpses of history, performance, and other experiences right to the moment of discovery. We want to appeal to the wonderment of experiencing something for the first time in a new space, and are excited about scalability to other cultural heritage sites. Our app combines photogrammetry, 360-degree imagery, and augmented reality frameworks to augment a user's visual field with indicators of site location (for example, to identify location), visualization of the artistic essence of a space, and provision of a platform for experiencing that space. </p>\n<h2>Challenges we faced and what we learned</h2>\n<p>Photogrammetry is extremely difficult to perform well in glass, high-glare, and homogeneously-textured environments, and it was difficult to acquire a good quality textured mesh of large interiors. Deciding on a common topic and focus for the team necessitated an ability to compromise as well as a measured level of enthusiasm. In addition, optimizing the geographical overlay of Google Sketchup files of buildings in Cambridge to AR platforms required substantial tweaking and careful measurements\u2014this proved to be too difficult to implement in our given time frame, so we attempted a different approach. Overall, maintaining focus in the face of social and technical adversity was difficult.</p>\n<h2>Accomplishments of which we are proud</h2>\n<p>We divided our project into three distinct aspects: AR for site location, AR of building's interior exhibit on exterior facades, and VR of building internals.  We were able to develop functional versions of each of these goals, which is exciting, although we still need to polish how they tie together.</p>\n</div>",
+    "content_md": "\nTeam: Beacon AR\nLead: Soonho Kwon, 4088073739\nMembers: Soonho Kwon, Rosanne Hu (former member), Thomas Pintaric, Andy Chen\nCategory: Architecture\nBrief Statement: Holding your phone allows you to identify the precise location of your site of interest in your actual visual field. Upon physically reaching your site, you can immersively, without physically obstructing or distracting your field of vision, visualize into the interior of your site. A final option to examine the 360-degree internal environment of the site is also available.\n\n\nVideo: [link](https://www.youtube.com/watch?v=nMidO4T0iyw&feature=em-upload_owner)\n\n\nLocation: Floor 3, Room E15-341, Table Number 57\nEnvironment:\nPlatform: ARKit, Unity, Vuforia\nDevelopment tools: Xcode, Photoscan Pro, Photoshop, iMovie\nSDKs: ARKit\nAPIs: Ricoh API\nAssets: Photogrammetry of MIT Great Dome, 360 Imagery of Great Dome Standard & HDR, 360 Video of Great Dome, MIT locator pin, Video assets, \"Good Starts\" from Youtube Audio Library \nLibraries: CoreLocation and ARKit on ios, and <https://github.com/ProjectDent/ARKit-CoreLocation>\nNo components created outside the hackathon.\n\n\n## Overview\n\n\nWe are using Augmented Reality to provide people with an immersive perspective into the interior environments and dynamics of the physical places around them. By doing so, we are able to bring immediate glimpses of history, performance, and other experiences right to the moment of discovery. We want to appeal to the wonderment of experiencing something for the first time in a new space, and are excited about scalability to other cultural heritage sites. Our app combines photogrammetry, 360-degree imagery, and augmented reality frameworks to augment a user's visual field with indicators of site location (for example, to identify location), visualization of the artistic essence of a space, and provision of a platform for experiencing that space. \n\n\n## Challenges we faced and what we learned\n\n\nPhotogrammetry is extremely difficult to perform well in glass, high-glare, and homogeneously-textured environments, and it was difficult to acquire a good quality textured mesh of large interiors. Deciding on a common topic and focus for the team necessitated an ability to compromise as well as a measured level of enthusiasm. In addition, optimizing the geographical overlay of Google Sketchup files of buildings in Cambridge to AR platforms required substantial tweaking and careful measurements\u2014this proved to be too difficult to implement in our given time frame, so we attempted a different approach. Overall, maintaining focus in the face of social and technical adversity was difficult.\n\n\n## Accomplishments of which we are proud\n\n\nWe divided our project into three distinct aspects: AR for site location, AR of building's interior exhibit on exterior facades, and VR of building internals. We were able to develop functional versions of each of these goals, which is exciting, although we still need to polish how they tie together.\n\n\n"
+}

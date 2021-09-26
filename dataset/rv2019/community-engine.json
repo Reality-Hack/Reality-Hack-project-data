@@ -1,0 +1,40 @@
+{
+    "source": "https://devpost.com/software/community-engine",
+    "title": "Community Engine",
+    "blurb": "A XR citizen participation engine to help communities better visualize change (in large infrastructure projects)",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/0eEPh1iDO_U?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "Jordan Pelovitz",
+            "about": "I worked on art assets, interface, and concept.",
+            "photo": "https://www.gravatar.com/avatar/da69e64971e4e4c7c9c2b9b040bf4305?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Marlon Romero",
+            "about": "I work in 3D assets.",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/001/505/255/datas/profile.jpg"
+        },
+        {
+            "name": "Ezequiellenard",
+            "about": "",
+            "photo": "https://avatars3.githubusercontent.com/u/32619536?height=180&v=4&width=180"
+        },
+        {
+            "name": "Siddhesh Gupte",
+            "about": "",
+            "photo": "https://media.licdn.com/dms/image/C5103AQEeKu0pGwy-qA/profile-displayphoto-shrink_100_100/0?e=1547078400&height=180&t=LCIshJjvKO4C2GXoJ6DYt8L024rUtvfJX_iD9hyYy5w&v=beta&width=180"
+        },
+        {
+            "name": "Yosun Chang",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/406/935/datas/profile.jpg"
+        }
+    ],
+    "built_with": [],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>Many community members struggle to convey the impact of long term projects to their people. Statistics, words and even pictures are often insufficient to communicate the necessity of starting (or stopping) an investment. What\u2019s more, people often absorb this information in a vacuum, unaware of their larger community\u2019s thoughts on the matter.</p>\n<p>Community Engine is a Collaborative XR (CEXR) app that gives any individual the ability to share their vison for infrastructure developments that impact their lives. It also lets them build a case for their idea by collecting feedback from the community based on both time and space.</p>\n<h2>Innovation</h2>\n<ul>\n<li>Each survey response is a position + time coordinate, and can easily be shared using a XRurl.xyz </li>\n<li>Combines AR and VR in a single view for data visualizations in large scale survey results.</li>\n<li>The analogy of VR as the empathy machine carries when we switch to seeing the individual's literal perspective in the aggregate data.<br/></li>\n<li>\n</li></ul>\n<h2>What it does</h2>\n<ul>\n<li><p>Help communities understand complex data and long term investment plans.</p></li>\n<li><p>Give individuals an opportunity to give feedback on proposed developments and learn how others in their community feel.</p></li>\n<li><p>Empower even individuals to easily get their idea in front of their peers in an engaging way and also generate highly granular research on their opinions about a proposal.</p></li>\n<li><p>An AR marker PostCard-based activism campaign</p></li>\n</ul>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nMany community members struggle to convey the impact of long term projects to their people. Statistics, words and even pictures are often insufficient to communicate the necessity of starting (or stopping) an investment. What\u2019s more, people often absorb this information in a vacuum, unaware of their larger community\u2019s thoughts on the matter.\n\n\nCommunity Engine is a Collaborative XR (CEXR) app that gives any individual the ability to share their vison for infrastructure developments that impact their lives. It also lets them build a case for their idea by collecting feedback from the community based on both time and space.\n\n\n## Innovation\n\n\n* Each survey response is a position + time coordinate, and can easily be shared using a XRurl.xyz\n* Combines AR and VR in a single view for data visualizations in large scale survey results.\n* The analogy of VR as the empathy machine carries when we switch to seeing the individual's literal perspective in the aggregate data.\n* \n\n\n## What it does\n\n\n* Help communities understand complex data and long term investment plans.\n* Give individuals an opportunity to give feedback on proposed developments and learn how others in their community feel.\n* Empower even individuals to easily get their idea in front of their peers in an engaging way and also generate highly granular research on their opinions about a proposal.\n* An AR marker PostCard-based activism campaign\n\n\n"
+}

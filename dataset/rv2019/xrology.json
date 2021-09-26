@@ -1,0 +1,29 @@
+{
+    "source": "https://devpost.com/software/xrology",
+    "title": "ARology",
+    "blurb": "We are providing a new experience for Clinicians and Radiologists to interact with 3D Medical data",
+    "awards": [],
+    "videos": [
+        "https://player.vimeo.com/video/312316073?byline=0&portrait=0&title=0#t="
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "in2utes",
+            "about": "",
+            "photo": "https://avatars0.githubusercontent.com/u/46495186?height=180&v=4&width=180"
+        },
+        {
+            "name": "Derrick Wilson-Duncan",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/514/038/datas/profile.jpg"
+        }
+    ],
+    "built_with": [
+        "datavisualization",
+        "javascript",
+        "webxr"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>ER Doctors, Trauma Surgeons, and Radiologic technologists spend a lot of time collaborating with one another to evaluate Medical images of their patients. Scenarios where these clinicians are not in the same City, State, Country, or even the same Time Zone are very common. </p>\n<h2>What it does</h2>\n<p>Allows Radiologic technologists and Health professionals to easily collaborate with one another to provide quick and efficient evaluations of MRI, CT, and Ultrasound Imagery.</p>\n<h2>How I built it</h2>\n<p>This experience was built with a combination of </p>\n<h2>Challenges I ran into</h2>\n<p>Choosing an efficient way </p>\n<h2>Accomplishments that I'm proud of</h2>\n<p>We made an awesome prototype for this hackathon and meet a lot of cool people along the way.</p>\n<h2>What I learned</h2>\n<p>We learned a lot about the emerging VR and AR tools and the evolving ecosystem these technologies and their use cases.</p>\n<h2>What's next for ARology</h2>\n<p>evaluate the progress and define use case for further development</p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nER Doctors, Trauma Surgeons, and Radiologic technologists spend a lot of time collaborating with one another to evaluate Medical images of their patients. Scenarios where these clinicians are not in the same City, State, Country, or even the same Time Zone are very common. \n\n\n## What it does\n\n\nAllows Radiologic technologists and Health professionals to easily collaborate with one another to provide quick and efficient evaluations of MRI, CT, and Ultrasound Imagery.\n\n\n## How I built it\n\n\nThis experience was built with a combination of \n\n\n## Challenges I ran into\n\n\nChoosing an efficient way \n\n\n## Accomplishments that I'm proud of\n\n\nWe made an awesome prototype for this hackathon and meet a lot of cool people along the way.\n\n\n## What I learned\n\n\nWe learned a lot about the emerging VR and AR tools and the evolving ecosystem these technologies and their use cases.\n\n\n## What's next for ARology\n\n\nevaluate the progress and define use case for further development\n\n\n"
+}

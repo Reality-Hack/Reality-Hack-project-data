@@ -1,0 +1,40 @@
+{
+    "source": "https://devpost.com/software/dora",
+    "title": "Dora",
+    "blurb": "Augmented Human",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/upload?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [
+        {
+            "title": "Dora",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/745/001/datas/original.jpg"
+        }
+    ],
+    "team": [
+        {
+            "name": "Pankhuri Agarwal",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/7d904e14885f35e4b8b0d1d426393905?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "anshul mittal",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/d304cd19452301fb5386bac0ae87e451?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        }
+    ],
+    "built_with": [
+        "api-gateway",
+        "ar-kit",
+        "aws-sumerian",
+        "javascript",
+        "lambda",
+        "polylex",
+        "s3",
+        "sketchfab",
+        "twilio"
+    ],
+    "content_html": "<div>\n<p>Most of our communication these days is via text. sms, email, watsapp, slack etc. with families being separated by large distances combined by time difference, sometimes text based communication is the only choice.</p>\n<p>Dora brings life to the text. She is an AR host, who understands the importance of eye contact and gestures. It is as though speaking to a live person. She can even show images and videos which so often form a part of our texts.</p>\n<p>Right now Dora is connected with text messages, we would like to expand this connection to include emails and other communication channels like watsapp and slack.</p>\n</div>",
+    "content_md": "\nMost of our communication these days is via text. sms, email, watsapp, slack etc. with families being separated by large distances combined by time difference, sometimes text based communication is the only choice.\n\n\nDora brings life to the text. She is an AR host, who understands the importance of eye contact and gestures. It is as though speaking to a live person. She can even show images and videos which so often form a part of our texts.\n\n\nRight now Dora is connected with text messages, we would like to expand this connection to include emails and other communication channels like watsapp and slack.\n\n\n"
+}

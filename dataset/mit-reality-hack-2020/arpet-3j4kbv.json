@@ -1,0 +1,32 @@
+{
+    "source": "https://devpost.com/software/arpet-3j4kbv",
+    "title": "ARpet",
+    "blurb": "Everyone loves pets, right? We propose intelligent augmented reality (AR) pets that guide us to places, help us meet our fitness goals, and much more..",
+    "awards": [],
+    "videos": [
+        "https://player.vimeo.com/video/389402436?byline=0&portrait=0&title=0#t="
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "Joe",
+            "about": "I did most of the development in regards to connecting to the Hololens and instantiating our points of interest.",
+            "photo": "https://avatars0.githubusercontent.com/u/15370969?height=180&v=4&width=180"
+        },
+        {
+            "name": "Samuel Jr. Frimpong",
+            "about": "I helped out with programming the logic of the cat movement and the interactions between the user, the cat, and the virtual buttons.",
+            "photo": "https://media-exp1.licdn.com/dms/image/C5603AQGjN5tB1Rsf5w/profile-displayphoto-shrink_800_800/0?e=1586390400&height=180&t=NCaKm4KmPV5A9I325A8edqwQfRj6EUv0RimzfRTDRtI&v=beta&width=180"
+        },
+        {
+            "name": "Jatin Arora",
+            "about": "",
+            "photo": "https://media-exp2.licdn.com/dms/image/C4E03AQH8HKXVxa4tmQ/profile-displayphoto-shrink_800_800/0?e=1585180800&height=180&t=xsz1v-MKLZrNowffO9t0XmfZknbL0bKcvvUcoHFCbzc&v=beta&width=180"
+        }
+    ],
+    "built_with": [
+        "microsoft-hololens"
+    ],
+    "content_html": "<div>\n<p>Coming up soon.</p>\n</div>",
+    "content_md": "\nComing up soon.\n\n\n"
+}

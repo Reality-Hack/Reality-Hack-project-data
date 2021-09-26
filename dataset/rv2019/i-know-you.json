@@ -1,0 +1,39 @@
+{
+    "source": "https://devpost.com/software/i-know-you",
+    "title": "I Know You",
+    "blurb": "A HoloLens app to help users remember the names of people s/he meets",
+    "awards": [],
+    "videos": [
+        "https://player.vimeo.com/video/312312941?byline=0&portrait=0&title=0#t="
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "Mario Bourgoin",
+            "about": "I worked on the framework of the app, including voice triggers, picture taking, face recognition, and labeling.",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/742/750/datas/profile.jpg"
+        },
+        {
+            "name": "Mohamed Raouf Seyam",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/0a48accafec2f0b012912e5cbdca1292?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Kamo4",
+            "about": "",
+            "photo": "https://graph.facebook.com/10218399945612257/picture?height=180&width=180"
+        },
+        {
+            "name": "Robert Alexander",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/d92e219717337552f724635e1e782615?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        }
+    ],
+    "built_with": [
+        "azure",
+        "unity",
+        "visual-studio"
+    ],
+    "content_html": "<div>\n<h2>Inspiration: At some point, we all ran into the awkward situation when you see someone that remembers your name while you do not remember their's</h2>\n<h2>What it does: I Know You (our app's name) stores the names of people you meet, and associates the name to their face. When you meet the same person again, the app recognizes her/his face, then displays the associated name next to the person. That way, the app reminds you who the person you're talking to is and saves you from potential embarrassment. To save a face and a name, the user simply has to have the target acquaintance in the app's field of view, then triggers the name save by saying phrases such as \"Nice to meet you, \". The app will then store the name with that person's face, and will pull the name whenever the same person is in the FoV. The app responds only to the user, so it avoids interference from similar conversations ocuring in the background.</h2>\n<h2>How I built it: Our team combined elements of face recognition, image editing, machine learning, and voice recognition</h2>\n<h2>Challenges I ran into: We struggled with having the app focus only on 1 face when there are more than 2 people in the FoV</h2>\n<h2>Accomplishments that I'm proud of: My team and I learned to collaborate and expanded our coding skills. I am proud to work with such amazing people!</h2>\n<h2>What I learned: Problem solving, troubleshooting, self-confidence to say the least</h2>\n<h2>What's next for I Know You: We hope to improve on this app so that image recall and analysis is faster and seamless to the user so that it integrates smoothly within that natural flow of a typical 1st conversation in the professional world. We also hope to integrate more than just a person's name - following a similar approach, we could get the app to capture the person's alma mater, company, birthday, key interests, and other common aspects</h2>\n</div>",
+    "content_md": "\n## Inspiration: At some point, we all ran into the awkward situation when you see someone that remembers your name while you do not remember their's\n\n\n## What it does: I Know You (our app's name) stores the names of people you meet, and associates the name to their face. When you meet the same person again, the app recognizes her/his face, then displays the associated name next to the person. That way, the app reminds you who the person you're talking to is and saves you from potential embarrassment. To save a face and a name, the user simply has to have the target acquaintance in the app's field of view, then triggers the name save by saying phrases such as \"Nice to meet you, \". The app will then store the name with that person's face, and will pull the name whenever the same person is in the FoV. The app responds only to the user, so it avoids interference from similar conversations ocuring in the background.\n\n\n## How I built it: Our team combined elements of face recognition, image editing, machine learning, and voice recognition\n\n\n## Challenges I ran into: We struggled with having the app focus only on 1 face when there are more than 2 people in the FoV\n\n\n## Accomplishments that I'm proud of: My team and I learned to collaborate and expanded our coding skills. I am proud to work with such amazing people!\n\n\n## What I learned: Problem solving, troubleshooting, self-confidence to say the least\n\n\n## What's next for I Know You: We hope to improve on this app so that image recall and analysis is faster and seamless to the user so that it integrates smoothly within that natural flow of a typical 1st conversation in the professional world. We also hope to integrate more than just a person's name - following a similar approach, we could get the app to capture the person's alma mater, company, birthday, key interests, and other common aspects\n\n\n"
+}

@@ -1,0 +1,30 @@
+{
+    "source": "https://devpost.com/software/silver-unicorn",
+    "title": "Silver Unicorn",
+    "blurb": "We have robots. Friendly robots. ",
+    "awards": [],
+    "videos": [],
+    "images": [],
+    "team": [
+        {
+            "name": "Swaroop Pal",
+            "about": "+ Programming the mixed reality interface and the networking components on Hololens. ",
+            "photo": "https://media.licdn.com/dms/image/C5603AQFVPdeacBYpAw/profile-displayphoto-shrink_100_100/0?e=1545264000&height=180&t=HyfG0Mr4quzjuUV2RTiKTX-NmjJtjHUosseMZ86GIL8&v=beta&width=180"
+        },
+        {
+            "name": "Ian Sterling",
+            "about": "",
+            "photo": "https://media.licdn.com/mpr/mprx/0__bBK7OLYNySePLgn5liKCR2YKd2e9z0Uh_iKdodxlyAd9L2nL_7Kaabx1e7UvLOc8_iAX7e04IaWrAiQ7qtuboL1gIaHrAeVWqtPuIrOnoRkVFPQL5Xj2xOfjYq4MA0IhB9yIzKdDrD?height=180&width=180"
+        },
+        {
+            "name": "Albert Schweitzer",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/c5d805c5862bac69139d705e75f789b3?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        }
+    ],
+    "built_with": [
+        "microsoft-hololens"
+    ],
+    "content_html": "<div>\n<h2>About</h2>\n<p><a href=\"https://github.com/aschwtzr/SilverUnicorn/wiki\" rel=\"nofollow\">Silver Unicorn</a> is a collection of hacks and APIs that aims to serve as a prototyping platform for Augmented Reality by handling human-digital-physical interactions. The original project includes a hack for Microsoft Hololens that set up a complete loop of interactions between a human using voice to control a Sphero via a TCP server running on a Mac OS app. The Sphero was contained in a box with an image that was marked and recognized by the Vuforia engine running on Hololens, which then rendered a digital object for the user to interact with.</p>\n<p>After not making it to semifinals the team continued hacking with the aim of moving an Arduino powered robot through the physical world using the tracking features in the HTC Vive Wand. A UDP network would then pass that information to Hololens which could project the movements of the robot in a digital rendering of the Vive's physical space. Unfortunately, networking with Unity is really hard.</p>\n<p>This is where you can come in. We're really excited about the potential this type of technology gives us to redefine the relationships between physical and digital objects. We plan to continue these efforts and will expand the work we've done to continue building out usable APIs and hacks that integrate physical objects into virtual environments or give us new ways to interact with them through digital means.</p>\n<h2>Fun Facts:</h2>\n<p>The original project was built over the course of 67 hours at the Reality, Virtually, Hackathon! sponsored by the MIT Media Lab.\nAlthough all group members slept at some point, at no point since first convening on Saturday did all participants sleep at the same time.\nNo robots were harmed in the making of this project, no matter what Erlich Bachman says.</p>\n</div>",
+    "content_md": "\n## About\n\n\n[Silver Unicorn](https://github.com/aschwtzr/SilverUnicorn/wiki) is a collection of hacks and APIs that aims to serve as a prototyping platform for Augmented Reality by handling human-digital-physical interactions. The original project includes a hack for Microsoft Hololens that set up a complete loop of interactions between a human using voice to control a Sphero via a TCP server running on a Mac OS app. The Sphero was contained in a box with an image that was marked and recognized by the Vuforia engine running on Hololens, which then rendered a digital object for the user to interact with.\n\n\nAfter not making it to semifinals the team continued hacking with the aim of moving an Arduino powered robot through the physical world using the tracking features in the HTC Vive Wand. A UDP network would then pass that information to Hololens which could project the movements of the robot in a digital rendering of the Vive's physical space. Unfortunately, networking with Unity is really hard.\n\n\nThis is where you can come in. We're really excited about the potential this type of technology gives us to redefine the relationships between physical and digital objects. We plan to continue these efforts and will expand the work we've done to continue building out usable APIs and hacks that integrate physical objects into virtual environments or give us new ways to interact with them through digital means.\n\n\n## Fun Facts:\n\n\nThe original project was built over the course of 67 hours at the Reality, Virtually, Hackathon! sponsored by the MIT Media Lab.\nAlthough all group members slept at some point, at no point since first convening on Saturday did all participants sleep at the same time.\nNo robots were harmed in the making of this project, no matter what Erlich Bachman says.\n\n\n"
+}

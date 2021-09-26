@@ -1,0 +1,36 @@
+{
+    "source": "https://devpost.com/software/ideals-67c1kl",
+    "title": "Ideals - Focus",
+    "blurb": "This project uses biometric feedback and contextual AR/MR to encourage positive behavior change.",
+    "awards": [],
+    "videos": [],
+    "images": [],
+    "team": [
+        {
+            "name": "Aaron Faucher",
+            "about": "Unity/C# development",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/522/064/datas/profile.jpg"
+        },
+        {
+            "name": "Liz Cormack",
+            "about": "UX/UI Design!",
+            "photo": "https://www.gravatar.com/avatar/420d954df0894edbe1fa9e9b464b5f15?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Leon Zhang",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/420/689/datas/profile.JPG"
+        },
+        {
+            "name": "Akshay Mohan",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/92dcb5f41f948d34756cbbfdbbb1e1e1?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        }
+    ],
+    "built_with": [
+        "c#",
+        "unity"
+    ],
+    "content_html": "<div>\n<p>We can all relate to the experience of sitting down to make progress on a task - whether reading a book, writing a proposal, or clearing through email - only to find ourselves wandering away from the work at hand. 'Focus' is a mixed reality application built for HoloLens that promotes positive attention and focus. The user begins by dynamically wrapping their work in a 'zone of focus.' If the user becomes distracted from their task, their attention is gently guided back to their prioritized activity.</p>\n<p><a href=\"http://afaucher.tumblr.com/post/152391823546/\" rel=\"nofollow\">View the video walkthrough here</a>.</p>\n</div>",
+    "content_md": "\nWe can all relate to the experience of sitting down to make progress on a task - whether reading a book, writing a proposal, or clearing through email - only to find ourselves wandering away from the work at hand. 'Focus' is a mixed reality application built for HoloLens that promotes positive attention and focus. The user begins by dynamically wrapping their work in a 'zone of focus.' If the user becomes distracted from their task, their attention is gently guided back to their prioritized activity.\n\n\n[View the video walkthrough here](http://afaucher.tumblr.com/post/152391823546/).\n\n\n"
+}

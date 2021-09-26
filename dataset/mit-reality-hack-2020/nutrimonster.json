@@ -1,0 +1,73 @@
+{
+    "source": "https://devpost.com/software/nutrimonster",
+    "title": "NutriMonster",
+    "blurb": "THE FUTURE OF PACKAGING",
+    "awards": [
+        "Best of Vuforia [Sponsored by PTC]"
+    ],
+    "videos": [
+        "https://player.vimeo.com/video/385862807?byline=0&portrait=0&title=0#t="
+    ],
+    "images": [
+        {
+            "title": "NutriMonster",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/398/datas/original.png"
+        },
+        {
+            "title": "Nutri-Score (view in far distance via smartphone)",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/408/datas/original.png"
+        },
+        {
+            "title": "Nutri-Moster Data (View in close distance via smartphone)",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/404/datas/original.png"
+        },
+        {
+            "title": "Nutri-Moster Data (View in close distance via MagicLeap/AR Glasses)",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/399/datas/original.png"
+        }
+    ],
+    "team": [
+        {
+            "name": "Kshitij Gajapure",
+            "about": "I helped with implementing the core vuforia functionality of detecting the markers and getting the metadata (barcode) associated with it from the cloud. Implemented the distance detection feature in Unity.",
+            "photo": "https://avatars1.githubusercontent.com/u/36204389?height=180&v=4&width=180"
+        },
+        {
+            "name": "Max Bredow",
+            "about": "UX research: what information are users most interested in? How and when to display it to not overload them with information?",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/900/862/datas/profile.jpeg"
+        },
+        {
+            "name": "Zhuyuan He",
+            "about": "I help with the storyboard and user journey, 3D modeling, graphics, interaction design ",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/917/428/datas/profile.jpg"
+        },
+        {
+            "name": "Weiqi Zhao",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/514/396/datas/profile.png"
+        },
+        {
+            "name": "Francis Szakacs",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/917/329/datas/profile.png"
+        }
+    ],
+    "built_with": [
+        "andorid",
+        "apis",
+        "blender",
+        "hardware",
+        "machine-learning",
+        "magicleap",
+        "mobile",
+        "nutriscore",
+        "openfoodfacts",
+        "sketch",
+        "unity",
+        "visual-studio",
+        "vuforia"
+    ],
+    "content_html": "<div>\n<h1>Problem:</h1>\n<p>Physical products can only display a limited amount of information, and companies chose to display what sells - not what you need to know.</p>\n<h1>Solution:</h1>\n<p>NutriMonsters overlays physical products with an AR-filter to only display the information you really need to know, stripping away any manipulative influence of brands or claims.</p>\n<h1>Displayed information</h1>\n<p>We used the logos of the NutriScore, a food labelling system already used throughout Europe (France, Spain, UK, Belgium, Switzerland, Germany). The NutriScore is a summary of the nutritional quality of foods. Its disadvantage is: consumers don't understand <em>why</em> a product gets a good or a bad rating. By choosing how much information to display at which distance, NutriMonsters helps consumers to quickly browse but also to see more detailed information when needed.</p>\n<h1>Tech Stack:</h1>\n<p>The MVP is an app for Android and MagicLeap: the app detects images through Vuforia and pulls nutritional information through a Rest API from OpenFoodFacts, the largest open-source food database with over 1 Million food products.</p>\n<h1>Why AR?</h1>\n<p>We see image recognition as an addition to barcode reading, not a replacement; The advantage of image recognition is when comparing two products at the same time; it is more intuitive and allows to recognize a product from further away than barcodes. We built this prototype with upcoming wearable glasses in our mind.</p>\n<h1>Verticals:</h1>\n<p>This technology is also applicable for diabetics (to show glycemic index/load), people with intolerances or people concerned about unethical or unsustainable products, especially in cosmetics.</p>\n<h1>Vision:</h1>\n<p>We believe that primary packaging may be redundant in a world of deliveries. This AR shopping experience is an omnichannel experience that combines the advantages of the online world (variety) with the offline world (discovery) and sets us up for ghost supermarkets, where products wouldn't be in the store anymore but are displayed on displays.</p>\n</div>",
+    "content_md": "\n# Problem:\n\n\nPhysical products can only display a limited amount of information, and companies chose to display what sells - not what you need to know.\n\n\n# Solution:\n\n\nNutriMonsters overlays physical products with an AR-filter to only display the information you really need to know, stripping away any manipulative influence of brands or claims.\n\n\n# Displayed information\n\n\nWe used the logos of the NutriScore, a food labelling system already used throughout Europe (France, Spain, UK, Belgium, Switzerland, Germany). The NutriScore is a summary of the nutritional quality of foods. Its disadvantage is: consumers don't understand *why* a product gets a good or a bad rating. By choosing how much information to display at which distance, NutriMonsters helps consumers to quickly browse but also to see more detailed information when needed.\n\n\n# Tech Stack:\n\n\nThe MVP is an app for Android and MagicLeap: the app detects images through Vuforia and pulls nutritional information through a Rest API from OpenFoodFacts, the largest open-source food database with over 1 Million food products.\n\n\n# Why AR?\n\n\nWe see image recognition as an addition to barcode reading, not a replacement; The advantage of image recognition is when comparing two products at the same time; it is more intuitive and allows to recognize a product from further away than barcodes. We built this prototype with upcoming wearable glasses in our mind.\n\n\n# Verticals:\n\n\nThis technology is also applicable for diabetics (to show glycemic index/load), people with intolerances or people concerned about unethical or unsustainable products, especially in cosmetics.\n\n\n# Vision:\n\n\nWe believe that primary packaging may be redundant in a world of deliveries. This AR shopping experience is an omnichannel experience that combines the advantages of the online world (variety) with the offline world (discovery) and sets us up for ghost supermarkets, where products wouldn't be in the store anymore but are displayed on displays.\n\n\n"
+}

@@ -1,0 +1,30 @@
+{
+    "source": "https://devpost.com/software/asymmetrical-d-d-vr",
+    "title": "Asymmetrical D&D VR",
+    "blurb": "VR player explores a dungeon, PC player determines their map location by watching them turn their head",
+    "awards": [],
+    "videos": [],
+    "images": [],
+    "team": [
+        {
+            "name": "Noah Senzel",
+            "about": "Camera movement and controller input",
+            "photo": "https://www.gravatar.com/avatar/275b1915ce391028ce9762ab390f2c1d?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Dan Donato",
+            "about": "Networking",
+            "photo": "https://avatars2.githubusercontent.com/u/10944648?height=180&v=4&width=180"
+        },
+        {
+            "name": "Zoey Zongyu Li",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/5b05a58c48057d625bb75d042b3251c9?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        }
+    ],
+    "built_with": [
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>Asymmetrical D&amp;D VR is a competitive multiplayer game that has been done in non-VR (Dungeon Keeper, etc) but has exciting VR potential.</p>\n<h2>What it does</h2>\n<p>One player has an overview of the dungeon but no indicator of the players movements. They must watch the adventurer who is playing in VR (using a controller to go forward and turning their head to turn) to approximate their location and spring traps appropriately.</p>\n<h2>How we built it</h2>\n<p>We examined sample files from Google's documentation and used them to create a basic scene, and used our previous networking knowledge for the pc to android setup. </p>\n<h2>Challenges we ran into</h2>\n<p>The initial setup of the sample Android project and Unity networking took us longer than expected.\nThe build crashed or didn't install on Android for hours of debugging</p>\n<h2>Accomplishments that we're proud of</h2>\n<p>The game uses multiple technologies (bluetooth controller, cardboard, and pc/android networking), but is easily accessible with devices that many people already own.</p>\n<h2>What we learned</h2>\n<p>Update your SDKs early, and don't get bogged down trying to make something work that <em>should</em> work, if it's taking too long.</p>\n<p>Test your build on the platform you're creating for, not in the Unity editor...</p>\n<h2>What's next for Asymmetrical D&amp;D VR</h2>\n<p>With a viewer we picked up during the hackathon, we hope to add more gameplay elements (maybe more trap types or more players?) and possibly handmade assets.</p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nAsymmetrical D&D VR is a competitive multiplayer game that has been done in non-VR (Dungeon Keeper, etc) but has exciting VR potential.\n\n\n## What it does\n\n\nOne player has an overview of the dungeon but no indicator of the players movements. They must watch the adventurer who is playing in VR (using a controller to go forward and turning their head to turn) to approximate their location and spring traps appropriately.\n\n\n## How we built it\n\n\nWe examined sample files from Google's documentation and used them to create a basic scene, and used our previous networking knowledge for the pc to android setup. \n\n\n## Challenges we ran into\n\n\nThe initial setup of the sample Android project and Unity networking took us longer than expected.\nThe build crashed or didn't install on Android for hours of debugging\n\n\n## Accomplishments that we're proud of\n\n\nThe game uses multiple technologies (bluetooth controller, cardboard, and pc/android networking), but is easily accessible with devices that many people already own.\n\n\n## What we learned\n\n\nUpdate your SDKs early, and don't get bogged down trying to make something work that *should* work, if it's taking too long.\n\n\nTest your build on the platform you're creating for, not in the Unity editor...\n\n\n## What's next for Asymmetrical D&D VR\n\n\nWith a viewer we picked up during the hackathon, we hope to add more gameplay elements (maybe more trap types or more players?) and possibly handmade assets.\n\n\n"
+}

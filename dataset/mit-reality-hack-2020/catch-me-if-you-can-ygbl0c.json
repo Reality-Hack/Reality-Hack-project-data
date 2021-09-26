@@ -1,0 +1,48 @@
+{
+    "source": "https://devpost.com/software/catch-me-if-you-can-ygbl0c",
+    "title": "Catch Me If You Can",
+    "blurb": "You are abducted by Kelp of the Kelpies, a race that lives in a realm parallel to our universe. The only way to get back home is by catching him within a crowd of other Kelpies",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/Z0dSNSujWdk?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "Salma Aldawood",
+            "about": "I worked on the design and implementation of the main character on the game including the random generator of its different variation. As well as helping on implementing the control pointer to interact with game objects through magic leap tools.It was my first time ever using unity and Magic leap but it was an exciting experience.",
+            "photo": "https://lh3.googleusercontent.com/a-/AOh14GhSl2Ck32iJdAdTbzXo2GIH9C2OoZs6NsET3H-GCb8=s96-c?height=180&width=180"
+        },
+        {
+            "name": "ShahadThobaiti",
+            "about": "I worked on configuring unity and magic leap. Adding spatial functionality to the game and editing the intro functions. It was my first time dealing with AR systems and Unity. ",
+            "photo": "https://avatars0.githubusercontent.com/u/35901600?height=180&v=4&width=180"
+        },
+        {
+            "name": "Tariq4495",
+            "about": "I worked on creating different 3D Models for multiple cultures to be distributed in our AR plain. Helped on some of the graphics and visuals work.",
+            "photo": "https://avatars2.githubusercontent.com/u/60040917?height=180&v=4&width=180"
+        },
+        {
+            "name": "Zeyad Al Awwad",
+            "about": "I mainly focused on the NPC swarm behavior and game manager, plus some work on integrating Magic Leap features like spatial mapping and user controls.",
+            "photo": "https://www.gravatar.com/avatar/2a6e2712e9e56a6c73c7e1824a79750a?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Arwa Alsaati",
+            "about": "I worked on the design and graphics integrated in the project. I helped with some of the basic coding in C# and Unity. I created the introduction and ending of the game.",
+            "photo": "https://avatars2.githubusercontent.com/u/36837528?height=180&v=4&width=180"
+        }
+    ],
+    "built_with": [
+        "c#",
+        "magic-leap",
+        "magicleap",
+        "photoshop",
+        "sketch",
+        "sketchup",
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>The game starts out with the player being captured by Kelp of the Kelpies, a species that lives in parallel to our own universe (the virtual one). Even though you can't see them in our world, they share the same space as us. Kelp has abducted you into their world, and the only way to return back to your world is by capturing him! Hence, the name \"Catch Me if You Can\". The message we are trying to send is based on the idea that just as we and the Kelpies are diverse in races and ethnicities, we all live in the same space and environment. Whether virtual or physical, everyone's presence is welcomed.</p>\n<h2>What it does</h2>\n<p>The game is built around tracking down Kelp, a unique NPC, from a large swarm of Kelpies (between 100-1000) as they wander around a large area of the room (approximately 10mx10m in the final version). You can grab Kelpies by pointing at them and pressing the trigger. You win the game when you can successfully grab Kelp. </p>\n<h2>How I built it</h2>\n<p>We used a lot of Unity features to help with development, especially their built-in navigation and collision tools. We created our own stochastic algorithm to control the swarm behavior and randomize NPC appearance. To use Magic Leap's display and controller, we used a lot of the official tutorials and sample scripts.</p>\n<h2>Challenges I ran into</h2>\n<p>All of us were beginners in Unity, XR and C# so we faced a significant learning curve. Our first day was spent getting familiar with the software and we didn't start the actual implementation until Saturday. </p>\n<p>Most of our time was spent learning how to use Magic Leap and implementing interactive controls, so we didn't include most of the features we planned.</p>\n<p>We also ran into several technical issues with cryptic error messages, including one related to the debug scripts.</p>\n<h2>Accomplishments that I'm proud of</h2>\n<p>We learned a lot about Unity and implementing cool features like mixed reality and spatial controls. We are really excited to work on more XR software in the future and feel prepared to tackle more ambitious projects in the future. </p>\n<h2>What I learned</h2>\n<p>We learned how to use Unity and programming XR visuals/controls with Magic Leap. We've become much more familiar with the capabilities of these technologies and what works. </p>\n<h2>What's next for Catch Me If You Can</h2>\n<p>We have a long list of features we wanted to include! We were interested in incorporating more mixed reality features, allowing characters to navigate around real-world obstacles and placing virtual buildings throughout the room. We also wanted to include more sophisticated AI behavior and spatial audio to help track the target. </p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nThe game starts out with the player being captured by Kelp of the Kelpies, a species that lives in parallel to our own universe (the virtual one). Even though you can't see them in our world, they share the same space as us. Kelp has abducted you into their world, and the only way to return back to your world is by capturing him! Hence, the name \"Catch Me if You Can\". The message we are trying to send is based on the idea that just as we and the Kelpies are diverse in races and ethnicities, we all live in the same space and environment. Whether virtual or physical, everyone's presence is welcomed.\n\n\n## What it does\n\n\nThe game is built around tracking down Kelp, a unique NPC, from a large swarm of Kelpies (between 100-1000) as they wander around a large area of the room (approximately 10mx10m in the final version). You can grab Kelpies by pointing at them and pressing the trigger. You win the game when you can successfully grab Kelp. \n\n\n## How I built it\n\n\nWe used a lot of Unity features to help with development, especially their built-in navigation and collision tools. We created our own stochastic algorithm to control the swarm behavior and randomize NPC appearance. To use Magic Leap's display and controller, we used a lot of the official tutorials and sample scripts.\n\n\n## Challenges I ran into\n\n\nAll of us were beginners in Unity, XR and C# so we faced a significant learning curve. Our first day was spent getting familiar with the software and we didn't start the actual implementation until Saturday. \n\n\nMost of our time was spent learning how to use Magic Leap and implementing interactive controls, so we didn't include most of the features we planned.\n\n\nWe also ran into several technical issues with cryptic error messages, including one related to the debug scripts.\n\n\n## Accomplishments that I'm proud of\n\n\nWe learned a lot about Unity and implementing cool features like mixed reality and spatial controls. We are really excited to work on more XR software in the future and feel prepared to tackle more ambitious projects in the future. \n\n\n## What I learned\n\n\nWe learned how to use Unity and programming XR visuals/controls with Magic Leap. We've become much more familiar with the capabilities of these technologies and what works. \n\n\n## What's next for Catch Me If You Can\n\n\nWe have a long list of features we wanted to include! We were interested in incorporating more mixed reality features, allowing characters to navigate around real-world obstacles and placing virtual buildings throughout the room. We also wanted to include more sophisticated AI behavior and spatial audio to help track the target. \n\n\n"
+}

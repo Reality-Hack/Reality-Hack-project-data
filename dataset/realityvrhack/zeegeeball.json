@@ -1,0 +1,40 @@
+{
+    "source": "https://devpost.com/software/zeegeeball",
+    "title": "ZeeGee",
+    "blurb": "Have you ever wanted to fly in VR? This experience allows you to float from area to area with the help of frisbees",
+    "awards": [],
+    "videos": [],
+    "images": [],
+    "team": [
+        {
+            "name": "Leonard Wedderburn",
+            "about": "I worked on the tools management",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/424/958/datas/profile.jpg"
+        },
+        {
+            "name": "Alan Foster",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/474/142/datas/profile.jpg"
+        },
+        {
+            "name": "Daniel Bryand",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/c854e9372564492cef7fd0b692e9bf4c?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Louis DeScioli",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/4272e3cb52eac9d4105917246b8d71a7?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Max Rose",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/69bf1b1af83c5df48e93578217a8d089?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        }
+    ],
+    "built_with": [
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>Zero Gravity</p>\n<h2>What it does</h2>\n<p>The player is able to float from area to area, they use their controllers like wings to guide themselves around</p>\n<h2>How I built it</h2>\n<p>Using Unity and Steam plugins</p>\n<h2>Challenges I ran into</h2>\n<p>Figuring out what to use the movement for</p>\n<h2>Accomplishments that I'm proud of</h2>\n<p>Creating a movement mechanic that is smooth and simple to use</p>\n<h2>What I learned</h2>\n<p>Breaking the rules in VR allows for creative possibilites</p>\n<h2>What's next for ZeeGee</h2>\n<p>Possible development into a full game</p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nZero Gravity\n\n\n## What it does\n\n\nThe player is able to float from area to area, they use their controllers like wings to guide themselves around\n\n\n## How I built it\n\n\nUsing Unity and Steam plugins\n\n\n## Challenges I ran into\n\n\nFiguring out what to use the movement for\n\n\n## Accomplishments that I'm proud of\n\n\nCreating a movement mechanic that is smooth and simple to use\n\n\n## What I learned\n\n\nBreaking the rules in VR allows for creative possibilites\n\n\n## What's next for ZeeGee\n\n\nPossible development into a full game\n\n\n"
+}

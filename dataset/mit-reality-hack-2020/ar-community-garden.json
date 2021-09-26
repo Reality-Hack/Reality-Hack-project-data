@@ -1,0 +1,96 @@
+{
+    "source": "https://devpost.com/software/ar-community-garden",
+    "title": "AR Community Garden",
+    "blurb": "AR Community Garden creates more resilient individuals, groups, and communities highlighting urban edible plants. Participants plant seeds and pollinate plants as an interactive bee. ",
+    "awards": [],
+    "videos": [],
+    "images": [
+        {
+            "title": "AR Community Garden Mission Statement",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/916/101/datas/original.jpeg"
+        },
+        {
+            "title": "People who draw together, draw together for a better world. Participatory AR project includes almost 100 participants from MIT Reality Hack",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/916/103/datas/original.jpeg"
+        },
+        {
+            "title": "Paige Dansinger draws with participants",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/916/096/datas/original.jpeg"
+        },
+        {
+            "title": "Partipant drawing in a VR Dandelion Patch in the AR Community Garden",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/916/104/datas/original.jpeg"
+        },
+        {
+            "title": "Participants",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/916/098/datas/original.jpeg"
+        },
+        {
+            "title": "Partpants",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/916/099/datas/original.jpeg"
+        },
+        {
+            "title": "AR  Edible and Medicinal Plant Targets that respond to app created with Unity + Vuforia",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/916/097/datas/original.jpeg"
+        },
+        {
+            "title": "AR Target for Community Dandelion Patch ",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/916/102/datas/original.jpeg"
+        },
+        {
+            "title": "Edible and medicinal plants",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/916/100/datas/original.jpeg"
+        },
+        {
+            "title": "Planting AR Seeds",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/916/107/datas/original.jpeg"
+        },
+        {
+            "title": "MIT Media Lab Sketches, Oliver Dansinger",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/488/datas/original.JPG"
+        },
+        {
+            "title": "Non-Edible Plants, Oliver Dansinger ",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/929/795/datas/original.jpg"
+        },
+        {
+            "title": "Beebalm, Monarda",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/531/datas/original.JPG"
+        },
+        {
+            "title": "Purslane, Porticiclus",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/530/datas/original.JPG"
+        }
+    ],
+    "team": [
+        {
+            "name": "Kritisha Jain",
+            "about": "I worked on crafting the narrative for the community garden. Through this process, I learned a lot - especially the power of technology to bring people together and to alleviate them of their fears, loneliness and lack of a real connection. ",
+            "photo": "https://www.gravatar.com/avatar/35e1eaa8d06c262a52bd7b7492fec813?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Paige Dansinger",
+            "about": "Idea proposal, Visual content creation in VR, AR Targets, and display materials. I facilitated the public practice element by drawing with MIT Reality Hackers us8ing Tilt Brush with an Oculus Quest, and presented project. ",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/917/166/datas/profile.JPG"
+        },
+        {
+            "name": "Oliver Dansinger",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/8c69b913382eb452c61dc62c121c34c4?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Taeyeon Kim",
+            "about": "",
+            "photo": "https://graph.facebook.com/1924651354269918/picture?height=180&width=180"
+        }
+    ],
+    "built_with": [
+        "ios",
+        "quest",
+        "tiltbrush",
+        "unity",
+        "vuforia"
+    ],
+    "content_html": "<div>\n<p>AR Community Garden creates more resilient individuals, groups, and communities by using a mobile AR app created with Unity + Vuforia which highlights urban edible and medicinal plants. Participants use AR to actively plant seeds and pollinate plants with an interactive AR Bee.</p>\n<p>Creating AR Community Garden at MIT Hacker Community was an opportunity for connection. Almost 100 people participated in drawing in the Dandelion Patch. Dandelions provide edible and medicinal properties but people use poison to kill them. Like dandelions, Hackers are also outliers but can save the world! People loved participating in this  utopian change experience. Out team believes when people draw together, they draw together for a better world. </p>\n<p>We learned new software, how to be more inclusive, listening skills, and project management. But most of all learned to use our hearts as a guiding force in discussing community resiliency and using creative technology to crea=t more empathetic cities. Smart cities that are not heart and human centered are not smart enough without resilience, inclusion, participation, and love. </p>\n<p>Some challenges included syncing software, limiting ideas to the most successful project outcome, and providing more opportunities for the Hackers to draw in the garden -- people loved participating. In the future I would include </p>\n</div>",
+    "content_md": "\nAR Community Garden creates more resilient individuals, groups, and communities by using a mobile AR app created with Unity + Vuforia which highlights urban edible and medicinal plants. Participants use AR to actively plant seeds and pollinate plants with an interactive AR Bee.\n\n\nCreating AR Community Garden at MIT Hacker Community was an opportunity for connection. Almost 100 people participated in drawing in the Dandelion Patch. Dandelions provide edible and medicinal properties but people use poison to kill them. Like dandelions, Hackers are also outliers but can save the world! People loved participating in this utopian change experience. Out team believes when people draw together, they draw together for a better world. \n\n\nWe learned new software, how to be more inclusive, listening skills, and project management. But most of all learned to use our hearts as a guiding force in discussing community resiliency and using creative technology to crea=t more empathetic cities. Smart cities that are not heart and human centered are not smart enough without resilience, inclusion, participation, and love. \n\n\nSome challenges included syncing software, limiting ideas to the most successful project outcome, and providing more opportunities for the Hackers to draw in the garden -- people loved participating. In the future I would include \n\n\n"
+}

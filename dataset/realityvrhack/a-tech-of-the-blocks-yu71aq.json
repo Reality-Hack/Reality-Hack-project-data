@@ -1,0 +1,31 @@
+{
+    "source": "https://devpost.com/software/a-tech-of-the-blocks-yu71aq",
+    "title": "A-tech of the Blocks",
+    "blurb": "Modernizing the classic game of Tetris with a touch of alchemy and danger",
+    "awards": [],
+    "videos": [],
+    "images": [
+        {
+            "title": "Beginnings",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/421/020/datas/original.PNG"
+        }
+    ],
+    "team": [
+        {
+            "name": "Aidan McLaughlin",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/77a5e9214cd609ca642ebf4f34dd10b2?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Brandon Henriquez",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/5695a81b47144755de434ec2dd7e45d1?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        }
+    ],
+    "built_with": [
+        "unity",
+        "vive"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>The inspiration comes from Brandon who wanted to use AR/VR to recreate Tetris using new technology for a more engaging experience.</p>\n<h2>What it does</h2>\n<p>Makes Tetris 3D! We would like to add material properties beyond just looks so that, while still playing by the classic mechanics, the player must also pay attention to interactions between blocks in 3 dimensions (why you see wood, dirt, ice, concrete, etc.)</p>\n<h2>How we built it</h2>\n<p>We built it using Unity and various Vive plugins.</p>\n<h2>Challenges we ran into</h2>\n<p>Learning to use VR input in Unity in a consistent way. Lots of trial and error. Also Matrices. In general.</p>\n<h2>Accomplishments that we're proud of</h2>\n<p><a href=\"https://drive.google.com/file/d/0ByKYBqi5ISu0MHREOXJKUzJwLW8/view?usp=sharing\" rel=\"nofollow\">https://drive.google.com/file/d/0ByKYBqi5ISu0MHREOXJKUzJwLW8/view?usp=sharing</a>\n!!!</p>\n<h2>What we learned</h2>\n<h2>What's next for A-tech of the Blocks</h2>\n<p>Making the elements a significant game mechanic!</p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nThe inspiration comes from Brandon who wanted to use AR/VR to recreate Tetris using new technology for a more engaging experience.\n\n\n## What it does\n\n\nMakes Tetris 3D! We would like to add material properties beyond just looks so that, while still playing by the classic mechanics, the player must also pay attention to interactions between blocks in 3 dimensions (why you see wood, dirt, ice, concrete, etc.)\n\n\n## How we built it\n\n\nWe built it using Unity and various Vive plugins.\n\n\n## Challenges we ran into\n\n\nLearning to use VR input in Unity in a consistent way. Lots of trial and error. Also Matrices. In general.\n\n\n## Accomplishments that we're proud of\n\n\n<https://drive.google.com/file/d/0ByKYBqi5ISu0MHREOXJKUzJwLW8/view?usp=sharing>\n!!!\n\n\n## What we learned\n\n\n## What's next for A-tech of the Blocks\n\n\nMaking the elements a significant game mechanic!\n\n\n"
+}

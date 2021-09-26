@@ -1,0 +1,43 @@
+{
+    "source": "https://devpost.com/software/controlar",
+    "title": "ControlAR",
+    "blurb": "A Magic Leap tool that turns anything into an AR controller",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/IEIuP3kvSQY?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [
+        {
+            "title": "ControlAR Logo",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/914/479/datas/original.jpg"
+        },
+        {
+            "title": "Team photo",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/916/851/datas/original.jpg"
+        }
+    ],
+    "team": [
+        {
+            "name": "Thomas Suarez",
+            "about": "AR / Magic Leap integration, video streaming, deep learning backend",
+            "photo": "https://avatars3.githubusercontent.com/u/5103968?height=180&v=4&width=180"
+        },
+        {
+            "name": "Weston Bell-Geddes",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/911/402/datas/profile.jpg"
+        }
+    ],
+    "built_with": [
+        "c#",
+        "cuda",
+        "magic-leap",
+        "opencv",
+        "posecnn",
+        "python",
+        "teleportal",
+        "unity"
+    ],
+    "content_html": "<div>\n<p>ControlAR is an augmented reality tool built for the Magic Leap that allows the user to turn everyday objects into controllers that affect in-game objects.</p>\n<h2>What it does</h2>\n<p>ControlAR is diverse in its applications and can be applied to many different fields. In our demo, you can fly a plane around the room by simply pointing a banana in the direction you want the airplane to fly. As of now, this is done using the gyroscope inside a phone.</p>\n<h2>How we built it</h2>\n<p>This initial version of ControlAR is made with Unity, written in C#, and deployed to Magic Leap. The Unity client can also run on Android, allowing it to be used as an alternate controller. Camera frames (YUV data in byte buffers) are streamed via UDP to a custom Python server we wrote, which is intended to as a bridge between the Magic Leap 1 and the deep learning runtime. We were able to build and configure PoseCNN (an open-source pose estimation framework implemented from a research paper) from source and run basic images through it on an Nvidia GPU with CUDA support. We started work on converting YUV frame buffers to RGB data that is compatible with PoseCNN, but ran out of time for integration toward the end of the hackathon. We intend to finish the PoseCNN integration at some point in the near future.</p>\n<h2>Challenges we ran into</h2>\n<ul>\n<li>  Linux OS</li>\n<li>  Raspberry Pi</li>\n<li>  Deep learning framework - CUDA</li>\n<li>  Magic Leap OpenCV</li>\n</ul>\n<h2>Accomplishments that we're proud of</h2>\n<ul>\n<li>  Streaming to/from a remote server for CUDA-based PoseCNN</li>\n<li>  Magic Leap deployment and feature exploration</li>\n<li>  Cohesive teamwork</li>\n</ul>\n<h2>What we learned</h2>\n<ul>\n<li>  Networked streaming of camera data</li>\n<li>  Convolutional neural network integration</li>\n<li>  Have GPU environments set up ahead of a hackathon for deep learning, just in case</li>\n</ul>\n<h2>What's next for ControlAR</h2>\n<p>As aforementioned, ControlAR is a tool that can be used for a diverse array of applications. As we continue to implement machine learning, we plan to continue to optimize ControlAR, while adding more minigames showcasing potential functionalities.</p>\n</div>",
+    "content_md": "\nControlAR is an augmented reality tool built for the Magic Leap that allows the user to turn everyday objects into controllers that affect in-game objects.\n\n\n## What it does\n\n\nControlAR is diverse in its applications and can be applied to many different fields. In our demo, you can fly a plane around the room by simply pointing a banana in the direction you want the airplane to fly. As of now, this is done using the gyroscope inside a phone.\n\n\n## How we built it\n\n\nThis initial version of ControlAR is made with Unity, written in C#, and deployed to Magic Leap. The Unity client can also run on Android, allowing it to be used as an alternate controller. Camera frames (YUV data in byte buffers) are streamed via UDP to a custom Python server we wrote, which is intended to as a bridge between the Magic Leap 1 and the deep learning runtime. We were able to build and configure PoseCNN (an open-source pose estimation framework implemented from a research paper) from source and run basic images through it on an Nvidia GPU with CUDA support. We started work on converting YUV frame buffers to RGB data that is compatible with PoseCNN, but ran out of time for integration toward the end of the hackathon. We intend to finish the PoseCNN integration at some point in the near future.\n\n\n## Challenges we ran into\n\n\n* Linux OS\n* Raspberry Pi\n* Deep learning framework - CUDA\n* Magic Leap OpenCV\n\n\n## Accomplishments that we're proud of\n\n\n* Streaming to/from a remote server for CUDA-based PoseCNN\n* Magic Leap deployment and feature exploration\n* Cohesive teamwork\n\n\n## What we learned\n\n\n* Networked streaming of camera data\n* Convolutional neural network integration\n* Have GPU environments set up ahead of a hackathon for deep learning, just in case\n\n\n## What's next for ControlAR\n\n\nAs aforementioned, ControlAR is a tool that can be used for a diverse array of applications. As we continue to implement machine learning, we plan to continue to optimize ControlAR, while adding more minigames showcasing potential functionalities.\n\n\n"
+}

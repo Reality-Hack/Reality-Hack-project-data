@@ -1,0 +1,45 @@
+{
+    "source": "https://devpost.com/software/syncup-l14ip2",
+    "title": "SyncUp",
+    "blurb": "\"Human Tetris\" -- a collaborative VR game",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/xcC0SOUf51o?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [
+        {
+            "title": "Game",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/745/487/datas/original.png"
+        }
+    ],
+    "team": [
+        {
+            "name": "Marcella Prieto",
+            "about": "I contributed embodiment, empathy, process design, concept design, game design, narrative, and sound capture. ",
+            "photo": "https://avatars0.githubusercontent.com/u/46794378?height=180&v=4&width=180"
+        },
+        {
+            "name": "Kaochoy Danny Saetern",
+            "about": "I worked on game mechanics and ux implementations. It was my first time working with networks and photon. We got the network room and coop experience but the coop game mechanic is almost there. ",
+            "photo": "https://media.licdn.com/mpr/mprx/0_xgY8aXcdJUlTfNUvxMH8_XgH0UTtuXwvP26ael1dj4T1dNoLMMH86XAHRp-1dLZZVMQ3i9Oelw-PE8fkraUy6r0kqw--E8mvPaU_DAoW0EFY8nvd0xDDS5XZNOHGi8JkVS0uE_g2Fuy?height=180&width=180"
+        },
+        {
+            "name": "Krishnan Unnikrishnan",
+            "about": "As a designer, I had a vision to create a real-time collaborative experience in VR that required an embodied interaction.  With these guiding principles, Marcella and I worked together to brainstorm, design, and create a playful experience that captures the joyful childhood experience of Tetris. ",
+            "photo": "https://avatars2.githubusercontent.com/u/41970674?height=180&v=4&width=180"
+        },
+        {
+            "name": "Colin Keenan",
+            "about": "I composed the score and other audio assets, animated the island where the play happens, and made the score icons.",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/742/458/datas/profile.jpg"
+        },
+        {
+            "name": "Wendy Wei",
+            "about": "I implemented game mechanics and UX. We designed a way to project the user\u2019s physical position and controller positions onto the game board, as a mirror of the user\u2019s actions.",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/746/467/datas/profile.jpg"
+        }
+    ],
+    "built_with": [],
+    "content_html": "<div>\n<p>Our process begins with feeling the joy of childhood play. </p>\n<p>From there, we created an optimistic hypothesis for the future by applying (1) real-time collaborative play and (2) whole-body interaction to a game with universal appeal and few barriers to entry. </p>\n<p>Enter Tetris.</p>\n<p>By borrowing from the syntax and grammar of Tetris, we were able to quickly develop a hypothesis for two or more players in multiple locations to assemble puzzle pieces together and enter the combined piece as a single solution. We prioritized fundamentally social interaction within the context of informed advocacy.</p>\n<p>We built the hack on Unity for Oculus Rift using Photon Universal Network. We built our visual assets in Tilt Brush to manipulate the Google Poly library at human scale. We composed audio tracks using MixCraft with a MIDI input controller to build a digitally composed original score. We recorded a library of unique sounds from detritus that was caught in bushes located within 10' of the Media Lab perimeter. We created a physical art installation to present our hack by littering our workspace with an ocean of Crystal Geyser plastic bottles rescued from Trash-destined bins on the 6th floor of the Media Lab. We believe in the power of advocacy through gaming and hope that a player's time spent using SyncUp will change their relationship with plastic bottles, birds, and the ocean.</p>\n<p>Our primary obstacle was the implicit bias of the event's design.</p>\n<p>Our hypothesis of designing collaborative play intersected with the priorities of the Hackathon's supply design. Teams were allowed to borrow only one Rift for the duration of the event and every available unit was loaned in this manner, leaving 0 inventory to rent for testing. So our hypothesis of collaborative play was not imminently testable from the outset. Nevertheless, we persisted. </p>\n<p>We are particularly proud of three things: networked real-time play, team diversity, and design process.</p>\n<p>1) We successfully networked two players to interact with each other in real-time towards a common goal.</p>\n<p>2) Our team was diverse in experience. Our diversity of experience informed each other's creative process, casting emerging perspectives and new discoveries upon existing design practices. </p>\n<p>3) We refined an iterative, values-based design process that can be applied to other familiar games which, by extension, creates a rubric for us to continue to coalesce around values of collaboration and embodiment within the context of informed advocacy.</p>\n<p>What's next for SyncUp is to apply the iterative, values-based design process to other familiar games and make them fundamentally social through the values of collaborative play, embodied interaction, and informed advocacy.</p>\n</div>",
+    "content_md": "\nOur process begins with feeling the joy of childhood play. \n\n\nFrom there, we created an optimistic hypothesis for the future by applying (1) real-time collaborative play and (2) whole-body interaction to a game with universal appeal and few barriers to entry. \n\n\nEnter Tetris.\n\n\nBy borrowing from the syntax and grammar of Tetris, we were able to quickly develop a hypothesis for two or more players in multiple locations to assemble puzzle pieces together and enter the combined piece as a single solution. We prioritized fundamentally social interaction within the context of informed advocacy.\n\n\nWe built the hack on Unity for Oculus Rift using Photon Universal Network. We built our visual assets in Tilt Brush to manipulate the Google Poly library at human scale. We composed audio tracks using MixCraft with a MIDI input controller to build a digitally composed original score. We recorded a library of unique sounds from detritus that was caught in bushes located within 10' of the Media Lab perimeter. We created a physical art installation to present our hack by littering our workspace with an ocean of Crystal Geyser plastic bottles rescued from Trash-destined bins on the 6th floor of the Media Lab. We believe in the power of advocacy through gaming and hope that a player's time spent using SyncUp will change their relationship with plastic bottles, birds, and the ocean.\n\n\nOur primary obstacle was the implicit bias of the event's design.\n\n\nOur hypothesis of designing collaborative play intersected with the priorities of the Hackathon's supply design. Teams were allowed to borrow only one Rift for the duration of the event and every available unit was loaned in this manner, leaving 0 inventory to rent for testing. So our hypothesis of collaborative play was not imminently testable from the outset. Nevertheless, we persisted. \n\n\nWe are particularly proud of three things: networked real-time play, team diversity, and design process.\n\n\n1) We successfully networked two players to interact with each other in real-time towards a common goal.\n\n\n2) Our team was diverse in experience. Our diversity of experience informed each other's creative process, casting emerging perspectives and new discoveries upon existing design practices. \n\n\n3) We refined an iterative, values-based design process that can be applied to other familiar games which, by extension, creates a rubric for us to continue to coalesce around values of collaboration and embodiment within the context of informed advocacy.\n\n\nWhat's next for SyncUp is to apply the iterative, values-based design process to other familiar games and make them fundamentally social through the values of collaborative play, embodied interaction, and informed advocacy.\n\n\n"
+}

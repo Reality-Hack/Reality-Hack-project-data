@@ -1,0 +1,22 @@
+{
+    "source": "https://devpost.com/software/words-0u5pet",
+    "title": "Words",
+    "blurb": "It's mainly an vr-art installation about my first time in the US. I put words and situations together which I experienced during my time here.  ",
+    "awards": [],
+    "videos": [],
+    "images": [],
+    "team": [
+        {
+            "name": "SilvanaNoise Vasquez-Keller",
+            "about": "",
+            "photo": "https://avatars1.githubusercontent.com/u/60072218?height=180&v=4&width=180"
+        }
+    ],
+    "built_with": [
+        "brush",
+        "tilt",
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>I was inspired by everything I encountered here every day. It was very intensive and different from what I was used from Europe. I was challenged by the simplest things to do like crossing the street by pushing an arrow button, taking a hot shower and finding my way...</p>\n<h2>What it does</h2>\n<p>Hopefully it shows how it feels like to be a stranger at a totally new place.</p>\n<h2>How I built it</h2>\n<p>tilt brush, unity</p>\n<h2>Challenges I ran into</h2>\n<p>to survive </p>\n<h2>Accomplishments that I'm proud of</h2>\n<p>I am sure that I have found a completely new form language for an artistic implementation of my experience in vr. </p>\n<h2>What I learned</h2>\n<p>Food is really important to work productively.</p>\n<h2>What's next for Words</h2>\n<p>Showing it to an audience in vr at different exhibitions.</p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nI was inspired by everything I encountered here every day. It was very intensive and different from what I was used from Europe. I was challenged by the simplest things to do like crossing the street by pushing an arrow button, taking a hot shower and finding my way...\n\n\n## What it does\n\n\nHopefully it shows how it feels like to be a stranger at a totally new place.\n\n\n## How I built it\n\n\ntilt brush, unity\n\n\n## Challenges I ran into\n\n\nto survive \n\n\n## Accomplishments that I'm proud of\n\n\nI am sure that I have found a completely new form language for an artistic implementation of my experience in vr. \n\n\n## What I learned\n\n\nFood is really important to work productively.\n\n\n## What's next for Words\n\n\nShowing it to an audience in vr at different exhibitions.\n\n\n"
+}

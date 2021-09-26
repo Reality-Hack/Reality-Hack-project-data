@@ -1,0 +1,42 @@
+{
+    "source": "https://devpost.com/software/duet-oygkrx",
+    "title": "Duet",
+    "blurb": "Duet is a contemplative dance ritual for two people in shared space for Oculus Quest. The experience inspires new postures for VR, with people making physical contact in intimate and soft ways.",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/b-5ptSwRSHA?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "Carla Cardenas",
+            "about": "",
+            "photo": "https://avatars0.githubusercontent.com/u/19547988?height=180&v=4&width=180"
+        },
+        {
+            "name": "Kevin Laibson",
+            "about": "",
+            "photo": "https://media-exp2.licdn.com/dms/image/C5603AQHK41TrBe_55Q/profile-displayphoto-shrink_800_800/0?e=1585180800&height=180&t=4SzkLCf-qlDYnWj7lyMOw4kHv2BDWHUONCSVFaq0NrY&v=beta&width=180"
+        },
+        {
+            "name": "Alisia Martinez",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/339/193/datas/profile.jpg"
+        },
+        {
+            "name": "Brandon Powers",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/696/951/datas/profile.JPG"
+        }
+    ],
+    "built_with": [
+        "github",
+        "maya",
+        "normcore",
+        "oculus",
+        "unity",
+        "visual-studio"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>To simplify the challenge of networking two players in a space we used Normcore. This made the complicated process much easier as we could easily use the plugin to launch our two users into the scene. </p>\n<h2>What it does</h2>\n<h2>How We Built It</h2>\n<h2>Challenges I ran into</h2>\n<ol>\n<li><p>Some challenges we faced included optimization for the Quest. The visual effects we imagined could not be replicated using Unity\u2019s new Shadergraph or high definition pipeline as we were developing for a mobile platform.</p></li>\n<li><p>A huge technical challenge we wanted to tackle was using two Oculus Quests in the same physical location so that users could interact by touching hands. There is no easy solution for this currently so we had to use Normcore plus some creative solving to make it work.</p></li>\n<li><p>Another obstacle was the instability of Oculus development with both Rift and Quest. At some points we could easily deploy to either, but at others we had to debug many processes that had no clear solution, including restarting the devices until it magically clicked. </p></li>\n</ol>\n<h2>Accomplishments that We're Proud Of</h2>\n<p>Even though the aesthetics of the experience for this Hack prototype didn't match our expectations, we were extremely proud of how the design functioned. </p>\n<h2>What We learned</h2>\n<h2>What's next for Duet</h2>\n<p>We are excited to continue to build on the experience, solving some technical challenges such a faulty animation when the Visitors reached a certain section of the dance. Then we'll playtest this new version before adding in the planned visuals and audio that didn't make it in the build at the Hack. We look forward to finding partners for funding and presentation to take DUET to festivals, theaters, and events around the world. </p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nTo simplify the challenge of networking two players in a space we used Normcore. This made the complicated process much easier as we could easily use the plugin to launch our two users into the scene. \n\n\n## What it does\n\n\n## How We Built It\n\n\n## Challenges I ran into\n\n\n1. Some challenges we faced included optimization for the Quest. The visual effects we imagined could not be replicated using Unity\u2019s new Shadergraph or high definition pipeline as we were developing for a mobile platform.\n2. A huge technical challenge we wanted to tackle was using two Oculus Quests in the same physical location so that users could interact by touching hands. There is no easy solution for this currently so we had to use Normcore plus some creative solving to make it work.\n3. Another obstacle was the instability of Oculus development with both Rift and Quest. At some points we could easily deploy to either, but at others we had to debug many processes that had no clear solution, including restarting the devices until it magically clicked.\n\n\n## Accomplishments that We're Proud Of\n\n\nEven though the aesthetics of the experience for this Hack prototype didn't match our expectations, we were extremely proud of how the design functioned. \n\n\n## What We learned\n\n\n## What's next for Duet\n\n\nWe are excited to continue to build on the experience, solving some technical challenges such a faulty animation when the Visitors reached a certain section of the dance. Then we'll playtest this new version before adding in the planned visuals and audio that didn't make it in the build at the Hack. We look forward to finding partners for funding and presentation to take DUET to festivals, theaters, and events around the world. \n\n\n"
+}

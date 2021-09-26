@@ -1,0 +1,73 @@
+{
+    "source": "https://devpost.com/software/signar-hw6rxf",
+    "title": "SignAR ",
+    "blurb": "Our goal is to break down barriers for non-verbal communicators. to have the experience of voice to voice conversation.  We believe everyone has an opinion and opportunities should be for all.",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/nJkp6uROTvo?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [
+        {
+            "title": "UI MOCK UP 2",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/017/datas/original.png"
+        },
+        {
+            "title": "UI MOCK UP",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/018/datas/original.png"
+        },
+        {
+            "title": "UI MOCKUP 3",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/019/datas/original.png"
+        },
+        {
+            "title": "LOGO LOCK UP",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/031/datas/original.png"
+        },
+        {
+            "title": "LOGOTYPE 1",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/032/datas/original.jpg"
+        }
+    ],
+    "team": [
+        {
+            "name": "Zhuoneng Wang",
+            "about": "I originated the idea of this project, worked on hand gesture recognition feature and general Unity issues to make sure the prototype works properly.",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/918/487/datas/profile.png"
+        },
+        {
+            "name": "Runze Zhang",
+            "about": "I created a mini-base for recognizing sign language and sentences; built the interaction function in unity.",
+            "photo": "https://avatars1.githubusercontent.com/u/37249382?height=180&v=4&width=180"
+        },
+        {
+            "name": "Alistair Leyland",
+            "about": "I produced the project, helped with the video, lead aspects of the pitch presentation and tried to keep the team super positive during a very condensed timeline.  ",
+            "photo": "https://graph.facebook.com/10157386967244902/picture?height=180&width=180"
+        },
+        {
+            "name": "Soyoung Lim",
+            "about": "I worked on UX/UI and logo design. I tried to maximize usability of SignAR functions in situation of face-to-face conversation. ",
+            "photo": "https://media-exp1.licdn.com/dms/image/C5103AQHTT6IK0Q2-tA/profile-displayphoto-shrink_800_800/0?e=1584576000&height=180&t=lHQUeuaW5iCnQbiEXlLpBCam3ENOrIn0nNtN2cNP0MY&v=beta&width=180"
+        },
+        {
+            "name": "Ajinkya Hukerikar",
+            "about": "",
+            "photo": "https://lh4.googleusercontent.com/-l7EggvfklQE/AAAAAAAAAAI/AAAAAAAAQHw/AMZuucnRs70Wck9V0mGnmZTV5A2dYvtyvg/c/photo.jpg?height=180&width=180"
+        }
+    ],
+    "built_with": [
+        "adobe",
+        "adobe-illustrator",
+        "augmented-reality",
+        "c#",
+        "interviews",
+        "leap-motion",
+        "oculus",
+        "photoshop",
+        "unity",
+        "ux",
+        "zed"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>We are inspired to augmented reality to create an experience for those who are hearing and speech impaired to be able to communicate via sound and text.</p>\n<h2>What it does</h2>\n<p>SignAR is the next generation of sign language application, providing non-verbal communicators new tools to communicate.  Core features include a gesture/sign language to voice/text translation, the ability to customize vocabulary and phrases [hot keys] to be able to verbally communicate with friends, family, coworkers and loved ones.</p>\n<h2>How we built it</h2>\n<ul>\n<li><p>We built this experience in Unity, utilizing leap motion for hand-tracking, oculus rift which was hacked with a camera to empower an AR function, several laptops, a Bluetooth speaker - as no directional audio speaker was available. </p></li>\n<li><p>Usability and readability were our main concerns of UX and UI. For UX, we worked on a user persona and sketched low fidelity prototyping with a functional flow. We focused on visual indicators/feedbacks for hearing impaired users and more comfortable face to face communication. To differentiate a user and a conversation partner, the complementary colour was used. We used a user's eye level as a reference for the position of UI so that, augmented reality UI harmonized well with reality and do not disturb a user's conversation. We leveraged Adobe Photoshop and Illustrator for the UI and branding elements.  </p></li>\n</ul>\n<h2>Challenges I ran into</h2>\n<ul>\n<li>We ran into challenges around teaching the experience to detect human hands and the associated meaning behind the gestures made by human hands.<br/>\nNone of the team previously knew American sign language and it was a fairly steep learning curve, but we learned enough to start the creation of a gestural vocabulary.  Machine learning would be a fantastic addition to the experience in order to build the vocabulary efficiently and create a meaningful tool.<br/></li>\n<li>This experience would lend itself very well to the hololens 2 - however due to hardware constraints one was not available, so we hacked together hardware solutions intended to emulate the hololens2.</li>\n</ul>\n<h2>Accomplishments that I'm proud of</h2>\n<p>We are proud of numerous aspects of the project, but the top would be the technology created in a short time, thoughtfulness to the user experience and the development of the concept by scrambling to develop subject matter expertise within a sensitive area - non-verbal communication.  We sourced the hackathon crowd and leveraged mentors to unearth a wonderful person named Shannon, an educator who works with non-verbal communicators, whom we interviewed and talked with extensively in order to build a sensible and thoughtful approach to creating this product.  </p>\n<h2>What we learned</h2>\n<p>We learned the immense challenges and barriers that exist for non-verbal communicators.  98% of deaf people do not receive education in sign language.  72% of families do not sign with their deaf children - which is heartbreaking.  70% of deaf people don't work or are underemployed and this certainly doesn't bode well for their confidence or happiness.\n1 in 4 non-verbal communicators have left a job due to discrimination.  All of these facts drive us to create a better way for non-verbal communicators to express themselves in a personal and professional context.<br/>\nTechnically, we learned how to work with existing hardware limitations - lack of hololens2 - and work with oculus rift.  Ideally the next step for this project would be to make the product hardware agnostic in order to empower meaningful communication for any wearer of any headset.  </p>\n<h2>What's next for SignAR</h2>\n<ul>\n<li>This tool could be a very significant product for non-verbal communicators both locally and globally.  Exploring Watson integration will allow machine learnings to power up the vocabulary to scale the potential for meaningful communication around the world. \nFUTURE FEATURES //\u00a0</li>\n<li>INTEGRATE WITH OPEN SOURCE WATSON, LEVERAGE MACHINE LEARNINGS TO RAPIDLY BUILD OUT A ROBUST VOCABULARY DATABASE.\u00a0 \u00a0</li>\n<li>INTEGRATE WITH OPEN SOURCE PAST MIT HACKATHON PROJECT </li>\n<li>TO INTEGRATE EXISTING VOICE TO GESTURE PROJECT </li>\n<li>EFFECTIVELY CLOSING THE LOOP ON MEANINGFUL COMMUNICATION FOR NON-VERBAL COMMUNICATORS.\u00a0\u00a0</li>\n<li>DEVELOP DIRECTIONAL AUDIO FUNCTIONALITY, ALLOWING FOR PRESENTATION MODE OR MORE PRIVATE CONVERSATIONS TO TAKE PLACE.\u00a0</li>\n</ul>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nWe are inspired to augmented reality to create an experience for those who are hearing and speech impaired to be able to communicate via sound and text.\n\n\n## What it does\n\n\nSignAR is the next generation of sign language application, providing non-verbal communicators new tools to communicate. Core features include a gesture/sign language to voice/text translation, the ability to customize vocabulary and phrases [hot keys] to be able to verbally communicate with friends, family, coworkers and loved ones.\n\n\n## How we built it\n\n\n* We built this experience in Unity, utilizing leap motion for hand-tracking, oculus rift which was hacked with a camera to empower an AR function, several laptops, a Bluetooth speaker - as no directional audio speaker was available.\n* Usability and readability were our main concerns of UX and UI. For UX, we worked on a user persona and sketched low fidelity prototyping with a functional flow. We focused on visual indicators/feedbacks for hearing impaired users and more comfortable face to face communication. To differentiate a user and a conversation partner, the complementary colour was used. We used a user's eye level as a reference for the position of UI so that, augmented reality UI harmonized well with reality and do not disturb a user's conversation. We leveraged Adobe Photoshop and Illustrator for the UI and branding elements.\n\n\n## Challenges I ran into\n\n\n* We ran into challenges around teaching the experience to detect human hands and the associated meaning behind the gestures made by human hands.  \n\nNone of the team previously knew American sign language and it was a fairly steep learning curve, but we learned enough to start the creation of a gestural vocabulary. Machine learning would be a fantastic addition to the experience in order to build the vocabulary efficiently and create a meaningful tool.\n* This experience would lend itself very well to the hololens 2 - however due to hardware constraints one was not available, so we hacked together hardware solutions intended to emulate the hololens2.\n\n\n## Accomplishments that I'm proud of\n\n\nWe are proud of numerous aspects of the project, but the top would be the technology created in a short time, thoughtfulness to the user experience and the development of the concept by scrambling to develop subject matter expertise within a sensitive area - non-verbal communication. We sourced the hackathon crowd and leveraged mentors to unearth a wonderful person named Shannon, an educator who works with non-verbal communicators, whom we interviewed and talked with extensively in order to build a sensible and thoughtful approach to creating this product. \n\n\n## What we learned\n\n\nWe learned the immense challenges and barriers that exist for non-verbal communicators. 98% of deaf people do not receive education in sign language. 72% of families do not sign with their deaf children - which is heartbreaking. 70% of deaf people don't work or are underemployed and this certainly doesn't bode well for their confidence or happiness.\n1 in 4 non-verbal communicators have left a job due to discrimination. All of these facts drive us to create a better way for non-verbal communicators to express themselves in a personal and professional context.  \n\nTechnically, we learned how to work with existing hardware limitations - lack of hololens2 - and work with oculus rift. Ideally the next step for this project would be to make the product hardware agnostic in order to empower meaningful communication for any wearer of any headset. \n\n\n## What's next for SignAR\n\n\n* This tool could be a very significant product for non-verbal communicators both locally and globally. Exploring Watson integration will allow machine learnings to power up the vocabulary to scale the potential for meaningful communication around the world. \nFUTURE FEATURES //\n* INTEGRATE WITH OPEN SOURCE WATSON, LEVERAGE MACHINE LEARNINGS TO RAPIDLY BUILD OUT A ROBUST VOCABULARY DATABASE.\n* INTEGRATE WITH OPEN SOURCE PAST MIT HACKATHON PROJECT\n* TO INTEGRATE EXISTING VOICE TO GESTURE PROJECT\n* EFFECTIVELY CLOSING THE LOOP ON MEANINGFUL COMMUNICATION FOR NON-VERBAL COMMUNICATORS.\n* DEVELOP DIRECTIONAL AUDIO FUNCTIONALITY, ALLOWING FOR PRESENTATION MODE OR MORE PRIVATE CONVERSATIONS TO TAKE PLACE.\n\n\n"
+}

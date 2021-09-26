@@ -1,0 +1,40 @@
+{
+    "source": "https://devpost.com/software/project-playbox",
+    "title": "Project PlayBox",
+    "blurb": "A virtual reality playground for pediatric patients",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/n---wFVsP3c?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "Jackson Tam",
+            "about": "Concept and implementation",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/424/843/datas/profile.png"
+        },
+        {
+            "name": "Anagha Todalbagi",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/18bcb402477b269f64b326c0dcfbb5fa?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Maximiliano Madrid",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/3db42751d2077b22632d331f8dfc36f2?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Sabrina De Los Santos",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/995d6ebba65accd8a4de49753fa6ced0?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        }
+    ],
+    "built_with": [
+        "c#",
+        "oculus-vr-sdk",
+        "rift",
+        "unity"
+    ],
+    "content_html": "<div>\n<p>We hope this app will assist in pain therapy for pediatric patients by providing an engaging way for kids to design, build, and share their own VR playground.  </p>\n</div>",
+    "content_md": "\nWe hope this app will assist in pain therapy for pediatric patients by providing an engaging way for kids to design, build, and share their own VR playground. \n\n\n"
+}

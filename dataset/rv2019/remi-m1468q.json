@@ -1,0 +1,27 @@
+{
+    "source": "https://devpost.com/software/remi-m1468q",
+    "title": "SparkTime",
+    "blurb": "Magic Leap kitchen timers for your safety and convenience",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/e3CARyVKmcs?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "Ben Hyl\u00e1k",
+            "about": "everything.",
+            "photo": "https://graph.facebook.com/100000991697895/picture?height=180&width=180"
+        },
+        {
+            "name": "Santiago Sada",
+            "about": "",
+            "photo": "https://media.licdn.com/mpr/mprx/0_1AB4wBtpTOailZPqzzi9564j84CiqMi508inDGzjLU1CqWtJzz7n_h4p_MpYco_JMASn__UydxxGBgsNsCtX__sKuxx_Bg9zJCtReC7gbYEfgwDWv1XvH9Tu2o5POgTXK39qfKvoReo?height=180&width=180"
+        }
+    ],
+    "built_with": [
+        "magic-leap"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>-</p>\n<h2>What it does</h2>\n<h2>How we built it</h2>\n<h2>Challenges we ran into</h2>\n<h2>Accomplishments that we're proud of</h2>\n<h2>What we learned</h2>\n<h2>What's next for SparkTime</h2>\n</div>",
+    "content_md": "\n## Inspiration\n\n\n-\n\n\n## What it does\n\n\n## How we built it\n\n\n## Challenges we ran into\n\n\n## Accomplishments that we're proud of\n\n\n## What we learned\n\n\n## What's next for SparkTime\n\n\n"
+}

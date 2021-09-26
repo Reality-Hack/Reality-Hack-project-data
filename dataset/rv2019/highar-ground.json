@@ -1,0 +1,58 @@
+{
+    "source": "https://devpost.com/software/highar-ground",
+    "title": "HighAR Ground",
+    "blurb": "Augmented Reality disaster relief planning and guidance. ",
+    "awards": [
+        "Best use of ESRI",
+        "Best use of AR in the public Realm",
+        "Best in Social Good"
+    ],
+    "videos": [
+        "https://www.youtube.com/embed/mmkc2knNbh0?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [
+        {
+            "title": "Inspiration for the AR component of the mobile app came from Weather Channel broadcasting.",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/742/449/datas/original.PNG"
+        },
+        {
+            "title": "ESRI powered map of Boston&#39;s flood-prone areas",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/742/736/datas/original.PNG"
+        }
+    ],
+    "team": [
+        {
+            "name": "Susan Ip-Jewell MD",
+            "about": "As physician-scientist and exponential technology innovator, and entrepreneur in medicine, healthcare, biomedical fields.As SME offered specialized expertise in fields of disaster relief, search and rescue and medical triage.protocols.and business perspectives",
+            "photo": "https://graph.facebook.com/10156361956751443/picture?height=180&width=180"
+        },
+        {
+            "name": "Jesse Paterson",
+            "about": "",
+            "photo": "https://media.licdn.com/dms/image/C5603AQGFZh12LSwPnQ/profile-displayphoto-shrink_100_100/0?e=1554336000&height=180&t=D8PF7oihaq0gmcDEvnCJqfUkpeBoLGyEzRmTE-pOA9g&v=beta&width=180"
+        },
+        {
+            "name": "oscarec79",
+            "about": "",
+            "photo": "https://avatars3.githubusercontent.com/u/37260020?height=180&v=4&width=180"
+        },
+        {
+            "name": "Haiden McGill",
+            "about": "",
+            "photo": "https://graph.facebook.com/v3.3/10208958771884851/picture?height=180&width=180"
+        },
+        {
+            "name": "Deborah Pereira",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/745/306/datas/profile.jpg"
+        }
+    ],
+    "built_with": [
+        "android",
+        "arcore",
+        "microsoft-hololens",
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>Do you have a personal evacuation plan in place in the case of a natural disaster? If you're with 75% of Americans, or over 90% of this hackathon's participants, chances are you're under-prepared or have no plan in place. </p>\n<p>As we studied data sets and notification systems from a range of government agencies including NOAA, FEMA, and local municipalities, it became clear that the general public is largely apathetic or slow to action when warned of an impending natural disaster. </p>\n<p>Our goal was to counteract this trend by providing a dual-facing AR application system allowing the general public to educate and interact with an evacuation system determined for their area by emergency personnel. In the event of a disaster, this app would act as a real time alert system and guide towards shelter or a secure location. It would also give emergency personnel an easy way to visualize their city and receive accurate location-tagged SOS beacons if a citizen became incapacitated during an event. </p>\n<h2>What it does</h2>\n<p>HighAR Ground is split into two applications: an android mobile app geared towards the general population, and a Hololens application for Emergency Personnel. </p>\n<p>The mobile app utilizes a user's location and sends emergency alerts when a natural disaster event is approaching. It then provides navigation towards a predetermined government shelter or secure location, providing the option to send emergency contacts plain-text messages with a timestamp and coordinate pair. There is also an SOS option that will immediately notify local law enforcement/emergency personnel with your location should you become incapacitated during the evacuation. </p>\n<p>The Hololens app utilizes an ESRI map of the city of Boston, pulling geographic coordinates and topographical readings to determine where storm surge warnings have been deployed. Once an SOS beacon is received, it illuminates on the map at its specific geographic coordinate, including a three-level triage system that allows emergency personnel to rate the severity of the case (green, yellow, red).</p>\n<h2>How we built it</h2>\n<p>The team brought in ESRI data of the nearby Boston harbor, showing buildings and the bay. Using Unity and the Hololens SDK, we created an AR experience to be used by emergency response personnel. The mobile app was wireframed using Sketch. Iconography pulled from icons8.com and Sketch App resources.</p>\n<h2>Challenges we ran into</h2>\n<p>No development occurred on day 1, as we struggled to get past Hololens + unity connectivity issues.</p>\n<h2>Accomplishments that we're proud of</h2>\n<p>We had a powerhouse team. Incredibly proud of the time our team spent on day 1 to define our problems, solutions, and scope, from a user-centered design perspective. Team member Debby led the discussion, providing space for all team members to voice their opinions, iterate on ideas, as well as user experience and visual design of mobile app. Our developers worked around the clock and prioritized swiftly. We were extremely lucky to have Susan provide a strong industry perspective and direction around search, rescue, and triage. Helena provided invaluable sound engineering support, as well as a strong collaborator around UX.</p>\n<h2>What we learned</h2>\n<p>Hololens development.</p>\n<h2>What's next for HighAR Ground</h2>\n<ol>\n<li><p>Ability to conduct rapid prototyping and R&amp;D of \u201cHighAR Ground\u201d technology with Mars Academy USA Analog Astronaut Simulation Training Program (monthly missions). This allows for iterations, optimization and future expansion of more Added Value to increase a wider target market sectors, eg, general public, commercial, government, medical, academic.</p></li>\n<li><p>Conduct a validation study of the technology in a longitudinal project </p></li>\n<li><p>Develop a user case study to analyze challenges, pros/cons, benefits, disadvantage/advantages for integrating into the current markets, ie, overcome adoption issues, education training, costs/pricing, etc\n    a. Conduct in-depth user research and usability studies for both apps</p></li>\n<li><p>Entrepreneurial Plans:\n-Formation of a startup LLC company \n-Pitch to investors</p></li>\n</ol>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nDo you have a personal evacuation plan in place in the case of a natural disaster? If you're with 75% of Americans, or over 90% of this hackathon's participants, chances are you're under-prepared or have no plan in place. \n\n\nAs we studied data sets and notification systems from a range of government agencies including NOAA, FEMA, and local municipalities, it became clear that the general public is largely apathetic or slow to action when warned of an impending natural disaster. \n\n\nOur goal was to counteract this trend by providing a dual-facing AR application system allowing the general public to educate and interact with an evacuation system determined for their area by emergency personnel. In the event of a disaster, this app would act as a real time alert system and guide towards shelter or a secure location. It would also give emergency personnel an easy way to visualize their city and receive accurate location-tagged SOS beacons if a citizen became incapacitated during an event. \n\n\n## What it does\n\n\nHighAR Ground is split into two applications: an android mobile app geared towards the general population, and a Hololens application for Emergency Personnel. \n\n\nThe mobile app utilizes a user's location and sends emergency alerts when a natural disaster event is approaching. It then provides navigation towards a predetermined government shelter or secure location, providing the option to send emergency contacts plain-text messages with a timestamp and coordinate pair. There is also an SOS option that will immediately notify local law enforcement/emergency personnel with your location should you become incapacitated during the evacuation. \n\n\nThe Hololens app utilizes an ESRI map of the city of Boston, pulling geographic coordinates and topographical readings to determine where storm surge warnings have been deployed. Once an SOS beacon is received, it illuminates on the map at its specific geographic coordinate, including a three-level triage system that allows emergency personnel to rate the severity of the case (green, yellow, red).\n\n\n## How we built it\n\n\nThe team brought in ESRI data of the nearby Boston harbor, showing buildings and the bay. Using Unity and the Hololens SDK, we created an AR experience to be used by emergency response personnel. The mobile app was wireframed using Sketch. Iconography pulled from icons8.com and Sketch App resources.\n\n\n## Challenges we ran into\n\n\nNo development occurred on day 1, as we struggled to get past Hololens + unity connectivity issues.\n\n\n## Accomplishments that we're proud of\n\n\nWe had a powerhouse team. Incredibly proud of the time our team spent on day 1 to define our problems, solutions, and scope, from a user-centered design perspective. Team member Debby led the discussion, providing space for all team members to voice their opinions, iterate on ideas, as well as user experience and visual design of mobile app. Our developers worked around the clock and prioritized swiftly. We were extremely lucky to have Susan provide a strong industry perspective and direction around search, rescue, and triage. Helena provided invaluable sound engineering support, as well as a strong collaborator around UX.\n\n\n## What we learned\n\n\nHololens development.\n\n\n## What's next for HighAR Ground\n\n\n1. Ability to conduct rapid prototyping and R&D of \u201cHighAR Ground\u201d technology with Mars Academy USA Analog Astronaut Simulation Training Program (monthly missions). This allows for iterations, optimization and future expansion of more Added Value to increase a wider target market sectors, eg, general public, commercial, government, medical, academic.\n2. Conduct a validation study of the technology in a longitudinal project\n3. Develop a user case study to analyze challenges, pros/cons, benefits, disadvantage/advantages for integrating into the current markets, ie, overcome adoption issues, education training, costs/pricing, etc\n a. Conduct in-depth user research and usability studies for both apps\n4. Entrepreneurial Plans:\n-Formation of a startup LLC company \n-Pitch to investors\n\n\n"
+}

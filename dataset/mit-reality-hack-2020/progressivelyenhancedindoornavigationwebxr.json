@@ -1,0 +1,56 @@
+{
+    "source": "https://devpost.com/software/progressivelyenhancedindoornavigationwebxr",
+    "title": "ProgressivelyEnhancedIndoorNavigationWebXR",
+    "blurb": "An accessible open-source indoor navigation solution that is platform independent based on universal design principles.",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/60FAuQSH0tk?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [
+        {
+            "title": "Keyboard accessible selection of buildings",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/422/datas/original.png"
+        },
+        {
+            "title": "Keyboard accessible selection looping through floors (children) of a building (parent)",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/421/datas/original.png"
+        },
+        {
+            "title": "Single floor navigation grid with wayfinding examples",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/634/datas/original.png"
+        },
+        {
+            "title": "Single floor navigation grid WebXR comp birdseye view",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/635/datas/original.png"
+        },
+        {
+            "title": "Single floor navigation grid WebXR comp floor level view",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/636/datas/original.png"
+        }
+    ],
+    "team": [
+        {
+            "name": "Roland Dubois",
+            "about": "WebXR/Aframe & Accessibility",
+            "photo": "https://avatars.githubusercontent.com/u/347570?height=180&v=3&width=180"
+        },
+        {
+            "name": "peter locharernkul",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/dc036e5a720307e1445cb9512f6df5d4?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Hat Nguyen",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/e8cc9122dd96e41edfdf29fa1789149b?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        }
+    ],
+    "built_with": [
+        "aframe",
+        "javascript",
+        "unity",
+        "webxr"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>Institutions that are government-funded like hospitals, research labs, educational facilities, and universities are currently unable to showcase their campuses/buildings in a three-dimensional and interactive way because there is no fallback for assistive technology. To make the navigation of 3D/XR accessible is a necessity by law due to strict ADA compliance guidelines.\nWe not only wanted to add richer context/user-relevant metadata to the ecosystem of a building but also made sure that we can navigate a 3-dimensional space with voiceover, 2D, 3D and XR.\nCurrently, the accessibility maps of institutions are mostly flat PDFs, with our universal design approach we are tagging buildings down to the single room level with user-relevant key data to make way-finding and navigation a user-centric experience.\nE.g. I am wheelchair bound so please only show me access to elevators and lifts when guiding me safely to my indoor destination. </p>\n<h2>What it does</h2>\n<p>A universal design approach of a building &gt; floor &gt; room selection and spatial navigation grid to guide users from \none indoor location to another safely and effectively.</p>\n<h2>How we built it</h2>\n<p>Using platform independence WebXR to build for 1D (voice or text), 2D, 3D, and VR devices\nPlanning in Whimsical and on a whiteboard. Software: Aframe/ThreeJS, Javascript, HMTL, Glitch, Unity/Vuforia SDK/Azure Anchor, C#, VoiceOver (Assistive Technology Screenreader). Hardware: Hololens 2, HTC Vive Focus, Cardboard VR/Mobile/Desktop, </p>\n<h2>Challenges we ran into</h2>\n<p>Time, hardware compatibility, and technical resources\nWebXR API implementation on device browsers is experimental and unstable.</p>\n<h2>Accomplishments that we're proud of</h2>\n<p>Created an open-source platform and node-based (JSON) tree navigation system that could be a gateway to new layers of data to enrich the user experience for indoor navigation. Adding context relevant to individuals in relation to a living/changing 3-dimensional building ecosystem. Helping users to reach places safely and efficiently.  </p>\n<h2>What we learned</h2>\n<p>We managed our time well and got our big tasks completed. We learned how to use Azure anchors and setting up the Hololens dev environment.</p>\n<h2>What's next for ProgressivelyEnhancedIndoorNavigationWebXR</h2>\n<p>We will be writing a Medium post.</p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nInstitutions that are government-funded like hospitals, research labs, educational facilities, and universities are currently unable to showcase their campuses/buildings in a three-dimensional and interactive way because there is no fallback for assistive technology. To make the navigation of 3D/XR accessible is a necessity by law due to strict ADA compliance guidelines.\nWe not only wanted to add richer context/user-relevant metadata to the ecosystem of a building but also made sure that we can navigate a 3-dimensional space with voiceover, 2D, 3D and XR.\nCurrently, the accessibility maps of institutions are mostly flat PDFs, with our universal design approach we are tagging buildings down to the single room level with user-relevant key data to make way-finding and navigation a user-centric experience.\nE.g. I am wheelchair bound so please only show me access to elevators and lifts when guiding me safely to my indoor destination. \n\n\n## What it does\n\n\nA universal design approach of a building > floor > room selection and spatial navigation grid to guide users from \none indoor location to another safely and effectively.\n\n\n## How we built it\n\n\nUsing platform independence WebXR to build for 1D (voice or text), 2D, 3D, and VR devices\nPlanning in Whimsical and on a whiteboard. Software: Aframe/ThreeJS, Javascript, HMTL, Glitch, Unity/Vuforia SDK/Azure Anchor, C#, VoiceOver (Assistive Technology Screenreader). Hardware: Hololens 2, HTC Vive Focus, Cardboard VR/Mobile/Desktop, \n\n\n## Challenges we ran into\n\n\nTime, hardware compatibility, and technical resources\nWebXR API implementation on device browsers is experimental and unstable.\n\n\n## Accomplishments that we're proud of\n\n\nCreated an open-source platform and node-based (JSON) tree navigation system that could be a gateway to new layers of data to enrich the user experience for indoor navigation. Adding context relevant to individuals in relation to a living/changing 3-dimensional building ecosystem. Helping users to reach places safely and efficiently. \n\n\n## What we learned\n\n\nWe managed our time well and got our big tasks completed. We learned how to use Azure anchors and setting up the Hololens dev environment.\n\n\n## What's next for ProgressivelyEnhancedIndoorNavigationWebXR\n\n\nWe will be writing a Medium post.\n\n\n"
+}

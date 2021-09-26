@@ -1,0 +1,33 @@
+{
+    "source": "https://devpost.com/software/hashtag360-46edqx",
+    "title": "hashtag360",
+    "blurb": "instagram but 360 with an option to \"hang out\" in the picture",
+    "awards": [],
+    "videos": [],
+    "images": [],
+    "team": [
+        {
+            "name": "Seda Kochian",
+            "about": "teamlead, backend, sockets, a-frame",
+            "photo": "https://www.gravatar.com/avatar/2dec3d4d8c5e76e348fc677755fb446c?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "vincent chan",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/23a3ef66b5445dc830833386cd77434a?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        }
+    ],
+    "built_with": [
+        "a-frame",
+        "angular.js",
+        "es6",
+        "firebase",
+        "html5",
+        "javascript",
+        "node.js",
+        "socket.io",
+        "webgl"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>We wanted to give our friends a fuller exerince of our facebook and instagram pics </p>\n<h2>What it does</h2>\n<h2>How I built it</h2>\n<p>We just did it! </p>\n<h2>Challenges I ran into</h2>\n<p>It took us some time to integrate A-frame with AngularJS and... then with firebase and socket.io</p>\n<h2>Accomplishments that I'm proud of</h2>\n<p>We overcame the challenges that we listed above </p>\n<h2>What I learned</h2>\n<p>We learnt how to use A-Frame and WebGL</p>\n<h2>What's next for hashtag360</h2>\n<p>commercialize it and build and Pro version for businesses as VR collaboration tool </p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nWe wanted to give our friends a fuller exerince of our facebook and instagram pics \n\n\n## What it does\n\n\n## How I built it\n\n\nWe just did it! \n\n\n## Challenges I ran into\n\n\nIt took us some time to integrate A-frame with AngularJS and... then with firebase and socket.io\n\n\n## Accomplishments that I'm proud of\n\n\nWe overcame the challenges that we listed above \n\n\n## What I learned\n\n\nWe learnt how to use A-Frame and WebGL\n\n\n## What's next for hashtag360\n\n\ncommercialize it and build and Pro version for businesses as VR collaboration tool \n\n\n"
+}

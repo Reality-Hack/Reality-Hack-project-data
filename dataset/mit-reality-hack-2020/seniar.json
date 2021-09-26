@@ -1,0 +1,69 @@
+{
+    "source": "https://devpost.com/software/seniar",
+    "title": "SeniAR",
+    "blurb": "Build shareable affective memories for elders ",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/l5sdauz7VPk?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [
+        {
+            "title": "Logo Design ",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/063/datas/original.png"
+        },
+        {
+            "title": "Mobile 3d environment builder ",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/911/774/datas/original.png"
+        },
+        {
+            "title": "Yinggui&#39;s AR message to his grandmother",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/911/541/datas/original.png"
+        },
+        {
+            "title": "Social impact for elders",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/915/066/datas/original.jpg"
+        }
+    ],
+    "team": [
+        {
+            "name": "Brandon Chen",
+            "about": "HoloLens 2 Developer",
+            "photo": "https://www.gravatar.com/avatar/02c8583d222f72c3e55e5bd48aec79d9?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Hyejun Youn",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/864/885/datas/profile.png"
+        },
+        {
+            "name": "Yinggui Yang",
+            "about": "",
+            "photo": "https://graph.facebook.com/168314427783054/picture?height=180&width=180"
+        },
+        {
+            "name": "Camille Jeanjean",
+            "about": "",
+            "photo": "https://media-exp1.licdn.com/dms/image/C5603AQGvAc_1wYw4Hg/profile-displayphoto-shrink_800_800/0?e=1584576000&height=180&t=wGRpj4yo9CpZXa7jk95PVxuVLKLnWIEfr4qfcjIC9I4&v=beta&width=180"
+        }
+    ],
+    "built_with": [
+        "aftereffect",
+        "antoinejeanjeanpiano",
+        "c#",
+        "maya",
+        "microsoft-hololens",
+        "miscrosoftmixedreality",
+        "mixedrealitytoolkit",
+        "mrtk",
+        "photogrammetrysdk",
+        "photoshop",
+        "proto.io",
+        "sketch",
+        "sketchfab",
+        "soundjay",
+        "unity",
+        "youtube(audio)"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>Last Christmas, one of our team members saw her grandmother who now lives in a nursing home. She is now bedridden with a very limited mobility, but she is still so alive inside. Our teammate could see the liveliness in her eyes. She talked about her <strong>hopes to move, travel and share memories with us</strong>. Her vision is the inspiration of this project. Moreover, everyone has grandparents, and this application will let you <strong>build shareable memories with elders in augmented spaces, and eventually create a new virtual heritage between you and them</strong>.</p>\n<h2>Problems</h2>\n<p>Elders suffer from <strong>social isolation</strong> by staying in a limited space for a long time, which eventually causes many complications such as <strong>loss of muscle strength and mental illness</strong>. We decided to build AR Intimate messenger that connects younger generations with elders through technology. <strong>How can we create an affective environment to reconnect generations, and fulfill their hopes to share memories with us?</strong></p>\n<h2>What it does</h2>\n<p>SeniAR is an AR application for family members to create an AR space using <strong>photogrammetry technique</strong> and 3D templates, and send the new space to elders using <strong>AR Cloud</strong>. Elders receive the augmented reality messages along with text messages from their family. They can immerse into the environment, be relaxed, exercise, listen to music and sound and share memories with their family, creating intimate feelings. We believed that interaction in AR allows elders to be more engaged to situations, and exercise their bodies in a more entertaining way. For restricted and disabled people, eye-tracking on Hololens2 seems the resolution of this isolation.</p>\n<p>You will craft a shareable memorial environment with landscape and registered audio message to send to your grandmother laying on her bed and using an HOLOLENS2  in her nursing home. </p>\n<p><strong>Here are some steps:</strong></p>\n<p>Mobile users\n</p><li>A user choose from two options - Capture and Share. </li>\n<br/>Capture - 3D scan objects, plants, portraits and more using photogrammetry software.\n<br/>Share - a user can create an AR environment from choosing templates on the application, then add 3d models such as plants and trees or your 3d scanned models.\n<li>Register an intimate audio message for your family members through a memory you have in common. </li>\n<li>Send the message to your family or friends using AR Cloud! </li><p></p>\n<p>Hololens users</p>\n<p></p><li>An alarm pops up saying that you have a new message! </li>\n<li>Open the message, and AR environment will appear along with the voice message. She can read it, if she can hear well. </li>\n<li>Immerse into the AR environment by interacting with the objects. </li><p></p>\n<p><strong>Why AR Cloud?</strong></p>\n<p>We believe that using AR cloud, we could create different layers of AR templates environments that can be easily shared and be shared by friends and family, and users to be immersed into the environments.  Private shareable and open-source environments are provided. </p>\n<h2>How we built it</h2>\n<p>We built the project in Unity. The 3D assets were obtained for free on Sketchfab, free Unity assets, and video resources from Youtube. We experimented with some other ways to share the file with Aframe and AR Cloud. We used _ dispaly.land _ and _ capture _ to demonstrate our photogrammetry idea. Lastly, we used Hololens2 to augment our environments!</p>\n<h2>Challenges I ran into</h2>\n<p></p><li>We only had one developer, and no professional 3D animator. So, we went to the workshops on Wednesday, and watched Youtube tutorials. \n</li><li>We wanted to have some interviews with elders, but the interviews were very limited to our family members. \n</li><li>We did not have enough time to use photogrammetry SDK on our mobile application, but we were able to visualize our ideas. \n</li><li>The entire team members didn\u2019t have experience in Hololens2. We struggled to get used to the equipment, and had to call mentors several times. We are glad that the AR environment is running and looking amazing!! <p></p>\n<h2>Accomplishments that I'm proud of</h2>\n<p>We are proud of our idea and concept. \nEach person got his /her role in the team and brought amazing creative inputs. </p>\n<h2>What we learned:</h2>\n<p>How to cooperate in a diverse environment, and how to develop it with Hololens2.\nA new understanding of family relationship.\nEye-tracking tool. </p>\n<h2>What's next for SeniAR</h2>\n<p>We want to further develop eye tracking AR for people with mobile disabilities. We also initially wanted to create a 3D layers of a Nursing Home (having layers of user's data, meditation room, fitness center like an AR Cloud 3D map), but later we decided to focus more on the social interaction. We want to create AR environment where elders can exercise, meditate, and enhance social interaction. </p>\n</li>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nLast Christmas, one of our team members saw her grandmother who now lives in a nursing home. She is now bedridden with a very limited mobility, but she is still so alive inside. Our teammate could see the liveliness in her eyes. She talked about her **hopes to move, travel and share memories with us**. Her vision is the inspiration of this project. Moreover, everyone has grandparents, and this application will let you **build shareable memories with elders in augmented spaces, and eventually create a new virtual heritage between you and them**.\n\n\n## Problems\n\n\nElders suffer from **social isolation** by staying in a limited space for a long time, which eventually causes many complications such as **loss of muscle strength and mental illness**. We decided to build AR Intimate messenger that connects younger generations with elders through technology. **How can we create an affective environment to reconnect generations, and fulfill their hopes to share memories with us?**\n\n\n## What it does\n\n\nSeniAR is an AR application for family members to create an AR space using **photogrammetry technique** and 3D templates, and send the new space to elders using **AR Cloud**. Elders receive the augmented reality messages along with text messages from their family. They can immerse into the environment, be relaxed, exercise, listen to music and sound and share memories with their family, creating intimate feelings. We believed that interaction in AR allows elders to be more engaged to situations, and exercise their bodies in a more entertaining way. For restricted and disabled people, eye-tracking on Hololens2 seems the resolution of this isolation.\n\n\nYou will craft a shareable memorial environment with landscape and registered audio message to send to your grandmother laying on her bed and using an HOLOLENS2 in her nursing home. \n\n\n**Here are some steps:**\n\n\nMobile users\n\n\n- A user choose from two options - Capture and Share.\n\n  \nCapture - 3D scan objects, plants, portraits and more using photogrammetry software.\n  \nShare - a user can create an AR environment from choosing templates on the application, then add 3d models such as plants and trees or your 3d scanned models.\n- Register an intimate audio message for your family members through a memory you have in common.\n\n- Send the message to your family or friends using AR Cloud!\n\nHololens users\n\n\n- An alarm pops up saying that you have a new message!\n\n- Open the message, and AR environment will appear along with the voice message. She can read it, if she can hear well.\n\n- Immerse into the AR environment by interacting with the objects.\n\n**Why AR Cloud?**\n\n\nWe believe that using AR cloud, we could create different layers of AR templates environments that can be easily shared and be shared by friends and family, and users to be immersed into the environments. Private shareable and open-source environments are provided. \n\n\n## How we built it\n\n\nWe built the project in Unity. The 3D assets were obtained for free on Sketchfab, free Unity assets, and video resources from Youtube. We experimented with some other ways to share the file with Aframe and AR Cloud. We used \\_ dispaly.land \\_ and \\_ capture \\_ to demonstrate our photogrammetry idea. Lastly, we used Hololens2 to augment our environments!\n\n\n## Challenges I ran into\n\n\n- We only had one developer, and no professional 3D animator. So, we went to the workshops on Wednesday, and watched Youtube tutorials.\n- We wanted to have some interviews with elders, but the interviews were very limited to our family members.\n- We did not have enough time to use photogrammetry SDK on our mobile application, but we were able to visualize our ideas.\n- The entire team members didn\u2019t have experience in Hololens2. We struggled to get used to the equipment, and had to call mentors several times. We are glad that the AR environment is running and looking amazing!! \n## Accomplishments that I'm proud of\n\n\nWe are proud of our idea and concept. \nEach person got his /her role in the team and brought amazing creative inputs. \n\n\n## What we learned:\n\n\nHow to cooperate in a diverse environment, and how to develop it with Hololens2.\nA new understanding of family relationship.\nEye-tracking tool. \n\n\n## What's next for SeniAR\n\n\nWe want to further develop eye tracking AR for people with mobile disabilities. We also initially wanted to create a 3D layers of a Nursing Home (having layers of user's data, meditation room, fitness center like an AR Cloud 3D map), but later we decided to focus more on the social interaction. We want to create AR environment where elders can exercise, meditate, and enhance social interaction.\n\n"
+}

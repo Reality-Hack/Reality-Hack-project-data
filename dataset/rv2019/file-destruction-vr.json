@@ -1,0 +1,40 @@
+{
+    "source": "https://devpost.com/software/file-destruction-vr",
+    "title": "File Destruction VR ",
+    "blurb": "Delete buttons are for losers. Torch, smash, explode and ultimately destroy your digital life with File DestructionVR",
+    "awards": [],
+    "videos": [],
+    "images": [],
+    "team": [
+        {
+            "name": "mhrahmani",
+            "about": "I participated in game design and narrative, plus some concept arts and sketches. I also did all the sound design in Audition. ",
+            "photo": "https://graph.facebook.com/10212805238942578/picture?height=180&width=180"
+        },
+        {
+            "name": "Michael Shumikhin",
+            "about": "File to game object conversion and windows api interaction",
+            "photo": "https://www.gravatar.com/avatar/a2cc7eac78703930e5dbca39f77299cc?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Thomas Watson",
+            "about": "I created some simple 3d assets in Blender, then put those and others into our Unity project. A lot of my time was spent tweaking things to better fit the feel we were after. I made springy buttons that are really fun to push.",
+            "photo": "https://avatars3.githubusercontent.com/u/35503719?height=180&v=4&width=180"
+        },
+        {
+            "name": "Lisa Lokshina",
+            "about": "I partook in the experience design of the project, creating the wireframes and making sure we address all interaction points in the experience. ",
+            "photo": "https://www.gravatar.com/avatar/44a1235cd3cc664f7adf9684fc8356b7?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        }
+    ],
+    "built_with": [
+        "audtion",
+        "blender",
+        "csharp",
+        "gimp",
+        "maya",
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>What it does</h2>\n<p>File Destruction VR is a virtual reality experience that allows you to destroy your digital life and watch it die forever. </p>\n<p>Users enter a virtual room where they see files from their desktop on a virtual monitor. With a simple press of a button, those files materialize into the virtual room. Users are then provided with a variety of exquisite destruction tools to utterly obliterate the files into oblivion. </p>\n<p>Got a picture of your ex? Shred it to tiny pieces. Term paper got you all stressed out? Try blowtorching it to hell. </p>\n<p>Have you ever wondered - if you die in VR, do you die in real life? Well, in File Destruction VR, destroying files in VR will destroy the files for real, and forever, so you never ever see them again. </p>\n<h2>How we built it</h2>\n<p>The whole experience is built in Unity. We created some of our models in Blender, while others were free downloads from Turbosquid and Google Poly.</p>\n<h2>Inspiration</h2>\n<p>It\u2019s like Job Simulator or a Rage Room with real-world consequences, where the content is your own stuff and the goal is to destroy it. </p>\n<h2>Challenges we ran into</h2>\n<p>Unity, version control, scripting simultaneously for a single project is always a challenge. </p>\n<h2>What's next for File Destruction VR</h2>\n<p>Our vision for the next iteration is to provide users with more fun and engaging tools to destroy their files with and relieve some of their pent up anger. Think files being flushed down the toiler, teleports that can be activated so you can send your files into other universes, fire dragons, toilet flushes, and the likes. </p>\n</div>",
+    "content_md": "\n## What it does\n\n\nFile Destruction VR is a virtual reality experience that allows you to destroy your digital life and watch it die forever. \n\n\nUsers enter a virtual room where they see files from their desktop on a virtual monitor. With a simple press of a button, those files materialize into the virtual room. Users are then provided with a variety of exquisite destruction tools to utterly obliterate the files into oblivion. \n\n\nGot a picture of your ex? Shred it to tiny pieces. Term paper got you all stressed out? Try blowtorching it to hell. \n\n\nHave you ever wondered - if you die in VR, do you die in real life? Well, in File Destruction VR, destroying files in VR will destroy the files for real, and forever, so you never ever see them again. \n\n\n## How we built it\n\n\nThe whole experience is built in Unity. We created some of our models in Blender, while others were free downloads from Turbosquid and Google Poly.\n\n\n## Inspiration\n\n\nIt\u2019s like Job Simulator or a Rage Room with real-world consequences, where the content is your own stuff and the goal is to destroy it. \n\n\n## Challenges we ran into\n\n\nUnity, version control, scripting simultaneously for a single project is always a challenge. \n\n\n## What's next for File Destruction VR\n\n\nOur vision for the next iteration is to provide users with more fun and engaging tools to destroy their files with and relieve some of their pent up anger. Think files being flushed down the toiler, teleports that can be activated so you can send your files into other universes, fire dragons, toilet flushes, and the likes. \n\n\n"
+}

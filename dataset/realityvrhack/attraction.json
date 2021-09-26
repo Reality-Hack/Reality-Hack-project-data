@@ -1,0 +1,36 @@
+{
+    "source": "https://devpost.com/software/attraction",
+    "title": "Attraction",
+    "blurb": "sciences of magnets in VR",
+    "awards": [],
+    "videos": [],
+    "images": [],
+    "team": [
+        {
+            "name": "Yen-Ling Kuo",
+            "about": "",
+            "photo": "https://graph.facebook.com/707870927/picture?height=180&width=180"
+        },
+        {
+            "name": "&quot;Ryan&quot; Yan Zhang",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/424/539/datas/profile.jpg"
+        },
+        {
+            "name": "Muso Fun",
+            "about": "",
+            "photo": "https://res.cloudinary.com/devpost/image/upload/b_transparent,c_pad,g_center,h_150,w_150/v1475966827/yoz0um09vjx0fkahcgxy.jpg?height=180&width=180"
+        },
+        {
+            "name": "Jackie Lee",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/149/610/datas/profile.jpg"
+        }
+    ],
+    "built_with": [
+        "htc-vive",
+        "unreal-engine"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>We'd like to train people's intuitions about the invisible forces of magnetic fields</p>\n<h2>What it does</h2>\n<p>It's a short VR experience for seeing magnetic fields.</p>\n<h2>How I built it</h2>\n<p>We use Unreal Engine and Vive</p>\n<h2>Challenges I ran into</h2>\n<p>Making it a game is not easy. Visualizing with math and vector field is tricky.</p>\n<h2>Accomplishments that I'm proud of</h2>\n<p>Magnetic fields look really great in VR</p>\n<h2>What I learned</h2>\n<p>There are still lots fun eletromagnetic interaction we have not covered.</p>\n<h2>What's next for Attraction</h2>\n<p>We will see...</p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nWe'd like to train people's intuitions about the invisible forces of magnetic fields\n\n\n## What it does\n\n\nIt's a short VR experience for seeing magnetic fields.\n\n\n## How I built it\n\n\nWe use Unreal Engine and Vive\n\n\n## Challenges I ran into\n\n\nMaking it a game is not easy. Visualizing with math and vector field is tricky.\n\n\n## Accomplishments that I'm proud of\n\n\nMagnetic fields look really great in VR\n\n\n## What I learned\n\n\nThere are still lots fun eletromagnetic interaction we have not covered.\n\n\n## What's next for Attraction\n\n\nWe will see...\n\n\n"
+}

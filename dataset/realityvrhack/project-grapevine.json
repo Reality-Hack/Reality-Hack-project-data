@@ -1,0 +1,60 @@
+{
+    "source": "https://devpost.com/software/project-grapevine",
+    "title": "Project Grapevine",
+    "blurb": "For planning and tracking the design process, 2D tools have failed us.  VR allows a new paradigm - the Grapevine.",
+    "awards": [],
+    "videos": [],
+    "images": [
+        {
+            "title": "This visual inspiration image is human centered, comforting, and beautiful.",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/421/029/datas/original.jpg"
+        },
+        {
+            "title": "Our &quot;Infinite Corridor&quot;",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/421/030/datas/original.jpg"
+        },
+        {
+            "title": "Fun for a girl and a boy.",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/421/032/datas/original.jpg"
+        },
+        {
+            "title": "The design of our 3D cylindrical corridor is fit to the human body",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/421/033/datas/original.jpg"
+        },
+        {
+            "title": "No comment",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/421/089/datas/original.png"
+        },
+        {
+            "title": "Sketchup Iteration 2",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/421/242/datas/original.png"
+        }
+    ],
+    "team": [
+        {
+            "name": "Glyn Anderson",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/420/683/datas/profile.jpg"
+        },
+        {
+            "name": "Wilson Lee",
+            "about": "",
+            "photo": "https://res.cloudinary.com/devpost/image/upload/b_transparent,c_pad,g_center,h_150,w_150/v1475944258/sgn1x63iwazbrlchfz9b.jpg?height=180&width=180"
+        },
+        {
+            "name": "Janeen Anderson",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/94ad7c8306029ab792e993bb5e4317b8?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Michael Kyes",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/533/348/datas/profile.jpg"
+        }
+    ],
+    "built_with": [
+        "javascript"
+    ],
+    "content_html": "<div>\n<h2>Pertinent Team Info:</h2>\n<p>Project Lead: Michael Kyes, 617-308-0454\nTeam location: 6th floor West room\nVertical category: Commerce/Industry (Architecture/Engineering/Construction/Productivity/Industry/Commerce)</p>\n<h2>Design Challenge:</h2>\n<p>Project planning is difficult, whether designing a high-rise, developing software, or planning a family vacation  Planning for a design process in particular is especially challenging given the non-linear, iterative nature of ideation, testing, and learning within the context of managing multiple objectives.  Navigating and finding control within this \"organized chaos\" gets even more difficult when multiple people are part of the planning and decision making process.  </p>\n<p>Thinking about the possibilities that VR and Mixed Reality can offer, we feel we are ready to move beyond 2D tools such as Gantt charts and flow diagrams and have created a new 4D model to assist project planning and tracking that we call the \"Grapevine\". It is collaborative at its core.  To assure successful adoption, we realize it has to be simple, intuitive, and fun.</p>\n<h2>Design Solution:</h2>\n<p>Our solution addresses this complexity first and foremost by mapping or \"modeling a spatial framework\" for collaborative design to take place within.  This 3D shape is simple enough to be held in your hand and complex enough to walk through an immersive and data-rich environment holding a robust record of key information, team decisions, and interrelated tasks.  Think MS Project meets the Slinky.  </p>\n<p>Virtual Reality and Mixed Reality allows us not only to utilize a third dimension to better visualize these complex relationships, but also to literally steps into the fourth dimension of time to allow us to remember and understand past decisions and plan for future outcomes.    Our 4D model is crafted into the shape of a virtual cylindrical \"corridor\"  Picture walking through a Slinky set in a straight path but with portions of the coils densely packed at times and more stretched out at other times.  This shape can be scaled down to hold in your hand or hover above a conference table in a mixed reality environment or scaled-up to be able to walk through using a collaborative VR cave or with interconnected head-mounted displays.  </p>\n<p>This spiraling curving line defining the corridor, or \"vine\", serves a continuous project timeline.  Attached along this vine are nodes representing ideas that are born at a certain place along this timeline.  Each node has its own unique linear timeline that exists for it's own lifespan.<br/>\nAs one travels forward through time within the project, initial ideas are revisited in an iterative fashion as the curved line of the overall project timeline intersects with straight lines of each idea's individual timeline.  </p>\n<p>To mention what may be obvious from our project's name, these idea nodes can be understood as grapes on the grapevine.  To take the analogy further and to add a sense of play, it may be said that some ideas \"die on the vine\" and we wouldn\u2019t be surprised if one starts imitating Marvin Gaye as they transverse this virtual design space.</p>\n<h2>Key words to guide the design:</h2>\n<pre class=\"language-nolang\"><code>\u2022 Collaborative\n\u2022 Controllable / Interactive\n\u2022 Intuitive\n\u2022 Simple\n\u2022 Fun\n</code></pre>\n<h2>What it does</h2>\n<p>Provide a new tool for planning, tracking multiple types of design in VR and mixed reality</p>\n<h2>How I built it</h2>\n<p>Will explain in person</p>\n<h2>Challenges I ran into</h2>\n<p>Unity not known, tried, and abandoned\nA Frame learned successfully</p>\n<h2>Accomplishments that we're proud of</h2>\n<p>Coming together with a basic idea and over the course of programming and thinking about our shared philosophies of designing, we came up with a learning model that just might be an innovative breakthrough ;-)</p>\n<h2>What we learned</h2>\n<p>See above</p>\n<h2>What's next for Project Grapevine:</h2>\n<p>We think this 1.0 minimum viable product is a strong foundation for building additional functionality such as timed task predictions, more intuitive hand gesture, voice command, and gaze controls to support goals of the Design Thinking process, Lean project planning, Agile development, or just planning a family trip to Disney.</p>\n</div>",
+    "content_md": "\n## Pertinent Team Info:\n\n\nProject Lead: Michael Kyes, 617-308-0454\nTeam location: 6th floor West room\nVertical category: Commerce/Industry (Architecture/Engineering/Construction/Productivity/Industry/Commerce)\n\n\n## Design Challenge:\n\n\nProject planning is difficult, whether designing a high-rise, developing software, or planning a family vacation Planning for a design process in particular is especially challenging given the non-linear, iterative nature of ideation, testing, and learning within the context of managing multiple objectives. Navigating and finding control within this \"organized chaos\" gets even more difficult when multiple people are part of the planning and decision making process. \n\n\nThinking about the possibilities that VR and Mixed Reality can offer, we feel we are ready to move beyond 2D tools such as Gantt charts and flow diagrams and have created a new 4D model to assist project planning and tracking that we call the \"Grapevine\". It is collaborative at its core. To assure successful adoption, we realize it has to be simple, intuitive, and fun.\n\n\n## Design Solution:\n\n\nOur solution addresses this complexity first and foremost by mapping or \"modeling a spatial framework\" for collaborative design to take place within. This 3D shape is simple enough to be held in your hand and complex enough to walk through an immersive and data-rich environment holding a robust record of key information, team decisions, and interrelated tasks. Think MS Project meets the Slinky. \n\n\nVirtual Reality and Mixed Reality allows us not only to utilize a third dimension to better visualize these complex relationships, but also to literally steps into the fourth dimension of time to allow us to remember and understand past decisions and plan for future outcomes. Our 4D model is crafted into the shape of a virtual cylindrical \"corridor\" Picture walking through a Slinky set in a straight path but with portions of the coils densely packed at times and more stretched out at other times. This shape can be scaled down to hold in your hand or hover above a conference table in a mixed reality environment or scaled-up to be able to walk through using a collaborative VR cave or with interconnected head-mounted displays. \n\n\nThis spiraling curving line defining the corridor, or \"vine\", serves a continuous project timeline. Attached along this vine are nodes representing ideas that are born at a certain place along this timeline. Each node has its own unique linear timeline that exists for it's own lifespan.  \n\nAs one travels forward through time within the project, initial ideas are revisited in an iterative fashion as the curved line of the overall project timeline intersects with straight lines of each idea's individual timeline. \n\n\nTo mention what may be obvious from our project's name, these idea nodes can be understood as grapes on the grapevine. To take the analogy further and to add a sense of play, it may be said that some ideas \"die on the vine\" and we wouldn\u2019t be surprised if one starts imitating Marvin Gaye as they transverse this virtual design space.\n\n\n## Key words to guide the design:\n\n\n\n```\n\u2022 Collaborative\n\u2022 Controllable / Interactive\n\u2022 Intuitive\n\u2022 Simple\n\u2022 Fun\n\n```\n\n## What it does\n\n\nProvide a new tool for planning, tracking multiple types of design in VR and mixed reality\n\n\n## How I built it\n\n\nWill explain in person\n\n\n## Challenges I ran into\n\n\nUnity not known, tried, and abandoned\nA Frame learned successfully\n\n\n## Accomplishments that we're proud of\n\n\nComing together with a basic idea and over the course of programming and thinking about our shared philosophies of designing, we came up with a learning model that just might be an innovative breakthrough ;-)\n\n\n## What we learned\n\n\nSee above\n\n\n## What's next for Project Grapevine:\n\n\nWe think this 1.0 minimum viable product is a strong foundation for building additional functionality such as timed task predictions, more intuitive hand gesture, voice command, and gaze controls to support goals of the Design Thinking process, Lean project planning, Agile development, or just planning a family trip to Disney.\n\n\n"
+}

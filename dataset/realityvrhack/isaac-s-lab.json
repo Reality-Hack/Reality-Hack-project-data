@@ -1,0 +1,41 @@
+{
+    "source": "https://devpost.com/software/isaac-s-lab",
+    "title": "Isaac's Lab",
+    "blurb": "Basic Physics Education via Experiments and Demos in Virtual Reality",
+    "awards": [],
+    "videos": [],
+    "images": [],
+    "team": [
+        {
+            "name": "Loren Ybarrondo",
+            "about": "I'm new to Unity, but was lucky enough to get on a team with some real experts.  With their guidance, I quickly got up to speed on the basics and was able to apply my background in other applications to our project development.  I worked on sourcing, conversion, and importing some of the models that we used.  I also staged some of the scenes that were then integrated with the overall project.  I was also able to develop some of the scripts used to overlay contextual information (e.g., velocity text).  As a mechanical engineer with a background in instructional design, I helped with storyboarding and the underlying equations of motion we used to govern the VR world.  I brought all kinds of equipment, tools, and tricks that we leveraged to hack together a very cool project.  Lastly, this was an amazing weekend and I hope that my enthusiasm was contagious.  We definitely meshed as a team and worked very well together.  ",
+            "photo": "https://www.gravatar.com/avatar/e4593634dc4d39438c9f1cafa0a04745?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Christopher Hong",
+            "about": "My main role in this project was to develop the scripts needed to do the physics computations for drawing the velocity vectors and free body diagram vectors on the moving objects and projectiles. In addition, I developed the graphs needed to plot the position vs. time, velocity vs. time, and acceleration vs. time.",
+            "photo": "https://www.gravatar.com/avatar/e6c5f7e4c249ebc253c0e633bb81f509?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Nick Peck",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/4b58fe74c326d219c756440123854d11?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Mengjia Luo",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/ccd6c17725c58fdc15cc181ef62f1f21?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Dan Li",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/1bd50dba4e6373218b07ced76a2a1315?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        }
+    ],
+    "built_with": [
+        "htc-vive",
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>Bored of textbook physics education? Check out Isaac's Lab! With HTC Vive's virtual reality, the physical concepts which fascinated humans for centuries no longer have to be constrained by ink and paper. Our team hopes to use surreal worlds to give kids a hands-on and \"real\" experience with basic physics, while exposing them to the math and science at play. </p>\n<h2>What it does</h2>\n<p>Issac's Lab simulates classic physics examples such as the ball drop (gravity) and cannon shot (parabolic motion). It takes advantage of the interactive nature of virtual reality for kids to take rare actions or difficult experiments. Seriously, how often does a kid get to shoot a cannon ball for learning velocity? </p>\n<h2>How we built it</h2>\n<p>As for our user interface, we used Rhino and 3D Max for modeling. As for the physics within, we wrote every physical interaction with Unity C# script; for example, arrows denoting the forces at work for the cannon shot are calculated and illustrated each frame with a single C# script.  </p>\n<h2>Challenges we ran into</h2>\n<p>Our biggest challenge was Unity. The majority of our team members did not have experience with the game engine or C#, so it took a while for all of us to get up to speed. The other issue we faced was integration of various components worked by different members. Because Unity does not have a collaboration platform and some members were new to Github, a lot of time was spent on combining scenes. </p>\n<h2>Accomplishments that we're proud of</h2>\n<p>We all met separately at the team formation. We came together to form a cohesive team build on diverse talents. \nLearning Unity!  </p>\n<h2>What we learned</h2>\n<p>Developing for a virtual environment is rewarding and challenging.  You can do so much more with an immersive medium, but to do it well you must have a compelling story and follow good design practices.</p>\n<h2>What's next for Isaac's Lab</h2>\n<p>We are hoping to add more experiments to Issac's Lab, and to polish off the UI/UX. We also hope to refine the current virtual experiments so that they form a sound instructional course on the equations of motion and then other lesson plans. We will also seek sponsorship to advance our work in support of STEAM education. </p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nBored of textbook physics education? Check out Isaac's Lab! With HTC Vive's virtual reality, the physical concepts which fascinated humans for centuries no longer have to be constrained by ink and paper. Our team hopes to use surreal worlds to give kids a hands-on and \"real\" experience with basic physics, while exposing them to the math and science at play. \n\n\n## What it does\n\n\nIssac's Lab simulates classic physics examples such as the ball drop (gravity) and cannon shot (parabolic motion). It takes advantage of the interactive nature of virtual reality for kids to take rare actions or difficult experiments. Seriously, how often does a kid get to shoot a cannon ball for learning velocity? \n\n\n## How we built it\n\n\nAs for our user interface, we used Rhino and 3D Max for modeling. As for the physics within, we wrote every physical interaction with Unity C# script; for example, arrows denoting the forces at work for the cannon shot are calculated and illustrated each frame with a single C# script. \n\n\n## Challenges we ran into\n\n\nOur biggest challenge was Unity. The majority of our team members did not have experience with the game engine or C#, so it took a while for all of us to get up to speed. The other issue we faced was integration of various components worked by different members. Because Unity does not have a collaboration platform and some members were new to Github, a lot of time was spent on combining scenes. \n\n\n## Accomplishments that we're proud of\n\n\nWe all met separately at the team formation. We came together to form a cohesive team build on diverse talents. \nLearning Unity! \n\n\n## What we learned\n\n\nDeveloping for a virtual environment is rewarding and challenging. You can do so much more with an immersive medium, but to do it well you must have a compelling story and follow good design practices.\n\n\n## What's next for Isaac's Lab\n\n\nWe are hoping to add more experiments to Issac's Lab, and to polish off the UI/UX. We also hope to refine the current virtual experiments so that they form a sound instructional course on the equations of motion and then other lesson plans. We will also seek sponsorship to advance our work in support of STEAM education. \n\n\n"
+}

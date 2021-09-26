@@ -1,0 +1,51 @@
+{
+    "source": "https://devpost.com/software/suis",
+    "title": "Spatial Universal Interaction System",
+    "blurb": "Platform agnostic middleware for accessible AR/VR interactions",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/g4IGNlxbwGI?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [
+        {
+            "title": "Technical architecture",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/008/datas/original.jpg"
+        },
+        {
+            "title": "Debugging",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/020/datas/original.jpg"
+        },
+        {
+            "title": "Having fun!",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/065/datas/original.jpg"
+        }
+    ],
+    "team": [
+        {
+            "name": "Val Mack",
+            "about": "Helped to define hackathon scope and demo interactions. Also aided in implementation through pair programming!",
+            "photo": "https://avatars3.githubusercontent.com/u/8445610?height=180&v=4&width=180"
+        },
+        {
+            "name": "Nova King",
+            "about": "I worked on the scripting to link together events.",
+            "photo": "https://avatars0.githubusercontent.com/u/4541968?height=180&v=4&width=180"
+        },
+        {
+            "name": "Nhan Tran",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/753/616/datas/profile.JPG"
+        }
+    ],
+    "built_with": [
+        "ar",
+        "c#",
+        "microsoft-hololens",
+        "northstar",
+        "steam",
+        "unity",
+        "vr"
+    ],
+    "content_html": "<div>\n<h1>Spatial Universal Interaction System (for Unity)</h1>\n<p>Platform agnostic middleware for accessible XR interactions.</p>\n<h2>About</h2>\n<p>SUIS is an interaction system (an open-source package tool for Unity) that is 1) platform-agnostic, and 2) offers accessibility options baked-in.</p>\n<p>If someone has limited mobility or accessibility needs (e.g. amputees, people with arthritis), developers can easily implement accessibility features that would allow the person to still engage in the immersive experience without limitation.</p>\n<p>In addition, instead of implementing custom code for a combination of input devices, developers and creators can use our control middleware to make <strong>one set of actions</strong> work with <strong>any inputs</strong> (e.g. head pointer, hands, eyes, controller, gamepad) on <strong>any XR platform</strong>.</p>\n<h2>Motivations</h2>\n<ul>\n<li>As XR developers and designers, we want to make our games and applications accessible, but doing that is not easy.</li>\n<li>It takes deliberate practice to make accessibility a priority. And it takes a lot of work to build accessible features into our systems.</li>\n<li>This shouldn't be so hard--imagine a world in which all people, no matter what their physical ability, are able to have the engaging experiences of any XR game or application.</li>\n<li>Turns out, it's not so hard!</li>\n</ul>\n<h2>Build</h2>\n<p>So far we have created:</p>\n<ul>\n<li>A \"flick\" action script that allows the headset wearer to naturally move an object with only head motion</li>\n<li>A set of SDF (signed distance field) scripts that detect pointer distance, and negative distance from game objects</li>\n<li>Exposure system that uses the SDFs to select and activate objects (and capture wearer intent of object selection)</li>\n<li>System architecture design for generic interfaces that developers can use to build accessibility features</li>\n<li>Project North Star calibration and input mapping scripts for Unity</li>\n<li>Vive wand calibration and input mapping scripts for Unity</li>\n</ul>\n<h2>Usage</h2>\n<p>Download the SUIS package, apply the Exposure script to any game object, define an Action that should be triggered on the game object.</p>\n<h2>Future Work</h2>\n<ul>\n<li>Finish the InputManager to disable and enable actions within a single frame</li>\n<li>Create fallback classes</li>\n<li>Finish mapping the 4 input categories to the action interface</li>\n</ul>\n<h2>Challenges</h2>\n<ul>\n<li>We spent Friday until Saturday at 7pm just getting our computer to run the headset in Unity.</li>\n<li>We had disagreements in our team at first and worked with mentors to come to a compromise that we all felt really happy about in the end. (Thank you mentors!)</li>\n<li>We only had 1 computer for our team</li>\n</ul>\n<h2>Learnings</h2>\n<p>We learned how to distill a large system into a small demonstrable example which was our hackathon demo.\nWe also learned from mentors about the inner workings of MRTK and XRTK, and the unique benefits of our system.\nWe learned how to use Project North Star with Vive wands.</p>\n</div>",
+    "content_md": "\n# Spatial Universal Interaction System (for Unity)\n\n\nPlatform agnostic middleware for accessible XR interactions.\n\n\n## About\n\n\nSUIS is an interaction system (an open-source package tool for Unity) that is 1) platform-agnostic, and 2) offers accessibility options baked-in.\n\n\nIf someone has limited mobility or accessibility needs (e.g. amputees, people with arthritis), developers can easily implement accessibility features that would allow the person to still engage in the immersive experience without limitation.\n\n\nIn addition, instead of implementing custom code for a combination of input devices, developers and creators can use our control middleware to make **one set of actions** work with **any inputs** (e.g. head pointer, hands, eyes, controller, gamepad) on **any XR platform**.\n\n\n## Motivations\n\n\n* As XR developers and designers, we want to make our games and applications accessible, but doing that is not easy.\n* It takes deliberate practice to make accessibility a priority. And it takes a lot of work to build accessible features into our systems.\n* This shouldn't be so hard--imagine a world in which all people, no matter what their physical ability, are able to have the engaging experiences of any XR game or application.\n* Turns out, it's not so hard!\n\n\n## Build\n\n\nSo far we have created:\n\n\n* A \"flick\" action script that allows the headset wearer to naturally move an object with only head motion\n* A set of SDF (signed distance field) scripts that detect pointer distance, and negative distance from game objects\n* Exposure system that uses the SDFs to select and activate objects (and capture wearer intent of object selection)\n* System architecture design for generic interfaces that developers can use to build accessibility features\n* Project North Star calibration and input mapping scripts for Unity\n* Vive wand calibration and input mapping scripts for Unity\n\n\n## Usage\n\n\nDownload the SUIS package, apply the Exposure script to any game object, define an Action that should be triggered on the game object.\n\n\n## Future Work\n\n\n* Finish the InputManager to disable and enable actions within a single frame\n* Create fallback classes\n* Finish mapping the 4 input categories to the action interface\n\n\n## Challenges\n\n\n* We spent Friday until Saturday at 7pm just getting our computer to run the headset in Unity.\n* We had disagreements in our team at first and worked with mentors to come to a compromise that we all felt really happy about in the end. (Thank you mentors!)\n* We only had 1 computer for our team\n\n\n## Learnings\n\n\nWe learned how to distill a large system into a small demonstrable example which was our hackathon demo.\nWe also learned from mentors about the inner workings of MRTK and XRTK, and the unique benefits of our system.\nWe learned how to use Project North Star with Vive wands.\n\n\n"
+}

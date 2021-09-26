@@ -1,0 +1,40 @@
+{
+    "source": "https://devpost.com/software/vrdoc",
+    "title": "VRDoc",
+    "blurb": "Caught between the war and a hard place",
+    "awards": [],
+    "videos": [],
+    "images": [],
+    "team": [
+        {
+            "name": "Jiabao Li",
+            "about": "Project Creator, Unity Developer and Designer, 3D Modeling and Rendering, Co-Story Teller",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/465/221/datas/profile.jpg"
+        },
+        {
+            "name": "Dan Porter",
+            "about": "Project Manager, Co-Story Teller, Creative Direction ",
+            "photo": "https://www.gravatar.com/avatar/94500f722a64e059a9613062c82b9890?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Roelof Tijdens",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/420/893/datas/profile.jpg"
+        },
+        {
+            "name": "Mark Dugas",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/fa1a32a7558e70717afaed6a2a7fc800?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "John Benton",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/b654a0ce6817ac6e2e848e6ce9fa3794?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&height=180&s=180&width=180"
+        }
+    ],
+    "built_with": [
+        "unity"
+    ],
+    "content_html": "<div>\n<p>Inspo = Documentaries are third person perspective and we want to make them first person</p>\n<p>What it does = allows viewers to partake in difficult experiences first hand</p>\n<p>How we built = unity 3D, 3D models and Avid Media Composer</p>\n<p>Challenges = creating a moving story that invokes emotions</p>\n<p>Accomplishments = the story we are telling and the ability of choice</p>\n<p>What we learned = working creatively as a team is a challenge as we all have views that differ and because of that we must learn to listen and understand each other (also what our experience is trying to show - a choice is not as simple as it seems)</p>\n<p>Whats next = finding other difficult experiences where someone has a drastic choice and creating opportunities for people to better understand the experience and the choice within.</p>\n</div>",
+    "content_md": "\nInspo = Documentaries are third person perspective and we want to make them first person\n\n\nWhat it does = allows viewers to partake in difficult experiences first hand\n\n\nHow we built = unity 3D, 3D models and Avid Media Composer\n\n\nChallenges = creating a moving story that invokes emotions\n\n\nAccomplishments = the story we are telling and the ability of choice\n\n\nWhat we learned = working creatively as a team is a challenge as we all have views that differ and because of that we must learn to listen and understand each other (also what our experience is trying to show - a choice is not as simple as it seems)\n\n\nWhats next = finding other difficult experiences where someone has a drastic choice and creating opportunities for people to better understand the experience and the choice within.\n\n\n"
+}

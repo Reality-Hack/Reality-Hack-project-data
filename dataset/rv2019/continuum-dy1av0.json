@@ -1,0 +1,46 @@
+{
+    "source": "https://devpost.com/software/continuum-dy1av0",
+    "title": "Continuum",
+    "blurb": "Stories you move through",
+    "awards": [
+        "Best use of ESRI"
+    ],
+    "videos": [
+        "https://player.vimeo.com/video/312304542?byline=0&portrait=0&title=0#t="
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "ADRIANA GUIMAN",
+            "about": "logo animation, presentation video, worked collaboratively on the UI/UX design",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/683/957/datas/profile.jpg"
+        },
+        {
+            "name": "James Gong",
+            "about": "I worked on the backend technology that utilized the ESRI geolocation API, and integrated ESRI's AR camera view with ARKit's.",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/552/337/datas/profile.jpg"
+        },
+        {
+            "name": "Tyler Angert",
+            "about": "I built the AR frontend and helped with UI,UX, and interaction design. I also conceived the project concept.",
+            "photo": "https://avatars3.githubusercontent.com/u/11527126?height=180&v=4&width=180"
+        },
+        {
+            "name": "Mira Sachdeva",
+            "about": "I worked on branding, user flows, user testing, and UI/UX. ",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/742/606/datas/profile.jpg"
+        },
+        {
+            "name": "Jenny Goldstick",
+            "about": "Branding + logo development. User flows, user testing, UI/UX",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/742/519/datas/profile.jpg"
+        }
+    ],
+    "built_with": [
+        "arkit",
+        "esri",
+        "ios"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>Our group kept revisiting the idea of memories. We thought about how we create, interact and re-experience them; our app explores this idea. Generally, science fiction that involves time travel was the main source of inspiration, like Donnie Darko. Also shoutout to Zach Lieberman for his amazing work on audio visualizations in AR which inspired this project.</p>\n<h2>What it does</h2>\n<p>Users explore and create stop-motion \"videos\" in the place they were taken. Users can walk forward and backward through these moments in AR.</p>\n<h2>How we built it</h2>\n<p>We started with the idea of stories in space, which gave way to capturing stop-motion photo sequences. We collaboratively worked on the UI/UX design and development in tandem. Specifically, we used paper-prototypes to test out the idea of content floating in space, InVision for low-fidelity prototyping, and Xcode and Swift for the implementation of the mobile app. Development wise, everything was built with Apple's native ARKit modules.</p>\n<h2>Challenges we ran into</h2>\n<p>One of our main struggles was balancing the story and technical aspects of this app. Mentor feedback led us to decide the value of our project was in its technology. The challenge then became how to integrate story while letting technology lead the way. We also had trouble figuring out which features to prioritize and whether to focus purely on one audience.</p>\n<h2>Accomplishments that we're proud of</h2>\n<p>We are especially proud of pulling together an initially amorphous idea into a cohesive experience. We were able to successfully collaborate in a team with three designers / two engineers in a very integrated way where every team member's opinions were included in the final project.</p>\n<h2>What we learned</h2>\n<p>We learned how to find value in creative tools / novel experiences. We thought we would have had to tailor the project to some commercial purpose, but embraced going all in with creating an artistic tool. We also learned how important early user testing is (or how horrible late user testing is!), especially when you start to assume that your project is easy/obvious to use.</p>\n<h2>What's next for Continuum</h2>\n<p>We want to let you save your projects in space (location persistence) so you can access older or other users' stop motion photo sequences in any space. Also adding sound syncing to each photo path and editing (photo/sound) to each path is a top priority.</p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nOur group kept revisiting the idea of memories. We thought about how we create, interact and re-experience them; our app explores this idea. Generally, science fiction that involves time travel was the main source of inspiration, like Donnie Darko. Also shoutout to Zach Lieberman for his amazing work on audio visualizations in AR which inspired this project.\n\n\n## What it does\n\n\nUsers explore and create stop-motion \"videos\" in the place they were taken. Users can walk forward and backward through these moments in AR.\n\n\n## How we built it\n\n\nWe started with the idea of stories in space, which gave way to capturing stop-motion photo sequences. We collaboratively worked on the UI/UX design and development in tandem. Specifically, we used paper-prototypes to test out the idea of content floating in space, InVision for low-fidelity prototyping, and Xcode and Swift for the implementation of the mobile app. Development wise, everything was built with Apple's native ARKit modules.\n\n\n## Challenges we ran into\n\n\nOne of our main struggles was balancing the story and technical aspects of this app. Mentor feedback led us to decide the value of our project was in its technology. The challenge then became how to integrate story while letting technology lead the way. We also had trouble figuring out which features to prioritize and whether to focus purely on one audience.\n\n\n## Accomplishments that we're proud of\n\n\nWe are especially proud of pulling together an initially amorphous idea into a cohesive experience. We were able to successfully collaborate in a team with three designers / two engineers in a very integrated way where every team member's opinions were included in the final project.\n\n\n## What we learned\n\n\nWe learned how to find value in creative tools / novel experiences. We thought we would have had to tailor the project to some commercial purpose, but embraced going all in with creating an artistic tool. We also learned how important early user testing is (or how horrible late user testing is!), especially when you start to assume that your project is easy/obvious to use.\n\n\n## What's next for Continuum\n\n\nWe want to let you save your projects in space (location persistence) so you can access older or other users' stop motion photo sequences in any space. Also adding sound syncing to each photo path and editing (photo/sound) to each path is a top priority.\n\n\n"
+}

@@ -1,0 +1,59 @@
+{
+    "source": "https://devpost.com/software/spacear",
+    "title": "SpaceAR",
+    "blurb": "An augmented reality space planning tool for Hololens 2. Users arrange spaces with real-time feedback on key adjacency metrics, area sizes, number of occupant, and the design history.",
+    "awards": [
+        "Logistics, Training, Productivity [Sponsored by PTC]"
+    ],
+    "videos": [
+        "https://www.youtube.com/embed/H9bt-yOnYKk?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [
+        {
+            "title": "8 key analysis categories based on adjacencies",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/436/datas/original.png"
+        },
+        {
+            "title": "Input spatial matrix uses the model geometry and turns it into live analytics",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/437/datas/original.png"
+        },
+        {
+            "title": "Team overview",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/438/datas/original.png"
+        },
+        {
+            "title": "The problem with current analogue spatial layout methods",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/439/datas/original.png"
+        },
+        {
+            "title": "Team photo",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/447/datas/original.jpg"
+        }
+    ],
+    "team": [
+        {
+            "name": "JS",
+            "about": "",
+            "photo": "https://avatars1.githubusercontent.com/u/35227625?height=180&v=4&width=180"
+        },
+        {
+            "name": "Luke Gehron",
+            "about": "",
+            "photo": "https://avatars0.githubusercontent.com/u/4754292?height=180&v=4&width=180"
+        },
+        {
+            "name": "Jeff Matarrese",
+            "about": "",
+            "photo": "https://avatars2.githubusercontent.com/u/2220906?height=180&v=4&width=180"
+        }
+    ],
+    "built_with": [
+        "c#",
+        "hololens2",
+        "microsoft-hololens",
+        "mrtk",
+        "unity"
+    ],
+    "content_html": "<div>\n<h1>SpaceAR</h1>\n<p>An XR application developed during MIT Reality Hack 2020 with Unity for the Hololens 2.</p>\n<h2>Inspiration</h2>\n<p>Building space planning is typically an analogue process involving sketching, and moving physical model representations of space around on a table. Often multiple design team members and sometimes stakeholders are involved in this process. Our team saw an opportunity to utilize spatial computing to improve this process, taking advantage of the opportunity to collaborate, view more data, and change designs on the fly. </p>\n<h2>Overview</h2>\n<p>SpaceAR is an XR application for building space planning. The use case explored in the current version is creating a building floor plan specifically for hackathons. A predetermined set of spaces (e.g., working space, mentor space, hacker space, relaxation space, etc) are loaded into the scene and users can move the spaces and see floor area, and number of hackers for the working spaces.</p>\n<p>To understand the results better, the space plan is analyzed in real time based on 8 key parameters (e.g., proximity of hackers to mentors) and feedback is provided through a vertical plot that can be toggled on and off. The better proposed layout, the higher score bars.</p>\n<p>To compare all created layouts, users can get into the history mode, where with the slider can move through all states and see the various iterations. </p>\n<h2>How to</h2>\n<p>Start the SpaceAR app, then start to move spaces to fit the layout you like. The space information tool tips can be toggled with the space information button displaying area and possible number of hackers. To see the scoring bars, turn on the \"Turn Analytics button\". To preview the history, turn on the \"History\" button and move the slider to travel back to specific place in history.</p>\n<p>Additionally, more spaces can be added. Additional spaces are in the floating panel on the right. Just grab additional box and place in on the grid.</p>\n<h2>Team Members</h2>\n<p><strong>Jeff Matarrese</strong> // UX Strategist (and former architect)\n<strong>Luke Gehron</strong> // VR/AR Developer (and former architect)\n<strong>Justyna Szychowska</strong> // Computational Design Specialist (and former architect)</p>\n<h2>Challenges</h2>\n<p>Prior to this experience, no team member had worked with wearable AR/Mixed Reality devices. Getting the right software and extensions installed (including a fourth laptop for our Mac user), and then getting the Hololens to cooperate with our computers took over 8 hours of work.</p>\n<p>Once we were up and running we took a fail-fast approach, rapidly building and iterating on our design. We found a lot of issues along the way including coping with the narrow view angle of the Hololens, and attempting to customize the MRTK prefabs for our own uses.</p>\n<h2>Licence</h2>\n<p>This project is licensed under the MIT License.</p>\n</div>",
+    "content_md": "\n# SpaceAR\n\n\nAn XR application developed during MIT Reality Hack 2020 with Unity for the Hololens 2.\n\n\n## Inspiration\n\n\nBuilding space planning is typically an analogue process involving sketching, and moving physical model representations of space around on a table. Often multiple design team members and sometimes stakeholders are involved in this process. Our team saw an opportunity to utilize spatial computing to improve this process, taking advantage of the opportunity to collaborate, view more data, and change designs on the fly. \n\n\n## Overview\n\n\nSpaceAR is an XR application for building space planning. The use case explored in the current version is creating a building floor plan specifically for hackathons. A predetermined set of spaces (e.g., working space, mentor space, hacker space, relaxation space, etc) are loaded into the scene and users can move the spaces and see floor area, and number of hackers for the working spaces.\n\n\nTo understand the results better, the space plan is analyzed in real time based on 8 key parameters (e.g., proximity of hackers to mentors) and feedback is provided through a vertical plot that can be toggled on and off. The better proposed layout, the higher score bars.\n\n\nTo compare all created layouts, users can get into the history mode, where with the slider can move through all states and see the various iterations. \n\n\n## How to\n\n\nStart the SpaceAR app, then start to move spaces to fit the layout you like. The space information tool tips can be toggled with the space information button displaying area and possible number of hackers. To see the scoring bars, turn on the \"Turn Analytics button\". To preview the history, turn on the \"History\" button and move the slider to travel back to specific place in history.\n\n\nAdditionally, more spaces can be added. Additional spaces are in the floating panel on the right. Just grab additional box and place in on the grid.\n\n\n## Team Members\n\n\n**Jeff Matarrese** // UX Strategist (and former architect)\n**Luke Gehron** // VR/AR Developer (and former architect)\n**Justyna Szychowska** // Computational Design Specialist (and former architect)\n\n\n## Challenges\n\n\nPrior to this experience, no team member had worked with wearable AR/Mixed Reality devices. Getting the right software and extensions installed (including a fourth laptop for our Mac user), and then getting the Hololens to cooperate with our computers took over 8 hours of work.\n\n\nOnce we were up and running we took a fail-fast approach, rapidly building and iterating on our design. We found a lot of issues along the way including coping with the narrow view angle of the Hololens, and attempting to customize the MRTK prefabs for our own uses.\n\n\n## Licence\n\n\nThis project is licensed under the MIT License.\n\n\n"
+}

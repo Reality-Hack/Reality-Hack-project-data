@@ -1,0 +1,46 @@
+{
+    "source": "https://devpost.com/software/concordia-module-1-pgmicy",
+    "title": "Concordia Module #1",
+    "blurb": "Playing solar systems as musical instruments to celebrate the work of Johannes Kepler",
+    "awards": [],
+    "videos": [
+        "https://player.vimeo.com/video/303232652?byline=0&portrait=0&title=0#t="
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "mobomusic",
+            "about": "",
+            "photo": "https://avatars1.githubusercontent.com/u/9666835?height=180&v=4&width=180"
+        },
+        {
+            "name": "Scott Black",
+            "about": "",
+            "photo": "https://avatars1.githubusercontent.com/u/35820390?height=180&v=4&width=180"
+        },
+        {
+            "name": "Andrew Luck",
+            "about": "",
+            "photo": "https://graph.facebook.com/10155356325047873/picture?height=180&width=180"
+        },
+        {
+            "name": "Kelly Snook",
+            "about": "",
+            "photo": "https://avatars3.githubusercontent.com/u/16545039?height=180&v=4&width=180"
+        },
+        {
+            "name": "Nick Fox-Gieg",
+            "about": "",
+            "photo": "https://avatars1.githubusercontent.com/u/771175?height=180&v=4&width=180"
+        }
+    ],
+    "built_with": [
+        "chunity",
+        "lightning-artist-toolkit",
+        "lumen-sdk",
+        "max-msp",
+        "websocket-#"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<h2>What it does</h2>\n<p>Playing solar systems as musical instruments</p>\n<h2>How I built it</h2>\n<h2>Challenges I ran into</h2>\n<h2>Accomplishments that I'm proud of</h2>\n<h2>What I learned</h2>\n<h2>What's next for Concordia Module #1</h2>\n</div>",
+    "content_md": "\n## Inspiration\n\n\n## What it does\n\n\nPlaying solar systems as musical instruments\n\n\n## How I built it\n\n\n## Challenges I ran into\n\n\n## Accomplishments that I'm proud of\n\n\n## What I learned\n\n\n## What's next for Concordia Module #1\n\n\n"
+}

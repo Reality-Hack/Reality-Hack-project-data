@@ -1,0 +1,57 @@
+{
+    "source": "https://devpost.com/software/studyvr-ihg451",
+    "title": "StudyVR",
+    "blurb": "A kinesthetic learning tool that helps grade school kids learn science that aligns with the NGSS curriculum.",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/d1JDFn9po3Q?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [
+        {
+            "title": "StudyVR splash screen",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/424/218/datas/original.png"
+        },
+        {
+            "title": "After testing with the help of some middle school students.",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/423/993/datas/original.png"
+        },
+        {
+            "title": "StudyVR at work",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/424/018/datas/original.jpeg"
+        }
+    ],
+    "team": [
+        {
+            "name": "valfx9",
+            "about": "Project management, UX and educational research, conceptualization and design, asset modeling, texturing, animation and Unity implementation",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/420/742/datas/profile.jpg"
+        },
+        {
+            "name": "Sean Bailey",
+            "about": "Ideation, Concept Development, Scripting User Interaction in Unity C#",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/432/756/datas/profile.png"
+        },
+        {
+            "name": "Tyler C. Roach",
+            "about": "I worked on the user interface design/development as well as the functionality of the actual modules themselves.",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/001/146/301/datas/profile.jpg"
+        },
+        {
+            "name": "Brendan Luu",
+            "about": "",
+            "photo": "https://lh3.googleusercontent.com/a-/AOh14Gi2PFIynORsfaV_V6HpsyIPhiSBkkanPTCFVf10OA?height=180&width=180"
+        },
+        {
+            "name": "Fatma Ozen",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/4c4348acb572b0a695fac99b98ba7040?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        }
+    ],
+    "built_with": [
+        "htc-vive",
+        "maya",
+        "unity"
+    ],
+    "content_html": "<div>\n<p>Have you ever studied a concept that you never applied in real life? Most children learn best through doing, and StudyVR is our solution to engage the next generation of kinesthetic learners.</p>\n<p>StudyVR is a learning tool for grade school kids to connect with their learning concepts with the HTC Vive, using kinesthetic hands-on interaction to engage them on a deeper level and bring science to life. </p>\n<p>Even better, our content is designed to work with the NGSS (Next Generation Science Standards) curriculum, an initiative by 26 US states to revitalize STEM teaching with technology and interdisciplinary curriculum. One major goal of NGSS is to demonstrate how scientific concepts can span across different subjects, and our application achieves that with two immersive learning modules. All assets were created by our team of 3D modelers for this Hackathon, making this an experience that can't be found anywhere else. </p>\n<p>We surveyed elementary and middle school teachers to determine what subjects their students struggled to learn with 2D textbook examples. Using the concept of \"pressure\" as a keystone, we developed two modules that integrate a singular mechanic to show real-world examples in the fields of Physics and Life Sciences. Students can help a fish swim around a tank by adjusting the pressure of its swim bladder, control a hot-air balloon while learning about the Ideal Gas Laws, and watch narrated videos that reinforce the science behind the simulations. A study \"room serves as a centralized hub to this experience, allowing the players to travel between lessons through \"portals\" in their textbooks.</p>\n<p>While this experience was developed to take advantage of hands-on Vive interactions, our single-input mechanic was designed to be ported to Google Cardboard in the future. The accessibility of Mobile VR could bring immersive educational experiences to any child with a smartphone, while the Vive version could be used in classroom demonstrations and home study. After demonstrating our proof of concept application to a group of elementary school children, we're confident that our idea has the potential to be expanded upon in the future.</p>\n</div>",
+    "content_md": "\nHave you ever studied a concept that you never applied in real life? Most children learn best through doing, and StudyVR is our solution to engage the next generation of kinesthetic learners.\n\n\nStudyVR is a learning tool for grade school kids to connect with their learning concepts with the HTC Vive, using kinesthetic hands-on interaction to engage them on a deeper level and bring science to life. \n\n\nEven better, our content is designed to work with the NGSS (Next Generation Science Standards) curriculum, an initiative by 26 US states to revitalize STEM teaching with technology and interdisciplinary curriculum. One major goal of NGSS is to demonstrate how scientific concepts can span across different subjects, and our application achieves that with two immersive learning modules. All assets were created by our team of 3D modelers for this Hackathon, making this an experience that can't be found anywhere else. \n\n\nWe surveyed elementary and middle school teachers to determine what subjects their students struggled to learn with 2D textbook examples. Using the concept of \"pressure\" as a keystone, we developed two modules that integrate a singular mechanic to show real-world examples in the fields of Physics and Life Sciences. Students can help a fish swim around a tank by adjusting the pressure of its swim bladder, control a hot-air balloon while learning about the Ideal Gas Laws, and watch narrated videos that reinforce the science behind the simulations. A study \"room serves as a centralized hub to this experience, allowing the players to travel between lessons through \"portals\" in their textbooks.\n\n\nWhile this experience was developed to take advantage of hands-on Vive interactions, our single-input mechanic was designed to be ported to Google Cardboard in the future. The accessibility of Mobile VR could bring immersive educational experiences to any child with a smartphone, while the Vive version could be used in classroom demonstrations and home study. After demonstrating our proof of concept application to a group of elementary school children, we're confident that our idea has the potential to be expanded upon in the future.\n\n\n"
+}

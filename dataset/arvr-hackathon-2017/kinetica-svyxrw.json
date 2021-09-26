@@ -1,0 +1,48 @@
+{
+    "source": "https://devpost.com/software/kinetica-svyxrw",
+    "title": "kinetica",
+    "blurb": "Pioneering the future of exercise with social virtual reality",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/XnJcjMpAOUw?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "Debra Do",
+            "about": "I worked on the backend. Created a RESTful Node web service to interface with MongoDB database for persisting sensor data. ",
+            "photo": "https://avatars3.githubusercontent.com/u/858998?height=180&v=4&width=180"
+        },
+        {
+            "name": "Cameron Feng",
+            "about": "Networking / Multiplayer integration, Game mechanics, Data management",
+            "photo": "https://media.licdn.com/mpr/mprx/0_iXEyCak-qVZHP8mNhhtjopO1AwBW93mWb6OyXVI1lVZH9ApX7XKpL451cO6WP8GN2vKt2M6PgSberLGzfB78EVFx4SbdrLZHfB7xTR-t1ut5V1_N_6JA37p_Z4gJMLfJQqIK65Z4UZW?height=180&width=180"
+        },
+        {
+            "name": "Jacob Hamman",
+            "about": "Environment Design, Kinect Integration, Game Mechanics",
+            "photo": "https://www.gravatar.com/avatar/f367da7853266d3c6db7c68b6ac049d7?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Ralston Louie",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/50455d6065b1388e3fed4d2fe4929aa3?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        }
+    ],
+    "built_with": [
+        "c#",
+        "express.js",
+        "google-app-engine",
+        "html5",
+        "javascript",
+        "jquery",
+        "kinect",
+        "mlab",
+        "mongodb",
+        "node.js",
+        "oculus",
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Inspiration:  Fitness is a key part of life which can be difficult to maintain, but new technologies open the door for immersive, engaging, and insightful new means of exercising.</h2>\n<h2>What it does:</h2>\n<p>Kinetica gamifies different aspects of fitness within a virtual, social context.  Individuals can exercise alone, with many others, and with a specialist (trainer, therapist, clinician).  Our Hackathon build allows for two people to enter into a beautiful environment where one user(the Trainer) guides the other user (Trainee) through different body movements.  These movements could be traditional workout moves (arm raises, curls, squats), sports-specific mechanics(golf swing, yoga, karate maneuvers), dance moves, or physical therapy exercises to promote targeted mobility.  The Microsoft Kinect allows for non-intrusive full body tracking with high accuracy and low latency, allowing the user to see a direct overlay of the trainer along with multiple perspectives of themselves.  </p>\n<h2>How I built it</h2>\n<p>Built with Unity, we are utilizing Oculus Rift for HMD and controller tracking, and Kinect for full body skeletal tracking.\nWe have created a custom backend service running on Google Cloud Services that interfaces with our Unity client to provide realtime data updates about user performance metrics and biosignals.</p>\n<h2>Challenges I ran into:</h2>\n<p>-Figuring out how to deploy web server to Google Cloud Platform\n-Writing Unity scripts to send performance data to web server\n-Implementing networking and interaction logic between two users\n-Hooking the Oculus HMD to Kinect - tracked skeleton \n-Maintaining acceptable frame rates with kinect enabled networked scene.</p>\n<h2>Accomplishments that I'm proud of</h2>\n<p>-Excellent Team Dynamic\n-Wrangling different hardware/ecosystems into an integrated end product:\nKinect+Oculus+Networking(Multiplayer)+Connection to Database</p>\n<h2>What's next for Kinetica</h2>\n<p>Continue to explore the realm of social, virtual fitness and build towards a healthier future. </p>\n</div>",
+    "content_md": "\n## Inspiration: Fitness is a key part of life which can be difficult to maintain, but new technologies open the door for immersive, engaging, and insightful new means of exercising.\n\n\n## What it does:\n\n\nKinetica gamifies different aspects of fitness within a virtual, social context. Individuals can exercise alone, with many others, and with a specialist (trainer, therapist, clinician). Our Hackathon build allows for two people to enter into a beautiful environment where one user(the Trainer) guides the other user (Trainee) through different body movements. These movements could be traditional workout moves (arm raises, curls, squats), sports-specific mechanics(golf swing, yoga, karate maneuvers), dance moves, or physical therapy exercises to promote targeted mobility. The Microsoft Kinect allows for non-intrusive full body tracking with high accuracy and low latency, allowing the user to see a direct overlay of the trainer along with multiple perspectives of themselves. \n\n\n## How I built it\n\n\nBuilt with Unity, we are utilizing Oculus Rift for HMD and controller tracking, and Kinect for full body skeletal tracking.\nWe have created a custom backend service running on Google Cloud Services that interfaces with our Unity client to provide realtime data updates about user performance metrics and biosignals.\n\n\n## Challenges I ran into:\n\n\n-Figuring out how to deploy web server to Google Cloud Platform\n-Writing Unity scripts to send performance data to web server\n-Implementing networking and interaction logic between two users\n-Hooking the Oculus HMD to Kinect - tracked skeleton \n-Maintaining acceptable frame rates with kinect enabled networked scene.\n\n\n## Accomplishments that I'm proud of\n\n\n-Excellent Team Dynamic\n-Wrangling different hardware/ecosystems into an integrated end product:\nKinect+Oculus+Networking(Multiplayer)+Connection to Database\n\n\n## What's next for Kinetica\n\n\nContinue to explore the realm of social, virtual fitness and build towards a healthier future. \n\n\n"
+}

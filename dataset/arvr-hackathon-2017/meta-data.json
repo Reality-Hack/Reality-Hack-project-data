@@ -1,0 +1,34 @@
+{
+    "source": "https://devpost.com/software/meta-data",
+    "title": "Meta Data",
+    "blurb": "Visualize multi-layer, geo-located data to gain insights into causes and consequences, and to humanize the data.",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/Z90_pk7__2Q?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "Gururaj Sridhar",
+            "about": "I worked on the backend processing of data. Data was processed and read into structures. This was further transformed into presentable formats in Augumented Reality using the Meta hardware. Used Unity SDK for Meta. ",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/467/518/datas/profile.jpg"
+        },
+        {
+            "name": "Tyler C. Roach",
+            "about": "I worked on the user interface of the application which allowed the user to spin the globe around, select a place, and then view the data for that place in 3D.",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/001/146/301/datas/profile.jpg"
+        },
+        {
+            "name": "Glyn Anderson",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/065c2c1ef02ee1324cf2e0039361a372?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        }
+    ],
+    "built_with": [
+        "mapbox",
+        "meta-sdk",
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>The recent mass shooting in Las Vegas and the resulting reporting about mass shootings and homicides in the USA motivated the team to create an experiential way to visualize and explore data, and to reveal nuances of the factors underlying and resulting from crime in America's cities.</p>\n<h2>What it does</h2>\n<p>Meta Data allows the user to explore collections of data about incidents of homicide and other capital crimes in a geo-located environment.  Drilling down into a specific incident gives the user a street-level perspective of the scene of the crime and additional information about the event drawn from many publicly available sources.</p>\n<h2>How I built it</h2>\n<p>With Unity and the Meta2 AR platform, with the addition of MapBox for mapping and street-level geometry.</p>\n<h2>Challenges I ran into</h2>\n<p>Various challenges around the hardware platform, and design challenges around how to present data and what data to present at the different levels of the experience.</p>\n<h2>Accomplishments that I'm proud of</h2>\n<p>The product achieved a significant part of the vision and serves as a good proof of concept.</p>\n<h2>What I learned</h2>\n<p>We learned how to work with the Meta; some of us increased our Unity skills; and we all learned a lot about the ideas around presenting and correlating data, and making data meaningful.</p>\n<h2>What's next for Meta Data</h2>\n<p>To fully realize the vision of Meta Data, the product should be able to draw from additional data sources in real time and present a fully realized street view experience.</p>\n<p>Our Github: <a href=\"https://github.com/Reality-Virtually-Hackathon/Meta-Data\" rel=\"nofollow\">https://github.com/Reality-Virtually-Hackathon/Meta-Data</a></p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nThe recent mass shooting in Las Vegas and the resulting reporting about mass shootings and homicides in the USA motivated the team to create an experiential way to visualize and explore data, and to reveal nuances of the factors underlying and resulting from crime in America's cities.\n\n\n## What it does\n\n\nMeta Data allows the user to explore collections of data about incidents of homicide and other capital crimes in a geo-located environment. Drilling down into a specific incident gives the user a street-level perspective of the scene of the crime and additional information about the event drawn from many publicly available sources.\n\n\n## How I built it\n\n\nWith Unity and the Meta2 AR platform, with the addition of MapBox for mapping and street-level geometry.\n\n\n## Challenges I ran into\n\n\nVarious challenges around the hardware platform, and design challenges around how to present data and what data to present at the different levels of the experience.\n\n\n## Accomplishments that I'm proud of\n\n\nThe product achieved a significant part of the vision and serves as a good proof of concept.\n\n\n## What I learned\n\n\nWe learned how to work with the Meta; some of us increased our Unity skills; and we all learned a lot about the ideas around presenting and correlating data, and making data meaningful.\n\n\n## What's next for Meta Data\n\n\nTo fully realize the vision of Meta Data, the product should be able to draw from additional data sources in real time and present a fully realized street view experience.\n\n\nOur Github: <https://github.com/Reality-Virtually-Hackathon/Meta-Data>\n\n\n"
+}

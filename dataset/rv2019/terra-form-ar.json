@@ -1,0 +1,25 @@
+{
+    "source": "https://devpost.com/software/terra-form-ar",
+    "title": "Terra Form AR",
+    "blurb": "AR enabled point and \u2018shoot\u2019 aeriel map view that provides contextual data of nearby landmarks and points of interest",
+    "awards": [],
+    "videos": [],
+    "images": [],
+    "team": [
+        {
+            "name": "Suzan Oslin",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/632/963/datas/profile.jpg"
+        }
+    ],
+    "built_with": [
+        "a-frame",
+        "ar.js",
+        "esri",
+        "open-data",
+        "three.js",
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>This app was inspired by the existing app, Horizontal Explorer AR, a potentially really useful app but with a not so great interface.  This version is device agnostic and built-in web XR and can be deployed to a phone, VR or AR headset.</p>\n<h2>What it does</h2>\n<p>Terra Forma AR gives form to user-defined geospatial data as an AR overlay.</p>\n<h2>How we built it</h2>\n<h2>Challenges we ran into</h2>\n<h2>Accomplishments that we're proud of</h2>\n<h2>What we learned</h2>\n<h2>What's next for Terra Form AR</h2>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nThis app was inspired by the existing app, Horizontal Explorer AR, a potentially really useful app but with a not so great interface. This version is device agnostic and built-in web XR and can be deployed to a phone, VR or AR headset.\n\n\n## What it does\n\n\nTerra Forma AR gives form to user-defined geospatial data as an AR overlay.\n\n\n## How we built it\n\n\n## Challenges we ran into\n\n\n## Accomplishments that we're proud of\n\n\n## What we learned\n\n\n## What's next for Terra Form AR\n\n\n"
+}

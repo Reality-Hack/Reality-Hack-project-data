@@ -1,0 +1,53 @@
+{
+    "source": "https://devpost.com/software/dnar",
+    "title": "DNAr",
+    "blurb": "An app that helps teachers explain difficult subjects, like DNA, through the use of AR synced with voice recognition.",
+    "awards": [],
+    "videos": [],
+    "images": [
+        {
+            "title": "To begin, click start! ",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/742/727/datas/original.jpg"
+        },
+        {
+            "title": "After you learn about how DNA is made, you know that we share 16% with bananas. Say Bananas!",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/742/728/datas/original.jpg"
+        },
+        {
+            "title": "Watch as the DNA forms a banana.",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/742/729/datas/original.jpg"
+        }
+    ],
+    "team": [
+        {
+            "name": "Emily Steele",
+            "about": "I was an an animator and designer!",
+            "photo": "https://media.licdn.com/dms/image/C4E03AQGfkQZyAeu1kg/profile-displayphoto-shrink_100_100/0?e=1553126400&height=180&t=5EFDv1m3hCLsJHKfseEY2JV6zD0TvGcEoSGcXZT86HA&v=beta&width=180"
+        },
+        {
+            "name": "Juan Pablo",
+            "about": "I worked as a programmer. With the help of the other developers we decided to do voice recognition to trigger augmented reality",
+            "photo": "https://avatars2.githubusercontent.com/u/29048064?height=180&v=4&width=180"
+        },
+        {
+            "name": "Pascal Phoa",
+            "about": "I was a Unity developer with two others and mainly helped integrated the animation from Maya into Unity, and compiled the sound effects.",
+            "photo": "https://www.gravatar.com/avatar/b8b41772396087c685a741feb699176d?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Jingorho",
+            "about": "",
+            "photo": "https://avatars1.githubusercontent.com/u/11937176?height=180&v=4&width=180"
+        }
+    ],
+    "built_with": [
+        "c#",
+        "github",
+        "google",
+        "hlsl",
+        "unity",
+        "vuforia"
+    ],
+    "content_html": "<div>\n<h2>What it does</h2>\n<p>It transforms the teaching of difficult subjects (like DNA and microbiology) into a fun, interactive, group building experience. Through the use of an AR narrative trigged by the kids\u2019 own verbal responses to questions asked by the teacher, we promote engagement and reward good reading without taking away from the teacher\u2019s control and ability to run the class. So everybody learns together at the same pace.</p>\n<h2>How we built it</h2>\n<p>We used UNITY, VUFORIA and GOOGLE\u2019s VOICE API, powered by voice activation.</p>\n<h2>Challenges we ran into</h2>\n<p>There weren\u2019t any prior examples of educational experiences that combined the use of AR and Voice Recognition to control the narrative that we could find. That led us to have to find a way to combine VUFORIA\u2019s engine with Google\u2019s voice API and use the result to drive the narrative. The mentors us helped a lot in that.</p>\n<h2>Accomplishments that we're proud of</h2>\n<p>To combine the two technologies into one single experience that can run according to a previous class scripts of Questions and Answers.</p>\n<h2>What we learned</h2>\n<p>We learned that not only is necessary to find a technological way of solving a problem, but also it is necessary to check whether that educational approach is sound and exciting. Our first script was much more \u201cpresentational\u201d whereas the second one used more of the Q&amp;A format that stimulates the community of students to find the solutions together organically. In this approach, the teacher becomes both the facilitator and the one who controls the experience, even though it is an AR experience. We think that the best ones are in the crossover between real and virtual.</p>\n<h2>What's next for DNAr</h2>\n<p>What DNAr really can be in the future in a platform for the teaching of any difficult subjects, not only microbiology. Also we wanted to incorporate into the App a Quiz at the end, so the students could immediately tested on their ability to grasp what\u2019s being taught.</p>\n</div>",
+    "content_md": "\n## What it does\n\n\nIt transforms the teaching of difficult subjects (like DNA and microbiology) into a fun, interactive, group building experience. Through the use of an AR narrative trigged by the kids\u2019 own verbal responses to questions asked by the teacher, we promote engagement and reward good reading without taking away from the teacher\u2019s control and ability to run the class. So everybody learns together at the same pace.\n\n\n## How we built it\n\n\nWe used UNITY, VUFORIA and GOOGLE\u2019s VOICE API, powered by voice activation.\n\n\n## Challenges we ran into\n\n\nThere weren\u2019t any prior examples of educational experiences that combined the use of AR and Voice Recognition to control the narrative that we could find. That led us to have to find a way to combine VUFORIA\u2019s engine with Google\u2019s voice API and use the result to drive the narrative. The mentors us helped a lot in that.\n\n\n## Accomplishments that we're proud of\n\n\nTo combine the two technologies into one single experience that can run according to a previous class scripts of Questions and Answers.\n\n\n## What we learned\n\n\nWe learned that not only is necessary to find a technological way of solving a problem, but also it is necessary to check whether that educational approach is sound and exciting. Our first script was much more \u201cpresentational\u201d whereas the second one used more of the Q&A format that stimulates the community of students to find the solutions together organically. In this approach, the teacher becomes both the facilitator and the one who controls the experience, even though it is an AR experience. We think that the best ones are in the crossover between real and virtual.\n\n\n## What's next for DNAr\n\n\nWhat DNAr really can be in the future in a platform for the teaching of any difficult subjects, not only microbiology. Also we wanted to incorporate into the App a Quiz at the end, so the students could immediately tested on their ability to grasp what\u2019s being taught.\n\n\n"
+}

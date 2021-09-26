@@ -1,0 +1,32 @@
+{
+    "source": "https://devpost.com/software/mind-state",
+    "title": "Mind State",
+    "blurb": "VR and brain-computer interface for exploring visual and musical harmonies reflective of one's mind state.",
+    "awards": [],
+    "videos": [],
+    "images": [],
+    "team": [
+        {
+            "name": "Stas Rutkowski",
+            "about": "Concepting and art creation ",
+            "photo": "https://media.licdn.com/mpr/mprx/0_zVjRUCh9Ibw0h7R8c0pXUhizd3ZA82R8BZdkU31k9Xuhxe2hMpDczTbEF74fiIVuqJ0LNQS2URcH?height=180&width=180"
+        },
+        {
+            "name": "Suzanne Hillman",
+            "about": "",
+            "photo": "https://avatars1.githubusercontent.com/u/18105933?height=180&v=4&width=180"
+        },
+        {
+            "name": "Hajimex",
+            "about": "",
+            "photo": "https://avatars1.githubusercontent.com/u/1407293?height=180&v=4&width=180"
+        }
+    ],
+    "built_with": [
+        "eeg",
+        "simmetri",
+        "vibe"
+    ],
+    "content_html": "<div>\n<p>Cell phone for Stas (because my screen isn't working): 631-680-1825</p>\n<h2>Inspiration</h2>\n<p>Existing EEG hardware device and focus on \"coherence\" from Masahiro Kahata, plus thoughts on how one might incorporate the EEG signals in a way to create an engaging VR interface. </p>\n<h2>What it does</h2>\n<h2>How we built it</h2>\n<h2>Challenges we ran into</h2>\n<p>Coming to agreement on the interface. I think a few people had some very strong ideas of what they wanted to do before they got here, and we ended up going with the one that was more clearly fleshed out and possible (but perhaps ambitious) over the one that might have been an interesting idea but was less clear.</p>\n<p>Getting the interaction between the EEG signals and the VR world to work.</p>\n<h2>Accomplishments that we're proud of</h2>\n<h2>What we learned</h2>\n<h2>What's next for Mind State</h2>\n</div>",
+    "content_md": "\nCell phone for Stas (because my screen isn't working): 631-680-1825\n\n\n## Inspiration\n\n\nExisting EEG hardware device and focus on \"coherence\" from Masahiro Kahata, plus thoughts on how one might incorporate the EEG signals in a way to create an engaging VR interface. \n\n\n## What it does\n\n\n## How we built it\n\n\n## Challenges we ran into\n\n\nComing to agreement on the interface. I think a few people had some very strong ideas of what they wanted to do before they got here, and we ended up going with the one that was more clearly fleshed out and possible (but perhaps ambitious) over the one that might have been an interesting idea but was less clear.\n\n\nGetting the interaction between the EEG signals and the VR world to work.\n\n\n## Accomplishments that we're proud of\n\n\n## What we learned\n\n\n## What's next for Mind State\n\n\n"
+}

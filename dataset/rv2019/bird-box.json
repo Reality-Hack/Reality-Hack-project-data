@@ -1,0 +1,98 @@
+{
+    "source": "https://devpost.com/software/bird-box",
+    "title": "Bird Box",
+    "blurb": "A multiparticipant AR-VR painting experience in which the work is experienced differently from each point of view.",
+    "awards": [
+        "Best in Art, Media & Entertainment"
+    ],
+    "videos": [
+        "https://www.youtube.com/embed/zYRyFQH7IDk?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [
+        {
+            "title": "VR Soundcage",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/745/261/datas/original.png"
+        },
+        {
+            "title": "Cross-Dimensional Experience",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/745/262/datas/original.png"
+        },
+        {
+            "title": "Sending signals from the real world.",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/746/304/datas/original.jpg"
+        },
+        {
+            "title": "VR mirroring AR brush strokes",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/746/300/datas/original.jpg"
+        },
+        {
+            "title": "Enter the Bird Box",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/746/298/datas/original.jpg"
+        },
+        {
+            "title": "Two participants",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/746/299/datas/original.jpg"
+        },
+        {
+            "title": "Sending messages from another dimension",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/746/302/datas/original.jpg"
+        },
+        {
+            "title": "VR world real-time scene",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/746/303/datas/original.jpg"
+        },
+        {
+            "title": "AR window into the VR world",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/746/301/datas/original.jpg"
+        },
+        {
+            "title": "VR world paint strokes",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/746/305/datas/original.jpg"
+        }
+    ],
+    "team": [
+        {
+            "name": "Emily Shoemaker",
+            "about": "I worked primarily on the experience design and text work for this project. I also helped create, find, and organize assets. ",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/747/343/datas/profile.PNG"
+        },
+        {
+            "name": "David Tames",
+            "about": "I contributed to the design and worked primarily on the VR implementation using Unity, VIU, and Photon (learning along the way). ",
+            "photo": "https://avatars3.githubusercontent.com/u/24768857?height=180&v=4&width=180"
+        },
+        {
+            "name": "Alessio Grancini",
+            "about": "I worked on UI interface and sound effects - collider sound-strategy [sound cage]. \nI contributed in setting up the Unity environment for the Photon based multi-player experience using the Microsoft Mixed Reality headset. ",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/615/072/datas/profile.jpg"
+        },
+        {
+            "name": "Kelon Cen",
+            "about": "I worked on the concept design and 3D scene design. I also helped with the narrative aspect of the project.",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/746/938/datas/profile.png"
+        },
+        {
+            "name": "Runze Zhang",
+            "about": "My main hacking in this project is to infrastructure the network platform of bring AR and VR together. I customize a Photon Unity Network v2(PUN2) template for both BirdBox AR and VR Unity Scenes. My strategy is simply to see if AR and VR can share the same spatial visualization through separate project build while sharing the same PUN2 ID, and it works. So, I find out we can now create multiplayer projects crossing both AR VR platforms, specifically in our projects we utilize Android Phones and Mixed Reality Headset.",
+            "photo": "https://avatars1.githubusercontent.com/u/37249382?height=180&v=4&width=180"
+        }
+    ],
+    "built_with": [
+        "aftereffects",
+        "arcore",
+        "arfoundation",
+        "googlepixel2",
+        "googlepixel3",
+        "logicpro",
+        "maya",
+        "microsoftmixedreality",
+        "openvr",
+        "photon",
+        "photoshop",
+        "rhino",
+        "unity",
+        "viu"
+    ],
+    "content_html": "<div>\n<h2>Location, Floor, and Room</h2>\n<p>Building E15, Floor 2, Room 283</p>\n<h2>Project Summary</h2>\n<p><strong>Bird Box is a multiparticipant AR/VR experience in which one person paints in a VR world, the other person paints in AR-overlaid reality, and both people see transformed versions of each other's art appearing real-time in their own respective spaces.</strong></p>\n<p>As humans, we each inhabit our own unique reality. We can never experience the rich synaptic context of thoughts, memories, and emotions that define another person's perception of the world. Therefore, even though we often feel or assume that we are communicating our ideas to others with complete clarity, this is almost never true. There will always be transformations and noise in the signal.</p>\n<p>Bird Box is a metaphor for all the layers of richness that are lost in the communication process. The title is a nod to the homonymous Netflix film, in which \u2013 upon viewing the same unknown entity \u2013 some people experience enlightenment while others encounter their worst fears. </p>\n<p>Participants in Bird Box share an audiovisual space in which their experience of each other's actions is largely similar, yet irreconcilably different. The participant in VR is enclosed in a soundcage, creating music with their motions as they paint in the canvas of a surreal virtual world. The participant in AR, who can digitally paint in the real world, can hear the VR participant's music but can never share the act of composing. The paint strokes created by each participant in their respective realities appear as traces in the other participant's world.</p>\n<p>In the course of design, we pivoted the original concept many times. At first, the project involved transforming a room into a spatial instrument in which two people \u2013 one in VR, blind to the environment, and one in AR, unable to trigger the notes \u2013 must work collaboratively in order to create beautiful sounds. We found ourselves repeatedly drawn toward the delicate tension that is created between two people who cannot see eye to eye. Thus, we shifted to focus around the imperfect act of communication as a visually creative, interactive experience.</p>\n<p>The score and concept art were originally composed for this project during this hackathon.</p>\n<h2>Assets Made by Others</h2>\n<p>We pulled a few free 3D models from Google Poly and TurboSquid. A few sound effects for the demo video were pulled from freesound.org. </p>\n<h2>Components Not Created at the Hackathon</h2>\n<p>Other than freemium assets pulled in from the web, every part of this project was created during this hackathon.</p>\n<h2>Contact the Creators</h2>\n<p><strong>Alessio Grancini</strong>\n<a href=\"mailto:alessiograncini@gmail.com\" rel=\"nofollow\">alessiograncini@gmail.com</a>\n@alessiograncini\nalessiograncini.com\ndoorwi.com</p>\n<p><strong>Runze Zhang</strong> \nzr-z.com\n@runze____\n<a href=\"mailto:archzrz@gmail.com\" rel=\"nofollow\">archzrz@gmail.com</a>\ndoorwi.com</p>\n<p><strong>Emily Shoemaker</strong>\n<a href=\"mailto:emily_shoemaker@gse.harvard.edu\" rel=\"nofollow\">emily_shoemaker@gse.harvard.edu</a></p>\n<p><strong>Kelon Cen</strong>\n<a href=\"mailto:keloncen@alum.calarts.edu\" rel=\"nofollow\">keloncen@alum.calarts.edu</a>\ninstagram @kelonc\nvimeo.com/kelon</p>\n<p><strong>David Tames</strong>\n@kinoscopia (Instagram) \n@cinemakinoeye (Twitter)\n<a href=\"mailto:dtames@northeastern.edu\" rel=\"nofollow\">dtames@northeastern.edu</a> (email)</p>\n</div>",
+    "content_md": "\n## Location, Floor, and Room\n\n\nBuilding E15, Floor 2, Room 283\n\n\n## Project Summary\n\n\n**Bird Box is a multiparticipant AR/VR experience in which one person paints in a VR world, the other person paints in AR-overlaid reality, and both people see transformed versions of each other's art appearing real-time in their own respective spaces.**\n\n\nAs humans, we each inhabit our own unique reality. We can never experience the rich synaptic context of thoughts, memories, and emotions that define another person's perception of the world. Therefore, even though we often feel or assume that we are communicating our ideas to others with complete clarity, this is almost never true. There will always be transformations and noise in the signal.\n\n\nBird Box is a metaphor for all the layers of richness that are lost in the communication process. The title is a nod to the homonymous Netflix film, in which \u2013 upon viewing the same unknown entity \u2013 some people experience enlightenment while others encounter their worst fears. \n\n\nParticipants in Bird Box share an audiovisual space in which their experience of each other's actions is largely similar, yet irreconcilably different. The participant in VR is enclosed in a soundcage, creating music with their motions as they paint in the canvas of a surreal virtual world. The participant in AR, who can digitally paint in the real world, can hear the VR participant's music but can never share the act of composing. The paint strokes created by each participant in their respective realities appear as traces in the other participant's world.\n\n\nIn the course of design, we pivoted the original concept many times. At first, the project involved transforming a room into a spatial instrument in which two people \u2013 one in VR, blind to the environment, and one in AR, unable to trigger the notes \u2013 must work collaboratively in order to create beautiful sounds. We found ourselves repeatedly drawn toward the delicate tension that is created between two people who cannot see eye to eye. Thus, we shifted to focus around the imperfect act of communication as a visually creative, interactive experience.\n\n\nThe score and concept art were originally composed for this project during this hackathon.\n\n\n## Assets Made by Others\n\n\nWe pulled a few free 3D models from Google Poly and TurboSquid. A few sound effects for the demo video were pulled from freesound.org. \n\n\n## Components Not Created at the Hackathon\n\n\nOther than freemium assets pulled in from the web, every part of this project was created during this hackathon.\n\n\n## Contact the Creators\n\n\n**Alessio Grancini**\n[alessiograncini@gmail.com](mailto:alessiograncini@gmail.com)\n@alessiograncini\nalessiograncini.com\ndoorwi.com\n\n\n**Runze Zhang** \nzr-z.com\n@runze\\_\\_\\_\\_\n[archzrz@gmail.com](mailto:archzrz@gmail.com)\ndoorwi.com\n\n\n**Emily Shoemaker**\n[emily\\_shoemaker@gse.harvard.edu](mailto:emily_shoemaker@gse.harvard.edu)\n\n\n**Kelon Cen**\n[keloncen@alum.calarts.edu](mailto:keloncen@alum.calarts.edu)\ninstagram @kelonc\nvimeo.com/kelon\n\n\n**David Tames**\n@kinoscopia (Instagram) \n@cinemakinoeye (Twitter)\n[dtames@northeastern.edu](mailto:dtames@northeastern.edu) (email)\n\n\n"
+}

@@ -1,0 +1,37 @@
+{
+    "source": "https://devpost.com/software/med-for-medar-medical-application",
+    "title": "Visual Med",
+    "blurb": "easiness for doctors = health for everyone",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/_uEPx1_SOjA?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [
+        {
+            "title": "Skull DICOM Viewer ",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/546/681/datas/original.jpg"
+        },
+        {
+            "title": "Organ Reassemble Game",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/546/898/datas/original.jpg"
+        }
+    ],
+    "team": [
+        {
+            "name": "Bolin Zhu",
+            "about": "Write up code for controller\nInteraction with Hololens\nSome modification with existing code",
+            "photo": "https://avatars3.githubusercontent.com/u/6730682?height=180&v=4&width=180"
+        },
+        {
+            "name": "Willy Ci",
+            "about": "build UI, controller, testing, build 3D model, ",
+            "photo": "https://media.licdn.com/mpr/mprx/0__RFqJaE9i1cqGayl60PVqpH9i1jeTOyl60lspUy9QtydTaGpi00sAVw9Tz-qGa1gi00VtpknENTWbVmlWeGHAVdsfNTHbVQg7eGcVRpBXvNkS2g3iJNMs7-Q73U4aVAu6IQ4gL9HUWl?height=180&width=180"
+        }
+    ],
+    "built_with": [
+        "microsoft-hololens",
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>For medical cases, people need to have a group review over everyone's work everyday in the morning. That usually has more than 100 cases via a stack of medical images a day. It is time consuming and everyone has to be on-site. So, we come up an idea to show images in 3d.\nFurthermore, we want to create something fun for students while learning. \nProof of concept for medicine.</p>\n<h2>What it does</h2>\n<p>It loads the medical images and turns them into 3d-alike look in Hololens. With interactions, they are able to manipulate the 'model' to right angle or slice for better look.\nWe build a little game for medical education purpose where students are asked to manipulate specific parts of a 3d model to re-assemble it.</p>\n<h2>How we built it</h2>\n<p>We built it using Unity and Hololens: add interaction(gestures) to control the image/model in Hololens</p>\n<h2>Challenges we ran into</h2>\n<ol>\n<li>Hololens API integration with some interactions we want</li>\n<li>Precision of gestures</li>\n<li>Imaging</li>\n<li>Performance\n## Accomplishments that we're proud of</li>\n<li>we actually pull that off</li>\n<li>results are good enough for two days work\n## What we learned</li>\n<li>More possible ways to develop for Hololens AR application</li>\n<li>Imaging</li>\n<li>Solve performance issue\n## What's next for Med for Med: AR Medical Application</li>\n<li>add remote session</li>\n<li>Dynamical loading from external drive\n## Credits\nAll the medical images/models are from UMass Medical\nHololens API\nSome control codes along with medical assets</li>\n</ol>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nFor medical cases, people need to have a group review over everyone's work everyday in the morning. That usually has more than 100 cases via a stack of medical images a day. It is time consuming and everyone has to be on-site. So, we come up an idea to show images in 3d.\nFurthermore, we want to create something fun for students while learning. \nProof of concept for medicine.\n\n\n## What it does\n\n\nIt loads the medical images and turns them into 3d-alike look in Hololens. With interactions, they are able to manipulate the 'model' to right angle or slice for better look.\nWe build a little game for medical education purpose where students are asked to manipulate specific parts of a 3d model to re-assemble it.\n\n\n## How we built it\n\n\nWe built it using Unity and Hololens: add interaction(gestures) to control the image/model in Hololens\n\n\n## Challenges we ran into\n\n\n1. Hololens API integration with some interactions we want\n2. Precision of gestures\n3. Imaging\n4. Performance\n## Accomplishments that we're proud of\n5. we actually pull that off\n6. results are good enough for two days work\n## What we learned\n7. More possible ways to develop for Hololens AR application\n8. Imaging\n9. Solve performance issue\n## What's next for Med for Med: AR Medical Application\n10. add remote session\n11. Dynamical loading from external drive\n## Credits\nAll the medical images/models are from UMass Medical\nHololens API\nSome control codes along with medical assets\n\n\n"
+}

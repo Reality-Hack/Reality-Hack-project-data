@@ -1,0 +1,40 @@
+{
+    "source": "https://devpost.com/software/magic-dots",
+    "title": "Magic Dots",
+    "blurb": "Engaging AR storybooks to spark children's imaginations for future education and storytelling",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/eK3sf53fOyE?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "Chris Low",
+            "about": "Integration of 3D assets with Nreal Headset.",
+            "photo": "https://avatars3.githubusercontent.com/u/21194612?height=180&v=4&width=180"
+        },
+        {
+            "name": "Han Zhu",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/f6e017781f7a61ac5bec49e070ad8659?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Yohe Wang",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/a06a79c5cede6aa6008be8a820cddf1a?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Meichun Cai",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/547/134/datas/profile.jpeg"
+        }
+    ],
+    "built_with": [
+        "c#",
+        "nreal",
+        "unity",
+        "vuforia"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>We make AR books with extraordinary effects and make stories come to life to provide a stimulating learning experience for children. \nWe re-imagine how the next generation can experience the illustrated stories in a playful, immersive and inspiring way.</p>\n<h2>What it does</h2>\n<p>In this demo, we've augmented a children book \"Yayoi Kusama: From Here to Infinity.\"  This colorful children book illustrates the life stories of the artist, Yayoi Kusama, who grew up with nature and was in love with art, suddenly found herself had a vision that everything in the world was covered by arrays of polka dots.\nWe've created 7 popup 3D scenes to encourage children to step into the infinity reality with Yayoi Kusama and get inspirations from her life story. </p>\n<h2>How I built it</h2>\n<p>We created AR contents popping up from different pages of the book by using Vuforia in Unity. \nAnd we used Nreal for the mixed reality experiences.</p>\n<h2>Challenges I ran into</h2>\n<p>Integrated AR contents and effects across different platforms</p>\n<h2>Accomplishments that I'm proud of</h2>\n<p>We learned how to integrate AR contents with Nreal.\nWe've created 7 scenes inspired by the story of the children book.</p>\n<h2>What we learned</h2>\n<p>We learned how AR can be a powerful tool to educate children and facilitate a better learning experience.</p>\n<h2>What's next for Magic Dots</h2>\n<p>We would like to provide more AR interactions for users to learn, enjoy and play with the book and build an AR app to share these interactive stories with kids and their parents all over the world.</p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nWe make AR books with extraordinary effects and make stories come to life to provide a stimulating learning experience for children. \nWe re-imagine how the next generation can experience the illustrated stories in a playful, immersive and inspiring way.\n\n\n## What it does\n\n\nIn this demo, we've augmented a children book \"Yayoi Kusama: From Here to Infinity.\" This colorful children book illustrates the life stories of the artist, Yayoi Kusama, who grew up with nature and was in love with art, suddenly found herself had a vision that everything in the world was covered by arrays of polka dots.\nWe've created 7 popup 3D scenes to encourage children to step into the infinity reality with Yayoi Kusama and get inspirations from her life story. \n\n\n## How I built it\n\n\nWe created AR contents popping up from different pages of the book by using Vuforia in Unity. \nAnd we used Nreal for the mixed reality experiences.\n\n\n## Challenges I ran into\n\n\nIntegrated AR contents and effects across different platforms\n\n\n## Accomplishments that I'm proud of\n\n\nWe learned how to integrate AR contents with Nreal.\nWe've created 7 scenes inspired by the story of the children book.\n\n\n## What we learned\n\n\nWe learned how AR can be a powerful tool to educate children and facilitate a better learning experience.\n\n\n## What's next for Magic Dots\n\n\nWe would like to provide more AR interactions for users to learn, enjoy and play with the book and build an AR app to share these interactive stories with kids and their parents all over the world.\n\n\n"
+}

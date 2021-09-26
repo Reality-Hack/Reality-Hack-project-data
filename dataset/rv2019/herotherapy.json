@@ -1,0 +1,43 @@
+{
+    "source": "https://devpost.com/software/herotherapy",
+    "title": "HeroTherapy",
+    "blurb": "A VR exp. for kids during chemo sessions. Chemo within VR makes them superheroes and gives powers to fight cancer.",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/yz1sIWBnqk4?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "nikkieto",
+            "about": "",
+            "photo": "https://avatars2.githubusercontent.com/u/46796781?height=180&v=4&width=180"
+        },
+        {
+            "name": "Anish-Sinha",
+            "about": "",
+            "photo": "https://avatars0.githubusercontent.com/u/22457135?height=180&v=4&width=180"
+        },
+        {
+            "name": "Mr Chow",
+            "about": "",
+            "photo": "https://avatars3.githubusercontent.com/u/29829448?height=180&v=4&width=180"
+        },
+        {
+            "name": "Eileen Hing",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/66a0fe260659b0639864543843335ab3?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "lojke",
+            "about": "",
+            "photo": "https://graph.facebook.com/10219428775492690/picture?height=180&width=180"
+        }
+    ],
+    "built_with": [
+        "oculus",
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>Personal experience. Feeling hopeless and alone during battle with cancer.</p>\n<h2>What it does</h2>\n<p>HeroTherapy is an application based on Unity that allows single or multiple users to have a VR experience for chemotherapy sessions for children of cancer clinics.  In VR - thank to chemo going through their veins - they are becoming superheroes(!) and with superpowers, destroying cancer cells. The children will feel calmer, stronger, and empowered during their VR chemotherapy session.</p>\n<h2>How we built it</h2>\n<p>Unity 3D</p>\n<h2>Challenges we ran into</h2>\n<p>We learned about Unity. We have learned about cooperation. Team leadership.\nEmpathy and power of visualisation in medical treatment.</p>\n<h2>Accomplishments that we're proud of</h2>\n<p>Our team learned everything that we've made this weekend from scratch.</p>\n<h2>What we learned</h2>\n<p>We learned about Unity. We have learned about cooperation. Team leadership.\nEmpathy and power of visualisation in medical treatment.</p>\n<h2>What's next for Herotherapy</h2>\n<p>Implementation of a game into global system of oncology clinics</p>\n<p>Development of social VR platform to connect children in their chemo session to interact ans support each other</p>\n<p>Cooperation with superhero producers / franchaise to join together in good cause and implement\ufffdMARVEL, Disney, Harry potter character </p>\n<p>Expeding Immersion level to actual usage of saying spells with Magic Wand gestures:\ufffdfor example \u201eWingardium Leviosa\u201d will make you fly</p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nPersonal experience. Feeling hopeless and alone during battle with cancer.\n\n\n## What it does\n\n\nHeroTherapy is an application based on Unity that allows single or multiple users to have a VR experience for chemotherapy sessions for children of cancer clinics. In VR - thank to chemo going through their veins - they are becoming superheroes(!) and with superpowers, destroying cancer cells. The children will feel calmer, stronger, and empowered during their VR chemotherapy session.\n\n\n## How we built it\n\n\nUnity 3D\n\n\n## Challenges we ran into\n\n\nWe learned about Unity. We have learned about cooperation. Team leadership.\nEmpathy and power of visualisation in medical treatment.\n\n\n## Accomplishments that we're proud of\n\n\nOur team learned everything that we've made this weekend from scratch.\n\n\n## What we learned\n\n\nWe learned about Unity. We have learned about cooperation. Team leadership.\nEmpathy and power of visualisation in medical treatment.\n\n\n## What's next for Herotherapy\n\n\nImplementation of a game into global system of oncology clinics\n\n\nDevelopment of social VR platform to connect children in their chemo session to interact ans support each other\n\n\nCooperation with superhero producers / franchaise to join together in good cause and implement\ufffdMARVEL, Disney, Harry potter character \n\n\nExpeding Immersion level to actual usage of saying spells with Magic Wand gestures:\ufffdfor example \u201eWingardium Leviosa\u201d will make you fly\n\n\n"
+}

@@ -1,0 +1,36 @@
+{
+    "source": "https://devpost.com/software/augmented-beatz-7fiare",
+    "title": "Augmented Beatz",
+    "blurb": "Augmented Reality DJing!",
+    "awards": [],
+    "videos": [],
+    "images": [],
+    "team": [
+        {
+            "name": "So Sun Park",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/2354742c40fbdd47ce56477769ea449e?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Tom Strissel",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/dc2e1ce7145d346bef2ade2290773d61?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Randall Spence",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/bff38e48f213cc38b69bc184c9fab3b2?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Erik Warringer",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/1873cbb50e3fca1390d64e9424c786dd?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        }
+    ],
+    "built_with": [
+        "microsoft-hololens",
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>Ever want to get the party started at a completely random time and place? Well now you can! Augmented Beatz brings the party to you! Just put on your headset on a jam!</p>\n<h2>What it does</h2>\n<p>Augmented Beatz provides you with a DJ console and the power to rock out! You provide the moves, we provide the grooves!</p>\n<h2>How we built it</h2>\n<p>Augmented Beatz was built with love, care, Unity 3d, and Microsoft Hololens.</p>\n<h2>Challenges we ran into</h2>\n<p>Having never even used a Microsoft Hololens before yesterday, the largest difficulties we faced mostly involved understanding, testing, and applying the Hololens Gaze and Gesture functions.</p>\n<h2>Accomplishments that we're proud of</h2>\n<p>We're super proud of the UI, applying Hololens hand gestures to start and stop multiple tracks, and we are proud of seeing our idea come to life. It's a surreal experience!</p>\n<h2>What we learned</h2>\n<p>This weekend has been an astonishingly powerful learning experience for us all. As mentioned before, we had no prior experience with the Hololens, so it was incredibly fascinating to dive into this new world of advanced AR.  Having the opportunity to work with a team to build an app using some of the most cutting edge technology in the world is truly inspiring. Essentially, it feels as though we spent a weekend learning about the future.</p>\n<h2>What's next for Augmented Beatz</h2>\n<p>There are  so many additional functions we are planning to add after the hackathon is over. We would like to apply grab/hold functionality to the moving dials to allow the user to make custom adjustments to audio levels, pitch, tone and more within the augmented reality environment.</p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nEver want to get the party started at a completely random time and place? Well now you can! Augmented Beatz brings the party to you! Just put on your headset on a jam!\n\n\n## What it does\n\n\nAugmented Beatz provides you with a DJ console and the power to rock out! You provide the moves, we provide the grooves!\n\n\n## How we built it\n\n\nAugmented Beatz was built with love, care, Unity 3d, and Microsoft Hololens.\n\n\n## Challenges we ran into\n\n\nHaving never even used a Microsoft Hololens before yesterday, the largest difficulties we faced mostly involved understanding, testing, and applying the Hololens Gaze and Gesture functions.\n\n\n## Accomplishments that we're proud of\n\n\nWe're super proud of the UI, applying Hololens hand gestures to start and stop multiple tracks, and we are proud of seeing our idea come to life. It's a surreal experience!\n\n\n## What we learned\n\n\nThis weekend has been an astonishingly powerful learning experience for us all. As mentioned before, we had no prior experience with the Hololens, so it was incredibly fascinating to dive into this new world of advanced AR. Having the opportunity to work with a team to build an app using some of the most cutting edge technology in the world is truly inspiring. Essentially, it feels as though we spent a weekend learning about the future.\n\n\n## What's next for Augmented Beatz\n\n\nThere are so many additional functions we are planning to add after the hackathon is over. We would like to apply grab/hold functionality to the moving dials to allow the user to make custom adjustments to audio levels, pitch, tone and more within the augmented reality environment.\n\n\n"
+}

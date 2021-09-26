@@ -1,0 +1,90 @@
+{
+    "source": "https://devpost.com/software/symbio",
+    "title": "Symbio",
+    "blurb": "Collective and educational game across platforms (VR/AR to browsers/screens anywhere). Option of biofeedback ",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/U7nnQhaa2u8?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [
+        {
+            "title": "Screenshot of VR experience ",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/545/313/datas/original.png"
+        },
+        {
+            "title": "Intro for browser player. Similar in VR",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/546/749/datas/original.png"
+        },
+        {
+            "title": "Game description for browser player. ",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/546/747/datas/original.png"
+        },
+        {
+            "title": "Game description for browser player. ",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/546/752/datas/original.png"
+        },
+        {
+            "title": "Game description for browser player. ",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/546/754/datas/original.png"
+        },
+        {
+            "title": "Visualization of a Bacteria constitute a large part of microorganisms.B&#39;s have a number of shapes, ranging from spheres to rods and spirals.",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/546/731/datas/original.png"
+        },
+        {
+            "title": "Visualization of lymphocytes as on browser screen. L&#39;s are a type of white blood cell respond to foreign invaders to help immune system.",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/546/675/datas/original.png"
+        },
+        {
+            "title": "Visualization of dead food particle in blood flow.",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/546/676/datas/original.png"
+        },
+        {
+            "title": "Visualization of a red blood cell.",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/546/695/datas/original.png"
+        },
+        {
+            "title": "Visualization of a Neutrophil: most abundant type of white blood cells in mammals. They form an essential part of the innate immune system.",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/546/727/datas/original.png"
+        }
+    ],
+    "team": [
+        {
+            "name": "rompo010",
+            "about": "Researched science behind game topic, designed interface  , characters, environment, and menus in 2d and created skybox and 3d models in VR. contributed to gameplay and concept ideation",
+            "photo": "https://avatars1.githubusercontent.com/u/32602808?height=180&v=4&width=180"
+        },
+        {
+            "name": "Hannes Bend",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/001/463/085/datas/profile.jpeg"
+        },
+        {
+            "name": "Florian Carls",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/543/281/datas/profile.jpg"
+        },
+        {
+            "name": "Lewis Gardner",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/748/578/datas/profile.png"
+        },
+        {
+            "name": "Roldan Melcon",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/543/307/datas/profile.jpg"
+        }
+    ],
+    "built_with": [
+        "c#",
+        "html5",
+        "javascript",
+        "node.js",
+        "oculus",
+        "phaser.js",
+        "socket.io",
+        "unity"
+    ],
+    "content_html": "<div>\n<p>A collaborative experience of one VR user and screen users anywhere. The VR is connected to screens, phones or any browser device. The educational game offers collaborative learning about various topics.</p>\n<p>Today's first \u2018game\u2019 combines biology, synchronized breathing and interfaces, and interplay. The VR user plays a white blood cell inside a blood vessel to fight off \u2018bad\u2019 bacteria. The screen users can team up as blood cells, breathe to energize the VR user\u2019s entity \u2013 or become bacterial agents to disrupt the smooth blood flow.</p>\n<p>Gamified and embodied educational experiences and breathing techniques are scientifically suggested to improve health and productivity. Gamification (Johnson et al., 2016) can have a positive impact in health and wellbeing. Collaborative learning (Laal and Ghodsi, 2011) results in greater productivity, more caring and committed relationships, greater psychological health, social competence, and self esteem. Simple breathing techniques have shown to fight injection of e.coli bacteria within minutes (Kox et al., 2014).</p>\n<p>Virtual reality can be a solitary experience and its classroom or educational value limited. Excessive screen-based usage has been linked to less attention span. Studies conclude poor academic performance can be predicted by higher levels of smartphone use (Beland and Murphy, 2014) and electronic media usage (Junco and Cotten, 2012). Regular engagement with digital media technologies can lead to shorter attention spans (e.g., Egan, 2016)</p>\n<p>Symbio offers a gamified, collaborative and educational experience beyond the current limitations of the applied mediums. The program dynamics are easily expandable to new mediums such as AR, explore a variety of educational topics and integrate collective biofeedback for future biotechnology.</p>\n<p>Technology: VR experience built in Unity or Unreal Socket.io to exchange packets with Node server. Node JS server hosted on AWS and distributed via bit.ly shortened link. Express.js and Phaser.js for 2d Interface Socket.io backend</p>\n<p>Team Lead: Roldan Melcon \nTeam: Roldan Melcon, Nathan Romportl, Lewis Gardner, hannes bend, Florian Carls </p>\n<p>Team: Symbio \nTeam lead\u2019s mobile number: + 1 720 217 5305</p>\n<p>Education/VR&amp;AR for Good </p>\n<p>Collective gamified and embodied educational experience of one VR user and screen users anywhere. The VR is connected to screens, phones or any browser device. The educational game offers collaborative learning about various topics. \nToday's first \u2018game\u2019 combines biology, synchronized breathing and interfaces, and interplay. The VR user plays a white blood cell inside a blood vessel to fight off \u2018bad\u2019 bacteria. The screen users can team up as blood cells, breathe to energize the VR user\u2019s entity \u2013 or become bacterial agents to disrupt the smooth blood flow. Optional biofeedback (team experience of past VR projects) is integrated as suggestion and build in structure of future iterations. \nSymbio offers a gamified, collaborative and educational experience beyond the current limitations of the applied mediums. The program dynamics are easily expandable to new mediums such as AR, explore a variety of educational topics and integrate collective biofeedback for future biotechnology.</p>\n<p>Location: Floor: 6 + Room:  + Table Number: 31</p>\n<p>Environment:\nPlatform: VR cross-platform browser/mobile\nDevelopment tools: c#, Unity, Javascript, AdobeSuite, node.js, phaser.js,  express.js, socket.io, HTML5, Oculus, CSS 3, AWS\nSDKs: Oculus SDK\nAPIs:  None\nAssets: Oculus Utilities for Unity\nLibraries: None\nAny components not created at the hackathon: None</p>\n<p><a href=\"https://github.com/Reality-Virtually-Hackathon/biofield/\" rel=\"nofollow\">https://github.com/Reality-Virtually-Hackathon/biofield/</a></p>\n</div>",
+    "content_md": "\nA collaborative experience of one VR user and screen users anywhere. The VR is connected to screens, phones or any browser device. The educational game offers collaborative learning about various topics.\n\n\nToday's first \u2018game\u2019 combines biology, synchronized breathing and interfaces, and interplay. The VR user plays a white blood cell inside a blood vessel to fight off \u2018bad\u2019 bacteria. The screen users can team up as blood cells, breathe to energize the VR user\u2019s entity \u2013 or become bacterial agents to disrupt the smooth blood flow.\n\n\nGamified and embodied educational experiences and breathing techniques are scientifically suggested to improve health and productivity. Gamification (Johnson et al., 2016) can have a positive impact in health and wellbeing. Collaborative learning (Laal and Ghodsi, 2011) results in greater productivity, more caring and committed relationships, greater psychological health, social competence, and self esteem. Simple breathing techniques have shown to fight injection of e.coli bacteria within minutes (Kox et al., 2014).\n\n\nVirtual reality can be a solitary experience and its classroom or educational value limited. Excessive screen-based usage has been linked to less attention span. Studies conclude poor academic performance can be predicted by higher levels of smartphone use (Beland and Murphy, 2014) and electronic media usage (Junco and Cotten, 2012). Regular engagement with digital media technologies can lead to shorter attention spans (e.g., Egan, 2016)\n\n\nSymbio offers a gamified, collaborative and educational experience beyond the current limitations of the applied mediums. The program dynamics are easily expandable to new mediums such as AR, explore a variety of educational topics and integrate collective biofeedback for future biotechnology.\n\n\nTechnology: VR experience built in Unity or Unreal Socket.io to exchange packets with Node server. Node JS server hosted on AWS and distributed via bit.ly shortened link. Express.js and Phaser.js for 2d Interface Socket.io backend\n\n\nTeam Lead: Roldan Melcon \nTeam: Roldan Melcon, Nathan Romportl, Lewis Gardner, hannes bend, Florian Carls \n\n\nTeam: Symbio \nTeam lead\u2019s mobile number: + 1 720 217 5305\n\n\nEducation/VR&AR for Good \n\n\nCollective gamified and embodied educational experience of one VR user and screen users anywhere. The VR is connected to screens, phones or any browser device. The educational game offers collaborative learning about various topics. \nToday's first \u2018game\u2019 combines biology, synchronized breathing and interfaces, and interplay. The VR user plays a white blood cell inside a blood vessel to fight off \u2018bad\u2019 bacteria. The screen users can team up as blood cells, breathe to energize the VR user\u2019s entity \u2013 or become bacterial agents to disrupt the smooth blood flow. Optional biofeedback (team experience of past VR projects) is integrated as suggestion and build in structure of future iterations. \nSymbio offers a gamified, collaborative and educational experience beyond the current limitations of the applied mediums. The program dynamics are easily expandable to new mediums such as AR, explore a variety of educational topics and integrate collective biofeedback for future biotechnology.\n\n\nLocation: Floor: 6 + Room: + Table Number: 31\n\n\nEnvironment:\nPlatform: VR cross-platform browser/mobile\nDevelopment tools: c#, Unity, Javascript, AdobeSuite, node.js, phaser.js, express.js, socket.io, HTML5, Oculus, CSS 3, AWS\nSDKs: Oculus SDK\nAPIs: None\nAssets: Oculus Utilities for Unity\nLibraries: None\nAny components not created at the hackathon: None\n\n\n<https://github.com/Reality-Virtually-Hackathon/biofield/>\n\n\n"
+}

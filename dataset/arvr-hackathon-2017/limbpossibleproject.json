@@ -1,0 +1,76 @@
+{
+    "source": "https://devpost.com/software/limbpossibleproject",
+    "title": "Limbpossible Project",
+    "blurb": "Action Bear wants to be human and has to overcome some puzzles to open the box w/ a heart by finding useful limbs.",
+    "awards": [
+        "1st Prize in Gaming/Entertainment"
+    ],
+    "videos": [
+        "https://www.youtube.com/embed/TNFyZJJC58s?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [
+        {
+            "title": "Limbpossible Project",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/546/933/datas/original.png"
+        },
+        {
+            "title": "Limbpossible Project",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/546/935/datas/original.jpg"
+        },
+        {
+            "title": "Limbpossible Project",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/546/936/datas/original.png"
+        },
+        {
+            "title": "Limbpossible Project",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/546/937/datas/original.png"
+        },
+        {
+            "title": "Limbpossible Project",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/546/938/datas/original.png"
+        },
+        {
+            "title": "Limbpossible Project",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/546/939/datas/original.png"
+        },
+        {
+            "title": "Limbpossible Project",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/546/940/datas/original.png"
+        },
+        {
+            "title": "Limbpossible Project",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/546/941/datas/original.png"
+        }
+    ],
+    "team": [
+        {
+            "name": "anselmhook",
+            "about": "i do the things to the things",
+            "photo": "https://graph.facebook.com/10155554830751539/picture?height=180&width=180"
+        },
+        {
+            "name": "Lucas Rizzotto",
+            "about": "i did things",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/457/250/datas/profile.jpg"
+        },
+        {
+            "name": "Dulce Baerga",
+            "about": "",
+            "photo": "https://media.licdn.com/mpr/mprx/0_Og-UycNHXN7SfWOgNgEUBNedhCOAuJuDB2HUViddh3gKudYANgHVcigHGkSAdd8Al2EVl8teeiprEj1T-acbNi0kDiplEjVAqacZxGoW6Gdj8I3SZxT90nXZSn6TijShgSPB4yGdKQi?height=180&width=180"
+        },
+        {
+            "name": "Sam Barnes",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/9edf852846386bace64197a7c3823431?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        }
+    ],
+    "built_with": [
+        "blender",
+        "oculus",
+        "photoshop",
+        "unity",
+        "vive"
+    ],
+    "content_html": "<div>\n<h2>The Limbpossible Project</h2>\n<p>This is the story of Action Bear created by Mego in 1949, a forward-thinking but now defunct toy company. Action Bear was a new toy intended to make children feel safe in their homes in light of cold war hysteria.</p>\n<p>As Action Bear you puzzle your way out of a toy factory to the real world, adding and removing body parts as you go. Pick limbs up and try out their powers.  Hold your eyeball in your hand to peek around a corner.  Discover if you have a heart. Explore identity, cybernetics, body dysmorphia and what it means to be embodied.</p>\n<p><strong>Do the limbpossible</strong>\nLimb swapping gameplaymechanics\nThrowing eyeball to stick to a wall to view passwords\nAttaching tools to your arm \nLaunch hand off to reach levers </p>\n<p><strong>Back story</strong>\nIn post-WW2 United States, a foward-thinking toy manufacturer named Mego tries to build a new toy named \"Action Bear\" to make children feel safe at their homes.  You play as a prototype Action Bear, being tested through numerous scenarios where you must switch limbs and use them in creative ways to progress. Players can remove eyeballs from their skull to see around corners, amputate their hands and throw them in the distance to reach far away levers, and avoid certain death with a number of h\u0336i\u0336g\u0336h\u0336l\u0336y\u0336 \u0336d\u0336a\u0336n\u0336g\u0336e\u0336r\u0336o\u0336u\u0336s\u0336  family friendly tools.  At the end of the level players must perform a heart transplant on themselves. Because toys aren't much if they don't have a little bit of heart in them.</p>\n<p>This was inspired by a REAL TOY MANUFACTURER COMPANY named Mego who went bankrupt in the 70's due to some very creepy toys. Each level contains bits of the company's history so players can soak in the creepiness.  We also have what we believe is this hackathon's top thematic tracklist, with hit old tracks such as \"I've Got You Under My Skin\", \"Jeepers Creepers\", \"I don't want to set the world on fire\", \"If I give my heart to you\" and more to accompany you in your limb-bending adventure.</p>\n<p><strong>Design Goals</strong>\nWe feel there isn't enough experimentation in VR and new media. Developers have been hesitant to put everything on the line to explore risky game mechanics. We are admonitioned against exploring or playing with changing the players view or changing their appearance suddenly. There are new interaction methods waiting to be discovered that have yet to be attempted. The rules of the real world do not have to apply to VR. We are more flexible and less bound to our conventional identities than we may think.</p>\n<p><strong>What we've done</strong>\nA novel game mechanic\nCreated 3 levels\nCreated a heart retrieval system \nAwesome story and sound\nA hook system for changing body parts\nA cute robot model \nEye separation in Unity - breaking the normal VR paradigm.</p>\n<p><strong>Challenges and Wins</strong>\nTurns out that taking control of the camera from the Vive is tricky.\nBuilding a complete experience to explore the thesis was challenging.\nThe game play fell naturally out of the deep narrative.\nWe found the game fun to play ourselves and surprisingly addictive.\nWe got to know each other!</p>\n<p><strong>What's next</strong>\nMulti-participant support and team challenges.\nDeeper interrogations of identity; changing every body part.\nWe learned VRTK which is a great VR helper toolkit.</p>\n<p><strong>Freely redistributable assets we used:</strong>\nPost Processing Stack: <a href=\"https://www.assetstore.unity3d.com/en/#!/content/83912\" rel=\"nofollow\">https://www.assetstore.unity3d.com/en/#!/content/83912</a>\nCardboard Boxes Pack: <a href=\"https://www.assetstore.unity3d.com/en/#!/content/30695\" rel=\"nofollow\">https://www.assetstore.unity3d.com/en/#!/content/30695</a>\nCannon on a Platform: <a href=\"https://www.assetstore.unity3d.com/en/#!/content/57534\" rel=\"nofollow\">https://www.assetstore.unity3d.com/en/#!/content/57534</a>\nHammer PBR: <a href=\"https://www.assetstore.unity3d.com/en/#!/content/66110\" rel=\"nofollow\">https://www.assetstore.unity3d.com/en/#!/content/66110</a>\nOld Radio: <a href=\"https://www.assetstore.unity3d.com/en/#!/content/72923\" rel=\"nofollow\">https://www.assetstore.unity3d.com/en/#!/content/72923</a>\nSteamVR Plugin: <a href=\"https://www.assetstore.unity3d.com/en/#!/content/32647\" rel=\"nofollow\">https://www.assetstore.unity3d.com/en/#!/content/32647</a>\nVRTK: <a href=\"https://www.assetstore.unity3d.com/en/#!/content/64131\" rel=\"nofollow\">https://www.assetstore.unity3d.com/en/#!/content/64131</a>\nWooden Chair: <a href=\"https://www.assetstore.unity3d.com/en/#!/content/848\" rel=\"nofollow\">https://www.assetstore.unity3d.com/en/#!/content/848</a>\nBrain Meal: <a href=\"https://www.assetstore.unity3d.com/en/#!/content/89596\" rel=\"nofollow\">https://www.assetstore.unity3d.com/en/#!/content/89596</a>\nTanto Knife: <a href=\"https://www.assetstore.unity3d.com/en/#!/content/83268\" rel=\"nofollow\">https://www.assetstore.unity3d.com/en/#!/content/83268</a></p>\n<p>The rest of the 3D &amp; 2D art was created by Dulce Baerga &amp; Lucas Rizzotto</p>\n<p><strong>Tools that we used:</strong>\nPrograms used:\nUnity3D\nAdobe Photoshop\nBlender\nHTC Vive\nOculus Rift</p>\n</div>",
+    "content_md": "\n## The Limbpossible Project\n\n\nThis is the story of Action Bear created by Mego in 1949, a forward-thinking but now defunct toy company. Action Bear was a new toy intended to make children feel safe in their homes in light of cold war hysteria.\n\n\nAs Action Bear you puzzle your way out of a toy factory to the real world, adding and removing body parts as you go. Pick limbs up and try out their powers. Hold your eyeball in your hand to peek around a corner. Discover if you have a heart. Explore identity, cybernetics, body dysmorphia and what it means to be embodied.\n\n\n**Do the limbpossible**\nLimb swapping gameplaymechanics\nThrowing eyeball to stick to a wall to view passwords\nAttaching tools to your arm \nLaunch hand off to reach levers \n\n\n**Back story**\nIn post-WW2 United States, a foward-thinking toy manufacturer named Mego tries to build a new toy named \"Action Bear\" to make children feel safe at their homes. You play as a prototype Action Bear, being tested through numerous scenarios where you must switch limbs and use them in creative ways to progress. Players can remove eyeballs from their skull to see around corners, amputate their hands and throw them in the distance to reach far away levers, and avoid certain death with a number of h\u0336i\u0336g\u0336h\u0336l\u0336y\u0336 \u0336d\u0336a\u0336n\u0336g\u0336e\u0336r\u0336o\u0336u\u0336s\u0336 family friendly tools. At the end of the level players must perform a heart transplant on themselves. Because toys aren't much if they don't have a little bit of heart in them.\n\n\nThis was inspired by a REAL TOY MANUFACTURER COMPANY named Mego who went bankrupt in the 70's due to some very creepy toys. Each level contains bits of the company's history so players can soak in the creepiness. We also have what we believe is this hackathon's top thematic tracklist, with hit old tracks such as \"I've Got You Under My Skin\", \"Jeepers Creepers\", \"I don't want to set the world on fire\", \"If I give my heart to you\" and more to accompany you in your limb-bending adventure.\n\n\n**Design Goals**\nWe feel there isn't enough experimentation in VR and new media. Developers have been hesitant to put everything on the line to explore risky game mechanics. We are admonitioned against exploring or playing with changing the players view or changing their appearance suddenly. There are new interaction methods waiting to be discovered that have yet to be attempted. The rules of the real world do not have to apply to VR. We are more flexible and less bound to our conventional identities than we may think.\n\n\n**What we've done**\nA novel game mechanic\nCreated 3 levels\nCreated a heart retrieval system \nAwesome story and sound\nA hook system for changing body parts\nA cute robot model \nEye separation in Unity - breaking the normal VR paradigm.\n\n\n**Challenges and Wins**\nTurns out that taking control of the camera from the Vive is tricky.\nBuilding a complete experience to explore the thesis was challenging.\nThe game play fell naturally out of the deep narrative.\nWe found the game fun to play ourselves and surprisingly addictive.\nWe got to know each other!\n\n\n**What's next**\nMulti-participant support and team challenges.\nDeeper interrogations of identity; changing every body part.\nWe learned VRTK which is a great VR helper toolkit.\n\n\n**Freely redistributable assets we used:**\nPost Processing Stack: <https://www.assetstore.unity3d.com/en/#!/content/83912>\nCardboard Boxes Pack: <https://www.assetstore.unity3d.com/en/#!/content/30695>\nCannon on a Platform: <https://www.assetstore.unity3d.com/en/#!/content/57534>\nHammer PBR: <https://www.assetstore.unity3d.com/en/#!/content/66110>\nOld Radio: <https://www.assetstore.unity3d.com/en/#!/content/72923>\nSteamVR Plugin: <https://www.assetstore.unity3d.com/en/#!/content/32647>\nVRTK: <https://www.assetstore.unity3d.com/en/#!/content/64131>\nWooden Chair: <https://www.assetstore.unity3d.com/en/#!/content/848>\nBrain Meal: <https://www.assetstore.unity3d.com/en/#!/content/89596>\nTanto Knife: <https://www.assetstore.unity3d.com/en/#!/content/83268>\n\n\nThe rest of the 3D & 2D art was created by Dulce Baerga & Lucas Rizzotto\n\n\n**Tools that we used:**\nPrograms used:\nUnity3D\nAdobe Photoshop\nBlender\nHTC Vive\nOculus Rift\n\n\n"
+}

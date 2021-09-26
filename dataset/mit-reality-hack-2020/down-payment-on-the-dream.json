@@ -1,0 +1,42 @@
+{
+    "source": "https://devpost.com/software/down-payment-on-the-dream",
+    "title": "Down Payment on the Dream: The True Story of Frank Legree",
+    "blurb": "Down Payment on the Dream is the story of 7-year-old Frankie Legree whose African American family integrated an all-white Miami neighborhood in 1957.",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/FY55NZpP_Vs?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "Xavier Apostol",
+            "about": "I was one of two Unity Developers and the Sound Designer for this project.",
+            "photo": "https://avatars2.githubusercontent.com/u/21956869?height=180&v=4&width=180"
+        },
+        {
+            "name": "Cristina Rose",
+            "about": "I was the writer/storyteller on this project.",
+            "photo": "https://www.gravatar.com/avatar/4dfbb1b12752dafe6088ed1f1121dbfa?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Lafiya Watson Ramirez",
+            "about": "I was one of the Unity developers and visual artists. It was my first time using Nreal, and it was a great learning experience.",
+            "photo": "https://www.gravatar.com/avatar/a0f84fb0f2ee43b6b42d8fc8f46f4db9?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Ann Bennett",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/917/174/datas/profile.jpg"
+        }
+    ],
+    "built_with": [
+        "c#",
+        "github",
+        "looks-back-at-what-it-was-like-to-be-part-of-the-first-african-american-family-in-a-(formerly)-all-white-neighborhood.-by-merely-existing-in-their-new-house",
+        "nreal",
+        "unity",
+        "who-was-just-a-kid-in-1957-miami"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>In 2017, we (Katja Esson - Director/Producer and Ann Bennett - Producer) began filming our feature-length documentary, RAZING LIBERTY SQUARE, that tells the story of Florida climate gentrification by following the redevelopment of a historic African American public housing project in Miami and its impact on long-time residents.  As we collected personal narratives of  Liberty Square residents whose neighborhood is about to be razed to the ground, we discovered a rich deposit of stories of informative and inspirational stories.  Our mixed reality experience aims to bring the forgotten voices and event of this historic neighborhood to light, providing historical and cultural context for a public which often remains unaware of the historic importance of Liberty City in the crafting of Miami as a modern, cultural crossroads. </p>\n<h2>What it does</h2>\n<p>Documents the the life of Frank Legree during the 1950s.</p>\n<h2>How we built it</h2>\n<p>Research / design, iterative prototyping, and continuous check-ins. Unity Collaborate really helped us bring the experience together.</p>\n<h2>Challenges we ran into</h2>\n<p>Learning how to finesse the hardware, bringing together visual, sound FX, voice-over narration, triggers, animations, etc to honor a story that deserved to be told.</p>\n<h2>Accomplishments that we're proud of</h2>\n<p>Finishing the experience and establishing a solid team relationship.</p>\n<h2>What we learned</h2>\n<p>A lot about AR / nreal, teamwork, collaboration, and the life of Frank Legree (and how people respond to it).</p>\n<h2>What's next for Down Payment on the Dream</h2>\n<p>To expand it using more image (i.e. - videos, music, animations, etc.). We'd like to turn it into a fully interactive, educational, and historical storytelling experience.</p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nIn 2017, we (Katja Esson - Director/Producer and Ann Bennett - Producer) began filming our feature-length documentary, RAZING LIBERTY SQUARE, that tells the story of Florida climate gentrification by following the redevelopment of a historic African American public housing project in Miami and its impact on long-time residents. As we collected personal narratives of Liberty Square residents whose neighborhood is about to be razed to the ground, we discovered a rich deposit of stories of informative and inspirational stories. Our mixed reality experience aims to bring the forgotten voices and event of this historic neighborhood to light, providing historical and cultural context for a public which often remains unaware of the historic importance of Liberty City in the crafting of Miami as a modern, cultural crossroads. \n\n\n## What it does\n\n\nDocuments the the life of Frank Legree during the 1950s.\n\n\n## How we built it\n\n\nResearch / design, iterative prototyping, and continuous check-ins. Unity Collaborate really helped us bring the experience together.\n\n\n## Challenges we ran into\n\n\nLearning how to finesse the hardware, bringing together visual, sound FX, voice-over narration, triggers, animations, etc to honor a story that deserved to be told.\n\n\n## Accomplishments that we're proud of\n\n\nFinishing the experience and establishing a solid team relationship.\n\n\n## What we learned\n\n\nA lot about AR / nreal, teamwork, collaboration, and the life of Frank Legree (and how people respond to it).\n\n\n## What's next for Down Payment on the Dream\n\n\nTo expand it using more image (i.e. - videos, music, animations, etc.). We'd like to turn it into a fully interactive, educational, and historical storytelling experience.\n\n\n"
+}

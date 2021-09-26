@@ -1,0 +1,47 @@
+{
+    "source": "https://devpost.com/software/ide-trae",
+    "title": "Ide Tr\u00e6",
+    "blurb": "The future of XR Hackathons: using social VR to help hackers more effectively communicate ideas, form teams, and develop the future.",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/log_vdhgC7U?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "Thomas William Mohr",
+            "about": "",
+            "photo": "https://avatars1.githubusercontent.com/u/11515396?height=180&v=4&width=180"
+        },
+        {
+            "name": "Michael Zhang",
+            "about": "",
+            "photo": "https://graph.facebook.com/2233076753626265/picture?height=180&width=180"
+        },
+        {
+            "name": "Valdemar Danry",
+            "about": "",
+            "photo": "https://media-exp1.licdn.com/dms/image/C5603AQEytv4rb6kwPA/profile-displayphoto-shrink_800_800/0?e=1585180800&height=180&t=R5X7zvjdveVgzlTiSctta9EfA7vRhULcTfw-Ef--YbE&v=beta&width=180"
+        },
+        {
+            "name": "Ian Ralston",
+            "about": "",
+            "photo": "https://media-exp1.licdn.com/dms/image/C4E03AQF1RIlSYUULnA/profile-displayphoto-shrink_800_800/0?e=1585180800&height=180&t=IJZ-nVVN7qcfRppQ4CpWrXJ-5whTlT00htmpajNYHl4&v=beta&width=180"
+        },
+        {
+            "name": "Anna Brewer",
+            "about": "",
+            "photo": "https://media.licdn.com/mpr/mprx/0_0fkZG6-nbgnfbpukzfr4W66B6ONPkYOWrfpZk-gB_VL-kaxLrfYnoBxBT7NPXDOWgDyJWBKcESztCV2q1yTko-lRfSz1CVRLKyTU31k9Xuhxe2hMpDczTbEF74fiIVuqJ0LNQ3X96iH?height=180&width=180"
+        }
+    ],
+    "built_with": [
+        "abletonlive",
+        "cinema4d",
+        "maya",
+        "normcore",
+        "oculus",
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>Since we\u2019re at an XR hackathon, we wanted to get meta with our project, so we made a tool for creating ideas and forming teams in a virtual hackathon. Seeking to create a centralized environment for creating, storing, and quickly switching between 3d concepts, we took inspiration from the Danish \u201cSuttetr\u00e6et,\u201d (Google it if you\u2019re curious!) to create a tree of ideas (\u201cIde Tr\u00e6\u201d in Danish), that people can create and explore together.</p>\n<h2>What it does</h2>\n<p>Ide Tr\u00e6 is a networked multiplayer VR ideation and team formation space. It uses VR to solve three main problems:</p>\n<ul>\n<li>Accessibility: not everyone can afford to fly out to an XR hackathon</li>\n<li>Communication: it\u2019s hard to explain and collaborate on 3D, immersive concepts using 2D drawings</li>\n<li>Efficiency: there should not be a tradeoff between staying with your idea to explain it, and learning about the ideas of others\nIt consists of an atrium with a tree in the center where ideas, represented by VR headsets, hang from vines. Users can create their own ideas, and put on a headset to enter someone else\u2019s idea. Inside each headset is an \u201cideation space\u201d where users can draw together in 3d. The idea\u2019s creator can also record a voice pitch, so they don\u2019t have to physically be there to pitch the concept. Once a team is formed, they place their hands on a podium and press the button to confirm their team and idea.</li>\n</ul>\n<h2>How I built it</h2>\n<p>We built the app with Unity, Normcore, and the Oculus SDK. The visual assets were built with Maya and Cinema 4D. The audio was created with Ableton Live.</p>\n<h2>Challenges I ran into</h2>\n<ul>\n<li>Our team had to learn an entirely new multiplayer networking solution: Normcore. Because Normcore is a newer software solution, it was challenging to find resources to solve the bugs we encountered.</li>\n<li>It was a challenge not being able to use paid assets. We had two team members creating assets from scratch.</li>\n</ul>\n<h2>Accomplishments that I'm proud of</h2>\n<ul>\n<li>Our team built all the 3D models, from the giant atrium down to the marker and microphone in the ideation room, using Maya and Cinema 4D. </li>\n<li>We also created the music and audio for the experience from scratch</li>\n<li>We were able to get multiplayer working and solve lots of tricky bugs</li>\n</ul>\n<h2>What I learned</h2>\n<ul>\n<li>How to interact with objects in a social VR experience requires changing ownership controls of items, which requires additional steps and testing to make sure objects are synchronized across users.</li>\n<li>How to implement various advanced Unity features, such as particle systems and mesh generation</li>\n</ul>\n<h2>What's next for Ide Tr\u00e6</h2>\n<p>We plan on testing our product at the upcoming XR hackathon at UC Berkeley, after implementing some additional features. Specifically, we want to allow users to choose what roles and skills they are looking to add to their team, and to filter ideas and people based on those tags (something obviously not possible in the physical world). </p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nSince we\u2019re at an XR hackathon, we wanted to get meta with our project, so we made a tool for creating ideas and forming teams in a virtual hackathon. Seeking to create a centralized environment for creating, storing, and quickly switching between 3d concepts, we took inspiration from the Danish \u201cSuttetr\u00e6et,\u201d (Google it if you\u2019re curious!) to create a tree of ideas (\u201cIde Tr\u00e6\u201d in Danish), that people can create and explore together.\n\n\n## What it does\n\n\nIde Tr\u00e6 is a networked multiplayer VR ideation and team formation space. It uses VR to solve three main problems:\n\n\n* Accessibility: not everyone can afford to fly out to an XR hackathon\n* Communication: it\u2019s hard to explain and collaborate on 3D, immersive concepts using 2D drawings\n* Efficiency: there should not be a tradeoff between staying with your idea to explain it, and learning about the ideas of others\nIt consists of an atrium with a tree in the center where ideas, represented by VR headsets, hang from vines. Users can create their own ideas, and put on a headset to enter someone else\u2019s idea. Inside each headset is an \u201cideation space\u201d where users can draw together in 3d. The idea\u2019s creator can also record a voice pitch, so they don\u2019t have to physically be there to pitch the concept. Once a team is formed, they place their hands on a podium and press the button to confirm their team and idea.\n\n\n## How I built it\n\n\nWe built the app with Unity, Normcore, and the Oculus SDK. The visual assets were built with Maya and Cinema 4D. The audio was created with Ableton Live.\n\n\n## Challenges I ran into\n\n\n* Our team had to learn an entirely new multiplayer networking solution: Normcore. Because Normcore is a newer software solution, it was challenging to find resources to solve the bugs we encountered.\n* It was a challenge not being able to use paid assets. We had two team members creating assets from scratch.\n\n\n## Accomplishments that I'm proud of\n\n\n* Our team built all the 3D models, from the giant atrium down to the marker and microphone in the ideation room, using Maya and Cinema 4D.\n* We also created the music and audio for the experience from scratch\n* We were able to get multiplayer working and solve lots of tricky bugs\n\n\n## What I learned\n\n\n* How to interact with objects in a social VR experience requires changing ownership controls of items, which requires additional steps and testing to make sure objects are synchronized across users.\n* How to implement various advanced Unity features, such as particle systems and mesh generation\n\n\n## What's next for Ide Tr\u00e6\n\n\nWe plan on testing our product at the upcoming XR hackathon at UC Berkeley, after implementing some additional features. Specifically, we want to allow users to choose what roles and skills they are looking to add to their team, and to filter ideas and people based on those tags (something obviously not possible in the physical world). \n\n\n"
+}

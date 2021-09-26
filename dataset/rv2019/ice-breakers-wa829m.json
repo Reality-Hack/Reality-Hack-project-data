@@ -1,0 +1,36 @@
+{
+    "source": "https://devpost.com/software/ice-breakers-wa829m",
+    "title": "Ice Breakers",
+    "blurb": "A multiplayer AR game that breaks down communication barriers and encourages positive social interactions. ",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/OpTZdWx0stM?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [
+        {
+            "title": "logo",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/742/491/datas/original.jpg"
+        }
+    ],
+    "team": [
+        {
+            "name": "krispatl Pilcher",
+            "about": "I'm the main developer!\n",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/001/050/046/datas/profile.png"
+        },
+        {
+            "name": "Siciliana Trevino",
+            "about": "I was inspired to create Ice Breakers standing in line at the Hackathon. I designed and created the game identity and assets.",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/742/486/datas/profile.jpg"
+        }
+    ],
+    "built_with": [
+        "adobe-illustrator",
+        "arcore",
+        "medium",
+        "photoshop",
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>Our team was inspired by the potential of shared digital experiences and their power to bring people together. We think breaking down communication barriers between people is one of our most pressing challenges in society today.</p>\n<h2>What it does</h2>\n<p>Two players enter a playroom where they are separated by a wall of ice cubes. Their objective is to break the ice cubes with a charmed projectile. When the players breakdown the wall everyone wins, incentivizing players to dismantle the divide between isolation and shared moments of delight. </p>\n<h2>How we built it</h2>\n<p>Developer Kris Pilcher built the game using Google's cloud integration in Unity. Team Lead and designer, Siciliana Trevino made game assets in Medium, photoshop and Illustrator. We also used Blender. </p>\n<h2>Challenges we ran into</h2>\n<p>In addition to only being a two-person team, we're inexperienced in networking and have intermediate programming skills that while challenging, presented a unique opportunity to learn about multi-player cloud AR. We didn't reach our stretch goal of having the ice cubes randomly release charms or a prompt to act out a short ice breaker activity like the hokey pokey or sharing with your partner a positive affirmation. </p>\n<h2>Accomplishments that we're proud of</h2>\n<p>Being on a team, making important decisions quickly, networking the devices, getting our concept to work. Finishing!</p>\n<h2>What we learned</h2>\n<p>How to network devices using Google Cloud and Unity, how to build a mobile AR multiplayer XR experience.</p>\n<h2>What's next for Ice Breakers: Bringing the world closer together by taking down one wall at a time.</h2>\n<p>==================</p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nOur team was inspired by the potential of shared digital experiences and their power to bring people together. We think breaking down communication barriers between people is one of our most pressing challenges in society today.\n\n\n## What it does\n\n\nTwo players enter a playroom where they are separated by a wall of ice cubes. Their objective is to break the ice cubes with a charmed projectile. When the players breakdown the wall everyone wins, incentivizing players to dismantle the divide between isolation and shared moments of delight. \n\n\n## How we built it\n\n\nDeveloper Kris Pilcher built the game using Google's cloud integration in Unity. Team Lead and designer, Siciliana Trevino made game assets in Medium, photoshop and Illustrator. We also used Blender. \n\n\n## Challenges we ran into\n\n\nIn addition to only being a two-person team, we're inexperienced in networking and have intermediate programming skills that while challenging, presented a unique opportunity to learn about multi-player cloud AR. We didn't reach our stretch goal of having the ice cubes randomly release charms or a prompt to act out a short ice breaker activity like the hokey pokey or sharing with your partner a positive affirmation. \n\n\n## Accomplishments that we're proud of\n\n\nBeing on a team, making important decisions quickly, networking the devices, getting our concept to work. Finishing!\n\n\n## What we learned\n\n\nHow to network devices using Google Cloud and Unity, how to build a mobile AR multiplayer XR experience.\n\n\n## What's next for Ice Breakers: Bringing the world closer together by taking down one wall at a time.\n\n\n==================\n\n\n"
+}

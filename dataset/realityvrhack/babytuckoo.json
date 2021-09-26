@@ -1,0 +1,31 @@
+{
+    "source": "https://devpost.com/software/babytuckoo",
+    "title": "BabyTuckoo",
+    "blurb": "VR game: Creating a nexus of nodes with your eyes",
+    "awards": [],
+    "videos": [],
+    "images": [],
+    "team": [
+        {
+            "name": "Devi Acharya",
+            "about": "3D modeling in blender and particle effects.",
+            "photo": "https://media.licdn.com/mpr/mprx/0_xjj5WPLzkHC3Cf7LxJ29WAvbXWNuCu7LjpdVWA6FRu8ggHZ51RDWFltdoFqt3wmdYO0UQnZfBBIs?height=180&width=180"
+        },
+        {
+            "name": "Joseph Gillen",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/420/963/datas/profile.jpg"
+        },
+        {
+            "name": "Isaiah Mann",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/391/132/datas/profile.jpg"
+        }
+    ],
+    "built_with": [
+        "c#",
+        "glsl"
+    ],
+    "content_html": "<div>\n<p>Link: <a href=\"https://github.com/imann24/BabyTuckoo\" rel=\"nofollow\">https://github.com/imann24/BabyTuckoo</a></p>\n</div>",
+    "content_md": "\nLink: <https://github.com/imann24/BabyTuckoo>\n\n\n"
+}

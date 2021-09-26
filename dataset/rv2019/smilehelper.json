@@ -1,0 +1,44 @@
+{
+    "source": "https://devpost.com/software/smilehelper",
+    "title": "Smilehelper",
+    "blurb": "Creates enhanced social experiences for Autistic people by translating facial emotions into animated imagery & sounds",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/ZvKdD6O2Qw8?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "itspavana",
+            "about": "",
+            "photo": "https://avatars3.githubusercontent.com/u/46673408?height=180&v=4&width=180"
+        },
+        {
+            "name": "jsmentch",
+            "about": "",
+            "photo": "https://avatars0.githubusercontent.com/u/20958589?height=180&v=4&width=180"
+        },
+        {
+            "name": "Erin Woo",
+            "about": "",
+            "photo": "https://graph.facebook.com/1415752685144105/picture?height=180&width=180"
+        },
+        {
+            "name": "rightfromleft",
+            "about": "",
+            "photo": "https://avatars1.githubusercontent.com/u/10914061?height=180&v=4&width=180"
+        }
+    ],
+    "built_with": [
+        "adobe-illustrator",
+        "azure",
+        "azure-face-api",
+        "fl-studio",
+        "maya",
+        "microsoft-hololens",
+        "mr-emulator",
+        "unity"
+    ],
+    "content_html": "<div>\n<p>Location: MIT Media Lab, 6th Floor, Atrium, Table right across Wayfair booth</p>\n<h2>Inspiration</h2>\n<p>It is challenging for those with autism to connect with those around them and understand societal emotions and expressions. Hence they do not react accordingly. This results in diminished social experience and sometimes social alienation. Our app solves this problem and increases sense of belonging for those with autism. We are mainly targeting Austistic children. </p>\n<h2>What it does</h2>\n<p>Smilehelper creates enhanced social experiences for those with autism by translating the facial emotions into optimal sensory stimuli. We use familiar imagery and familiar sounds that are associated with the corresponding emotion. The app user can grasp, feel and react to the emotions faster and better </p>\n<h2>How I built it</h2>\n<p>We have a diverse team of developers, 3D modeler, Austism researcher and product manager.\nWe have a diverse team of developers, 3D modeler, Austism researcher and product manager. We used Unity, Azure Face API, hololens and Maya to build the application</p>\n<h1>Challenges I ran into</h1>\n<p>Initial set up of unity with hololens was extremely time consuming</p>\n<h2>Accomplishments that I'm proud of</h2>\n<p>Getting Face API to work, 3D modeling of the squirrel</p>\n<h2>What I learned</h2>\n<p>We learned how to use github and unity. We learnt Azure Face API and hololens set up and operation. We are all first timers for hackathon. We learned how to work together with complete strangers under pressure.</p>\n<h2>What's next for Smilehelper</h2>\n<p>We are aiming for customized translations thru machine learning for amplified emotion translations and imagery representing child's familiar and favorite objects (Toys, legos). Our app can also be used for enhancing collaboration with Autistic people</p>\n</div>",
+    "content_md": "\nLocation: MIT Media Lab, 6th Floor, Atrium, Table right across Wayfair booth\n\n\n## Inspiration\n\n\nIt is challenging for those with autism to connect with those around them and understand societal emotions and expressions. Hence they do not react accordingly. This results in diminished social experience and sometimes social alienation. Our app solves this problem and increases sense of belonging for those with autism. We are mainly targeting Austistic children. \n\n\n## What it does\n\n\nSmilehelper creates enhanced social experiences for those with autism by translating the facial emotions into optimal sensory stimuli. We use familiar imagery and familiar sounds that are associated with the corresponding emotion. The app user can grasp, feel and react to the emotions faster and better \n\n\n## How I built it\n\n\nWe have a diverse team of developers, 3D modeler, Austism researcher and product manager.\nWe have a diverse team of developers, 3D modeler, Austism researcher and product manager. We used Unity, Azure Face API, hololens and Maya to build the application\n\n\n# Challenges I ran into\n\n\nInitial set up of unity with hololens was extremely time consuming\n\n\n## Accomplishments that I'm proud of\n\n\nGetting Face API to work, 3D modeling of the squirrel\n\n\n## What I learned\n\n\nWe learned how to use github and unity. We learnt Azure Face API and hololens set up and operation. We are all first timers for hackathon. We learned how to work together with complete strangers under pressure.\n\n\n## What's next for Smilehelper\n\n\nWe are aiming for customized translations thru machine learning for amplified emotion translations and imagery representing child's familiar and favorite objects (Toys, legos). Our app can also be used for enhancing collaboration with Autistic people\n\n\n"
+}

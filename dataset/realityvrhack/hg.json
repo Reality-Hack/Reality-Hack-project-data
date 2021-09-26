@@ -1,0 +1,29 @@
+{
+    "source": "https://devpost.com/software/hg",
+    "title": "HG",
+    "blurb": "Two player social dance with HMDs",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/A0TH0oQQQy4?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "Geyao Zhang",
+            "about": "Hello",
+            "photo": "https://www.gravatar.com/avatar/c73bd33b9cec76faf43312863418dda3?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&height=180&s=180&width=180"
+        },
+        {
+            "name": "Henry Lam",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/e342b4727f9b7fcdc2a8cde649008419?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        }
+    ],
+    "built_with": [
+        "android",
+        "google-vr",
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>Two player interaction that involves close contact</p>\n<h2>What it does</h2>\n<p>It asks two individuals to manipulate their views and contort their bodies to something that resembles a dance</p>\n<h2>How we built it</h2>\n<p>We used Google VR Unity SDK and Unity Networking to create a different multiplayer VR experience</p>\n<h2>Challenges we ran into</h2>\n<p>To let chance create humorous positions or to choreograph the movements</p>\n<h2>Accomplishments that we're proud of</h2>\n<p>First time developing for Android and Google VR</p>\n<h2>What we learned</h2>\n<p>Unity screen attributes and Google VR classes and handlers</p>\n<h2>What's next for HG</h2>\n<p>Sleep</p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nTwo player interaction that involves close contact\n\n\n## What it does\n\n\nIt asks two individuals to manipulate their views and contort their bodies to something that resembles a dance\n\n\n## How we built it\n\n\nWe used Google VR Unity SDK and Unity Networking to create a different multiplayer VR experience\n\n\n## Challenges we ran into\n\n\nTo let chance create humorous positions or to choreograph the movements\n\n\n## Accomplishments that we're proud of\n\n\nFirst time developing for Android and Google VR\n\n\n## What we learned\n\n\nUnity screen attributes and Google VR classes and handlers\n\n\n## What's next for HG\n\n\nSleep\n\n\n"
+}

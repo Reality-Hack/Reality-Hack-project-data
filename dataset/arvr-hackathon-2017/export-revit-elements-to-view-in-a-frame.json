@@ -1,0 +1,39 @@
+{
+    "source": "https://devpost.com/software/export-revit-elements-to-view-in-a-frame",
+    "title": "Export Revit elements to view in A-Frame",
+    "blurb": "Easily get Revit elements into A-Frame, for a Web VR experience",
+    "awards": [],
+    "videos": [],
+    "images": [
+        {
+            "title": "Revit model",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/546/534/datas/original.png"
+        },
+        {
+            "title": "Run the Dynamo",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/546/537/datas/original.png"
+        },
+        {
+            "title": "HTML and OBJs are written by Dynamo",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/546/540/datas/original.png"
+        },
+        {
+            "title": "Upload to a web server",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/546/535/datas/original.png"
+        },
+        {
+            "title": "View in browser",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/546/536/datas/original.png"
+        }
+    ],
+    "team": [
+        {
+            "name": "Eric Boehlke",
+            "about": "Team of one",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/151/582/datas/profile.jpg"
+        }
+    ],
+    "built_with": [],
+    "content_html": "<div>\n<p>How to go from Revit to Web VR?</p>\n</div>",
+    "content_md": "\nHow to go from Revit to Web VR?\n\n\n"
+}

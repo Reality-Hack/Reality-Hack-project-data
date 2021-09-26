@@ -1,0 +1,61 @@
+{
+    "source": "https://devpost.com/software/clear-biopsy-guidance",
+    "title": "CLEAR - AR Biopsy Guidance System",
+    "blurb": "Augmented Reality Surgical Navigation Tool for Microsoft HoloLens 2",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/_cgnHJqVcSg?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [
+        {
+            "title": "Augmented Reality Biopsy Guidance",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/929/921/datas/original.jpg"
+        },
+        {
+            "title": "Augmented Reality Biopsy Guidance",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/929/923/datas/original.jpg"
+        },
+        {
+            "title": "CLEAR - Augmented Reality Biopsy Guidance - The Team",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/499/datas/original.jpg"
+        }
+    ],
+    "team": [
+        {
+            "name": "Clare Jessey",
+            "about": "I worked on the visual design + brand identity of our solution (UI/UX) and defined our solution touch points. I crafted the story that we were aiming to tell in our demo and overall played a crucial role in ideation and North Star visioning. I made sure throughout the event to team up to win with my fellow hackers. ",
+            "photo": "https://www.gravatar.com/avatar/76d082111fca2222789ae71cbceed541?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Alessandro Boaro",
+            "about": "I provided the overall clinical framework for the project and the clinical expertise to evaluate the system in its development and final testing phases.",
+            "photo": "https://www.gravatar.com/avatar/9c7a54fb5358e74d1d895dfe72dccbda?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Yash Dhake",
+            "about": "I worked on defining story and UX, re-meshing and tweaking the MRI 3d data and the audio for all the interactions in the experience.",
+            "photo": "https://www.gravatar.com/avatar/e4bb97c173fe2a2a3686104e1eb3ecba?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Matt Alkaitis",
+            "about": "I helped create and refine overall workflow. I also tried and failed to integrate object tracking into the system.",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/929/717/datas/profile.JPG"
+        },
+        {
+            "name": "Luca Beisel",
+            "about": "I was the lead developer of our team, programming the interactions for the HoloLens 2 in the C# language using the Unity development framework.",
+            "photo": "https://avatars0.githubusercontent.com/u/12306696?height=180&v=4&width=180"
+        }
+    ],
+    "built_with": [
+        "c#",
+        "hololens2",
+        "maya",
+        "microsoft-hololens",
+        "sketch",
+        "slicer",
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>We are a team of clinicians, developers and designers dedicated to solving practical challenges in healthcare. The inspiration for the CLEAR Biopsy Guidance System was to use augmented reality to guide neurosurgical brain biopsy procedures. We envisioned a system that could improve patients\u2019 outcomes and safety as well as physicians\u2019 working experience. </p>\n<h2>What it does</h2>\n<p>Clear \u2013 Biopsy Guidance provides an augmented reality environment with the following components:</p>\n<ul>\n<li>Patient identification information, to ensure patient safety</li>\n<li>Patient-specific radiological imaging and procedure planning information, to review the surgical plan</li>\n<li>The planned trajectory for the brain biopsy directly projected on the patient\u2019s head</li>\n</ul>\n<h2>How we built it</h2>\n<p>Our system was based on the Hololens 2 augmented reality display, using Unity to build the experience. For the imaging components, we used 3d slicer software to convert the 2D data into 3D geometry and Autodesk Maya to re-mesh and delete the outer skull surfaces. The UI development was done in Sketch software. Our application required precise mapping of digital objects and physical instruments. The current state of spatial hand and object tracking was a key challenge that limited the precision of our application. We also initially attempted real-time volume rendering of MRI data, but found the computational requirements to be too substantial for the Hololens 2 system to handle. </p>\n<h2>What's next</h2>\n<p>We\u2019re primarily proud of how we were able to synthesize multiple fields of expertise into a strong use case-driven approach. Our team brought insight from neurosurgery, medical imaging, real-time rendering, unity and design. We truly enjoyed working together. The case for augmented reality applications in healthcare is strong. Our team is interested in solving the critical issues that will enable AR systems such as ours to reach clinical-grade performance.</p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nWe are a team of clinicians, developers and designers dedicated to solving practical challenges in healthcare. The inspiration for the CLEAR Biopsy Guidance System was to use augmented reality to guide neurosurgical brain biopsy procedures. We envisioned a system that could improve patients\u2019 outcomes and safety as well as physicians\u2019 working experience. \n\n\n## What it does\n\n\nClear \u2013 Biopsy Guidance provides an augmented reality environment with the following components:\n\n\n* Patient identification information, to ensure patient safety\n* Patient-specific radiological imaging and procedure planning information, to review the surgical plan\n* The planned trajectory for the brain biopsy directly projected on the patient\u2019s head\n\n\n## How we built it\n\n\nOur system was based on the Hololens 2 augmented reality display, using Unity to build the experience. For the imaging components, we used 3d slicer software to convert the 2D data into 3D geometry and Autodesk Maya to re-mesh and delete the outer skull surfaces. The UI development was done in Sketch software. Our application required precise mapping of digital objects and physical instruments. The current state of spatial hand and object tracking was a key challenge that limited the precision of our application. We also initially attempted real-time volume rendering of MRI data, but found the computational requirements to be too substantial for the Hololens 2 system to handle. \n\n\n## What's next\n\n\nWe\u2019re primarily proud of how we were able to synthesize multiple fields of expertise into a strong use case-driven approach. Our team brought insight from neurosurgery, medical imaging, real-time rendering, unity and design. We truly enjoyed working together. The case for augmented reality applications in healthcare is strong. Our team is interested in solving the critical issues that will enable AR systems such as ours to reach clinical-grade performance.\n\n\n"
+}

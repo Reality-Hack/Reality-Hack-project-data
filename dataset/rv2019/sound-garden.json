@@ -1,0 +1,40 @@
+{
+    "source": "https://devpost.com/software/sound-garden",
+    "title": "Sound Garden",
+    "blurb": "Explore your emotions in an AR garden filled with musical plants themed to fit your mood.",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/f1DyIdmpV5w?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [
+        {
+            "title": "scene with acorns and plants",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/746/056/datas/original.PNG"
+        }
+    ],
+    "team": [
+        {
+            "name": "shylo shepherd",
+            "about": "",
+            "photo": "https://avatars3.githubusercontent.com/u/5191443?height=180&v=4&width=180"
+        },
+        {
+            "name": "Daniel Hart",
+            "about": "",
+            "photo": "https://avatars2.githubusercontent.com/u/1215698?height=180&v=4&width=180"
+        },
+        {
+            "name": "Xinye Lin",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/745/991/datas/profile.jpg"
+        }
+    ],
+    "built_with": [
+        "google-poly",
+        "logic",
+        "photoshop",
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Inspiration:</h2>\n<p>We wanted to allow individuals to have an augmented environment to experience their emotions, good or bad, through music.</p>\n<h2>The Problem:</h2>\n<p>How can we express our emotions? How do we feel today? Where are we looking to go? </p>\n<h2>Description:</h2>\n<p>We use augmented reality in Magic Leap to create a natural space for you to experience a sound scape. We chose to start with the selection of seeds as a metaphor for growth. Flowers appear when the seeds are planted, and they can be nurtured for further development. The potential of the seeds is illustrated in the diversity of the flowers. Each flower now represents one portion, one possible realization of the sensation. While we suggest the emotions of happiness, melancholy and neutrality, the interpretation is up to the individual. You can linger on one sound, survey them all, or listen for the juxtapositions to match your own mood. In all this we want you to stay grounded, so that you can connect your emotions to your life directly. </p>\n<h2>What it does:</h2>\n<p>We created a garden of sound using plants as instruments. Players choose a mood from the acorns on the tree and can play music through brushing the plants. </p>\n<h2>How we built it:</h2>\n<p>We built the project in Unity. Music was created on Logic and brought into Unity. 3D assets were obtained for free from Google Poly, and Free Unity Assets. Textures were adjusted in Photoshop. </p>\n<h2>Challenges we ran into:</h2>\n<p>We tried many types of interactions in the Magic Leap One headset. Hand gestures were a challenge, so in the end, we opted to use the controller. </p>\n<h2>Accomplishments that we're proud of:</h2>\n<p>We learned a lot about developing on the Magic Leap One, which was very exciting for us. We hope to continue learning using the emulator.</p>\n<h2>What we learned:</h2>\n<p>We now have the ability to start developing further on the Magic Leap One, we learned new skills in Unity, we learned tips and tricks for making objects look better in AR. </p>\n<h2>What's next for Sound Garden:</h2>\n<p>We all have interest in learning more about developing on the Magic Leap One, and continuing to develop in Unity and Logic. </p>\n</div>",
+    "content_md": "\n## Inspiration:\n\n\nWe wanted to allow individuals to have an augmented environment to experience their emotions, good or bad, through music.\n\n\n## The Problem:\n\n\nHow can we express our emotions? How do we feel today? Where are we looking to go? \n\n\n## Description:\n\n\nWe use augmented reality in Magic Leap to create a natural space for you to experience a sound scape. We chose to start with the selection of seeds as a metaphor for growth. Flowers appear when the seeds are planted, and they can be nurtured for further development. The potential of the seeds is illustrated in the diversity of the flowers. Each flower now represents one portion, one possible realization of the sensation. While we suggest the emotions of happiness, melancholy and neutrality, the interpretation is up to the individual. You can linger on one sound, survey them all, or listen for the juxtapositions to match your own mood. In all this we want you to stay grounded, so that you can connect your emotions to your life directly. \n\n\n## What it does:\n\n\nWe created a garden of sound using plants as instruments. Players choose a mood from the acorns on the tree and can play music through brushing the plants. \n\n\n## How we built it:\n\n\nWe built the project in Unity. Music was created on Logic and brought into Unity. 3D assets were obtained for free from Google Poly, and Free Unity Assets. Textures were adjusted in Photoshop. \n\n\n## Challenges we ran into:\n\n\nWe tried many types of interactions in the Magic Leap One headset. Hand gestures were a challenge, so in the end, we opted to use the controller. \n\n\n## Accomplishments that we're proud of:\n\n\nWe learned a lot about developing on the Magic Leap One, which was very exciting for us. We hope to continue learning using the emulator.\n\n\n## What we learned:\n\n\nWe now have the ability to start developing further on the Magic Leap One, we learned new skills in Unity, we learned tips and tricks for making objects look better in AR. \n\n\n## What's next for Sound Garden:\n\n\nWe all have interest in learning more about developing on the Magic Leap One, and continuing to develop in Unity and Logic. \n\n\n"
+}

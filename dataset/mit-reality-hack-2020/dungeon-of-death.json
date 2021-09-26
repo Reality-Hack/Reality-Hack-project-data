@@ -1,0 +1,84 @@
+{
+    "source": "https://devpost.com/software/dungeon-of-death",
+    "title": "Dungeon of Elements: Perilous Journey of the Avatar",
+    "blurb": "Fire. Air. Water. Earth. THE POWER OF ELEMENTS IS IN YOUR HANDS! Can you breakout of these VR dungeons and escape to freedom?",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/pp77vCz3uxo?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [
+        {
+            "title": "Dungeon of Elements, Match-It Scene",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/915/255/datas/original.png"
+        },
+        {
+            "title": "Control Instructions",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/915/172/datas/original.jpg"
+        },
+        {
+            "title": "Control Instructions",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/915/171/datas/original.jpg"
+        },
+        {
+            "title": "Sample of a Dungeon Room",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/036/datas/original.png"
+        },
+        {
+            "title": "Sample Of a Puzzle Called Match It, where you must summon the elements in the order they flash",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/037/datas/original.png"
+        },
+        {
+            "title": "Obstacles Within The Puzzle, that must be pushed away with air or fire",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/038/datas/original.png"
+        },
+        {
+            "title": "Time Based Puzzle, where the user must summon fire for a length of time",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/039/datas/original.png"
+        },
+        {
+            "title": "A music based puzzle, where the pipes must be hit with air to recreate the sound",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/077/datas/original.png"
+        },
+        {
+            "title": "This puzzle requires you to grow specific trees based off of a riddle",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/141/datas/original.png"
+        },
+        {
+            "title": "This puzzle requires you to imitate the movements of the swirl to open the door",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/142/datas/original.png"
+        },
+        {
+            "title": "This is an example with instructions for the controls",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/143/datas/original.png"
+        }
+    ],
+    "team": [
+        {
+            "name": "Lauren Zhang",
+            "about": "Created the particle effects, built the environment assets, coded interaction of conjured element with environment objects.",
+            "photo": "https://avatars3.githubusercontent.com/u/49242010?height=180&v=4&width=180"
+        },
+        {
+            "name": "Evelyn Liu",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/001/106/252/datas/profile.jpg"
+        },
+        {
+            "name": "Jared Yellen",
+            "about": "",
+            "photo": "https://media-exp2.licdn.com/dms/image/C4E03AQHtgttx40DIHg/profile-displayphoto-shrink_800_800/0?e=1585180800&height=180&t=QNfo8oSjx5SFpbjO2stGWG1EL8amnQ9WHVMLOyM4K5A&v=beta&width=180"
+        },
+        {
+            "name": "Dan Donato",
+            "about": "",
+            "photo": "https://avatars2.githubusercontent.com/u/10944648?height=180&v=4&width=180"
+        }
+    ],
+    "built_with": [
+        "c#",
+        "oculus",
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Inspiration:</h2>\n<p>Avatar the Last Airbender is an American anime that aired on Nickelodeon for three seasons. Avatar is set in an Asiatic-like world in which some people can manipulate the classical elements with psychokinetic variants of the Chinese martial arts known as \"bending\". The Avatar must bring peace and harmony to the world by ending the Fire Nation's war with the rest of the Four Nations.</p>\n<h2>What it does</h2>\n<p><strong>Dungeon of Elements: Perilous Journey of the Avatar</strong> Is a puzzle game where the player must control the 4 elements in VR to solve puzzles. The game is a instance based puzzler, where each time you load into the game it chooses a number of random puzzles to be what you have to play through. The catch is that each time you fail a puzzle you lose a life, and if you lose all of them you have to completely restart with a new set of random puzzles.</p>\n<h2>How we built it</h2>\n<p>The project was created in Unity, and we divided our team into different roles to divide and conquer the project. One of our members focused on creating the Element Summoning and physics, one of us focused on creating the visuals and emitters, one of us focused on creating and building the puzzles into scenes, and one of us focused on building and designing the game elements. Once each group had managed all the pieces, we began to combine each piece together and turn it into a finished product.</p>\n<h2>Challenges we ran into</h2>\n<p>One of the biggest issues was determining hardware, since our computers only had an HDMI. This resulted in running it on the Oculus Quest, which adds a lot of time due to building for every iteration.</p>\n<h2>What we learned</h2>\n<p>It's not a faith in technology, it's a faith in people. Even the most difficult of challenges can be fun when working with the right people. We struggled with setting up the Oculus devices for development, and therefore were extremely behind after day one. Yet, with the support of our teammates, we were able to carry-through with our vision with a ton of laughter.</p>\n<h2>What's next for Dungeon of Death</h2>\n<p>Ideally we would like to add levels of difficulty, more physics interactions for the elements, and of course, many more puzzles. The ideal version would be to somehow have procedurally generated puzzles, since one of our main focuses is replayability. </p>\n<h2>Assets</h2>\n<ul>\n<li>3D objects from CGTrader</li>\n<li>Audio from bensound.com</li>\n</ul>\n<h2>Image Gallery</h2>\n<p>Please refer to the gallery above for detailed escape strategy for each of the 15 scenes.</p>\n<h2>Grand Challenge Choice #1: Most Fun</h2>\n</div>",
+    "content_md": "\n## Inspiration:\n\n\nAvatar the Last Airbender is an American anime that aired on Nickelodeon for three seasons. Avatar is set in an Asiatic-like world in which some people can manipulate the classical elements with psychokinetic variants of the Chinese martial arts known as \"bending\". The Avatar must bring peace and harmony to the world by ending the Fire Nation's war with the rest of the Four Nations.\n\n\n## What it does\n\n\n**Dungeon of Elements: Perilous Journey of the Avatar** Is a puzzle game where the player must control the 4 elements in VR to solve puzzles. The game is a instance based puzzler, where each time you load into the game it chooses a number of random puzzles to be what you have to play through. The catch is that each time you fail a puzzle you lose a life, and if you lose all of them you have to completely restart with a new set of random puzzles.\n\n\n## How we built it\n\n\nThe project was created in Unity, and we divided our team into different roles to divide and conquer the project. One of our members focused on creating the Element Summoning and physics, one of us focused on creating the visuals and emitters, one of us focused on creating and building the puzzles into scenes, and one of us focused on building and designing the game elements. Once each group had managed all the pieces, we began to combine each piece together and turn it into a finished product.\n\n\n## Challenges we ran into\n\n\nOne of the biggest issues was determining hardware, since our computers only had an HDMI. This resulted in running it on the Oculus Quest, which adds a lot of time due to building for every iteration.\n\n\n## What we learned\n\n\nIt's not a faith in technology, it's a faith in people. Even the most difficult of challenges can be fun when working with the right people. We struggled with setting up the Oculus devices for development, and therefore were extremely behind after day one. Yet, with the support of our teammates, we were able to carry-through with our vision with a ton of laughter.\n\n\n## What's next for Dungeon of Death\n\n\nIdeally we would like to add levels of difficulty, more physics interactions for the elements, and of course, many more puzzles. The ideal version would be to somehow have procedurally generated puzzles, since one of our main focuses is replayability. \n\n\n## Assets\n\n\n* 3D objects from CGTrader\n* Audio from bensound.com\n\n\n## Image Gallery\n\n\nPlease refer to the gallery above for detailed escape strategy for each of the 15 scenes.\n\n\n## Grand Challenge Choice #1: Most Fun\n\n\n"
+}

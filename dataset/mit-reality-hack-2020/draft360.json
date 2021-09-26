@@ -1,0 +1,78 @@
+{
+    "source": "https://devpost.com/software/draft360",
+    "title": "draft360",
+    "blurb": "A WebXR Storyboarding Design Tool",
+    "awards": [
+        "Best of AR",
+        "Best in Tools"
+    ],
+    "videos": [
+        "https://www.youtube.com/embed/__nJBwGFMaA?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [
+        {
+            "title": "draft360 - A 360 WebVR storyboarding tool",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/911/578/datas/original.jpg"
+        },
+        {
+            "title": "Draw in 360",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/914/648/datas/original.jpg"
+        },
+        {
+            "title": "Add 2D Assets",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/914/647/datas/original.jpg"
+        },
+        {
+            "title": "Link Scenes with Portals",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/914/650/datas/original.jpg"
+        },
+        {
+            "title": "Comment to give feedback",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/914/652/datas/original.jpg"
+        },
+        {
+            "title": "Seamlessly share across devices",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/914/667/datas/original.jpg"
+        }
+    ],
+    "team": [
+        {
+            "name": "Rui Jie Wang",
+            "about": "I brought forth the initial concept and worked on the product/UI/UX design, front-end design/development, PM and graphic design assets.",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/930/943/datas/profile.png"
+        },
+        {
+            "name": "Tejas Shroff",
+            "about": "I worked on the backend nReal Unity implementation. I ended up using the phone that is attached to the nReal as a way to take pictures and as a microphone in order to rapidly annotate 360 scenes viewed through the nReal display",
+            "photo": "https://avatars1.githubusercontent.com/u/17838397?height=180&v=4&width=180"
+        },
+        {
+            "name": "Stepan Shabalin",
+            "about": "I worked on the WebXR frontend (wrote most of it) and made the backend.",
+            "photo": "https://avatars2.githubusercontent.com/u/46641404?height=180&v=4&width=180"
+        },
+        {
+            "name": "James Seo",
+            "about": "I helped with designing the project's UI/UX. I prototyped and implemented features of the WebXR part of the project. I worked on the project homepage.",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/914/691/datas/profile.jpg"
+        },
+        {
+            "name": "Nicholas Woodward",
+            "about": "I worked on some back end web design, as well as created our product video and helped with the conceptual design through the eyes of an animator!",
+            "photo": "https://www.gravatar.com/avatar/2b8198daf3c0df4aa79e0886844f1db8?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        }
+    ],
+    "built_with": [
+        "aframe",
+        "google-cardboard",
+        "material-design-lite",
+        "node.js",
+        "nreal",
+        "three.js",
+        "unity",
+        "webvr",
+        "webxr"
+    ],
+    "content_html": "<div>\n<h1>Dev Post Summary</h1>\n<h2>Inspiration</h2>\n<p>As a designer working in the XR space I found many challenges in conceptualizing XR experiences from traditional 2D UI design &amp; prototyping tools. I would either have to sketch on paper or prototype in a chaotic workflow of VR/AR, Photoshop, Blender, Unity, etc. Even with these complex techniques, it was a hassle to port over and setup projects to actually share what the experience was like with with clients and developers before committing development resources.</p>\n<p>This is why I wanted to create a 360VR Design tool that was built with webXR and accessibility in mind to help XR creators (VR filmmakers or AR environment designers, for example) draft up and communicate their vision quickly &amp; intuitively.</p>\n<h2>What it does:</h2>\n<ul>\n<li>Create your key scenes however you want: this can be a 360 template grid, 360 CGI render, 360 photo, 360 snapshot from your favourite VR creation tool - you can import 360 content into the browser!</li>\n<li>Annotate and sketch directly on the 360 photosphere &amp; add image components;</li>\n<li>Portals link to other scenes to create interactive prototypes; </li>\n<li>Share URL to phones &amp; VR headsets to preview;</li>\n<li>Iterate earlier and create something awesome!</li>\n</ul>\n<h2>How we built it:</h2>\n<p>Designed initially in Figma + Chats + Coffee. We used the glitch.io framework to quickly prototype a web app using the A-frame library &amp; Javascript. 360 VR Scenes were created in Blender3D.</p>\n<h2>Challenges we ran into:</h2>\n<ul>\n<li>Drawing and projecting to a 360 photosphere - the equirectangular projection can sometimes be confusing, and it was very hard to get the canvas to update. I had to access raw three.js internals and create a sphere geometry and a texture;</li>\n<li>Data transfer and state management;</li>\n<li>Deciding between converting a three.js code base and platform accessibility with A-frame;</li>\n<li>Adapting input controls/paradigms from desktop, touchscreen tablet, mobile phone to AR or VR headsets;</li>\n<li>Nreal at this time in writing does not support WebXR.</li>\n</ul>\n<h2>Accomplishments that we're proud of:</h2>\n<ul>\n<li>The focus of the use case and clarity of solution in problem solving;</li>\n<li>It works on Desktop, Mobile, and some VR browsers;</li>\n<li>The breadth of interactions and solutions we prototyped in trying to solve this problem of traditional 2D conceptualization workflows with new and emerging XR pipelines;</li>\n<li>We created a companion Nreal prototyping app in Unity to showcase what the next generation of WebXR design/prototype;</li>\n<li>Desktop version works really well with Surface Studio;</li>\n</ul>\n<h2>What we learned</h2>\n<ul>\n<li>Nreal does not support WebXR;</li>\n<li>Glitch has interesting security proxy;</li>\n<li>Glitch has interesting weblink based asset management;</li>\n<li>Glitch makes collaboration very simple;</li>\n<li>A-Frame's ECS model is hard to understand but usable;</li>\n<li>How A-Frame works internally;</li>\n<li>There are so many interaction paradigms for desktop, mobile, 3DOF/6DOF VR, MR, AR;</li>\n<li>Sometimes code quality can be sacrificed for quick prototyping.</li>\n</ul>\n<h2>What's next for Draft360</h2>\n<p>The Nreal prototype shows a new and exciting workflow of taking pictures of real-world sketches. It also incorporates a voice recorder for sharing thoughts and ideas. We would love to extend webXR functionality when available.</p>\n</div>",
+    "content_md": "\n# Dev Post Summary\n\n\n## Inspiration\n\n\nAs a designer working in the XR space I found many challenges in conceptualizing XR experiences from traditional 2D UI design & prototyping tools. I would either have to sketch on paper or prototype in a chaotic workflow of VR/AR, Photoshop, Blender, Unity, etc. Even with these complex techniques, it was a hassle to port over and setup projects to actually share what the experience was like with with clients and developers before committing development resources.\n\n\nThis is why I wanted to create a 360VR Design tool that was built with webXR and accessibility in mind to help XR creators (VR filmmakers or AR environment designers, for example) draft up and communicate their vision quickly & intuitively.\n\n\n## What it does:\n\n\n* Create your key scenes however you want: this can be a 360 template grid, 360 CGI render, 360 photo, 360 snapshot from your favourite VR creation tool - you can import 360 content into the browser!\n* Annotate and sketch directly on the 360 photosphere & add image components;\n* Portals link to other scenes to create interactive prototypes;\n* Share URL to phones & VR headsets to preview;\n* Iterate earlier and create something awesome!\n\n\n## How we built it:\n\n\nDesigned initially in Figma + Chats + Coffee. We used the glitch.io framework to quickly prototype a web app using the A-frame library & Javascript. 360 VR Scenes were created in Blender3D.\n\n\n## Challenges we ran into:\n\n\n* Drawing and projecting to a 360 photosphere - the equirectangular projection can sometimes be confusing, and it was very hard to get the canvas to update. I had to access raw three.js internals and create a sphere geometry and a texture;\n* Data transfer and state management;\n* Deciding between converting a three.js code base and platform accessibility with A-frame;\n* Adapting input controls/paradigms from desktop, touchscreen tablet, mobile phone to AR or VR headsets;\n* Nreal at this time in writing does not support WebXR.\n\n\n## Accomplishments that we're proud of:\n\n\n* The focus of the use case and clarity of solution in problem solving;\n* It works on Desktop, Mobile, and some VR browsers;\n* The breadth of interactions and solutions we prototyped in trying to solve this problem of traditional 2D conceptualization workflows with new and emerging XR pipelines;\n* We created a companion Nreal prototyping app in Unity to showcase what the next generation of WebXR design/prototype;\n* Desktop version works really well with Surface Studio;\n\n\n## What we learned\n\n\n* Nreal does not support WebXR;\n* Glitch has interesting security proxy;\n* Glitch has interesting weblink based asset management;\n* Glitch makes collaboration very simple;\n* A-Frame's ECS model is hard to understand but usable;\n* How A-Frame works internally;\n* There are so many interaction paradigms for desktop, mobile, 3DOF/6DOF VR, MR, AR;\n* Sometimes code quality can be sacrificed for quick prototyping.\n\n\n## What's next for Draft360\n\n\nThe Nreal prototype shows a new and exciting workflow of taking pictures of real-world sketches. It also incorporates a voice recorder for sharing thoughts and ideas. We would love to extend webXR functionality when available.\n\n\n"
+}

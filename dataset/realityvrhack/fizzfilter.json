@@ -1,0 +1,45 @@
+{
+    "source": "https://devpost.com/software/fizzfilter",
+    "title": "Fizz Filter",
+    "blurb": "Choose Your Flavor",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/46vKzjChjsU?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "Yannick Boers",
+            "about": "Worked on the \"logical\" placement of 3D models, finding and refining those models. Branding & Video.",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/420/677/datas/profile.jpg"
+        },
+        {
+            "name": "Andrew Dupuis",
+            "about": "I worked on the Hololens Spatial Mapping/ Understanding, object placement, and scene management systems. ",
+            "photo": "https://www.gravatar.com/avatar/2d42b9fcd0f3da0b43890a6ef1629c26?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "jinny yan",
+            "about": "I worked on refining 3d models and putting together thematic scenes.\n",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/398/215/datas/profile.jpg"
+        },
+        {
+            "name": "Yasmeen Roumie",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/423/829/datas/profile.JPG"
+        },
+        {
+            "name": "Lisa van Acquoij",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/420/688/datas/profile.png"
+        }
+    ],
+    "built_with": [
+        "blender",
+        "c#",
+        "microsoft-hololens",
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>Snapchat uses augmented reality to dynamically apply lenses to users' faces. What if you could apply a lens similarly to alter the environment around you? We thought it would be interesting to instantly be able to redesign any room you're in to transport you into a completely different location. What if you wanted to feel the warmth of those nights in the ski lodge, next to the fireplace and looking out of the window and watching as the snow falls down. Or what if you were alone that night, but wanted to be around people, while all of your friends were busy at home? You can redecorate, or reimagine, your current location with <b>Fizz Filter</b>, which brings a spark to your life at any time you want.</p>\n<h2>What it does</h2>\n<p><b>Fizz Filter</b> is an augmented reality application tailored for ease of use and scalability of filters. You enter a simple environment where you are given a choice of how you want your environment to be reimagined. Then, your environment is scanned by the Hololens and soon enough your room is populated with decorations and other indicators that has you feeling the theme that you chose.</p>\n<h2>How we built it</h2>\n<p>We utilized the HoloLens' spatial mapping and spatial understanding capabilities to recognize the features of room the user is in. Then, we used a smart placement algorithm to determine how to distribute the objects across the space based on various input factors. <i>About 15% of our project was built using Microsoft's HoloLens API.</i></p>\n<h2>What's next for Fizz Filter</h2>\n<p>In the future, we would like to partner with companies, as Snapchat does, to sponsor daily scenes. We would also like to allow users to create and submit more environments and ideas for future filters we could create. </p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nSnapchat uses augmented reality to dynamically apply lenses to users' faces. What if you could apply a lens similarly to alter the environment around you? We thought it would be interesting to instantly be able to redesign any room you're in to transport you into a completely different location. What if you wanted to feel the warmth of those nights in the ski lodge, next to the fireplace and looking out of the window and watching as the snow falls down. Or what if you were alone that night, but wanted to be around people, while all of your friends were busy at home? You can redecorate, or reimagine, your current location with **Fizz Filter**, which brings a spark to your life at any time you want.\n\n\n## What it does\n\n\n**Fizz Filter** is an augmented reality application tailored for ease of use and scalability of filters. You enter a simple environment where you are given a choice of how you want your environment to be reimagined. Then, your environment is scanned by the Hololens and soon enough your room is populated with decorations and other indicators that has you feeling the theme that you chose.\n\n\n## How we built it\n\n\nWe utilized the HoloLens' spatial mapping and spatial understanding capabilities to recognize the features of room the user is in. Then, we used a smart placement algorithm to determine how to distribute the objects across the space based on various input factors. *About 15% of our project was built using Microsoft's HoloLens API.*\n\n\n## What's next for Fizz Filter\n\n\nIn the future, we would like to partner with companies, as Snapchat does, to sponsor daily scenes. We would also like to allow users to create and submit more environments and ideas for future filters we could create. \n\n\n"
+}

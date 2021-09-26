@@ -1,0 +1,58 @@
+{
+    "source": "https://devpost.com/software/political-landscape",
+    "title": "Political Landscape",
+    "blurb": "This VR app visualizes political proliviites as an immersive topographical 'quilt' to encourage real-world dialogue",
+    "awards": [],
+    "videos": [],
+    "images": [
+        {
+            "title": "Emerging landscape reflecting affective and semantic data",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/424/314/datas/original.PNG"
+        },
+        {
+            "title": "Emerging landscape reflecting affective and semantic data",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/424/317/datas/original.PNG"
+        },
+        {
+            "title": "Emerging landscape reflecting affective and semantic data",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/424/316/datas/original.PNG"
+        }
+    ],
+    "team": [
+        {
+            "name": "Jim Moffet",
+            "about": "Ideation, UI design, assistant Unity/C# developer, lead developer for semantic language analysis",
+            "photo": "https://www.gravatar.com/avatar/31981dee12baf7861c607a59041b6c23?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Barry Dineen",
+            "about": "Ideation, reactive environment design, environment modelling, lighting, unity development",
+            "photo": "https://www.gravatar.com/avatar/73fe09d2b53f3117cfec379366ec4030?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Justin Chin",
+            "about": "Lead Unity/C# Developer",
+            "photo": "https://www.gravatar.com/avatar/2d8eb9f6a84be0e27c0fd8b7eb7f9a8c?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Tom Gorham",
+            "about": "Ideation, storyboards, and audio work",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/424/588/datas/profile.JPG"
+        },
+        {
+            "name": "keith hartwig",
+            "about": "creative director, storyboards, narrative, sketches",
+            "photo": "https://www.gravatar.com/avatar/9df243a2ab6feb0ef1d54c462f7ee792?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        }
+    ],
+    "built_with": [
+        "3dsmax",
+        "assets",
+        "c#",
+        "unity",
+        "vive",
+        "vrtk"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>As a team we are interested in how bias informs people's reactions to questions and real-world events. This project explores the possibility of using VR to visualize information in an immersive and three-dimensional way. </p>\n<p>Since 1994, the Pew Research Center has been tracking the partisanship of American voters. It has uncovered a worrying trend of growing ideological consistency and political polarization. This VR application is an experiment to see if virtual reality can influence individuals\u2019 perceptions of the political proclivities of other people as well as their own. It uses an adapted version of Pew\u2019s Ideological Consistency Scale with an additional element of personal relevance. </p>\n<h2>What it does</h2>\n<p>As individuals explore the environment and answer a series of questions they begin to adapt the atmosphere, textures and three-dimensional qualities of their environment. This emergent landscape is an abstract representation of their political proclivity. </p>\n<p>In-game users begin exploring an environment that is replete of form and atmosphere. As they walk around in this empty space they discover artifacts which, when engaged, ask the user a question about a single political topic. They can select from a range of answers to charge this artifact and imbue it with their sentiment. The artifact can then be tossed into the landscape causing a series of effects to take place. Where the artifact lands the ground changes form, the scenery unfolds and the atmosphere is colored. The changes are a direct reflection of their answer to each question. The process is repeated until the entire virtual environment has changed from a blank void to a dynamic landscape.</p>\n<p>Upon completion of the survey the user zooms out to see their custom landscape relative to all those who have taken the survey before them. The aggregate is a topographical quilt of everyone's political proclivities. </p>\n<h2>How we built it</h2>\n<p>The project was built through Unity and C# for the VIVE. After plenty of iterating and sketches we finally arrived at a prototype we were proud to run with and make work for Sunday's demo! </p>\n<h2>Challenges we ran into</h2>\n<p>Initially we desired a 2 person dialogue and interactive environment, but due to technological limitations we had to simplify to a single person interface. Also discovering best practices for version control for working collaboratively in Unity.</p>\n<h2>Accomplishments that we're proud of</h2>\n<p>We came together as individuals with no former experience working together and have managed to successfully collaborate on a dynamic and engaging project! (We have become friend to boot!)</p>\n<h2>What we learned</h2>\n<p>Debug on the move; don't just stare at the problems or let them add up! Explain your code to a rubber duck :)</p>\n<h2>What's next for Political Landscape</h2>\n<p>We are interested in how this type of application and virtual experience can be used for conflict management, social science research and community building.</p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nAs a team we are interested in how bias informs people's reactions to questions and real-world events. This project explores the possibility of using VR to visualize information in an immersive and three-dimensional way. \n\n\nSince 1994, the Pew Research Center has been tracking the partisanship of American voters. It has uncovered a worrying trend of growing ideological consistency and political polarization. This VR application is an experiment to see if virtual reality can influence individuals\u2019 perceptions of the political proclivities of other people as well as their own. It uses an adapted version of Pew\u2019s Ideological Consistency Scale with an additional element of personal relevance. \n\n\n## What it does\n\n\nAs individuals explore the environment and answer a series of questions they begin to adapt the atmosphere, textures and three-dimensional qualities of their environment. This emergent landscape is an abstract representation of their political proclivity. \n\n\nIn-game users begin exploring an environment that is replete of form and atmosphere. As they walk around in this empty space they discover artifacts which, when engaged, ask the user a question about a single political topic. They can select from a range of answers to charge this artifact and imbue it with their sentiment. The artifact can then be tossed into the landscape causing a series of effects to take place. Where the artifact lands the ground changes form, the scenery unfolds and the atmosphere is colored. The changes are a direct reflection of their answer to each question. The process is repeated until the entire virtual environment has changed from a blank void to a dynamic landscape.\n\n\nUpon completion of the survey the user zooms out to see their custom landscape relative to all those who have taken the survey before them. The aggregate is a topographical quilt of everyone's political proclivities. \n\n\n## How we built it\n\n\nThe project was built through Unity and C# for the VIVE. After plenty of iterating and sketches we finally arrived at a prototype we were proud to run with and make work for Sunday's demo! \n\n\n## Challenges we ran into\n\n\nInitially we desired a 2 person dialogue and interactive environment, but due to technological limitations we had to simplify to a single person interface. Also discovering best practices for version control for working collaboratively in Unity.\n\n\n## Accomplishments that we're proud of\n\n\nWe came together as individuals with no former experience working together and have managed to successfully collaborate on a dynamic and engaging project! (We have become friend to boot!)\n\n\n## What we learned\n\n\nDebug on the move; don't just stare at the problems or let them add up! Explain your code to a rubber duck :)\n\n\n## What's next for Political Landscape\n\n\nWe are interested in how this type of application and virtual experience can be used for conflict management, social science research and community building.\n\n\n"
+}

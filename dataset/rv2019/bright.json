@@ -1,0 +1,49 @@
+{
+    "source": "https://devpost.com/software/bright",
+    "title": "Bright",
+    "blurb": "An augmented reality solution to aid the elderly with visual impairment.",
+    "awards": [
+        "Best in Health & Wellness",
+        "Best AR"
+    ],
+    "videos": [
+        "https://www.youtube.com/embed/nH7JEJCwsdw?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "Ashish Bakshi",
+            "about": "I originated the idea, recruited team members, and led the team in the development of the prototype and pitch presentation.",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/746/741/datas/profile.jpg"
+        },
+        {
+            "name": "Charlene Yu",
+            "about": "I worked on the logo design and branding, as well as  video editing and sound editing. I collaborated with others on problems solving to create the product.",
+            "photo": "https://graph.facebook.com/1115764118575572/picture?height=180&width=180"
+        },
+        {
+            "name": "Andreas Dias",
+            "about": "I helped develop the zoom and facial recognition software.  I also woked together to problem solve a lot of the features and creation of the product.",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/747/771/datas/profile.jpg"
+        },
+        {
+            "name": "Cesar de Castro",
+            "about": "I facilitated the problem-solving process, provided brand strategy, creative direction, hands-on ux/ui and communication design to contribute shaping our award-winning AR project, Bright.  ",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/748/635/datas/profile.jpg"
+        },
+        {
+            "name": "Jan Simson",
+            "about": "I worked on general Unity troubleshooting, text recognition (OCR), zoom and the emergency call feature. In collaboration and dialog with the others I helped finding and solving problems during the design and creation of Bright.",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/747/752/datas/profile.jpg"
+        }
+    ],
+    "built_with": [
+        "azure",
+        "c#",
+        "microsoft-hololens",
+        "unity",
+        "uwp"
+    ],
+    "content_html": "<div>\n<h2>Description</h2>\n<p>According to the WHO, over 250 million people around the world suffer from moderate to severe vision loss, 81% of whom are above the age of 50. Many face significant challenges in daily life. Some of leading solutions for a variety of vision impairments are extremely expensive headsets that essentially provide a zoomed-in view of the world.</p>\n<p>Bright is a seed to make faces familiar again and everyday challenges manageable.</p>\n<p>Bright runs as an app on Microsoft HoloLens and allows users to zoom in to a customizable level, hear written text (e.g. books, newspapers, documents, TV) as spoken speech, recognize other people nearby (giving names for stored people, and age/gender/emotion estimates for others), and contact others in the case of an emergency.</p>\n<p>We built our solution in Unity, implementing various services from Microsoft\u2019s Azure Cognitive Services and Twilio for phone calls.</p>\n<h2>Team Members</h2>\n<p>Ashish Bakshi, Cesar de Castro, Andreas Dias, Jan Simson, Charlene Yu</p>\n<h2>Location</h2>\n<p>We worked on the 6th floor of the MIT Media Lab (Building E14), in the Multipurpose Room, Table 30.</p>\n<h2>Development</h2>\n<p>We used:</p>\n<p>Platform: Microsoft Hololens / Universal Windows Platform\nDevelopment Tools: Microsoft Visual Studio 2017, Unity, Github\nSDKs: Windows SDK\nAPIs: Microsoft Azure Cognitive Services, Twilio\nComponents used not created at hackathon: Mixed Reality Toolkit, Wontonst \nTwilio SMS on Unity (<a href=\"https://github.com/wontonst/twilio-sms-unity\" rel=\"nofollow\">https://github.com/wontonst/twilio-sms-unity</a>).\nAssets: None</p>\n</div>",
+    "content_md": "\n## Description\n\n\nAccording to the WHO, over 250 million people around the world suffer from moderate to severe vision loss, 81% of whom are above the age of 50. Many face significant challenges in daily life. Some of leading solutions for a variety of vision impairments are extremely expensive headsets that essentially provide a zoomed-in view of the world.\n\n\nBright is a seed to make faces familiar again and everyday challenges manageable.\n\n\nBright runs as an app on Microsoft HoloLens and allows users to zoom in to a customizable level, hear written text (e.g. books, newspapers, documents, TV) as spoken speech, recognize other people nearby (giving names for stored people, and age/gender/emotion estimates for others), and contact others in the case of an emergency.\n\n\nWe built our solution in Unity, implementing various services from Microsoft\u2019s Azure Cognitive Services and Twilio for phone calls.\n\n\n## Team Members\n\n\nAshish Bakshi, Cesar de Castro, Andreas Dias, Jan Simson, Charlene Yu\n\n\n## Location\n\n\nWe worked on the 6th floor of the MIT Media Lab (Building E14), in the Multipurpose Room, Table 30.\n\n\n## Development\n\n\nWe used:\n\n\nPlatform: Microsoft Hololens / Universal Windows Platform\nDevelopment Tools: Microsoft Visual Studio 2017, Unity, Github\nSDKs: Windows SDK\nAPIs: Microsoft Azure Cognitive Services, Twilio\nComponents used not created at hackathon: Mixed Reality Toolkit, Wontonst \nTwilio SMS on Unity (<https://github.com/wontonst/twilio-sms-unity>).\nAssets: None\n\n\n"
+}

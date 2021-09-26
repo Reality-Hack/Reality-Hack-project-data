@@ -1,0 +1,38 @@
+{
+    "source": "https://devpost.com/software/holocaptions",
+    "title": "HoloCaptions",
+    "blurb": "Sense of Sound Direction & Real Life Closed Captioning for the Hearing Impaired",
+    "awards": [],
+    "videos": [],
+    "images": [],
+    "team": [
+        {
+            "name": "David Tran",
+            "about": "I worked on facial recognition, the UI of the application in Unity, and on overall integration in the application.",
+            "photo": "https://www.gravatar.com/avatar/ddf01b72f816e519d4c73ef5ffbc8553?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Johan Ospina",
+            "about": "I worked on the backend for voice dictation and HoloLens gaze interaction. ",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/420/678/datas/profile.jpg"
+        },
+        {
+            "name": "Tess Gauthier",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/04810efd671a2f60d187282647f7d97e?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Makivic",
+            "about": "",
+            "photo": "https://avatars2.githubusercontent.com/u/9288823?height=180&v=4&width=180"
+        }
+    ],
+    "built_with": [
+        "love",
+        "microsoft-hololens",
+        "unity",
+        "universal-windows-platform"
+    ],
+    "content_html": "<div>\n<p>Those with hearing impairments might not be able to utilize the same auditory cues that we use every day, or experience conversations in the same way. We want to provide an auditory compass and real life closed captioning for indoor use for those with hearing impairments. Utilizing the multiple microphones and the AR capabilities of the HoloLens, as someone approaches the user from behind, the hololens could provide visual indication of sound coming from the sides or behind, and as the user turns to face them, closed captioning could be displayed by the speaker for an improved conversational experience.</p>\n<p>Our Team is at Table 30 on the 6th Floor, and our vertical is Human Connection/Social. </p>\n<p>Team Lead: Johan Ospina</p>\n<p><a href=\"https://github.com/johanos/ProjectMurphy\" rel=\"nofollow\">https://github.com/johanos/ProjectMurphy</a></p>\n</div>",
+    "content_md": "\nThose with hearing impairments might not be able to utilize the same auditory cues that we use every day, or experience conversations in the same way. We want to provide an auditory compass and real life closed captioning for indoor use for those with hearing impairments. Utilizing the multiple microphones and the AR capabilities of the HoloLens, as someone approaches the user from behind, the hololens could provide visual indication of sound coming from the sides or behind, and as the user turns to face them, closed captioning could be displayed by the speaker for an improved conversational experience.\n\n\nOur Team is at Table 30 on the 6th Floor, and our vertical is Human Connection/Social. \n\n\nTeam Lead: Johan Ospina\n\n\n<https://github.com/johanos/ProjectMurphy>\n\n\n"
+}

@@ -1,0 +1,46 @@
+{
+    "source": "https://devpost.com/software/move2improve",
+    "title": "Move2Improve",
+    "blurb": "Allows physical therapists to quantify progress and admin PT to patients simultaneously, w VR reaching app",
+    "awards": [
+        "Best VR"
+    ],
+    "videos": [
+        "https://www.youtube.com/embed/Unmh7PgRWdQ?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "Roghayeh (Leila) Barmaki",
+            "about": "In Move2Improve, I worked on ideation, design, project presentation, animation, and code development.\nI also had a role of subject matter expert in physical therapy game design.",
+            "photo": "https://avatars3.githubusercontent.com/u/46650664?height=180&v=4&width=180"
+        },
+        {
+            "name": "Betsy Skrip",
+            "about": "I thought of the name Move2Improve, worked on ideation and design, drew the line drawing of the fish, and in Maya created and animated the 3D model of the fish.",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/748/496/datas/profile.jpeg"
+        },
+        {
+            "name": "Brian Cohn",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/614/463/datas/profile.png"
+        },
+        {
+            "name": "Cameron Peirce",
+            "about": "",
+            "photo": "https://avatars3.githubusercontent.com/u/34655079?height=180&v=4&width=180"
+        },
+        {
+            "name": "Chris Berry",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/98202cecc2d397e09a7268d48a56f048?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        }
+    ],
+    "built_with": [
+        "maya",
+        "unity",
+        "vive"
+    ],
+    "content_html": "<div>\n<p>Want to partner with us or get more information? Reach out to us:\n<a href=\"mailto:brian.cohn@usc.edu\" rel=\"nofollow\">brian.cohn@usc.edu</a>, and\n<a href=\"mailto:rlb@udel.edu\" rel=\"nofollow\">rlb@udel.edu</a></p>\n</div>",
+    "content_md": "\nWant to partner with us or get more information? Reach out to us:\n[brian.cohn@usc.edu](mailto:brian.cohn@usc.edu), and\n[rlb@udel.edu](mailto:rlb@udel.edu)\n\n\n"
+}

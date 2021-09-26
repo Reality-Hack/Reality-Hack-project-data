@@ -1,0 +1,40 @@
+{
+    "source": "https://devpost.com/software/plantmail",
+    "title": "PlantMail",
+    "blurb": "An organic plant-based MR mail client",
+    "awards": [],
+    "videos": [],
+    "images": [],
+    "team": [
+        {
+            "name": "Jack Wesson",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/746/104/datas/profile.jpg"
+        },
+        {
+            "name": "ChelleySherman",
+            "about": "",
+            "photo": "https://graph.facebook.com/10155841749466782/picture?height=180&width=180"
+        },
+        {
+            "name": "Vladimir Storm",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/753/480/datas/profile.png"
+        },
+        {
+            "name": "Lucas Rizzotto",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/457/250/datas/profile.jpg"
+        }
+    ],
+    "built_with": [
+        "ar",
+        "data-visualization",
+        "internet",
+        "magic-leap",
+        "plants",
+        "unity"
+    ],
+    "content_html": "<div>\n<p>PlantMail is a Mixed Reality plant... and nature-based e-mail client!</p>\n<p>Here individual e-mails are displayed as white berries which you can pluck off the plant - the more e-mails you have in your inbox, the larger the plant becomes. Flowers represent messages from people you love. Berries change in size depending on the length of the e-mail. Plants that are not catered to age and die if you ignore them.</p>\n<p>Mixed Reality is an exciting new medium, but for the last few years most applications have been built following 2D graphical user interfaces. We asked ourselves, are paper-based metaphors truly the best way to communicate ideas in this new space? What if we let go of GUIs and tried to develop a new way to think about information representation that's truly inherent to 3D and this new way of understanding reality.</p>\n<p>So we went to nature for inspiration. Literally.</p>\n<p>By creating PlantMail, we designed the first Organic User Interface, making full use of nature-based metaphors to communicate information in software in an entirely new way that's intuitive, charming and healthy.</p>\n<p>This taught us a tremendous amount about generating content for people, and learning intuitive design and interaction through experience. PlantMail wants to become even more powerful, add voice interpretation for email composition, and even bring in some outside social components to see or interact with the plants for or with your shared community. </p>\n<p>What we used:</p>\n<ul>\n<li>More Effective Coroutines: <a href=\"https://assetstore.unity.com/packages/tools/animation/more-effective-coroutines-free-54975\" rel=\"nofollow\">https://assetstore.unity.com/packages/tools/animation/more-effective-coroutines-free-54975</a></li>\n<li>Low Poly Water GPU: <a href=\"https://github.com/danielzeller/Lowpoly-Water-Unity\" rel=\"nofollow\">https://github.com/danielzeller/Lowpoly-Water-Unity</a></li>\n<li>Dust Particles: <a href=\"https://forum.unity.com/threads/new-simple-dust-particle-system.341921/\" rel=\"nofollow\">https://forum.unity.com/threads/new-simple-dust-particle-system.341921/</a></li>\n<li>Procedural Tree Builder: <a href=\"https://github.com/mattatz/unity-procedural-tree\" rel=\"nofollow\">https://github.com/mattatz/unity-procedural-tree</a></li>\n</ul>\n</div>",
+    "content_md": "\nPlantMail is a Mixed Reality plant... and nature-based e-mail client!\n\n\nHere individual e-mails are displayed as white berries which you can pluck off the plant - the more e-mails you have in your inbox, the larger the plant becomes. Flowers represent messages from people you love. Berries change in size depending on the length of the e-mail. Plants that are not catered to age and die if you ignore them.\n\n\nMixed Reality is an exciting new medium, but for the last few years most applications have been built following 2D graphical user interfaces. We asked ourselves, are paper-based metaphors truly the best way to communicate ideas in this new space? What if we let go of GUIs and tried to develop a new way to think about information representation that's truly inherent to 3D and this new way of understanding reality.\n\n\nSo we went to nature for inspiration. Literally.\n\n\nBy creating PlantMail, we designed the first Organic User Interface, making full use of nature-based metaphors to communicate information in software in an entirely new way that's intuitive, charming and healthy.\n\n\nThis taught us a tremendous amount about generating content for people, and learning intuitive design and interaction through experience. PlantMail wants to become even more powerful, add voice interpretation for email composition, and even bring in some outside social components to see or interact with the plants for or with your shared community. \n\n\nWhat we used:\n\n\n* More Effective Coroutines: <https://assetstore.unity.com/packages/tools/animation/more-effective-coroutines-free-54975>\n* Low Poly Water GPU: <https://github.com/danielzeller/Lowpoly-Water-Unity>\n* Dust Particles: <https://forum.unity.com/threads/new-simple-dust-particle-system.341921/>\n* Procedural Tree Builder: <https://github.com/mattatz/unity-procedural-tree>\n\n\n"
+}

@@ -1,0 +1,47 @@
+{
+    "source": "https://devpost.com/software/hololegotoy",
+    "title": "HoloCity",
+    "blurb": "HoloCity is a reconfigurable city simulation tool using Tangible Interface (LEGO/Magnet) and Mixed Reality (HoloLens)",
+    "awards": [],
+    "videos": [],
+    "images": [],
+    "team": [
+        {
+            "name": "Poseidon Ho",
+            "about": "\u2022 Developed real-time simulation and data visualization for holographic coordinate system over tangible interfaces (LEGO).\n\u2022 Developed functions for user to interact and overlay digital information with physical models using virtual inputs/feedbacks.",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/217/233/datas/profile.jpg"
+        },
+        {
+            "name": "deleted deleted",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/5579f9c2a6e80224d388008f7c4ea431?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Han-Chih Kuo",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/d932d47959cc4369deface25e2e16367?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "riaz munshi",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/84ad1e350743cbfc0e670d08602f45a6?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Bolin Zhu",
+            "about": "",
+            "photo": "https://avatars3.githubusercontent.com/u/6730682?height=180&v=4&width=180"
+        },
+        {
+            "name": "Ran Li",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/3e6f1722c7fe2935531200bbd05b2bf1?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        }
+    ],
+    "built_with": [
+        "gausstoys",
+        "lego",
+        "microsoft-hololens"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>There is information on cities, housing, and transportation, all freely available to anyone, but seeing numbers and attributes on paper doesn\u2019t quite translate the reality of what someone actually experiences. Inspired by Minecraft, we wanted to create a more personalized experience of city simulation through the use of Lego blocks and Microsoft HoloLens. </p>\n<h2>What it does</h2>\n<p>Our project allows users to experience real-time simulation of housing and transportation through use of a Hololens. Different colors and sizes of the LEGO blocks represent various types of zoning, such as commercial, residential, government, and nature. Flow and density of traffic in an area is visualized through the color and scale of drawn magnetic fields. Other properties such as capacity, walkability between vehicles and buildings, and many more attributes can be easily presented and understood. This has direct applications both for governments in the sense of city planning, communities for envisioning future projects, and for individuals looking to find the perfect neighborhood to call home.</p>\n<h2>How we built it</h2>\n<p>The scope of our project has 3 main parts: \nModels: Physical objects in the form of LEGOs and magnets, and digital information, such as residential populations and job opportunities.\nViews: Mixed reality view from HoloLens.\nControllers: Gaze, gesture, and voice as inputs in HoloLens. Press, Push, and Drag as inputs for the magnetic system.\nUsers interact with the physical models by reconfiguring the LEGO blocks and manipulating the magnetic blocks. These actions trigger corresponding holograms and overlay digital information in the Hololens.</p>\n<h2>Challenges we ran into</h2>\n<p>For collaboration of a shared hologram with multiple HoloLens, we found it is hard to define the global coordinates, as well as letting player see each other\u2019s interaction in real-time. Initially we Ran spent the entire weekend researching networking (web sockets) between two HoloLens and our physical models (LEGOs and magnets), but due to limited time constraints we decided to instead focus on enhancing an individual user\u2019s interactions (gaze, gesture, and voice) with a HoloLens and the models. </p>\n<h2>Accomplishments that we're proud of</h2>\n<p>Poseidon and Riaz developed the software for Unity with the HoloLens. Han-Chih worked on the magnets and Ran was responsible for the LEGO block integration. Bolin created and maintained the entire design guidelines and user experience between bits and atoms. </p>\n<h2>What we learned</h2>\n<p>In order to trigger digital information on the physical models with virtual inputs using HoloLens, Poseidon and Riaz came up with a grid system overlaying MetaCity, which allows users to combine Gaze and Air Tap to display information and use Voice for searching a specific building. As a whole, we learned a lot about the limitation and application of transforming LEGO blocks and magnet blocks into tangible bits, allowing governments and citizens to do city simulation with an immersive personal experience. </p>\n<h2>What's next for MetaCity</h2>\n<p>First we\u2019re opening all of our source codes, as some of them could be APIs for developers to dive deeper into the applications beyond city simulations. Secondly, we are thinking to make these tools into LEGO and Magnet Developer Kits for kids to create their own cities. The best output of this project might be used by governments, citizens and research labs for collaborative simulation on cities, especially housing and transportation. </p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nThere is information on cities, housing, and transportation, all freely available to anyone, but seeing numbers and attributes on paper doesn\u2019t quite translate the reality of what someone actually experiences. Inspired by Minecraft, we wanted to create a more personalized experience of city simulation through the use of Lego blocks and Microsoft HoloLens. \n\n\n## What it does\n\n\nOur project allows users to experience real-time simulation of housing and transportation through use of a Hololens. Different colors and sizes of the LEGO blocks represent various types of zoning, such as commercial, residential, government, and nature. Flow and density of traffic in an area is visualized through the color and scale of drawn magnetic fields. Other properties such as capacity, walkability between vehicles and buildings, and many more attributes can be easily presented and understood. This has direct applications both for governments in the sense of city planning, communities for envisioning future projects, and for individuals looking to find the perfect neighborhood to call home.\n\n\n## How we built it\n\n\nThe scope of our project has 3 main parts: \nModels: Physical objects in the form of LEGOs and magnets, and digital information, such as residential populations and job opportunities.\nViews: Mixed reality view from HoloLens.\nControllers: Gaze, gesture, and voice as inputs in HoloLens. Press, Push, and Drag as inputs for the magnetic system.\nUsers interact with the physical models by reconfiguring the LEGO blocks and manipulating the magnetic blocks. These actions trigger corresponding holograms and overlay digital information in the Hololens.\n\n\n## Challenges we ran into\n\n\nFor collaboration of a shared hologram with multiple HoloLens, we found it is hard to define the global coordinates, as well as letting player see each other\u2019s interaction in real-time. Initially we Ran spent the entire weekend researching networking (web sockets) between two HoloLens and our physical models (LEGOs and magnets), but due to limited time constraints we decided to instead focus on enhancing an individual user\u2019s interactions (gaze, gesture, and voice) with a HoloLens and the models. \n\n\n## Accomplishments that we're proud of\n\n\nPoseidon and Riaz developed the software for Unity with the HoloLens. Han-Chih worked on the magnets and Ran was responsible for the LEGO block integration. Bolin created and maintained the entire design guidelines and user experience between bits and atoms. \n\n\n## What we learned\n\n\nIn order to trigger digital information on the physical models with virtual inputs using HoloLens, Poseidon and Riaz came up with a grid system overlaying MetaCity, which allows users to combine Gaze and Air Tap to display information and use Voice for searching a specific building. As a whole, we learned a lot about the limitation and application of transforming LEGO blocks and magnet blocks into tangible bits, allowing governments and citizens to do city simulation with an immersive personal experience. \n\n\n## What's next for MetaCity\n\n\nFirst we\u2019re opening all of our source codes, as some of them could be APIs for developers to dive deeper into the applications beyond city simulations. Secondly, we are thinking to make these tools into LEGO and Magnet Developer Kits for kids to create their own cities. The best output of this project might be used by governments, citizens and research labs for collaborative simulation on cities, especially housing and transportation. \n\n\n"
+}

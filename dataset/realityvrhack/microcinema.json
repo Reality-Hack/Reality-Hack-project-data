@@ -1,0 +1,22 @@
+{
+    "source": "https://devpost.com/software/microcinema",
+    "title": "microCinema",
+    "blurb": "VR based Cinema Experience",
+    "awards": [],
+    "videos": [],
+    "images": [],
+    "team": [
+        {
+            "name": "Allen Hang",
+            "about": "I am mainly responsible for product management and programming. I learned how to  use the Unity 3D to build VR project and how to use Photon  Realtime and Phton Voice to build multi-player system. ",
+            "photo": "https://www.gravatar.com/avatar/a74f8a3d0f99a660f0956b6cafa8d052?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        }
+    ],
+    "built_with": [
+        "android-studio",
+        "c#",
+        "unity"
+    ],
+    "content_html": "<div>\n<p>Sometimes it is very difficult for us to get together watching a movie, or take part in an activity because we are so busy or maybe in two different regions far away. But when we have some free time, we want to be with our friends or family.</p>\n<p>We try to use Virtual Reality to solve this problem. Virtual Reality is a great technology and specially useful for bridging the gap between us.</p>\n<p>We use Unity 3D Game engine to build our project and we use Google Daydream Headset to test and load our project. Inside the project, we use Photon Realtime for multiplayer game implementation.</p>\n<p>The biggest problem we have met is that none of us have any past experience with Unity 3D design or C# programming experience. We basically start from zero and we have to learn everything in order to achieve our goal. But in less than 48 hours, we made it work. Honestly, it is beyond our initial expectation.</p>\n<p>The project is a VR-based cinema. Multi-users could use our project to watch the same movie and talk to each other. It uses eye-tracking control system so no extra controller needed.</p>\n<p>The most important thing for us is the valuable experience. After the VR hackathon, every one of us in the team knows how to build a VR project.</p>\n<p>In the future, we plan to extend our project not only to the cinema, but also any situation that could use live stream like drama or concert.  We hope we could connect people by sharing fun experience .</p>\n</div>",
+    "content_md": "\nSometimes it is very difficult for us to get together watching a movie, or take part in an activity because we are so busy or maybe in two different regions far away. But when we have some free time, we want to be with our friends or family.\n\n\nWe try to use Virtual Reality to solve this problem. Virtual Reality is a great technology and specially useful for bridging the gap between us.\n\n\nWe use Unity 3D Game engine to build our project and we use Google Daydream Headset to test and load our project. Inside the project, we use Photon Realtime for multiplayer game implementation.\n\n\nThe biggest problem we have met is that none of us have any past experience with Unity 3D design or C# programming experience. We basically start from zero and we have to learn everything in order to achieve our goal. But in less than 48 hours, we made it work. Honestly, it is beyond our initial expectation.\n\n\nThe project is a VR-based cinema. Multi-users could use our project to watch the same movie and talk to each other. It uses eye-tracking control system so no extra controller needed.\n\n\nThe most important thing for us is the valuable experience. After the VR hackathon, every one of us in the team knows how to build a VR project.\n\n\nIn the future, we plan to extend our project not only to the cinema, but also any situation that could use live stream like drama or concert. We hope we could connect people by sharing fun experience .\n\n\n"
+}

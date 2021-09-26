@@ -1,0 +1,57 @@
+{
+    "source": "https://devpost.com/software/arsports",
+    "title": "ARSports",
+    "blurb": "An AR-based sports entertainment experience for the end user",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/cDR55JzGJ5E?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [
+        {
+            "title": "ARSports experience",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/546/908/datas/original.png"
+        },
+        {
+            "title": "ARSports - Ads on blimp",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/546/909/datas/original.jpg"
+        },
+        {
+            "title": "ARSports - Player position view 1",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/546/911/datas/original.jpg"
+        },
+        {
+            "title": "ARSports - Player position view 2",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/546/912/datas/original.jpg"
+        },
+        {
+            "title": "ARSports - Ordering food",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/546/913/datas/original.jpg"
+        },
+        {
+            "title": "ARSports - Scoreboard view",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/546/914/datas/original.jpg"
+        }
+    ],
+    "team": [
+        {
+            "name": "Roman Jaquez",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/543/184/datas/profile.JPG"
+        },
+        {
+            "name": "Lionel Aaron Dsouza",
+            "about": "",
+            "photo": "https://avatars2.githubusercontent.com/u/1692096?height=180&v=4&width=180"
+        }
+    ],
+    "built_with": [
+        "blender",
+        "c#",
+        "microsoft-hololens",
+        "unity",
+        "visual-studio",
+        "windows-10"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>The fact that the sports-watching experience is still constrained to just watching it on TV - what if the user can be also made part of the game and experience it in a more immersive way, where he is interacting with the game and making decisions on how to view it, get information from it - not just limited to what the game broadcast offers, but beyond.</p>\n<h2>What it does</h2>\n<p>Allows the user to have a more immersive experience when it comes to watching any type of sports</p>\n<h2>How we built it</h2>\n<p>Using Unity SDK for Windows 10 as an Augmented Reality application for the Microsoft Hololens.</p>\n<h2>Challenges we ran into</h2>\n<p>Spatial Mapping was a bit challenging, as well as updating to the latest version of the HoloToolkit, integrating voice calls and AI to the food ordering system</p>\n<h2>Accomplishments that we're proud of</h2>\n<p>Getting as much as we did in 2 days, creating cool 3d assets from scratch and getting voice commands in a short period of time</p>\n<h2>What we learned</h2>\n<p>Architecting and structuring an augmented reality, having a deeper understanding in Unity</p>\n<h2>What's next for ARSports</h2>\n<p>Improve on the spatial mapping and space awareness, integrate AI for enhancing the food ordering experience, consuming the realtime, play-by-play sports data api to link it to actual data</p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nThe fact that the sports-watching experience is still constrained to just watching it on TV - what if the user can be also made part of the game and experience it in a more immersive way, where he is interacting with the game and making decisions on how to view it, get information from it - not just limited to what the game broadcast offers, but beyond.\n\n\n## What it does\n\n\nAllows the user to have a more immersive experience when it comes to watching any type of sports\n\n\n## How we built it\n\n\nUsing Unity SDK for Windows 10 as an Augmented Reality application for the Microsoft Hololens.\n\n\n## Challenges we ran into\n\n\nSpatial Mapping was a bit challenging, as well as updating to the latest version of the HoloToolkit, integrating voice calls and AI to the food ordering system\n\n\n## Accomplishments that we're proud of\n\n\nGetting as much as we did in 2 days, creating cool 3d assets from scratch and getting voice commands in a short period of time\n\n\n## What we learned\n\n\nArchitecting and structuring an augmented reality, having a deeper understanding in Unity\n\n\n## What's next for ARSports\n\n\nImprove on the spatial mapping and space awareness, integrate AI for enhancing the food ordering experience, consuming the realtime, play-by-play sports data api to link it to actual data\n\n\n"
+}

@@ -1,0 +1,44 @@
+{
+    "source": "https://devpost.com/software/playground",
+    "title": "playground",
+    "blurb": "A space to try new games, learn new skills, and connect with others",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/1iUn02kz0vg?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "Ata Dogan",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/831/347/datas/profile.jpg"
+        },
+        {
+            "name": "Samip Jain",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/cb3af4a0f249781e425be5428ed1f1d4?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Savanna",
+            "about": "",
+            "photo": "https://avatars0.githubusercontent.com/u/17018224?height=180&v=4&width=180"
+        },
+        {
+            "name": "shrma21294",
+            "about": "",
+            "photo": "https://avatars2.githubusercontent.com/u/26113003?height=180&v=4&width=180"
+        },
+        {
+            "name": "Yolanda Lam",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/a3afa0935d6486278239bbfbc5fe395a?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        }
+    ],
+    "built_with": [
+        "mixed-reality",
+        "steamvr",
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Playground</h2>\n<p>Playground is a space to try new skills and hobbies, and test out their interests in the real world while having fun. In the environment, users can also try out activities that they may not be able to on a regular basis. Playground's goal is to connect users to those in the space who have the same interest and to the places in the real world that can help them learn these fun skills. It's easy to use and a great intro to VR for anyone new!</p>\n<h2>Our mission</h2>\n<p>We are passionate about building environments that can bridge the virtual world with the physical real world by encouraging positive social interactions. Our mission is to help young adults build healthier behaviors, learning habits, and have fun.</p>\n<h2>Inspiration</h2>\n<p>With every emerging technology, we continue to adapt ourselves and our relationships to the digital age. So, how do we use existing technologies to promote a healthier lifestyle and encourage more of that human element that we all need?</p>\n<p>From our research, we found that 18% of the American population in that age range are dealing with depression and many are consulting medical professionals for medication. However, studies have shown that behavioral and activity-based changes can significantly improve levels of dopamine in the brain and are more sustainable methods of improving not only depression but also overall mental wellness.</p>\n<h2>Who we are designing for</h2>\n<p>Our target audience includes young adults, specifically from the ages of 18-25 years old, who experience many new lifestyle changes (e.g. graduating from a safe school community, living on their own, getting married etc.). These new adjustments may take a toll on many of their needs, including their social needs.</p>\n<p>Read Jordan\u2019s story with Playground \u2014\nJordan is 21 years old and a recent graduate. She moved to Boston for her first job and is living on her own for the first time. It\u2019s busy season in the accounting firm she works for and recently, she\u2019s feeling emotional and physically exhausted, losing motivation, and finding it difficult to keep her negative thoughts away. She may not know it yet, but Jordan is displaying common symptoms of mild depression. In the mood for a short and low-commitment game, Jordan opens Playground and starts playing around with axe throwing. She's never tried it and was surprised by how much she enjoyed it. Through Playground, Jordan selects the closest axe throwing bar to her and sends herself an email to get started. Now, Jordan is an axe-throwing enthusiast.</p>\n<h2>How we built it &amp; the technical things</h2>\n<p>Github - <a href=\"https://github.com/RealityVirtually2019/Playground\" rel=\"nofollow\">https://github.com/RealityVirtually2019/Playground</a>\nSDKs - OpenVR\nAPIs - SteamVR\nLibrary - TBD\nList of sourced assets used in our project can be found here - <a href=\"https://goo.gl/U34sUo\" rel=\"nofollow\">https://goo.gl/U34sUo</a></p>\n</div>",
+    "content_md": "\n## Playground\n\n\nPlayground is a space to try new skills and hobbies, and test out their interests in the real world while having fun. In the environment, users can also try out activities that they may not be able to on a regular basis. Playground's goal is to connect users to those in the space who have the same interest and to the places in the real world that can help them learn these fun skills. It's easy to use and a great intro to VR for anyone new!\n\n\n## Our mission\n\n\nWe are passionate about building environments that can bridge the virtual world with the physical real world by encouraging positive social interactions. Our mission is to help young adults build healthier behaviors, learning habits, and have fun.\n\n\n## Inspiration\n\n\nWith every emerging technology, we continue to adapt ourselves and our relationships to the digital age. So, how do we use existing technologies to promote a healthier lifestyle and encourage more of that human element that we all need?\n\n\nFrom our research, we found that 18% of the American population in that age range are dealing with depression and many are consulting medical professionals for medication. However, studies have shown that behavioral and activity-based changes can significantly improve levels of dopamine in the brain and are more sustainable methods of improving not only depression but also overall mental wellness.\n\n\n## Who we are designing for\n\n\nOur target audience includes young adults, specifically from the ages of 18-25 years old, who experience many new lifestyle changes (e.g. graduating from a safe school community, living on their own, getting married etc.). These new adjustments may take a toll on many of their needs, including their social needs.\n\n\nRead Jordan\u2019s story with Playground \u2014\nJordan is 21 years old and a recent graduate. She moved to Boston for her first job and is living on her own for the first time. It\u2019s busy season in the accounting firm she works for and recently, she\u2019s feeling emotional and physically exhausted, losing motivation, and finding it difficult to keep her negative thoughts away. She may not know it yet, but Jordan is displaying common symptoms of mild depression. In the mood for a short and low-commitment game, Jordan opens Playground and starts playing around with axe throwing. She's never tried it and was surprised by how much she enjoyed it. Through Playground, Jordan selects the closest axe throwing bar to her and sends herself an email to get started. Now, Jordan is an axe-throwing enthusiast.\n\n\n## How we built it & the technical things\n\n\nGithub - <https://github.com/RealityVirtually2019/Playground>\nSDKs - OpenVR\nAPIs - SteamVR\nLibrary - TBD\nList of sourced assets used in our project can be found here - <https://goo.gl/U34sUo>\n\n\n"
+}

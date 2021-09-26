@@ -1,0 +1,29 @@
+{
+    "source": "https://devpost.com/software/phosphene-uc1ofl",
+    "title": "Phosphene",
+    "blurb": "1 vs 1 battle with motion and color through a personal narrative",
+    "awards": [],
+    "videos": [],
+    "images": [],
+    "team": [
+        {
+            "name": "Bo Scott Pu",
+            "about": "I worked on the concept with the team, worked on the 3D portion, and animation in Maya. ",
+            "photo": "https://www.gravatar.com/avatar/8c63f0f9950f5b18fb502f0b69fe7c08?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Hanyang Jiang",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/420/687/datas/profile.JPG"
+        }
+    ],
+    "built_with": [
+        "c#",
+        "htcvive",
+        "maya",
+        "photoshop",
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>Our inspiration came from a series of ideas of hoping to return to the age when we were all kids with imaginations running wild. From there we each explored what we enjoyed, and settle on drawing. The freedom of creation in Tilt Brush reminded us how we are able to draw our imagination, and in our concept, something that we can defend ourselves with, protecting and preserving our memories. </p>\n<h2>What it does</h2>\n<p>It is a versus game in HTC Vive where you draw whatever you want, and defend yourself against an enemy AI, who the is the representation of frustration from your childhood</p>\n<h2>How we built it</h2>\n<p>We used mainly Maya and Unity as the platforms to built this prototype experience. </p>\n<h2>Challenges we ran into</h2>\n<p>Because of our abstract concept and art direction, there was a bold challenge of how to tackle and create and animate the 3D models based on the concepts. Also because we are new to Vive development, it is very difficult to debug for us.</p>\n<h2>Accomplishments that we're proud of</h2>\n<p>We were able to overcome these previously mentioned challenges, as well has nurturing our group into a cohesive team and work for 2 days straight.</p>\n<h2>What we learned</h2>\n<p>We learned many things that we through not possible before, Vive development, new techniques within Unity and writing and understanding shaders. And the new techniques of animation in Maya and its pipeline with Unity</p>\n<h2>What's next for Phosphene</h2>\n<p>We are planning to possibly continue this project into something more fully fledged.</p>\n<h2>Team Lead</h2>\n<p>Hanyang Jiang</p>\n<h2>Phone Number of Team Lead</h2>\n<p>216-2334541</p>\n<h2>Location</h2>\n<p>MIT Media Lab, 6th floor, room E14-674, Table 32</p>\n<h2>Category</h2>\n<p>Entertainment/Storytelling (Gaming)</p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nOur inspiration came from a series of ideas of hoping to return to the age when we were all kids with imaginations running wild. From there we each explored what we enjoyed, and settle on drawing. The freedom of creation in Tilt Brush reminded us how we are able to draw our imagination, and in our concept, something that we can defend ourselves with, protecting and preserving our memories. \n\n\n## What it does\n\n\nIt is a versus game in HTC Vive where you draw whatever you want, and defend yourself against an enemy AI, who the is the representation of frustration from your childhood\n\n\n## How we built it\n\n\nWe used mainly Maya and Unity as the platforms to built this prototype experience. \n\n\n## Challenges we ran into\n\n\nBecause of our abstract concept and art direction, there was a bold challenge of how to tackle and create and animate the 3D models based on the concepts. Also because we are new to Vive development, it is very difficult to debug for us.\n\n\n## Accomplishments that we're proud of\n\n\nWe were able to overcome these previously mentioned challenges, as well has nurturing our group into a cohesive team and work for 2 days straight.\n\n\n## What we learned\n\n\nWe learned many things that we through not possible before, Vive development, new techniques within Unity and writing and understanding shaders. And the new techniques of animation in Maya and its pipeline with Unity\n\n\n## What's next for Phosphene\n\n\nWe are planning to possibly continue this project into something more fully fledged.\n\n\n## Team Lead\n\n\nHanyang Jiang\n\n\n## Phone Number of Team Lead\n\n\n216-2334541\n\n\n## Location\n\n\nMIT Media Lab, 6th floor, room E14-674, Table 32\n\n\n## Category\n\n\nEntertainment/Storytelling (Gaming)\n\n\n"
+}

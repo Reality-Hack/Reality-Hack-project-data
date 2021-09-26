@@ -1,0 +1,51 @@
+{
+    "source": "https://devpost.com/software/brain-rap",
+    "title": "Brain Rap ",
+    "blurb": "Brain Rap is Neuro Powered Music - Connect with your audience, Reach your mental flow",
+    "awards": [
+        "Peoples' Choice"
+    ],
+    "videos": [
+        "https://www.youtube.com/embed/mxHDIGcVyNU?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "Jazzy Harvey",
+            "about": "",
+            "photo": "https://media.licdn.com/mpr/mprx/0_xZkvOmL6kSnLpDPX4WZte9bLbxwQp7gexoZcwKWhXxb6p_YIpWMnmvN_LSwiS_jHMjMPYdz_9W6_OYj3H1zVdvvhTW6iOY7k21zVsNvhrWE_OYKiY64AH8ZoBtVf7HO_oHdsy7XWTOBogVxkh4pIad?height=180&width=180"
+        },
+        {
+            "name": "Shivam Patel",
+            "about": "",
+            "photo": "https://avatars1.githubusercontent.com/u/19332955?height=180&v=4&width=180"
+        },
+        {
+            "name": "Centiment",
+            "about": "",
+            "photo": "https://graph.facebook.com/1458330554288092/picture?height=180&width=180"
+        },
+        {
+            "name": "Adam Sauer",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/544/762/datas/profile.jpg"
+        },
+        {
+            "name": "Jordan Clark",
+            "about": "",
+            "photo": "https://avatars0.githubusercontent.com/u/32147999?height=180&v=4&width=180"
+        }
+    ],
+    "built_with": [
+        "emotiv",
+        "htc-vive",
+        "neurable",
+        "neurodata",
+        "node.js",
+        "php",
+        "python",
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Location: Media Lab</h2>\n<h2>Floor: 6th floor</h2>\n<h2>Room: Purple Room</h2>\n<h2>Development Tools: Unity, Python, PHP, Node.js</h2>\n<h2>SDKs:Unity, Neurable</h2>\n<h2>APIs: Centiment API</h2>\n<h2>outsourced assets: n/A</h2>\n<h2>libraries used: numpy, NMe, scikit learm, R, Unity</h2>\n<h2>Pre-existing components: Centiment API</h2>\n<p>library(dplyr) #Data manipulation (also included in the tidyverse package)\nlibrary(tidytext) #Text mining\nlibrary(tidyr) #Spread, separate, unite, text mining (also included in the tidyverse package)\nlibrary(widyr) #Use for pairwise correlation</p>\n<h1>Visualizations!</h1>\n<p>library(ggplot2) #Visualizations (also included in the tidyverse package)\nlibrary(ggrepel) #<code>geom_label_repel</code>\nlibrary(gridExtra) #<code>grid.arrange()</code> for multi-graphs\nlibrary(knitr) #Create nicely formatted output tables\nlibrary(kableExtra) #Create nicely formatted output tables\nlibrary(formattable) #For the color_tile function\nlibrary(circlize) #Visualizations - chord diagram\nrequire(memery) #memes - images with plots\nlibrary(magick) #memes - images with plots (image_read)\nlibrary(yarrr)  #Pirate plot\nlibrary(radarchart) #Visualizations\nlibrary(igraph) #ngram network diagrams\nlibrary(ggraph) #ngram network diagrams library(sentimentr)\nlibrary(DataCombine)</p>\n<hr/>\n<h2>Inspiration</h2>\n<p>Brain Rap is inspired by the mis-characterization of Black music artists and interactive musical change.</p>\n<h2>What it does</h2>\n<p>Brain Rap uses EEG, emotion, and live performance to sharpen efficacy and performance skills for musicians. Not only does it enhance the creativity of artists through emotional response, but also the awareness of self on stage. By analyzing data captured with Brain Rap, musicians are able to tailor their performance. Brain rap takes out the guess work of what is working and what is not, leaving more time for the artists to focus on lyrics and performance. The only NAI+ (neuro artificial intelligence) marketing artist development tool on the market.</p>\n<h2>How we built it</h2>\n<p>Brain Rap is built using Emotiv SDK, Unity SDK, Touch Designer SDK, Neurable SDK </p>\n<h2>Challenges we ran into</h2>\n<p>Emotiv SDK didn't work properly, switched to neurable SDK</p>\n<h2>Accomplishments that we're proud of</h2>\n<p>Getting Neurable to work, connecting Centiment API</p>\n<h2>What we learned</h2>\n<p>That the team is strong.</p>\n<h2>What's next for Brain Rap</h2>\n<p>Make this into a commercial product</p>\n</div>",
+    "content_md": "\n## Location: Media Lab\n\n\n## Floor: 6th floor\n\n\n## Room: Purple Room\n\n\n## Development Tools: Unity, Python, PHP, Node.js\n\n\n## SDKs:Unity, Neurable\n\n\n## APIs: Centiment API\n\n\n## outsourced assets: n/A\n\n\n## libraries used: numpy, NMe, scikit learm, R, Unity\n\n\n## Pre-existing components: Centiment API\n\n\nlibrary(dplyr) #Data manipulation (also included in the tidyverse package)\nlibrary(tidytext) #Text mining\nlibrary(tidyr) #Spread, separate, unite, text mining (also included in the tidyverse package)\nlibrary(widyr) #Use for pairwise correlation\n\n\n# Visualizations!\n\n\nlibrary(ggplot2) #Visualizations (also included in the tidyverse package)\nlibrary(ggrepel) #`geom_label_repel`\nlibrary(gridExtra) #`grid.arrange()` for multi-graphs\nlibrary(knitr) #Create nicely formatted output tables\nlibrary(kableExtra) #Create nicely formatted output tables\nlibrary(formattable) #For the color\\_tile function\nlibrary(circlize) #Visualizations - chord diagram\nrequire(memery) #memes - images with plots\nlibrary(magick) #memes - images with plots (image\\_read)\nlibrary(yarrr) #Pirate plot\nlibrary(radarchart) #Visualizations\nlibrary(igraph) #ngram network diagrams\nlibrary(ggraph) #ngram network diagrams library(sentimentr)\nlibrary(DataCombine)\n\n\n\n\n---\n\n\n## Inspiration\n\n\nBrain Rap is inspired by the mis-characterization of Black music artists and interactive musical change.\n\n\n## What it does\n\n\nBrain Rap uses EEG, emotion, and live performance to sharpen efficacy and performance skills for musicians. Not only does it enhance the creativity of artists through emotional response, but also the awareness of self on stage. By analyzing data captured with Brain Rap, musicians are able to tailor their performance. Brain rap takes out the guess work of what is working and what is not, leaving more time for the artists to focus on lyrics and performance. The only NAI+ (neuro artificial intelligence) marketing artist development tool on the market.\n\n\n## How we built it\n\n\nBrain Rap is built using Emotiv SDK, Unity SDK, Touch Designer SDK, Neurable SDK \n\n\n## Challenges we ran into\n\n\nEmotiv SDK didn't work properly, switched to neurable SDK\n\n\n## Accomplishments that we're proud of\n\n\nGetting Neurable to work, connecting Centiment API\n\n\n## What we learned\n\n\nThat the team is strong.\n\n\n## What's next for Brain Rap\n\n\nMake this into a commercial product\n\n\n"
+}

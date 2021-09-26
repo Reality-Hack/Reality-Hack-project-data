@@ -1,0 +1,26 @@
+{
+    "source": "https://devpost.com/software/vision",
+    "title": "Vision",
+    "blurb": "Using mixed reality for natural world color reassignment for people with color deficiencies",
+    "awards": [],
+    "videos": [],
+    "images": [],
+    "team": [
+        {
+            "name": "Kay Igwe",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/209/306/datas/profile.png"
+        },
+        {
+            "name": "Snowonbamboo Du",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/59c9ddf768ffdecea4c99f32683bbdf6?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        }
+    ],
+    "built_with": [
+        "microsoft-hololens",
+        "unity"
+    ],
+    "content_html": "<div>\n<p>Kay Igwe\n<a href=\"mailto:kci2104@columbia.edu\" rel=\"nofollow\">kci2104@columbia.edu</a>\n2813006376\nLocation: Room: 674\nGithub Link: <a href=\"https://github.com/igweckay/HoloLensVideo\" rel=\"nofollow\">https://github.com/igweckay/HoloLensVideo</a></p>\n</div>",
+    "content_md": "\nKay Igwe\n[kci2104@columbia.edu](mailto:kci2104@columbia.edu)\n2813006376\nLocation: Room: 674\nGithub Link: <https://github.com/igweckay/HoloLensVideo>\n\n\n"
+}

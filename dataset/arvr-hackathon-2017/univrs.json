@@ -1,0 +1,28 @@
+{
+    "source": "https://devpost.com/software/univrs",
+    "title": "UniVRs",
+    "blurb": "A WEbVR-based game where you collect items & connect with other people around the world",
+    "awards": [],
+    "videos": [],
+    "images": [],
+    "team": [
+        {
+            "name": "M. Adlan Ramly",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/538/657/datas/profile.png"
+        },
+        {
+            "name": "Lily Z.",
+            "about": "",
+            "photo": "https://avatars0.githubusercontent.com/u/10191088?height=180&v=4&width=180"
+        }
+    ],
+    "built_with": [
+        "javascript",
+        "magicavoxel",
+        "three.js",
+        "vive"
+    ],
+    "content_html": "<div>\n<p>The world of virtual reality is a great platform to meet new people around the world with different backgrounds. There are many exclusive items &amp; decorations to collect based on geospatial location.</p>\n<p>Each player will have their own decorable home. Players can grow their distinct plants in their farm. They can sell it in the store or trade it to other players from different countries.</p>\n<p>The meeting space is a place where you can visit other player's home and where you can receive visitors of your home.</p>\n<p>Currently we are just 2 people working on this project. We won't have all the desired features at the end of the hackathon and we will try our best for the hackathon. We will continue the project after the hackathon ends.</p>\n</div>",
+    "content_md": "\nThe world of virtual reality is a great platform to meet new people around the world with different backgrounds. There are many exclusive items & decorations to collect based on geospatial location.\n\n\nEach player will have their own decorable home. Players can grow their distinct plants in their farm. They can sell it in the store or trade it to other players from different countries.\n\n\nThe meeting space is a place where you can visit other player's home and where you can receive visitors of your home.\n\n\nCurrently we are just 2 people working on this project. We won't have all the desired features at the end of the hackathon and we will try our best for the hackathon. We will continue the project after the hackathon ends.\n\n\n"
+}

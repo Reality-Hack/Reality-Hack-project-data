@@ -1,0 +1,50 @@
+{
+    "source": "https://devpost.com/software/dragon-accord",
+    "title": "Dragon Accord",
+    "blurb": "Augmented Reality meets spatially aware audio painting and sequencing tool for artists.",
+    "awards": [],
+    "videos": [
+        "https://player.vimeo.com/video/195568207?byline=0&portrait=0&title=0#t="
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "Scott Niejadlik",
+            "about": "The root of this project was an Idea I came up with at about 4am at the previous hololens hackathon.  It's been stuck in my head and I really wanted to make it a reality.  I was the primary developer, and hololens engineer.  I was working in Unity and C# to help create the immersive audible and visual experience that I imagined.",
+            "photo": "https://lh3.googleusercontent.com/a-/AOh14GiY3WX8vYskRERZ8mqDEx8TqszGipo1hZzuyH3R4A?height=180&width=180"
+        },
+        {
+            "name": "Costas Frost",
+            "about": "I worked on the graphics, I created UI elements, animations, particle effects.  Sweet butterflies.",
+            "photo": "https://avatars2.githubusercontent.com/u/7755346?height=180&v=3&width=180"
+        },
+        {
+            "name": "Matthew Silverstein",
+            "about": "Created all audio clips. ",
+            "photo": "https://www.gravatar.com/avatar/db0f7e561e538ef1c858dcb591e11bc6?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Jameson Nash",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/8af4d5971a2308b86a94f58fb98129c5?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Max Harper",
+            "about": "",
+            "photo": "https://media.licdn.com/mpr/mprx/0_tYf_g3ZFZ5rgIhzYRfzS1v-FMGuhDTV1tsUDRND6p-NTelI1OYBD9nzFs-Pgw-V0teM_rFVbr5_3I5hPZDoxvzRwv5_8I570YDo8YqaQYkn23PN_-yyaO8hBzrMKC54acmm7JEV_XbQ?height=180&width=180"
+        }
+    ],
+    "built_with": [
+        "blender",
+        "c#",
+        "logic",
+        "microsoft-hololens",
+        "midi.js",
+        "photoshop",
+        "substance",
+        "unity",
+        "zbrush"
+    ],
+    "content_html": "<div>\n<p>We felt inspired to create a tool that would allow an artist to paint music in a real world space.  To not only hear the music that they create but also to see it.  </p>\n<p>It utilizes the Hololenses spatial mapping, voice recognition, gesture control, and most importantly 3d spatial audio to create a multi textured environment of audio and colors.  We are basing the audio beats and colors on natural wave forms and color theory to help simulate a visual approach to hearing music.  Mix the with some kick ass animations and effects to tickle your visual and audible cortex</p>\n<p>We built it primarily within Unity and Visual Studio, utilizing Blender for modelling, and Logic Pro X for midi control and pre processing of audio clips.</p>\n<p><a href=\"https://vimeo.com/195568334\" rel=\"nofollow\">https://vimeo.com/195568334</a> -- quick pitch video</p>\n<p><a href=\"https://vimeo.com/195568207\" rel=\"nofollow\">https://vimeo.com/195568207</a> -- raw footage captured during monday demonstrations.</p>\n</div>",
+    "content_md": "\nWe felt inspired to create a tool that would allow an artist to paint music in a real world space. To not only hear the music that they create but also to see it. \n\n\nIt utilizes the Hololenses spatial mapping, voice recognition, gesture control, and most importantly 3d spatial audio to create a multi textured environment of audio and colors. We are basing the audio beats and colors on natural wave forms and color theory to help simulate a visual approach to hearing music. Mix the with some kick ass animations and effects to tickle your visual and audible cortex\n\n\nWe built it primarily within Unity and Visual Studio, utilizing Blender for modelling, and Logic Pro X for midi control and pre processing of audio clips.\n\n\n<https://vimeo.com/195568334> -- quick pitch video\n\n\n<https://vimeo.com/195568207> -- raw footage captured during monday demonstrations.\n\n\n"
+}

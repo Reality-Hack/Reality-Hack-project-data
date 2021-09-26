@@ -1,0 +1,30 @@
+{
+    "source": "https://devpost.com/software/xr44",
+    "title": "XR44 ",
+    "blurb": "In an emergency room, trauma surgeons/Emergency Doc\u2019s are under pressure to evaluate patient as quickly as possible. ",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/wHEmKkNEC3c?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "in2utes",
+            "about": "",
+            "photo": "https://avatars0.githubusercontent.com/u/46495186?height=180&v=4&width=180"
+        },
+        {
+            "name": "Bruce Hecht",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/583/897/datas/profile.png"
+        },
+        {
+            "name": "DewdLabs Wilson-Duncan",
+            "about": "",
+            "photo": "https://avatars3.githubusercontent.com/u/63424456?height=180&v=4&width=180"
+        }
+    ],
+    "built_with": [],
+    "content_html": "<div>\n<h2>In an emergency room, trauma surgeons/Emergency Doc\u2019s are under pressure to evaluate patient as quickly as possible. In cases where more detail review is needed they order a CT scan which is acquired in a different room. Often to review the images they leave the patient to go to the imaging room, this is time consuming and potentially dangerous as they are away from.</h2>\n<h2>The system allows clinicians to review 3D data and collaborate</h2>\n<h2>How we built it: used DICOM images and imported into Vuforia, and exported to the Hololens</h2>\n<h2>Challenges we ran into: data conversion from DICOM to a readable version by Unity/Vuforia</h2>\n<h2>Accomplishments that we're proud of: narrowing the problem and obtaining good sample data to import into the XR environment</h2>\n<h2>What we learned: many are trying to do this, but it is a difficult problem</h2>\n<h2>What's next for XR44 : streamline the workflow to get a medical image into an AR environment.</h2>\n</div>",
+    "content_md": "\n## In an emergency room, trauma surgeons/Emergency Doc\u2019s are under pressure to evaluate patient as quickly as possible. In cases where more detail review is needed they order a CT scan which is acquired in a different room. Often to review the images they leave the patient to go to the imaging room, this is time consuming and potentially dangerous as they are away from.\n\n\n## The system allows clinicians to review 3D data and collaborate\n\n\n## How we built it: used DICOM images and imported into Vuforia, and exported to the Hololens\n\n\n## Challenges we ran into: data conversion from DICOM to a readable version by Unity/Vuforia\n\n\n## Accomplishments that we're proud of: narrowing the problem and obtaining good sample data to import into the XR environment\n\n\n## What we learned: many are trying to do this, but it is a difficult problem\n\n\n## What's next for XR44 : streamline the workflow to get a medical image into an AR environment.\n\n\n"
+}

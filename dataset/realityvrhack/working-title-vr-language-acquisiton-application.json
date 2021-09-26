@@ -1,0 +1,67 @@
+{
+    "source": "https://devpost.com/software/working-title-vr-language-acquisiton-application",
+    "title": "Into the Mountains: A VR Language Immersion Experience",
+    "blurb": "Learning language through immersion and captivating story",
+    "awards": [],
+    "videos": [],
+    "images": [
+        {
+            "title": "An example of one of the future levels",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/424/232/datas/original.jpg"
+        },
+        {
+            "title": "Intro UI: Customized menus so you can choose your language before entering the experience.",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/424/233/datas/original.jpg"
+        },
+        {
+            "title": "Intro UI: Customized menus so you can choose your language before entering the experience.",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/424/234/datas/original.jpg"
+        },
+        {
+            "title": "Intro UI: Customized menus so you can choose your language before entering the experience.",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/424/235/datas/original.jpg"
+        },
+        {
+            "title": "Intro UI: Customized menus so you can choose your language before entering the experience.",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/424/236/datas/original.jpg"
+        },
+        {
+            "title": "Intro UI: Customized menus so you can choose your level of difficulty before entering the experience.",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/424/237/datas/original.jpg"
+        }
+    ],
+    "team": [
+        {
+            "name": "Kiera Johnson",
+            "about": "I created the story and wrote the script that our experience follows. During the process I oversaw story, design, and sound. ",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/420/679/datas/profile.JPG"
+        },
+        {
+            "name": "Matt Maes",
+            "about": "I produced sketches, created the Hard-Surface assets and assisted in overall production flow. ",
+            "photo": "https://www.gravatar.com/avatar/7c1843dc1b10b862dd26b05b174f11e5?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Viraj Rai",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/52f6296ba873aa13c9b26f58e8ffa468?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Alfredo Barzola",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/424/253/datas/profile.JPG"
+        },
+        {
+            "name": "Katy Hamilton",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/bfda3312fab2ab0f275d91fadbdb22dc?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        }
+    ],
+    "built_with": [
+        "audacity",
+        "blender",
+        "unity"
+    ],
+    "content_html": "<div>\n<p>We wanted to make language learning immersive and enjoyable for adults and children alike. </p>\n<h2>Inspiration</h2>\n<p>Currently, language learning is often a chore. One has to block off time in a day to go through programs like Rosetta Stone or DuoLingo, and even with gamification aspects it can still be mundane. How fun is it really to simulate buying groceries or paying for a taxi? We wanted to make an immersive language experience that is enjoyable for the user while fully immersive in the chosen language. We wanted an experience that you would want to explore beautiful levels and solve a mystery, even without the added language learning bonus. Language learning should be immersive, interactive, and enjoyable, and make you look forward to learning more.</p>\n<h2>What it does</h2>\n<p>The program is an immersive language learning adventure. Your mysterious orb host will guide you through beautiful, striking levels as you discover who this mysterious child is and how she is connected to you and where to find her. It is fully in the chosen language with no translations, and you will surprise yourself as you continue through levels of the amount of words and phrases you will begin to recognize through full immersion and repetition of phrases and words in levels. </p>\n<h2>How we built it</h2>\n<p>We mostly used Unity and Blender, with assets from Incompetech and TurboSquid for music and 3D models. </p>\n<h2>Challenges we ran into</h2>\n<p>Our developers had programing experience, but did not have experience with Unity and the game development environment. Because of this, design conversations had to be delayed until proof of deliverability. And since there was a learning curve involved, time constraints were especially felt in this whole process.</p>\n<h2>Accomplishments that we're proud of</h2>\n<p>Our developers are very proud of how much Unity they were able to learn in a short span of time. The fact that we built something that works is always cool! We\u2019re proud of our idea, and we believe it has originality and a lot of future potential. Finally, we built a VR app with no prior experience with VR - something our developers didn\u2019t imagine they\u2019d be doing this weekend! </p>\n<h2>What's next for Into the Mountains: A VR language immersion experience</h2>\n<p>We want to expand our world and create more experiences and levels, as well as polish and finish our current level. </p>\n<h2>Location</h2>\n<p>We're on the third floor. Check us out!</p>\n</div>",
+    "content_md": "\nWe wanted to make language learning immersive and enjoyable for adults and children alike. \n\n\n## Inspiration\n\n\nCurrently, language learning is often a chore. One has to block off time in a day to go through programs like Rosetta Stone or DuoLingo, and even with gamification aspects it can still be mundane. How fun is it really to simulate buying groceries or paying for a taxi? We wanted to make an immersive language experience that is enjoyable for the user while fully immersive in the chosen language. We wanted an experience that you would want to explore beautiful levels and solve a mystery, even without the added language learning bonus. Language learning should be immersive, interactive, and enjoyable, and make you look forward to learning more.\n\n\n## What it does\n\n\nThe program is an immersive language learning adventure. Your mysterious orb host will guide you through beautiful, striking levels as you discover who this mysterious child is and how she is connected to you and where to find her. It is fully in the chosen language with no translations, and you will surprise yourself as you continue through levels of the amount of words and phrases you will begin to recognize through full immersion and repetition of phrases and words in levels. \n\n\n## How we built it\n\n\nWe mostly used Unity and Blender, with assets from Incompetech and TurboSquid for music and 3D models. \n\n\n## Challenges we ran into\n\n\nOur developers had programing experience, but did not have experience with Unity and the game development environment. Because of this, design conversations had to be delayed until proof of deliverability. And since there was a learning curve involved, time constraints were especially felt in this whole process.\n\n\n## Accomplishments that we're proud of\n\n\nOur developers are very proud of how much Unity they were able to learn in a short span of time. The fact that we built something that works is always cool! We\u2019re proud of our idea, and we believe it has originality and a lot of future potential. Finally, we built a VR app with no prior experience with VR - something our developers didn\u2019t imagine they\u2019d be doing this weekend! \n\n\n## What's next for Into the Mountains: A VR language immersion experience\n\n\nWe want to expand our world and create more experiences and levels, as well as polish and finish our current level. \n\n\n## Location\n\n\nWe're on the third floor. Check us out!\n\n\n"
+}

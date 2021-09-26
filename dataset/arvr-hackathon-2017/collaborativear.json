@@ -1,0 +1,68 @@
+{
+    "source": "https://devpost.com/software/collaborativear",
+    "title": "CollaborativeAR",
+    "blurb": "For the first time ever, share a space in AR with other friends, on your iPhone",
+    "awards": [
+        "Best Everyday Mobile AR Hacks - 1st",
+        "1st Prize in Architecture, Engineer, Construction"
+    ],
+    "videos": [
+        "https://www.youtube.com/embed/ciSQxYdzqe8?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [
+        {
+            "title": "Step 1 - Calibration",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/546/954/datas/original.png"
+        },
+        {
+            "title": "Step 2 - Alignment",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/546/953/datas/original.png"
+        },
+        {
+            "title": "Collaborate!",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/546/955/datas/original.png"
+        },
+        {
+            "title": "Same World",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/546/952/datas/original.png"
+        },
+        {
+            "title": "Post Hackathon",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/547/885/datas/original.jpg"
+        }
+    ],
+    "team": [
+        {
+            "name": "Avery Lamp",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/530/883/datas/profile.jpg"
+        },
+        {
+            "name": "Kenneth Friedman",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/321/912/datas/profile.JPG"
+        },
+        {
+            "name": "Abigail Ayers",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/47b2a67ced850f39dcb81b0ed0234b86?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Joe Crotchett",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/546/885/datas/profile.JPG"
+        },
+        {
+            "name": "lingxiao",
+            "about": "",
+            "photo": "https://avatars0.githubusercontent.com/u/1197405?height=180&v=4&width=180"
+        }
+    ],
+    "built_with": [
+        "arkit",
+        "scenekit",
+        "swift"
+    ],
+    "content_html": "<div>\n<h2>Brief Description of Project</h2>\n<p>Currently, Mobile augmented reality (AR) technology doesn\u2019t provide a solution for creating shared AR experiences.  With our platform, mobile AR developers and designers can create a new class of AR experience where multiple collaborators can engage in a shared space.  This has rich applications in education, collaborative working, prototyping, to name a few.  For the first time ever, we have made a strategy that allows for the aligning of worlds in AR experiences, opening the possibilities for AR experiences of all types.</p>\n<h2>Team Members:</h2>\n<p>Abby Ayers, Joseph Crotchett, Kenny Friedman, Avery Lamp, Xiao Ling</p>\n<ul>\n<li>platform: ARKit</li>\n<li>Development Tools: Maya, XCode, Substance Painter, Git</li>\n<li>SDKs: iOS</li>\n<li>APIs: ARKit</li>\n<li>Assets: None</li>\n<li>Libraries: None</li>\n<li>Components not created in this Hackathon;\n    - Code: None\n    - Assets: \n          - Planet Textures - <a href=\"http://planetpixelemporium.com/planets.html\" rel=\"nofollow\">http://planetpixelemporium.com/planets.html</a>\n          - Chess Board - <a href=\"https://github.com/d-ronnqvist/SCNBook-code/tree/obj-c\" rel=\"nofollow\">https://github.com/d-ronnqvist/SCNBook-code/tree/obj-c</a> MIT license</li>\n</ul>\n<h2>License</h2>\n<p>All sample code has an MIT License, but some assets may have a different license. Such exceptions are mentioned in the license that is included with <em>that specific</em> sample project.</p>\n</div>",
+    "content_md": "\n## Brief Description of Project\n\n\nCurrently, Mobile augmented reality (AR) technology doesn\u2019t provide a solution for creating shared AR experiences. With our platform, mobile AR developers and designers can create a new class of AR experience where multiple collaborators can engage in a shared space. This has rich applications in education, collaborative working, prototyping, to name a few. For the first time ever, we have made a strategy that allows for the aligning of worlds in AR experiences, opening the possibilities for AR experiences of all types.\n\n\n## Team Members:\n\n\nAbby Ayers, Joseph Crotchett, Kenny Friedman, Avery Lamp, Xiao Ling\n\n\n* platform: ARKit\n* Development Tools: Maya, XCode, Substance Painter, Git\n* SDKs: iOS\n* APIs: ARKit\n* Assets: None\n* Libraries: None\n* Components not created in this Hackathon;\n - Code: None\n - Assets: \n - Planet Textures - <http://planetpixelemporium.com/planets.html>\n - Chess Board - <https://github.com/d-ronnqvist/SCNBook-code/tree/obj-c> MIT license\n\n\n## License\n\n\nAll sample code has an MIT License, but some assets may have a different license. Such exceptions are mentioned in the license that is included with *that specific* sample project.\n\n\n"
+}

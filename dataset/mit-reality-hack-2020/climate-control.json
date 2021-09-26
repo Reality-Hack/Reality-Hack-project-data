@@ -1,0 +1,83 @@
+{
+    "source": "https://devpost.com/software/climate-control",
+    "title": "Climate Control",
+    "blurb": "An immersive VR experience offers a story of hope for our shared future on Earth.",
+    "awards": [],
+    "videos": [
+        "https://player.vimeo.com/video/385867862?byline=0&portrait=0&title=0#t="
+    ],
+    "images": [
+        {
+            "title": "Go solar!",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/449/datas/original.png"
+        },
+        {
+            "title": "Inner peace",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/450/datas/original.png"
+        },
+        {
+            "title": "Permaculture fields",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/343/datas/original.png"
+        },
+        {
+            "title": "Terra and Auccu",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/373/datas/original.png"
+        },
+        {
+            "title": "Team Climate Control",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/384/datas/original.jpg"
+        },
+        {
+            "title": "Hacking af",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/445/datas/original.jpg"
+        },
+        {
+            "title": "In action",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/446/datas/original.jpg"
+        }
+    ],
+    "team": [
+        {
+            "name": "The Bad Lament",
+            "about": "I worked as art director, created assets using Tilt Brush, developing the story and also in Unity placing assets and helping debug. ",
+            "photo": "https://graph.facebook.com/10156556737886644/picture?height=180&width=180"
+        },
+        {
+            "name": "Marlon Romero",
+            "about": "I work in Autodesk Maya and Unity 3D modeling, rigging some assets and the Characters (Terra and Auccu)",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/001/505/255/datas/profile.jpg"
+        },
+        {
+            "name": "Chip Parrish",
+            "about": "I designed the user experience and environment, composed and produced original music, collaborated on script writing and recording, and generated assets in Tilt Brush.",
+            "photo": "https://avatars1.githubusercontent.com/u/3925595?height=180&v=4&width=180"
+        },
+        {
+            "name": "Daniela Aguilar",
+            "about": "I worked with some doing some designs using till brush and free sources like Sketchfab, storytelling, translations, and was used as a character.",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/001/091/569/datas/profile.JPG"
+        },
+        {
+            "name": "Adam Sauer",
+            "about": "I worked in Unity, bringing the assets and objects together to build the overall scenes",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/544/762/datas/profile.jpg"
+        }
+    ],
+    "built_with": [
+        "c#",
+        "eye",
+        "glsl",
+        "hlsl",
+        "htc",
+        "javascript",
+        "maya",
+        "mixamo",
+        "pro",
+        "shaderlab",
+        "tiltbrush",
+        "unity",
+        "vive"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>Upon the principle of doing more with less, Buckminster Fuller designed the geodesic dome, a system that maximizes the structural integrity of a contained, hemispherical volume with minimal material resources organized in triangular patterns. Under domes of glass and steel, artificial biospheres have been cultivated to shelter and sustain life in otherwise inhospitable environments. Our changing climate implores us to reflect on the consequences of our shared impact on the living Earth system and how our grandchildren might fare in the latter half of the 21st century.</p>\n<h2>What it does</h2>\n<p>Climate Control delivers a hopeful story about the resilience of life on Earth to survive, despite the effects of our anthropogenic pollution, or as Fuller framed it: \"nothing but the resources we are not harvesting.\" We must venture beyond only behavioral changes at the individual level and must become stewards of our planet on a societal level now to prevent potential futures of societal collapse from coming to fruition.</p>\n<h2>How we built it</h2>\n<p>Unity/C#, Tilt Brush, Google Poly, Maya, Visual Studio, HTC Vive Pro Eye, Bellus 3D, Adobe Mixamo, Android Voice Recorder, Mixcraft Studio 9, Akai Professional MPK Mini MKII, Freesound.</p>\n<p>Everything in the Biosphere is replicated to focus on real life solutions, used in places like Biosphere 2 in Arizona and how life can be sustainable with the right resources in a climate controlled environment.   </p>\n<h2>Challenges we ran into</h2>\n<p>We began development with Quest then pivoted half way through to Vive Pro Eye. We also recorded both English and Spanish dubs as well as translated text of our script to implement closed captioning for users who are deaf or hard of hearing. We imported a package developed by another group to display these closed captions in our experience and plan to implement this in a future build as ran out of time during the hackathon. We also ran out of time to implement the character animations and create a camera timeline for the piece, so a teleport option was implemented for judging. </p>\n<h2>Accomplishments that we're proud of</h2>\n<p>Writing a plot that constructs a cohesive, compelling narrative for our story to build our world and tell our story. \nDesigning the environment and building an immersive world that offers a glimmer of hope.\nCapturing in 3D two of our team members faces to use as the characters for the narrative. </p>\n<h2>What we learned</h2>\n<p>By our powers combined, we can create a vision for a better world.</p>\n<h2>What's next for Climate Control</h2>\n<p>Our team plans to seek opportunities to further develop and demo this project at festivals around the world to share our story.</p>\n<p>GPL-3.0-or-later</p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nUpon the principle of doing more with less, Buckminster Fuller designed the geodesic dome, a system that maximizes the structural integrity of a contained, hemispherical volume with minimal material resources organized in triangular patterns. Under domes of glass and steel, artificial biospheres have been cultivated to shelter and sustain life in otherwise inhospitable environments. Our changing climate implores us to reflect on the consequences of our shared impact on the living Earth system and how our grandchildren might fare in the latter half of the 21st century.\n\n\n## What it does\n\n\nClimate Control delivers a hopeful story about the resilience of life on Earth to survive, despite the effects of our anthropogenic pollution, or as Fuller framed it: \"nothing but the resources we are not harvesting.\" We must venture beyond only behavioral changes at the individual level and must become stewards of our planet on a societal level now to prevent potential futures of societal collapse from coming to fruition.\n\n\n## How we built it\n\n\nUnity/C#, Tilt Brush, Google Poly, Maya, Visual Studio, HTC Vive Pro Eye, Bellus 3D, Adobe Mixamo, Android Voice Recorder, Mixcraft Studio 9, Akai Professional MPK Mini MKII, Freesound.\n\n\nEverything in the Biosphere is replicated to focus on real life solutions, used in places like Biosphere 2 in Arizona and how life can be sustainable with the right resources in a climate controlled environment. \n\n\n## Challenges we ran into\n\n\nWe began development with Quest then pivoted half way through to Vive Pro Eye. We also recorded both English and Spanish dubs as well as translated text of our script to implement closed captioning for users who are deaf or hard of hearing. We imported a package developed by another group to display these closed captions in our experience and plan to implement this in a future build as ran out of time during the hackathon. We also ran out of time to implement the character animations and create a camera timeline for the piece, so a teleport option was implemented for judging. \n\n\n## Accomplishments that we're proud of\n\n\nWriting a plot that constructs a cohesive, compelling narrative for our story to build our world and tell our story. \nDesigning the environment and building an immersive world that offers a glimmer of hope.\nCapturing in 3D two of our team members faces to use as the characters for the narrative. \n\n\n## What we learned\n\n\nBy our powers combined, we can create a vision for a better world.\n\n\n## What's next for Climate Control\n\n\nOur team plans to seek opportunities to further develop and demo this project at festivals around the world to share our story.\n\n\nGPL-3.0-or-later\n\n\n"
+}

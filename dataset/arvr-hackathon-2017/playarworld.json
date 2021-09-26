@@ -1,0 +1,80 @@
+{
+    "source": "https://devpost.com/software/playarworld",
+    "title": "playARworld - Levels",
+    "blurb": "An active learning AR game that encourages users to move through space. Like Guitar Hero x Temple Run x Pokemon Go.",
+    "awards": [
+        "Merge VR sponsored 2nd prize"
+    ],
+    "videos": [
+        "https://www.youtube.com/embed/F2AaQBxVGos?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [
+        {
+            "title": "Playar World Logo",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/546/679/datas/original.png"
+        },
+        {
+            "title": "Spatial UI",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/546/689/datas/original.png"
+        },
+        {
+            "title": "Progression Logic",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/546/687/datas/original.png"
+        },
+        {
+            "title": "Pass Fail Logic",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/546/686/datas/original.png"
+        },
+        {
+            "title": "Prototype Screenshot",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/546/697/datas/original.png"
+        },
+        {
+            "title": "Collaboration",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/546/758/datas/original.JPG"
+        },
+        {
+            "title": "Ideation",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/546/759/datas/original.JPG"
+        },
+        {
+            "title": "Whiteboard",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/546/748/datas/original.PNG"
+        }
+    ],
+    "team": [
+        {
+            "name": "Kyle Greenberg",
+            "about": "",
+            "photo": "https://avatars2.githubusercontent.com/u/5355055?height=180&v=4&width=180"
+        },
+        {
+            "name": "Hayoun Oh",
+            "about": "",
+            "photo": "https://avatars0.githubusercontent.com/u/18452224?height=180&v=4&width=180"
+        },
+        {
+            "name": "Marcel .",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/959/177/datas/profile.png"
+        },
+        {
+            "name": "Samuel Brewton",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/742/564/datas/profile.png"
+        }
+    ],
+    "built_with": [
+        "arcore",
+        "blood",
+        "creativity",
+        "merge",
+        "merge3d",
+        "mergevr",
+        "sweat",
+        "tears",
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>Seeing learning as central to vocational and self growth, we set out to elevate education. We asked \u201cWhat if we take bring curriculum beyond the edges of books and into physical space?\u201d Through a mind meld hotter than lava, team PlayARWorld is ecstatic to announce the first prototype of this platform \u201cLevels v1.0\u201d</p>\n<h2>What it does</h2>\n<p>PlayARWorld\u2019s Levels is an educational AR game that encourages users to move through space to learn new topics and test themselves.\nPeople are products of their environment and we are empowering people to reach new Levels of learning by upgrading their environment and exploring the possibilities with active and augmented learning. \nThis is also the first step in building an educational game engine where users can upload curriculum to generate tests for themselves or others. Making this open source, we hope people will author their own Levels.</p>\n<p>We see this being used in the education space, training for industry and government, and even for entertainment in social settings like parties.\nPlease take the  first step into the next way of learning with Levels by PlayARWorld.\nFor ages 5 up.</p>\n<h2>How we built it</h2>\n<ul>\n<li>Using Unity as our game development engine</li>\n<li>ARCore on Google Pixel</li>\n<li>Sweat</li>\n<li>Iteration</li>\n</ul>\n<h2>Challenges we ran into</h2>\n<ul>\n<li>Deploying to ARCore to Samsung Galaxy S8</li>\n<li>Examining Mapbox as a Unity plugin that we eventually decided was not core to our minimum viable experience</li>\n<li>Concept solidification</li>\n</ul>\n<h2>Accomplishments that we\u2019re proud of</h2>\n<ul>\n<li>Deploying a build to ARCore</li>\n<li>Collaborating at a high level on a new form of media</li>\n<li>Pushing education and interaction</li>\n</ul>\n<h2>What we learned</h2>\n<ul>\n<li>Unity networking limitations and options</li>\n<li>Vuforia and Merge Cube SDKs </li>\n<li>Mapbox SDK in conjunction with Unity</li>\n<li>Ideation to development</li>\n<li>Deeper knowledge about AR tracking</li>\n<li>Better understanding of the game development process</li>\n</ul>\n<h2>What\u2019s next for playARworld</h2>\n<ol>\n<li>Making Levels an educational game engine by allowing user to upload their own questions and answers</li>\n<li>Implementing a multiplayer setting to make the educational experience social, bringing net-zero sum competition to education in AR</li>\n</ol>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nSeeing learning as central to vocational and self growth, we set out to elevate education. We asked \u201cWhat if we take bring curriculum beyond the edges of books and into physical space?\u201d Through a mind meld hotter than lava, team PlayARWorld is ecstatic to announce the first prototype of this platform \u201cLevels v1.0\u201d\n\n\n## What it does\n\n\nPlayARWorld\u2019s Levels is an educational AR game that encourages users to move through space to learn new topics and test themselves.\nPeople are products of their environment and we are empowering people to reach new Levels of learning by upgrading their environment and exploring the possibilities with active and augmented learning. \nThis is also the first step in building an educational game engine where users can upload curriculum to generate tests for themselves or others. Making this open source, we hope people will author their own Levels.\n\n\nWe see this being used in the education space, training for industry and government, and even for entertainment in social settings like parties.\nPlease take the first step into the next way of learning with Levels by PlayARWorld.\nFor ages 5 up.\n\n\n## How we built it\n\n\n* Using Unity as our game development engine\n* ARCore on Google Pixel\n* Sweat\n* Iteration\n\n\n## Challenges we ran into\n\n\n* Deploying to ARCore to Samsung Galaxy S8\n* Examining Mapbox as a Unity plugin that we eventually decided was not core to our minimum viable experience\n* Concept solidification\n\n\n## Accomplishments that we\u2019re proud of\n\n\n* Deploying a build to ARCore\n* Collaborating at a high level on a new form of media\n* Pushing education and interaction\n\n\n## What we learned\n\n\n* Unity networking limitations and options\n* Vuforia and Merge Cube SDKs\n* Mapbox SDK in conjunction with Unity\n* Ideation to development\n* Deeper knowledge about AR tracking\n* Better understanding of the game development process\n\n\n## What\u2019s next for playARworld\n\n\n1. Making Levels an educational game engine by allowing user to upload their own questions and answers\n2. Implementing a multiplayer setting to make the educational experience social, bringing net-zero sum competition to education in AR\n\n\n"
+}

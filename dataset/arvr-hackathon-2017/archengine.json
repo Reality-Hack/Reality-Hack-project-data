@@ -1,0 +1,45 @@
+{
+    "source": "https://devpost.com/software/archengine",
+    "title": "ArchEngine",
+    "blurb": "Changing the paradigm: construction documents in augmented reality",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/dAAp4ehYJIg?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "tvollaro",
+            "about": "I worked on initial interaction flow, UI design, 3D modeling and annotations in Unity. I also shot the final video.",
+            "photo": "https://avatars0.githubusercontent.com/u/1156830?height=180&v=4&width=180"
+        },
+        {
+            "name": "Adam Chernick",
+            "about": "I was the team Lead. I brought the Idea of Augmented Construction Documents to the Hackathon and was lucky to find a great team!  I did 3D modeling, design, and over saw app functionality and team moral.",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/748/500/datas/profile.jpg"
+        },
+        {
+            "name": "Cale Geffre",
+            "about": "I worked on the main interfacing between our architectural models and animation systems with the  ARKit plugin for Unity. This allowed us to view the structural, mechanical, and furnished design sublayers on in augmented reality on an iPad",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/546/915/datas/profile.jpeg"
+        },
+        {
+            "name": "Liam Tuohy",
+            "about": "I did the basic zooming, layering, and transparency. I did the call out functionality for sectioning off more detailed area. There was some blow up animations that I couldn't get to implementing, but will do for version 2.",
+            "photo": "https://media.licdn.com/dms/image/C5603AQG-pO0dYpPokA/profile-displayphoto-shrink_800_800/0?e=1577923200&height=180&t=YgX6qpDavOcq-ifrSROIfAQPfXFsugRZMBjOe8qa6h0&v=beta&width=180"
+        },
+        {
+            "name": "Peter Procek",
+            "about": "I worked on an initial full-scale implementation of ArchEngine on hololens to project 2D construction documents In physical 3D space. While that endeavor was scrapped at the end, I helped in general team and design guidance, refining design and project goals as well as being the source control tzar, ensuring our team managed proper software source control. ",
+            "photo": "https://media.licdn.com/mpr/mprx/0_Pk1lNqf2cGzaRFxfJzb0KrgDtGDaYcPiJkwl-heDvqw7YFGmvtb01P6DArkPjbCY18blzX5SRqUfjPG0Vc9SyhkTYqUmj1QGMc9tB3luvzmGcLgYzQ8pcvxgOTTYN1A1rNtgr1gL-AF?height=180&width=180"
+        }
+    ],
+    "built_with": [
+        "autodesk-revit",
+        "microsoft-hololens",
+        "unity",
+        "xcode"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>For hundreds of years, buildings have been built with 2D construction documents. Even now, with fully coordinated 3D building information models - we STILL export to 2D documents. This leads to miscommunication, delays and errors.</p>\n<h2>What it does</h2>\n<p>ArchEngine reimagines how architects will convey design intent to builders. It uses Revit, the industry standard design application, to create interactive augmented reality views that can be used to illustrate how architectural details should be built. This allows for multiple people to view a AR view of the scaled model on the iPad. It also allows for builders to view a full scale model in-place for renovation retrofits.</p>\n<h2>How we built it</h2>\n<p>We built a 3D model of the 6th floor of the Media Lab using Autodesk Revit and Maya. \nWe then exported views to FBX into Unity and then compiled for iPad Pro and HoloLens.\nUnity SDKs:  ARKit and Hololens.</p>\n<h2>What's next for ArchEngine</h2>\n<p>Choosing which parts of the model to share and loading geometry on demand from a cloud service.</p>\n<p>Team Lead: Adam Chernick  mobile: 206-330-1295\nTeam Location: 6th floor (by coffee station)</p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nFor hundreds of years, buildings have been built with 2D construction documents. Even now, with fully coordinated 3D building information models - we STILL export to 2D documents. This leads to miscommunication, delays and errors.\n\n\n## What it does\n\n\nArchEngine reimagines how architects will convey design intent to builders. It uses Revit, the industry standard design application, to create interactive augmented reality views that can be used to illustrate how architectural details should be built. This allows for multiple people to view a AR view of the scaled model on the iPad. It also allows for builders to view a full scale model in-place for renovation retrofits.\n\n\n## How we built it\n\n\nWe built a 3D model of the 6th floor of the Media Lab using Autodesk Revit and Maya. \nWe then exported views to FBX into Unity and then compiled for iPad Pro and HoloLens.\nUnity SDKs: ARKit and Hololens.\n\n\n## What's next for ArchEngine\n\n\nChoosing which parts of the model to share and loading geometry on demand from a cloud service.\n\n\nTeam Lead: Adam Chernick mobile: 206-330-1295\nTeam Location: 6th floor (by coffee station)\n\n\n"
+}

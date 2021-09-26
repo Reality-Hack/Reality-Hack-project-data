@@ -1,0 +1,45 @@
+{
+    "source": "https://devpost.com/software/x-waves",
+    "title": "X-Waves",
+    "blurb": "An Augmented Reality(AR) solution for Tourette Syndrome using Magic leap",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/igWwN06Wnvo?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "Sanjit Singh",
+            "about": "Worked on unity and integration with magic leap and mobile version of app",
+            "photo": "https://avatars.githubusercontent.com/u/3290334?height=180&v=3&width=180"
+        },
+        {
+            "name": "Kartik Kinge",
+            "about": "Unity3d game development. Contributed is development of AR experience for Magic Leap.",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/914/754/datas/profile.jpg"
+        },
+        {
+            "name": "Tushar Purang",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/917/768/datas/profile.png"
+        },
+        {
+            "name": "Charles Xu",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/001/563/124/datas/profile.jpg"
+        },
+        {
+            "name": "Yuan Xiao",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/6870c5e99e2b5d6af0ca48c11b2dff91?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        }
+    ],
+    "built_with": [
+        "augmented-reality",
+        "c#",
+        "magic-leap",
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>Tourette Syndrome is a nervous system disorder involving repetitive movements or unwanted sounds. There are more than 200,000 US cases per year and approximately 10-15 percent of those affected have a progressive or disabling course that lasts into adulthood. </p>\n<h2>What it does</h2>\n<p>X-Waves tries to teach a \u201ccompeting response,\u201d which is the essence of habit reversal therapy. Since the brain can\u2019t do two tics in the exact same instant, physical tics can essentially be neutralized over time.</p>\n<p>The user can associate sound patterns to the feeling of comfort felt after doing physical tics, hence creating a reinforcing action that can convert physical tics to mental tics</p>\n<h2>How we built it</h2>\n<p>The project is divided into two parts. The first part detects and engages the experience. The second part involves visuals, audio and haptic feedback to create an experience similar to ASMR. </p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nTourette Syndrome is a nervous system disorder involving repetitive movements or unwanted sounds. There are more than 200,000 US cases per year and approximately 10-15 percent of those affected have a progressive or disabling course that lasts into adulthood. \n\n\n## What it does\n\n\nX-Waves tries to teach a \u201ccompeting response,\u201d which is the essence of habit reversal therapy. Since the brain can\u2019t do two tics in the exact same instant, physical tics can essentially be neutralized over time.\n\n\nThe user can associate sound patterns to the feeling of comfort felt after doing physical tics, hence creating a reinforcing action that can convert physical tics to mental tics\n\n\n## How we built it\n\n\nThe project is divided into two parts. The first part detects and engages the experience. The second part involves visuals, audio and haptic feedback to create an experience similar to ASMR. \n\n\n"
+}

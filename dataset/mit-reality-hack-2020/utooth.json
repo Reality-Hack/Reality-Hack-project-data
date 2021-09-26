@@ -1,0 +1,66 @@
+{
+    "source": "https://devpost.com/software/utooth",
+    "title": "uTooth",
+    "blurb": "uTooth is a framework for Bluetooth communication between Unity and external devices. This is a new tool that allows XR creators to implement peripherals and external devices fast and efficiently.",
+    "awards": [],
+    "videos": [
+        "https://player.vimeo.com/video/385824674?byline=0&portrait=0&title=0#t="
+    ],
+    "images": [
+        {
+            "title": "Plant to Bluetooth to XR",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/217/datas/original.png"
+        },
+        {
+            "title": "We&#39;ve connected a plant with uTooth",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/915/195/datas/original.jpg"
+        },
+        {
+            "title": "Who is this for?",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/222/datas/original.png"
+        },
+        {
+            "title": "Current Pipeline without our framework takes 1 to 3 days of work",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/220/datas/original.png"
+        },
+        {
+            "title": "Pipeline using our framework",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/221/datas/original.png"
+        }
+    ],
+    "team": [
+        {
+            "name": "Pilar Aranda",
+            "about": "Mainly working in the UX design for the demo. I also contributed with some dev work with Unity and interaction design",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/742/764/datas/profile.jpg"
+        },
+        {
+            "name": "Taylor Waddell",
+            "about": "I worked on the serial communication between the Bluetooth/USB to Unity. This involved a lot of backend development and communication protocols... and caffeine ",
+            "photo": "https://avatars1.githubusercontent.com/u/8742247?height=180&v=4&width=180"
+        },
+        {
+            "name": "Alireza Bahremand",
+            "about": "I worked on the back-end with my teammate Taylor. We developed, tested, & debugged several .NET native Bluetooth libraries to integrate microcontroller communication with Unity for XR projects. Additionally, I merged our two separate scenes together (scene building done by M\u00f3nica & Pilar along with Unity BT scene).",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/483/165/datas/profile.jpg"
+        },
+        {
+            "name": "M\u00f3nica Ceisel",
+            "about": "I worked on the plant demo within Unity with my teammate Pilar. This included scripting visual effects and controller mechanics, scene building, debugging, and VR configuration of our project for the Oculus Quest.",
+            "photo": "https://res.cloudinary.com/devpost/image/upload/b_transparent,c_pad,g_center,h_150,w_150/v1484408586/lebi9kyxbe0hzs2vfrpa.jpg?height=180&width=180"
+        }
+    ],
+    "built_with": [
+        "arduino",
+        "c#",
+        "c++",
+        "oculus",
+        "oculusquest",
+        "plant",
+        "raspberry-pi",
+        "sensors",
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>As hackers, as creators, we face the limits of technology often, although there are certain boundaries that we are ready to overcome. In our case, we found a problem we want to solve: we want to connect Reality one device at a time.</p>\n<h2>What it does</h2>\n<p>We\u2019ve created a framework in C++ and C# for Bluetooth communication between Unity and external devices and tested it with Arduino sensors. This is a tool that didn\u2019t exist and allows developers/creators to shorten the implementation time for Bluetooth dramatically. </p>\n<p>To test our framework we created a unique demo where we\u2019ve connected a living plant with different sensors (moisture, humidity, light\u2026) These sensors connect in real-time with a data visualization experience in VR.</p>\n<p>In the demo, the user is able to see and feel how the plant is feeling thanks to a series of particle systems that reflect in real-time the state of our plant.</p>\n<p>You may think that a plant can\u2019t make much difference, but our framework will allow developers, creators and makers to connect all kinds of systems from entire aquaponics vertical farms, new custom made controllers for diversely abled users or new tools for surgeons, among many other uses.</p>\n<h2>How we built it</h2>\n<p>We worked in parallel development. Taylor and Alireza developed, tested, &amp; debugged several .NET native Bluetooth libraries to integrate microcontroller communication with Unity for XR projects. While Pilar and M\u00f3nica worked on the demo scene, search and tweak assets,  and wrote the scripts that will interact with the demo plant. Finally, we merged our two separate scenes together with Unity BT scene and spent time debugging functionality.</p>\n<h2>Challenges we ran into</h2>\n<p>The main issue we ran into was the System.IO.Ports namespace for C#/Unity. For this class it was able to maintain an open BlueTooth connection, it would briefly connect and then drop. We believe this comes from a complex threading issue of how the Serial class maintains its connection. To make sure our project still succeeded we used a USB communication as windows binds these to COM ports the same way it does with BlueTooth. This allowed us to make a framework that works the exact same way. The other issue is since we had a lot of personal hardware there were many different ways in which we had to interface ranging from the sensor data to communication protocols.</p>\n<h2>What we learned</h2>\n<p>We learned a lot about the lower levels of C# programming, and how to use lower-level functions. </p>\n<h2>What's next for uTooth</h2>\n<p>What is next is to either wait till System.IO.Ports is updated our create our own serial communication libraries which may be easier. The data transfer was also much slower than it could be, sending smarter packers and moving around data in a more efficient way would allow for much high fidelity sensors such as videos and audio.</p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nAs hackers, as creators, we face the limits of technology often, although there are certain boundaries that we are ready to overcome. In our case, we found a problem we want to solve: we want to connect Reality one device at a time.\n\n\n## What it does\n\n\nWe\u2019ve created a framework in C++ and C# for Bluetooth communication between Unity and external devices and tested it with Arduino sensors. This is a tool that didn\u2019t exist and allows developers/creators to shorten the implementation time for Bluetooth dramatically. \n\n\nTo test our framework we created a unique demo where we\u2019ve connected a living plant with different sensors (moisture, humidity, light\u2026) These sensors connect in real-time with a data visualization experience in VR.\n\n\nIn the demo, the user is able to see and feel how the plant is feeling thanks to a series of particle systems that reflect in real-time the state of our plant.\n\n\nYou may think that a plant can\u2019t make much difference, but our framework will allow developers, creators and makers to connect all kinds of systems from entire aquaponics vertical farms, new custom made controllers for diversely abled users or new tools for surgeons, among many other uses.\n\n\n## How we built it\n\n\nWe worked in parallel development. Taylor and Alireza developed, tested, & debugged several .NET native Bluetooth libraries to integrate microcontroller communication with Unity for XR projects. While Pilar and M\u00f3nica worked on the demo scene, search and tweak assets, and wrote the scripts that will interact with the demo plant. Finally, we merged our two separate scenes together with Unity BT scene and spent time debugging functionality.\n\n\n## Challenges we ran into\n\n\nThe main issue we ran into was the System.IO.Ports namespace for C#/Unity. For this class it was able to maintain an open BlueTooth connection, it would briefly connect and then drop. We believe this comes from a complex threading issue of how the Serial class maintains its connection. To make sure our project still succeeded we used a USB communication as windows binds these to COM ports the same way it does with BlueTooth. This allowed us to make a framework that works the exact same way. The other issue is since we had a lot of personal hardware there were many different ways in which we had to interface ranging from the sensor data to communication protocols.\n\n\n## What we learned\n\n\nWe learned a lot about the lower levels of C# programming, and how to use lower-level functions. \n\n\n## What's next for uTooth\n\n\nWhat is next is to either wait till System.IO.Ports is updated our create our own serial communication libraries which may be easier. The data transfer was also much slower than it could be, sending smarter packers and moving around data in a more efficient way would allow for much high fidelity sensors such as videos and audio.\n\n\n"
+}

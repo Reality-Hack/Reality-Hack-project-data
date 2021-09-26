@@ -1,0 +1,59 @@
+{
+    "source": "https://devpost.com/software/rising-tide",
+    "title": "Rising Tide",
+    "blurb": "Experience the future effects of climate change as Boston streets flood around you in a hurricane super-storm. ",
+    "awards": [
+        "The Wild West"
+    ],
+    "videos": [
+        "https://www.youtube.com/embed/PxnAjtimAXQ?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [
+        {
+            "title": "Replicate MIT Building 10 Hall",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/431/datas/original.png"
+        },
+        {
+            "title": "Mechanical Tendon Resistance",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/432/datas/original.png"
+        },
+        {
+            "title": "Flood the hall and feel the water rising",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/433/datas/original.png"
+        },
+        {
+            "title": "Underwater Haptics with Contact CI Gloves",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/434/datas/original.png"
+        }
+    ],
+    "team": [
+        {
+            "name": "Liam Broza",
+            "about": "I worked on the world scale XR meshing, code integration, and hardware/software optimization.",
+            "photo": "https://avatars3.githubusercontent.com/u/5104160?height=180&v=3&width=180"
+        },
+        {
+            "name": "Tom Buchanan",
+            "about": "Contact CI haptic glove integration for realistic water interactions. In doing so and bringing the sense of touch to the future of media consumption, higher levels of empathy and understanding can be achieved.",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/918/116/datas/profile.JPG"
+        },
+        {
+            "name": "Grace Ma",
+            "about": "",
+            "photo": "https://avatars1.githubusercontent.com/u/54190353?height=180&v=4&width=180"
+        },
+        {
+            "name": "Claire Chuff",
+            "about": "",
+            "photo": "https://media-exp1.licdn.com/dms/image/C5603AQEYQBuRlopT3Q/profile-displayphoto-shrink_800_800/0?e=1585180800&height=180&t=JAjQFr31Vli9R8W1toofdxgR5wEKbBPewfx2xfhfCjQ&v=beta&width=180"
+        }
+    ],
+    "built_with": [
+        "contact-ci-gloves",
+        "mapbox",
+        "unity",
+        "varjo-xr1"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>What is the future of impact journalism? How do you activate the audience of the future?</p>\n<p>XR offers a whole new way to connect with visceral experience. </p>\n<p>Experience the future effects of climate change as Boston streets flood around you in a hurricane super-storm. </p>\n<h2>What it does</h2>\n<p>Rising Tide is an way to experience a futuristic means of consuming news and media. Our focus for the media and experience is to educate viewers on the future effects of climate change. The viewer is alerted to a news update and can view the article, inside the article they are able to experience a flooding scenario in both AR and VR to put real life context to the large scale problems threatening our planet.</p>\n<h2>How we built it</h2>\n<p>We centered the experience around the extremely rare, unique, and powerful Varjo XR1 to make a unique mixed reality experience. </p>\n<p>We added ContactCI haptic Gloves and a Tesla Suit jacket to add sensory immersion to the experience.</p>\n<p>PLEASE NOTE: WE HAD TO MAKE 2 VIDEOS BECAUSE OF EDIT ISSUES.</p>\n<p>2ND VIDEO: <a href=\"https://youtu.be/Vl69IQYsD1M?t=98\" rel=\"nofollow\">https://youtu.be/Vl69IQYsD1M?t=98</a></p>\n<p>We sought to create a massive scale mixed reality scene all the way to the horizon. To do this we used geodata from Mapbox to create a world scale storm out of the window of the MIT media lab conference center.</p>\n<h2>Challenges we ran into</h2>\n<p>Very few computers run the XR1, we had to try a dozen laptops and workstations over a day and a half to find a computer that could fully run the headset's displays, cameras, and sensors. This set us back for 1/3 of the hack.</p>\n<p>The nature of Unity's IDE makes it very hard to collaborate on engineering and design. We had to do significant rework to get all of our work into prefabs that could be integrated on and combined into a single code base and experience. </p>\n<p>The Varjo XR1 is extremely hard to optimize because it takes a very long time to load up and run. Debugger is even worse. XR1 dev speed is much slower than normal XR headsets.</p>\n<h2>Accomplishments that we are proud of</h2>\n<p>We completed all of the hardest parts of the concept we wanted build despite all of the extreme setbacks. </p>\n<p>We are going to complete the project after the time frame of the hack because the XR1 is such a unique device and we have the opportunity to create something truly novel.</p>\n<h2>What we learned</h2>\n<p>The immense challenge forced us to learn new Unity, design, and teamwork skills.</p>\n<p>We all learned the hard way how to work with alpha hardware and what our expectations should be.</p>\n<p>We all had long hours to meet our schedule and were forced to learn how to be productive without sleep.</p>\n<h2>What's next for Rising Tide</h2>\n<p>We wish to rebuild the experience work anywhere in the world using cloud data.</p>\n<p>We also want to bring Rising Tide to all major XR platforms.</p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nWhat is the future of impact journalism? How do you activate the audience of the future?\n\n\nXR offers a whole new way to connect with visceral experience. \n\n\nExperience the future effects of climate change as Boston streets flood around you in a hurricane super-storm. \n\n\n## What it does\n\n\nRising Tide is an way to experience a futuristic means of consuming news and media. Our focus for the media and experience is to educate viewers on the future effects of climate change. The viewer is alerted to a news update and can view the article, inside the article they are able to experience a flooding scenario in both AR and VR to put real life context to the large scale problems threatening our planet.\n\n\n## How we built it\n\n\nWe centered the experience around the extremely rare, unique, and powerful Varjo XR1 to make a unique mixed reality experience. \n\n\nWe added ContactCI haptic Gloves and a Tesla Suit jacket to add sensory immersion to the experience.\n\n\nPLEASE NOTE: WE HAD TO MAKE 2 VIDEOS BECAUSE OF EDIT ISSUES.\n\n\n2ND VIDEO: <https://youtu.be/Vl69IQYsD1M?t=98>\n\n\nWe sought to create a massive scale mixed reality scene all the way to the horizon. To do this we used geodata from Mapbox to create a world scale storm out of the window of the MIT media lab conference center.\n\n\n## Challenges we ran into\n\n\nVery few computers run the XR1, we had to try a dozen laptops and workstations over a day and a half to find a computer that could fully run the headset's displays, cameras, and sensors. This set us back for 1/3 of the hack.\n\n\nThe nature of Unity's IDE makes it very hard to collaborate on engineering and design. We had to do significant rework to get all of our work into prefabs that could be integrated on and combined into a single code base and experience. \n\n\nThe Varjo XR1 is extremely hard to optimize because it takes a very long time to load up and run. Debugger is even worse. XR1 dev speed is much slower than normal XR headsets.\n\n\n## Accomplishments that we are proud of\n\n\nWe completed all of the hardest parts of the concept we wanted build despite all of the extreme setbacks. \n\n\nWe are going to complete the project after the time frame of the hack because the XR1 is such a unique device and we have the opportunity to create something truly novel.\n\n\n## What we learned\n\n\nThe immense challenge forced us to learn new Unity, design, and teamwork skills.\n\n\nWe all learned the hard way how to work with alpha hardware and what our expectations should be.\n\n\nWe all had long hours to meet our schedule and were forced to learn how to be productive without sleep.\n\n\n## What's next for Rising Tide\n\n\nWe wish to rebuild the experience work anywhere in the world using cloud data.\n\n\nWe also want to bring Rising Tide to all major XR platforms.\n\n\n"
+}

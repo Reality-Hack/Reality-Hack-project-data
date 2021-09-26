@@ -1,0 +1,44 @@
+{
+    "source": "https://devpost.com/software/virtuoso-xr-immersive-music-education",
+    "title": "Virtuoso XR: Immersive Music Education\u2028",
+    "blurb": "Virtuoso XR is an immersive, fun, and tactile platform that hopes to democratize music education - bringing musical concepts intuitively into the real world, and directly onto our instruments",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/NbI2fu8XRjM?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "Andrew Johnson",
+            "about": "I designed, modeled and coded the visible aspects of the UI and feedback FX. I worked with Mike to architect the overall flow and game loop and keep things in scope. I also did the audio design and sequencing for the rhythms. ",
+            "photo": "https://www.gravatar.com/avatar/bbdc8ecfb8f9af48b568386a1d9ebc78?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "varun girdhar",
+            "about": "My Contributions were as follows :",
+            "photo": "https://lh4.googleusercontent.com/-WPYgmZ9b5O0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn730vLLD6nExWfVtixPXoXH8ETWw/s96-c/c/photo.jpg?height=180&width=180"
+        },
+        {
+            "name": "Marlon Fuentes",
+            "about": "I brought subject matter expertise from the field of ethnomusicology to guide pedagogy of learning how to count rhythm using time unit box system. Part of the mission of this app is to bridge cultures by way of rhythm and so my academic background in musical systems of the world allowed me to put together a small three part samba demo for our first interactive lesson. I created midi maps for samba loops and helped design the overall value proposition for this app seeking to solve learner and instructor challenges, create gains, and satisfy job requirements. We identified mathematical learning standards that could be explored as well as social studies and historical lessons. ",
+            "photo": "https://graph.facebook.com/10155750215229904/picture?height=180&width=180"
+        },
+        {
+            "name": "Mike Mandel",
+            "about": "I created the core music systems in C# for the project (importing content from Midi, displaying music patterns, evaluating success, etc) along with the overall progression system that created the gameplay loop.   I also helped provide some of the broad creative vision around the project being a new kind of intuitive education platform.",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/918/382/datas/profile.jpeg"
+        },
+        {
+            "name": "Nicholas Chapa",
+            "about": "",
+            "photo": "https://graph.facebook.com/10110178645853936/picture?height=180&width=180"
+        }
+    ],
+    "built_with": [
+        "drywetmidi",
+        "magic-leap",
+        "unity"
+    ],
+    "content_html": "<div>\n<p>VirtuosoXR is a music education platform that we hope could democratize music education. Performing music is one the greatest joys in the world, but many people do not have access to great musical education or encounter a frustrating learning process that leads them to eventually give up. By augmenting makeshift tabletop surfaces and real instruments (such as drums and guitars), we can create an intuitive and tactile platform for music education. Outside of the classroom, Virtuoso XR is a fun way to learn an instrument, but inside the classroom, we can offer teachers, parents, and students new ways of mastering the fundamentals of musical performance. It is our goal to not only teach musical, mathematical, and cultural concepts, but to increase the agency a student feels when approaching learning, so that after spending time on Virtuoso XR, they feel empowered to create their own music.</p>\n<p>We built a tiny slice of this vision for the hackathon, in the form of a series of lessons designed teach rhythmic concepts from cultures around the world. Our app creates virtual drum targets aligned with a real tabletop, and provides intuitive spatial cues for players to use to hit the targets in time with a series of samba rhythms. After learning about the instrument that produces the sound, they are tasked with performing the rhythm directly on the table. Our experience was inspired by the simplicity and accessibility of Time Unit Box System, a method used by Ethnomusicologists to teach rhythm to musicians without western musical training in reading notation. </p>\n<p>We eventually hope to expand our app to support a wide array of instruments, song content, and lesson packs. We also hope to use volumetric performances from master musicians to provide another layer authentic and intuitive learning to our platform. This is just the beginning!</p>\n</div>",
+    "content_md": "\nVirtuosoXR is a music education platform that we hope could democratize music education. Performing music is one the greatest joys in the world, but many people do not have access to great musical education or encounter a frustrating learning process that leads them to eventually give up. By augmenting makeshift tabletop surfaces and real instruments (such as drums and guitars), we can create an intuitive and tactile platform for music education. Outside of the classroom, Virtuoso XR is a fun way to learn an instrument, but inside the classroom, we can offer teachers, parents, and students new ways of mastering the fundamentals of musical performance. It is our goal to not only teach musical, mathematical, and cultural concepts, but to increase the agency a student feels when approaching learning, so that after spending time on Virtuoso XR, they feel empowered to create their own music.\n\n\nWe built a tiny slice of this vision for the hackathon, in the form of a series of lessons designed teach rhythmic concepts from cultures around the world. Our app creates virtual drum targets aligned with a real tabletop, and provides intuitive spatial cues for players to use to hit the targets in time with a series of samba rhythms. After learning about the instrument that produces the sound, they are tasked with performing the rhythm directly on the table. Our experience was inspired by the simplicity and accessibility of Time Unit Box System, a method used by Ethnomusicologists to teach rhythm to musicians without western musical training in reading notation. \n\n\nWe eventually hope to expand our app to support a wide array of instruments, song content, and lesson packs. We also hope to use volumetric performances from master musicians to provide another layer authentic and intuitive learning to our platform. This is just the beginning!\n\n\n"
+}

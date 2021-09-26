@@ -1,0 +1,47 @@
+{
+    "source": "https://devpost.com/software/xrt",
+    "title": "XRT",
+    "blurb": "From classical paintings to the latest viral image on Tumblr - the art world spills out into the room you're in.",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/X2PjGBLUnOs?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "Nick Savarese",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/743/211/datas/profile.jpg"
+        },
+        {
+            "name": "Mike Yun",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/743/823/datas/profile.jpg"
+        },
+        {
+            "name": "Haoran Chang",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/ec0a15d2589116a16b0da4ed88550893?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Lexi Townsend",
+            "about": "",
+            "photo": "https://avatars0.githubusercontent.com/u/30307583?height=180&v=4&width=180"
+        },
+        {
+            "name": "Travis Ho",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/432/636/datas/profile.PNG"
+        }
+    ],
+    "built_with": [
+        "arkit",
+        "ios",
+        "magic-leap",
+        "unity",
+        "unreal-engine",
+        "vuforia"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>How to use new technologies to revitalize gallery art works? \nWe artwork come to life through Augmented Reality</p>\n<h2>What it does</h2>\n<p>XRT recognizes static images both in real life and on screens to augment and bring artwork to life. 2D animations, 3D animations, and sound will be blended into the static image to create the appearance of movement and dimension to flat images, with intractability.</p>\n<h2>How we built it</h2>\n<p>XRT uses the Magic Leap and Unreal to recognise the images and blend 2D and 3D models, assets and animations into the pre-existing artwork. It also provides the platform in order to view these images in an optimal format.</p>\n<h2>Challenges we ran into</h2>\n<p>Working with a new hardware like the Magic Leap did create challenges based on a lack of experience of the headset in general. Tracking issues in terms of perfection and blending shapes also proved difficult but adaptations were made to fully utilize its current capabilities.</p>\n<h2>Accomplishments that we're proud of</h2>\n<p>Working with a completely new headset as well as developing for 2 different engines and devices is something the team is very proud of. We tried to increase the scope of different applications as well as development opportunities.</p>\n<h2>What we learned</h2>\n<p>Working with the Magic Leap, a headset most of our team hasn't worked with before, provided a great learning opportunity. We also learnt a lot regarding exporting assets from multiple softwares. Scoping is also an important element of hackathons that out team is now very aware of.</p>\n<h2>What's next for XRT</h2>\n<p>XRT aims to utilize the technology to create a completely new digital medium. Instead of moving images (Gifs) when browsing, images will be translated into a 3D and interactive space.</p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nHow to use new technologies to revitalize gallery art works? \nWe artwork come to life through Augmented Reality\n\n\n## What it does\n\n\nXRT recognizes static images both in real life and on screens to augment and bring artwork to life. 2D animations, 3D animations, and sound will be blended into the static image to create the appearance of movement and dimension to flat images, with intractability.\n\n\n## How we built it\n\n\nXRT uses the Magic Leap and Unreal to recognise the images and blend 2D and 3D models, assets and animations into the pre-existing artwork. It also provides the platform in order to view these images in an optimal format.\n\n\n## Challenges we ran into\n\n\nWorking with a new hardware like the Magic Leap did create challenges based on a lack of experience of the headset in general. Tracking issues in terms of perfection and blending shapes also proved difficult but adaptations were made to fully utilize its current capabilities.\n\n\n## Accomplishments that we're proud of\n\n\nWorking with a completely new headset as well as developing for 2 different engines and devices is something the team is very proud of. We tried to increase the scope of different applications as well as development opportunities.\n\n\n## What we learned\n\n\nWorking with the Magic Leap, a headset most of our team hasn't worked with before, provided a great learning opportunity. We also learnt a lot regarding exporting assets from multiple softwares. Scoping is also an important element of hackathons that out team is now very aware of.\n\n\n## What's next for XRT\n\n\nXRT aims to utilize the technology to create a completely new digital medium. Instead of moving images (Gifs) when browsing, images will be translated into a 3D and interactive space.\n\n\n"
+}

@@ -1,0 +1,40 @@
+{
+    "source": "https://devpost.com/software/buddha-box",
+    "title": "CLOUD BREATHER",
+    "blurb": "Let your negative thoughts pass by like clouds in the sky. A breath-responsive underwater VR experience.",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/IVZHirfcqPk?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "nado",
+            "about": "Worked on sound analysis",
+            "photo": "https://graph.facebook.com/2200484376681741/picture?height=180&width=180"
+        },
+        {
+            "name": "Cyrus Vachha",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/b33e2737b71d9aea4593743327e8792c?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "monsieurpyare",
+            "about": "",
+            "photo": "https://avatars0.githubusercontent.com/u/46818484?height=180&v=4&width=180"
+        },
+        {
+            "name": "zibas",
+            "about": "",
+            "photo": "https://avatars3.githubusercontent.com/u/3812875?height=180&v=4&width=180"
+        }
+    ],
+    "built_with": [
+        "audacity",
+        "c#",
+        "poly",
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>\"Between stimulus and response there is a space, in that space lies our power to choose our response, in our response lies our growth and our freedom.\" Viktor Frankel</p>\n<p>Mindfulness-based stress reduction is a technique developed by John Kabat-Zinn at University Mass. Medical Center in 1970s, which focus on attention feelings, thoughts and sensations that flow through individuals. We have focused on breathing technique and use an underwater VR headset for wellness purpose. We explore the use of meditation as a VR experience to help to improve everybody to sharpen their attention.</p>\n<h2>What it does</h2>\n<p>Be weightlessness in water, while being \"somewhere else\" is unique. CLOUD BREATHER is a mind-body experience visualising biofeedback. It can be used for specific therapeutic reasons like teenagers suffering from attention disorder and elderly having anxiety. We are trying to make people detach, objective and non-judgemental to themselves. Then they would be less inclined to fixate, react with negativity or label. </p>\n<h2>How we built it</h2>\n<p>We used Unity.</p>\n<h2>Challenges we ran into is to find the patterns of calmness, through the real-time recordings of the breath.</h2>\n<h2>Accomplishments that we're proud of finding a simple and yet exciting concept to create a fully fledged meditative experience.</h2>\n<h2>What we learned is a VR headset used underwater generates new possibilities of the immersive medium. It pushes the limit and definition of VR. It's the ultimate poetic machine.</h2>\n<h2>What's next for CLOUD BREATHER is to start a collaboration with Mindfulness-based stress reduction's clinics. We want them to implement our underwater VR experience.</h2>\n</div>",
+    "content_md": "\n## Inspiration\n\n\n\"Between stimulus and response there is a space, in that space lies our power to choose our response, in our response lies our growth and our freedom.\" Viktor Frankel\n\n\nMindfulness-based stress reduction is a technique developed by John Kabat-Zinn at University Mass. Medical Center in 1970s, which focus on attention feelings, thoughts and sensations that flow through individuals. We have focused on breathing technique and use an underwater VR headset for wellness purpose. We explore the use of meditation as a VR experience to help to improve everybody to sharpen their attention.\n\n\n## What it does\n\n\nBe weightlessness in water, while being \"somewhere else\" is unique. CLOUD BREATHER is a mind-body experience visualising biofeedback. It can be used for specific therapeutic reasons like teenagers suffering from attention disorder and elderly having anxiety. We are trying to make people detach, objective and non-judgemental to themselves. Then they would be less inclined to fixate, react with negativity or label. \n\n\n## How we built it\n\n\nWe used Unity.\n\n\n## Challenges we ran into is to find the patterns of calmness, through the real-time recordings of the breath.\n\n\n## Accomplishments that we're proud of finding a simple and yet exciting concept to create a fully fledged meditative experience.\n\n\n## What we learned is a VR headset used underwater generates new possibilities of the immersive medium. It pushes the limit and definition of VR. It's the ultimate poetic machine.\n\n\n## What's next for CLOUD BREATHER is to start a collaboration with Mindfulness-based stress reduction's clinics. We want them to implement our underwater VR experience.\n\n\n"
+}

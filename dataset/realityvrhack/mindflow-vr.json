@@ -1,0 +1,40 @@
+{
+    "source": "https://devpost.com/software/mindflow-vr",
+    "title": "MindFlow VR",
+    "blurb": "Guided meditation in VR with realtime respiratory feedback.",
+    "awards": [],
+    "videos": [],
+    "images": [],
+    "team": [
+        {
+            "name": "Sourabh Jain",
+            "about": "Product management, development of business case, programming and ideation support.",
+            "photo": "https://www.gravatar.com/avatar/439c20cd1911a18a52e7adba042c7314?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Tim Gallati",
+            "about": "Team lead, wrote and produced the guided meditation audio, 360 image content",
+            "photo": "https://www.gravatar.com/avatar/999e430e34c28c251b105dea3edb794c?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Shea Rembold",
+            "about": "Unity programming",
+            "photo": "https://www.gravatar.com/avatar/e4607be2b082e4861f4f5566cc45c2fc?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "shylo shepherd",
+            "about": "I worked on the environment,  animations and UI. ",
+            "photo": "https://avatars3.githubusercontent.com/u/5191443?height=180&v=4&width=180"
+        },
+        {
+            "name": "Angelica Tinga",
+            "about": "I worked on the BIOPAC respiratory measurements and testing other physiological measures and integrating the measurements using iMotions software. ",
+            "photo": "https://www.gravatar.com/avatar/d306ff29cdd1091fb265c8dc9330551f?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        }
+    ],
+    "built_with": [
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>ZenZone Gear VR app, Spire respiratory feedback device.</p>\n<h2>What it does</h2>\n<p>Provides realtime respiratory feedback during guided meditations in a VR environment.</p>\n<h2>How we built it</h2>\n<p>We connected a BIOPAC respiratory monitor to an Oculus Rift using iMotions software, and created an immersive VR environment with a soothing guided meditation.</p>\n<h2>Challenges we ran into</h2>\n<p>EEG headset hardware from iMotion did not provide fully accurate readings.  </p>\n<h2>Accomplishments that we're proud of</h2>\n<p>Getting live respiratory biometric data and applying it directly into visualisations in virtual reality.</p>\n<h2>What we learned</h2>\n<h2>What's next for MindFlow VR</h2>\n<p>Engagement with communities in medicine and wellness research.</p>\n<h2>Other Details:</h2>\n<p>Lead name: Tim Gallati\nLead person\u2019s telephone number: 310.442.9391\nLocation: Media Lab\nRoom: E14 - 674\nRoughly where in the room: In the center of the room\nFloor number: 6th floor\nVertical: Human Wellbeing\nBackground Photo and Audio captured and edited by Tim Gallati</p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nZenZone Gear VR app, Spire respiratory feedback device.\n\n\n## What it does\n\n\nProvides realtime respiratory feedback during guided meditations in a VR environment.\n\n\n## How we built it\n\n\nWe connected a BIOPAC respiratory monitor to an Oculus Rift using iMotions software, and created an immersive VR environment with a soothing guided meditation.\n\n\n## Challenges we ran into\n\n\nEEG headset hardware from iMotion did not provide fully accurate readings. \n\n\n## Accomplishments that we're proud of\n\n\nGetting live respiratory biometric data and applying it directly into visualisations in virtual reality.\n\n\n## What we learned\n\n\n## What's next for MindFlow VR\n\n\nEngagement with communities in medicine and wellness research.\n\n\n## Other Details:\n\n\nLead name: Tim Gallati\nLead person\u2019s telephone number: 310.442.9391\nLocation: Media Lab\nRoom: E14 - 674\nRoughly where in the room: In the center of the room\nFloor number: 6th floor\nVertical: Human Wellbeing\nBackground Photo and Audio captured and edited by Tim Gallati\n\n\n"
+}

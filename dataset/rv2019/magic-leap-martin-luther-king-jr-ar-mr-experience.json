@@ -1,0 +1,37 @@
+{
+    "source": "https://devpost.com/software/magic-leap-martin-luther-king-jr-ar-mr-experience",
+    "title": "Magic Leap Martin Luther King Jr. AR MR Experience",
+    "blurb": "I have a dream to Keep MLK Jr's Message Alive for Future Generations in Augmented Reality",
+    "awards": [],
+    "videos": [
+        "https://player.vimeo.com/video/312386490?byline=0&portrait=0&title=0#t="
+    ],
+    "images": [
+        {
+            "title": "MIT HACKATHON MAGIC LEAP MLK JR. TRIBUTE in AR MR XR",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/744/192/datas/original.jpg"
+        },
+        {
+            "title": "MIT HACKATHON MAGIC LEAP MLK JR. TRIBUTE in AR MR XR",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/746/058/datas/original.jpg"
+        }
+    ],
+    "team": [
+        {
+            "name": "Cliff Baldridge",
+            "about": "I just did a Tribute to Martin Luther King Jr in Magic Leap Augmented Mixed Reality Glasses. When you play the Magic Leap App in The Augmented Reality Glasses, a large holographic Video Media Player plays a video MLK Jr. Speech I am streaming from Cloundinary Video Cloud Hosting. You control the Media Player with the Controller and AR Laser Pointer feature. I added his photo also as an Image UI Element.",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/688/416/datas/profile.jpg"
+        }
+    ],
+    "built_with": [
+        "c",
+        "c++",
+        "cloud",
+        "cloudinary",
+        "lumin",
+        "magic-leap",
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>I have a dream to Keep MLK Jr's Message Alive for Future Generations in Augmented Reality and Mixed Reality.</p>\n<h2>What it does</h2>\n<p>I just did a Tribute to Martin Luther King Jr in Magic Leap Augmented Mixed Reality Glasses. When you play the Magic Leap App in The Augmented Reality Glasses, a large holographic Video Media Player plays a video MLK Jr. Speech I am streaming from Cloundinary Video Cloud Hosting. You control the Media Player with the Controller and AR Laser Pointer feature. I added his photo also as an Image UI Element.</p>\n<h2>How I built it</h2>\n<p>Magic Leap Lumin OS, Unity, C, C++, C#</p>\n<h2>Challenges I ran into</h2>\n<p>UI Alignment.</p>\n<h2>Accomplishments that I'm proud of</h2>\n<p>Streaming media from Cloudinary Video Streaming Storage Platform. Creating an experience in Magic Leap for MLK Jr. Day and Social Good Media. Doing projects in Magic Leap AR MR Glasses and having that capability to create and develop now and see the result in the Mixed Reality Spatial Computing Realspace in Realtime. </p>\n<h2>What I learned</h2>\n<p>More Magic Leap Dev understanding.</p>\n<h2>What's next for Magic Leap Martin Luther King Jr. AR MR Experience</h2>\n<p>To Get funding to build this project out more with Animated 3D Objects and more Interaction and visualized realtime data. Integrate Watson Speech to Text and Translate in 7 languages to text on Magic Leap AR Glasses Screen. </p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nI have a dream to Keep MLK Jr's Message Alive for Future Generations in Augmented Reality and Mixed Reality.\n\n\n## What it does\n\n\nI just did a Tribute to Martin Luther King Jr in Magic Leap Augmented Mixed Reality Glasses. When you play the Magic Leap App in The Augmented Reality Glasses, a large holographic Video Media Player plays a video MLK Jr. Speech I am streaming from Cloundinary Video Cloud Hosting. You control the Media Player with the Controller and AR Laser Pointer feature. I added his photo also as an Image UI Element.\n\n\n## How I built it\n\n\nMagic Leap Lumin OS, Unity, C, C++, C#\n\n\n## Challenges I ran into\n\n\nUI Alignment.\n\n\n## Accomplishments that I'm proud of\n\n\nStreaming media from Cloudinary Video Streaming Storage Platform. Creating an experience in Magic Leap for MLK Jr. Day and Social Good Media. Doing projects in Magic Leap AR MR Glasses and having that capability to create and develop now and see the result in the Mixed Reality Spatial Computing Realspace in Realtime. \n\n\n## What I learned\n\n\nMore Magic Leap Dev understanding.\n\n\n## What's next for Magic Leap Martin Luther King Jr. AR MR Experience\n\n\nTo Get funding to build this project out more with Animated 3D Objects and more Interaction and visualized realtime data. Integrate Watson Speech to Text and Translate in 7 languages to text on Magic Leap AR Glasses Screen. \n\n\n"
+}

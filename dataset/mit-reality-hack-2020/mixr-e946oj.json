@@ -1,0 +1,61 @@
+{
+    "source": "https://devpost.com/software/mixr-e946oj",
+    "title": "MiXR - Spatial Synthesizer",
+    "blurb": "Merging the mundane and the abstract with spatial sound in VR.",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/V_XULehu524?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [
+        {
+            "title": "MiXR Studios logo.",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/916/773/datas/original.png"
+        },
+        {
+            "title": "Another view.",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/916/480/datas/original.png"
+        },
+        {
+            "title": "Objects in the space.",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/916/479/datas/original.png"
+        },
+        {
+            "title": "Photo of the team who created this!",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/916/502/datas/original.png"
+        }
+    ],
+    "team": [
+        {
+            "name": "Melissa Schmitz",
+            "about": "I helped develop our initial concept, storyboards, and worked on the neon scene design in Unreal from scratch.",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/001/656/015/datas/profile.jpeg"
+        },
+        {
+            "name": "Ryan Reede",
+            "about": "I helped w/ vizdev, art direction, realtime lighting and scene layout in UE4. I also modeled and textured some assets in Blender!",
+            "photo": "https://avatars0.githubusercontent.com/u/12736540?height=180&v=4&width=180"
+        },
+        {
+            "name": "Nachi Gargi",
+            "about": "I worked on the audio synthesis engines in Unreal Engine as well as VR interactions",
+            "photo": "https://www.gravatar.com/avatar/d3ca85b82feaf69742a77916d2ab101f?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Kevin King",
+            "about": "I worked on the Unreal Engine blueprints, VR input and audio interactions.",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/527/265/datas/profile.jpg"
+        },
+        {
+            "name": "Danlu",
+            "about": "",
+            "photo": "https://graph.facebook.com/3391059957631884/picture?height=180&width=180"
+        }
+    ],
+    "built_with": [
+        "blender",
+        "steamvr",
+        "unreal-engine"
+    ],
+    "content_html": "<div>\n<p>*** <strong>Put on headphones for the video! It is a spatial audio experience!</strong> ***</p>\n<h2>Abstract</h2>\n<p>With MiXR, we set out to use VR technology to create an acousmatic experience unlike anything the real world has to offer. Only through exploration and play do MiXR's underlying systems emerge. MiXR is the ultimate audio-visual synthesizer that maps the unique ways in which individuals move through space to a generative environment.</p>\n<p>With MiXR Studios, everyone is an artist.</p>\n<h2>Design Inspiration</h2>\n<p>We set out to allow people to experience music in an abstract way rather than using 3D representations of real instrument shapes (like floating disks to look like a drum pad, or a set of rectangular keys for a keyboard). Some of our favorite games, such as Beat Saber, allow you to enjoy music through movement. We wanted movement to be at the core of how you explore the sound.</p>\n<p>For the visuals, we wanted to create a world that visually represented the electronica sound of the synthesizer through a vaporwave 80s gamer theme. You start the game within a gamer space where you can interact with the objects in the room, creating sound with them in ways you wouldn't expect, effectively orchestrating a blend between the \"real\" and abstract worlds.</p>\n<h2>What it does</h2>\n<p>Users are placed in a neon-lit studio and are encouraged to interact with objects in the scene. Movement and interaction with each object creates a unique sound that is meant to invoke the feel of the object. </p>\n<h2>How We built it</h2>\n<p>We chose Unreal Engine for the graphics fidelity and the ease of using Blueprints to create logic. Blender was used to create some of the 3D models while some others were either default StarterContent assets from Epic Games or free from CGTrader. Lighting, room layout, and overall design of the space was original. Some audio assets were created in Ableton Live. The full scene composition, however, was built from scratch.</p>\n<p>MiXR builds on the new audio engine introduced in Unreal Engine 4.19 which supports modular and granular synthesis. With full body tracking, we are able to map the entire user's body to parameters of the synthesizer, as well as control shader effects to bring the audio to life.</p>\n<h2>Challenges We ran into</h2>\n<p>Most of us were using Unreal Engine for the first time ever! So we stumbled a bit at first getting things to work. But with the amazing guidance of mentors and a bit of persistence, we made it work!</p>\n<h2>Accomplishments that We're proud of</h2>\n<p>Learning Unreal, custom neon glowing art (without the performance issues!), real-time audio interaction, hand-designed feet, algorithmic chord composition, generative audio, and surviving Git merges.</p>\n<h2>What We learned</h2>\n<p>Most of us were just learning Unreal for the first time, but in particular Blueprints, scene rendering, prepping assets for import, creating emissive materials instead of adding more light to improve VR FPS, editing on sublevels, etc.</p>\n<h2>What's next for Mixr</h2>\n<p>Different environments to match new soundscapes (e.g., greenhouse for meditative, stage for rock, etc.), even more object interactions to modulate sound, and a multiplayer experience.</p>\n</div>",
+    "content_md": "\n*** **Put on headphones for the video! It is a spatial audio experience!** ***\n\n\n## Abstract\n\n\nWith MiXR, we set out to use VR technology to create an acousmatic experience unlike anything the real world has to offer. Only through exploration and play do MiXR's underlying systems emerge. MiXR is the ultimate audio-visual synthesizer that maps the unique ways in which individuals move through space to a generative environment.\n\n\nWith MiXR Studios, everyone is an artist.\n\n\n## Design Inspiration\n\n\nWe set out to allow people to experience music in an abstract way rather than using 3D representations of real instrument shapes (like floating disks to look like a drum pad, or a set of rectangular keys for a keyboard). Some of our favorite games, such as Beat Saber, allow you to enjoy music through movement. We wanted movement to be at the core of how you explore the sound.\n\n\nFor the visuals, we wanted to create a world that visually represented the electronica sound of the synthesizer through a vaporwave 80s gamer theme. You start the game within a gamer space where you can interact with the objects in the room, creating sound with them in ways you wouldn't expect, effectively orchestrating a blend between the \"real\" and abstract worlds.\n\n\n## What it does\n\n\nUsers are placed in a neon-lit studio and are encouraged to interact with objects in the scene. Movement and interaction with each object creates a unique sound that is meant to invoke the feel of the object. \n\n\n## How We built it\n\n\nWe chose Unreal Engine for the graphics fidelity and the ease of using Blueprints to create logic. Blender was used to create some of the 3D models while some others were either default StarterContent assets from Epic Games or free from CGTrader. Lighting, room layout, and overall design of the space was original. Some audio assets were created in Ableton Live. The full scene composition, however, was built from scratch.\n\n\nMiXR builds on the new audio engine introduced in Unreal Engine 4.19 which supports modular and granular synthesis. With full body tracking, we are able to map the entire user's body to parameters of the synthesizer, as well as control shader effects to bring the audio to life.\n\n\n## Challenges We ran into\n\n\nMost of us were using Unreal Engine for the first time ever! So we stumbled a bit at first getting things to work. But with the amazing guidance of mentors and a bit of persistence, we made it work!\n\n\n## Accomplishments that We're proud of\n\n\nLearning Unreal, custom neon glowing art (without the performance issues!), real-time audio interaction, hand-designed feet, algorithmic chord composition, generative audio, and surviving Git merges.\n\n\n## What We learned\n\n\nMost of us were just learning Unreal for the first time, but in particular Blueprints, scene rendering, prepping assets for import, creating emissive materials instead of adding more light to improve VR FPS, editing on sublevels, etc.\n\n\n## What's next for Mixr\n\n\nDifferent environments to match new soundscapes (e.g., greenhouse for meditative, stage for rock, etc.), even more object interactions to modulate sound, and a multiplayer experience.\n\n\n"
+}

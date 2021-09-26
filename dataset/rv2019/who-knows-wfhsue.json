@@ -1,0 +1,23 @@
+{
+    "source": "https://devpost.com/software/who-knows-wfhsue",
+    "title": "Who Knows",
+    "blurb": "AR Diverse Appliance Control",
+    "awards": [],
+    "videos": [],
+    "images": [],
+    "team": [
+        {
+            "name": "Jaxon Welsh",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/6945f010bac7fafcf4bfbd985000ad57?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        }
+    ],
+    "built_with": [
+        "esp32",
+        "google-home",
+        "iot",
+        "vuforia"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>-</p>\n<h2>What it does</h2>\n<h2>How I built it</h2>\n<h2>Challenges I ran into</h2>\n<h2>Accomplishments that I'm proud of</h2>\n<h2>What I learned</h2>\n<h2>What's next for Who Knows</h2>\n</div>",
+    "content_md": "\n## Inspiration\n\n\n-\n\n\n## What it does\n\n\n## How I built it\n\n\n## Challenges I ran into\n\n\n## Accomplishments that I'm proud of\n\n\n## What I learned\n\n\n## What's next for Who Knows\n\n\n"
+}

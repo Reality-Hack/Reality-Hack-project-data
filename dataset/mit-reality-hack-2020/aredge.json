@@ -1,0 +1,78 @@
+{
+    "source": "https://devpost.com/software/aredge",
+    "title": "AREdge",
+    "blurb": "A front line worker solution for training and coordinating complex tasks.",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/wNOU6VpHP88?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [
+        {
+            "title": "New Step by Step Guides with HoloLens 2",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/915/391/datas/original.png"
+        },
+        {
+            "title": "Current Painful experience",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/915/387/datas/original.jpg"
+        },
+        {
+            "title": "Ticket management system integrated with HoloLens 2",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/915/427/datas/original.png"
+        },
+        {
+            "title": "Way Finding experience with HoloLens 2",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/915/425/datas/original.png"
+        },
+        {
+            "title": "Diagnose with HoloLens App ",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/915/449/datas/original.png"
+        },
+        {
+            "title": "Extra Hands from Remote Expert with VR + AR",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/915/404/datas/original.png"
+        },
+        {
+            "title": "Analyse BI after AR Guides and Extra Assistant ",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/915/438/datas/original.png"
+        }
+    ],
+    "team": [
+        {
+            "name": "Chris Garza",
+            "about": "",
+            "photo": "https://media-exp2.licdn.com/dms/image/C4E03AQFFjUMvDks_SA/profile-displayphoto-shrink_800_800/0?e=1584576000&height=180&t=xMrqpBfYW7q0eIZ6poVxiu4upRxdZVx0FeE1mpSSB1k&v=beta&width=180"
+        },
+        {
+            "name": "Robson Beaudry",
+            "about": "",
+            "photo": "https://media-exp2.licdn.com/dms/image/C4E03AQFE798p9akbPA/profile-displayphoto-shrink_800_800/0?e=1584576000&height=180&t=Ya9SFfkKoX3Z0gW5y1Eid2AUb6gPWoS6_il5TYy_dcI&v=beta&width=180"
+        },
+        {
+            "name": "Mandy Xun",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/15975ded2ddb86d6749f2cc6b3562e01?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Laura Riley",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/c66538b4f0c67695c7be0efedf6d5999?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        }
+    ],
+    "built_with": [
+        ".net-core",
+        "azure-functions",
+        "azure-kinect-dk-(boday-tracking)",
+        "azure-pipelines",
+        "dynamics-365-web-api",
+        "github",
+        "holographic-remoting-2.0.18-(nuget)",
+        "hololens-2",
+        "leap-motion-(hand-tracking)",
+        "mrtk-v2.2.0",
+        "office-365-graph-api",
+        "unity-2019.2",
+        "vuforia"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>We\u2019ve all been helped at some point in our lives - whether from instructional material or personally from experts.</p>\n<p>We\u2019ve all had to coordinate with others, and have seen the friction that results.</p>\n<p>We each have a pretty good vantage point on how the future of the workplace will require more rapid training for coming challenges.</p>\n<h2>What it does</h2>\n<p>Streamlines remote worker coordination and training.</p>\n<h2>How we built it</h2>\n<ul>\n<li>First we identified the overarching problem (front line worker training and coordinating), and focused in on a data centre use case.</li>\n<li>We then moved on to ideating solutions, and building a storyboard once we settled on one.</li>\n<li>Identified what could constitute our MVP (and what our highest hopes would be)</li>\n<li>Set up infrastructure and software configuration</li>\n<li>Constructed our demo environment with Microsoft guides. Began integrating Azure and Power BI.</li>\n<li>Set up networking to communicate between a computer (with Leap Motion) and a Hololens.</li>\n<li>Using Leap Motion and Azure Kinect to share point cloud and hands</li>\n<li>Leveraged our mentors to overcome some specific technical issues.</li>\n<li>Consumed massive amounts of caffeine and sugar.</li>\n<li>Test, test, test and iterate</li>\n<li>High fived each other for a great accomplishment!</li>\n</ul>\n<h2>Challenges we ran into</h2>\n<ul>\n<li>Wifi Network Issues (dropped connections, latency and blocked ports on UDP)</li>\n<li>Integrating multiple apps into a single experience</li>\n<li>Identifying the MVP while still using AR capabilities</li>\n<li>Hololens 2 had issues with: Battery life, Connectivity, Crashes (device would lock up and just shut off, requiring a reboot), User management and switching users was a frustrating experience and required many air taps to login to multiple accounts (Windows 10, Office 365, etc.)</li>\n<li>Our team agrees that the Hololens issues we ran into caused delays and risked our ability to show a seamless solution (otherwise, the device is very capable and hand tracking in AR was exceptional!)</li>\n</ul>\n<h2>Accomplishments that we're proud of</h2>\n<ol>\n<li>A comprehensive demonstration of multiple AR experiences which have only recently become a reality</li>\n<li>The team orchestrated the content, framework and an MVP within a short time - we built a startup in just a few days!</li>\n<li>Our solution includes new processes for training and remote collaboration featuring AR capabilities such as hand tracking, remote assistance and tracking progress within a complex business process</li>\n</ol>\n<h2>What we learned</h2>\n<ul>\n<li>Hololens 2 (and AR/VR in general) enables new experiences and possibilities which have never been done before!</li>\n<li>Integrating different data capabilities will be key to the future of enterprise XR</li>\n<li>Experiential on the job training is possible without having an expert physically present</li>\n<li>Working with new tools for shared experiences: Vuforia, Photon, Holographic Remoting</li>\n</ul>\n<h2>What's next for AREdge</h2>\n<ul>\n<li>We will be publishing a whitepaper with Microsoft to document our journey in finding and creating a Mixed Reality experience</li>\n<li>The team expects to continue its open-source contributions and solidify the concepts we created together</li>\n<li>The feedback we are receiving is phenomenal - our shared passion with the community proves we have a marketable idea, thanks to the tremendous potential of Mixed Reality</li>\n</ul>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nWe\u2019ve all been helped at some point in our lives - whether from instructional material or personally from experts.\n\n\nWe\u2019ve all had to coordinate with others, and have seen the friction that results.\n\n\nWe each have a pretty good vantage point on how the future of the workplace will require more rapid training for coming challenges.\n\n\n## What it does\n\n\nStreamlines remote worker coordination and training.\n\n\n## How we built it\n\n\n* First we identified the overarching problem (front line worker training and coordinating), and focused in on a data centre use case.\n* We then moved on to ideating solutions, and building a storyboard once we settled on one.\n* Identified what could constitute our MVP (and what our highest hopes would be)\n* Set up infrastructure and software configuration\n* Constructed our demo environment with Microsoft guides. Began integrating Azure and Power BI.\n* Set up networking to communicate between a computer (with Leap Motion) and a Hololens.\n* Using Leap Motion and Azure Kinect to share point cloud and hands\n* Leveraged our mentors to overcome some specific technical issues.\n* Consumed massive amounts of caffeine and sugar.\n* Test, test, test and iterate\n* High fived each other for a great accomplishment!\n\n\n## Challenges we ran into\n\n\n* Wifi Network Issues (dropped connections, latency and blocked ports on UDP)\n* Integrating multiple apps into a single experience\n* Identifying the MVP while still using AR capabilities\n* Hololens 2 had issues with: Battery life, Connectivity, Crashes (device would lock up and just shut off, requiring a reboot), User management and switching users was a frustrating experience and required many air taps to login to multiple accounts (Windows 10, Office 365, etc.)\n* Our team agrees that the Hololens issues we ran into caused delays and risked our ability to show a seamless solution (otherwise, the device is very capable and hand tracking in AR was exceptional!)\n\n\n## Accomplishments that we're proud of\n\n\n1. A comprehensive demonstration of multiple AR experiences which have only recently become a reality\n2. The team orchestrated the content, framework and an MVP within a short time - we built a startup in just a few days!\n3. Our solution includes new processes for training and remote collaboration featuring AR capabilities such as hand tracking, remote assistance and tracking progress within a complex business process\n\n\n## What we learned\n\n\n* Hololens 2 (and AR/VR in general) enables new experiences and possibilities which have never been done before!\n* Integrating different data capabilities will be key to the future of enterprise XR\n* Experiential on the job training is possible without having an expert physically present\n* Working with new tools for shared experiences: Vuforia, Photon, Holographic Remoting\n\n\n## What's next for AREdge\n\n\n* We will be publishing a whitepaper with Microsoft to document our journey in finding and creating a Mixed Reality experience\n* The team expects to continue its open-source contributions and solidify the concepts we created together\n* The feedback we are receiving is phenomenal - our shared passion with the community proves we have a marketable idea, thanks to the tremendous potential of Mixed Reality\n\n\n"
+}

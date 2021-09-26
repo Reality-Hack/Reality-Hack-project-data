@@ -1,0 +1,40 @@
+{
+    "source": "https://devpost.com/software/sound-spheres",
+    "title": "SoundSpheres",
+    "blurb": "An audio memory visual puzzle where you combine different spheres to create music",
+    "awards": [],
+    "videos": [],
+    "images": [
+        {
+            "title": "Screenshot of our Unity project",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/424/142/datas/original.PNG"
+        }
+    ],
+    "team": [
+        {
+            "name": "Thomas Crane",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/ed103184c79fe6aa48af3efaf3479044?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Andy Tsen",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/2655f805abe120d26884e3a41b2c105e?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "brian xavier",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/ead91e6a4c6d3b4f84ae16a919f3ad4b?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Charity Everett",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/d0fcd55f8df1de83c1eebe8bbf7650d2?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        }
+    ],
+    "built_with": [
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>We love puzzle games and interacting with music and so made a music puzzle game that takes advantage of virtual reality's power of immersion!</p>\n<h2>What it does</h2>\n<p>A musical puzzle game where you have to place the right Sound Spheres on the right beat pillars to match a song.</p>\n<h2>How we built it</h2>\n<p>Utilizing Unity 3D, music creation software, and C# script.</p>\n<h2>Challenges we ran into</h2>\n<p>Our main challenges included how to get physics materials working, setting up the music to effect the environmental displays, and how to incorporate UI into the experience.</p>\n<h2>Accomplishments that we're proud of</h2>\n<p>We are exceptionally proud of the overall aesthetic, the gameplay mechanics, and the link between interactivity and sound. </p>\n<h2>What we learned</h2>\n<p>SO MUCH UNITY! This was a very good experience on </p>\n<h2>What's next for Sound Spheres</h2>\n<p>Maybe we'll get together and finish the experience; build it out into something really spectacular.</p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nWe love puzzle games and interacting with music and so made a music puzzle game that takes advantage of virtual reality's power of immersion!\n\n\n## What it does\n\n\nA musical puzzle game where you have to place the right Sound Spheres on the right beat pillars to match a song.\n\n\n## How we built it\n\n\nUtilizing Unity 3D, music creation software, and C# script.\n\n\n## Challenges we ran into\n\n\nOur main challenges included how to get physics materials working, setting up the music to effect the environmental displays, and how to incorporate UI into the experience.\n\n\n## Accomplishments that we're proud of\n\n\nWe are exceptionally proud of the overall aesthetic, the gameplay mechanics, and the link between interactivity and sound. \n\n\n## What we learned\n\n\nSO MUCH UNITY! This was a very good experience on \n\n\n## What's next for Sound Spheres\n\n\nMaybe we'll get together and finish the experience; build it out into something really spectacular.\n\n\n"
+}

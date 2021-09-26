@@ -1,0 +1,47 @@
+{
+    "source": "https://devpost.com/software/accudrive",
+    "title": "AccuDrive",
+    "blurb": "Bringing robust safety of heads-up display to the distracted masses",
+    "awards": [
+        "Best use of WayRay's True AR SDK"
+    ],
+    "videos": [
+        "https://www.youtube.com/embed/K1FFypjD7PM?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "Brendan Nelligan",
+            "about": "I was responsible for developing the code for calculating driver score, and exporting it to a text document. I was also involved in all other aspects of our code development, since it was a very collaborative effort.",
+            "photo": "https://avatars3.githubusercontent.com/u/27979470?height=180&v=4&width=180"
+        },
+        {
+            "name": "Himanshu Aggarwal",
+            "about": "I was responsible for coding and developing the algorithms for various scenarios that could occur on the road while driving.\nIt was my first time working with True AR SDK and I learned a lot. Worked together with the SDK developers to code and implement new functionalities for our project.",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/739/243/datas/profile.jpg"
+        },
+        {
+            "name": "Vamsi Batchu",
+            "about": "I was responsible for the user experience and to create the use cases associated with the app. Also responsible for brainstorming and ideating sessions. I have also worked on designing the logos and creating 3D models required for the simulation in blender.  ",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/742/542/datas/profile.jpg"
+        },
+        {
+            "name": "Niveditha Gopalkrishna",
+            "about": "I was involved during the ideating/Brainstorming Phase on the design of the application. Since it was a very collaborative effort, I contributed to the Application Coding and Rendering of 3D models. \n",
+            "photo": "https://media.licdn.com/dms/image/C4E03AQFq5mcO8FE6bg/profile-displayphoto-shrink_100_100/0?e=1553126400&height=180&t=rsrxrgIM-Lh67cy6PoQoP9Ph2M9-h-cdPLMNGqaj0q4&v=beta&width=180"
+        },
+        {
+            "name": "Rupesh Pamaihgari",
+            "about": "I was responsible for ideating and developing the algorithms that can track behavior of a driver on road. I have designed architecture and workflow that can combine different APIs to achieve the Holographic representations in screen ",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/747/260/datas/profile.jpeg"
+        }
+    ],
+    "built_with": [
+        "blender",
+        "c++",
+        "html5",
+        "wayray-sdk"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>Every year millions of people die and commit accidents due to unsafe driving behaviors such as overspeeding, irregular lane changing, not following the traffic signals and many more. Right now, there is no platform to monitor driving behaviors and we hope to fill the hole by providing ways to make the road safe for everybody. </p>\n<h2>What it does</h2>\n<p>Using True AR SDK we want to increase awareness of traffic rules and regulations for the drivers by analyzing their driving patterns on the roads and using their historic behavior to create their driving profile and scores. The violations would be penalized and the good behaviors would be rewarded thereby driving them towards good driving patterns.</p>\n<h2>Use Cases</h2>\n<p><strong>Helping People to Drive Better</strong>\nThe primary users for this would be general public who would be benefited the most as good driving behaviors can be embedded via this.</p>\n<p><strong>Automating Driving Tests</strong>\nDriving tests can be automated and the driver\u2019s behavior can be monitored over a period of time to evaluate them.</p>\n<p><strong>Cab Driver performance Monitoring</strong>\nMonitoring Cab drivers to ensure the safety of the passengers and giving them appropriate training based on the scores.</p>\n<p><strong>Insurance companies</strong>\nThese scores can be used by auto insurance companies to evaluate risk and charge monthly premiums accordingly. This could also be used to establish fault for accidents.</p>\n<h2>How we built it</h2>\n<p>It was mainly built using the Android Studio using the TrueAR SDK. We started looking at the documentation of the SDK , listed out all the capabilities which it currently provides and started leveraging those to communicate our ideas. We had 5 main features which utilizes the objects in the simulator and distributed tasks among ourselves. All the programming is done using c++ including features like exporting the simulator data to external text files. The 3D models and assets were built on Sketch and Blender and them imported into the android studio. The Admin dashboard is built using HTML5, CSS.</p>\n<h2>Challenges we ran into</h2>\n<p><strong>SDK</strong>: The biggest challenge for the hackathon was the SDK as it is just 1 month old and still evolving, there is not really much you can accomplish with the features currently available.</p>\n<h2>Accomplishments that we are proud of</h2>\n<ol>\n<li>We are really proud of making the drivers aware of the traffic rules and ensuring that they follow them via our experience.</li>\n<li>We were successfully able to export the driving behaviour scores from the simulator to a text document which is vital.\n3.We were able to detect improper parking and alert the drivers accordingly and there is no technology right now which is capable of doing that.</li>\n</ol>\n<h2>What's next for AccuDrive</h2>\n<ul>\n<li><p>Implementing more complex features such as sharp turns, lane discipline, detection of crashes, one way roads, improper passing to name a few.</p></li>\n<li><p>Leveraging machine learning to detect roads and locations where drivers are most likely to commit an accident based on previous data collected through the SDK.</p></li>\n</ul>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nEvery year millions of people die and commit accidents due to unsafe driving behaviors such as overspeeding, irregular lane changing, not following the traffic signals and many more. Right now, there is no platform to monitor driving behaviors and we hope to fill the hole by providing ways to make the road safe for everybody. \n\n\n## What it does\n\n\nUsing True AR SDK we want to increase awareness of traffic rules and regulations for the drivers by analyzing their driving patterns on the roads and using their historic behavior to create their driving profile and scores. The violations would be penalized and the good behaviors would be rewarded thereby driving them towards good driving patterns.\n\n\n## Use Cases\n\n\n**Helping People to Drive Better**\nThe primary users for this would be general public who would be benefited the most as good driving behaviors can be embedded via this.\n\n\n**Automating Driving Tests**\nDriving tests can be automated and the driver\u2019s behavior can be monitored over a period of time to evaluate them.\n\n\n**Cab Driver performance Monitoring**\nMonitoring Cab drivers to ensure the safety of the passengers and giving them appropriate training based on the scores.\n\n\n**Insurance companies**\nThese scores can be used by auto insurance companies to evaluate risk and charge monthly premiums accordingly. This could also be used to establish fault for accidents.\n\n\n## How we built it\n\n\nIt was mainly built using the Android Studio using the TrueAR SDK. We started looking at the documentation of the SDK , listed out all the capabilities which it currently provides and started leveraging those to communicate our ideas. We had 5 main features which utilizes the objects in the simulator and distributed tasks among ourselves. All the programming is done using c++ including features like exporting the simulator data to external text files. The 3D models and assets were built on Sketch and Blender and them imported into the android studio. The Admin dashboard is built using HTML5, CSS.\n\n\n## Challenges we ran into\n\n\n**SDK**: The biggest challenge for the hackathon was the SDK as it is just 1 month old and still evolving, there is not really much you can accomplish with the features currently available.\n\n\n## Accomplishments that we are proud of\n\n\n1. We are really proud of making the drivers aware of the traffic rules and ensuring that they follow them via our experience.\n2. We were successfully able to export the driving behaviour scores from the simulator to a text document which is vital.\n3.We were able to detect improper parking and alert the drivers accordingly and there is no technology right now which is capable of doing that.\n\n\n## What's next for AccuDrive\n\n\n* Implementing more complex features such as sharp turns, lane discipline, detection of crashes, one way roads, improper passing to name a few.\n* Leveraging machine learning to detect roads and locations where drivers are most likely to commit an accident based on previous data collected through the SDK.\n\n\n"
+}

@@ -1,0 +1,30 @@
+{
+    "source": "https://devpost.com/software/defocusvr",
+    "title": "defocusVR",
+    "blurb": "An immersive experience to help manage chronic pain through ambient media, machine learning and an innovative UI.",
+    "awards": [],
+    "videos": [],
+    "images": [],
+    "team": [
+        {
+            "name": "Alec Ostrander",
+            "about": "",
+            "photo": "https://avatars0.githubusercontent.com/u/28493454?height=180&v=4&width=180"
+        },
+        {
+            "name": "GB Phares",
+            "about": "",
+            "photo": "https://avatars0.githubusercontent.com/u/4850811?height=180&v=4&width=180"
+        }
+    ],
+    "built_with": [
+        "c#",
+        "glsl",
+        "hlsl",
+        "javascript",
+        "shaderlab",
+        "smalltalk"
+    ],
+    "content_html": "<div>\n<p>Team lead: Brett Phares\nTeam name: defocus VR\nTeam lead mobile: 2129040257</p>\n<p>Team members:\nJon Cohrs\nAlec Ostrander\nBrett Phares</p>\n<p>Category:\nHealthcare</p>\n<p>Brief description:\nDefocus is an immersive, surreal experience that helps bed-bound patients manage their chronic pain through the combination of ambient media, biometric profile building and an eyegaze-based UI.</p>\n<p>Location: third floor, E15-358, table number 50</p>\n<p>Environment:\n  Platform: Windows Universal Platform MR Headset, Android\n  Development Tools: Unity 2017.2.0f2-MFRT, Ableton, WaveLab\n  SDKs: HoloToolkit (Microsoft)\n  APIs: Unity API, </p>\n<p>Assets:\nAudio samples from Jon Cohrs;\nEnvironment assets built out of Unity with particle effects and post processing component or out of Unity Asset Store;\nGoogle Blocks models: \u201cPurple Panda\u201d by\u00a0Diekus Gon; \u201cbear\u201d by Kazuya Noshiro; \u201cTrees\u201d by Kyle Dettman;</p>\n<p>Video link: <a href=\"https://vimeo.com/237321748/ba2db0bf6f\" rel=\"nofollow\">https://vimeo.com/237321748/ba2db0bf6f</a></p>\n</div>",
+    "content_md": "\nTeam lead: Brett Phares\nTeam name: defocus VR\nTeam lead mobile: 2129040257\n\n\nTeam members:\nJon Cohrs\nAlec Ostrander\nBrett Phares\n\n\nCategory:\nHealthcare\n\n\nBrief description:\nDefocus is an immersive, surreal experience that helps bed-bound patients manage their chronic pain through the combination of ambient media, biometric profile building and an eyegaze-based UI.\n\n\nLocation: third floor, E15-358, table number 50\n\n\nEnvironment:\n Platform: Windows Universal Platform MR Headset, Android\n Development Tools: Unity 2017.2.0f2-MFRT, Ableton, WaveLab\n SDKs: HoloToolkit (Microsoft)\n APIs: Unity API, \n\n\nAssets:\nAudio samples from Jon Cohrs;\nEnvironment assets built out of Unity with particle effects and post processing component or out of Unity Asset Store;\nGoogle Blocks models: \u201cPurple Panda\u201d by\u00a0Diekus Gon; \u201cbear\u201d by Kazuya Noshiro; \u201cTrees\u201d by Kyle Dettman;\n\n\nVideo link: <https://vimeo.com/237321748/ba2db0bf6f>\n\n\n"
+}

@@ -1,0 +1,47 @@
+{
+    "source": "https://devpost.com/software/gutenberg-ar",
+    "title": "Gutenberg AR",
+    "blurb": "The entire Gutenberg Project (50k public domain books) optimized for AR HoloLens",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/BqSj87ICHEo?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "Jitinder Thakur",
+            "about": "Worked with unity and hololense at kit \nReinstated old code",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/729/711/datas/profile.jpg"
+        },
+        {
+            "name": "Alan Foster",
+            "about": "",
+            "photo": "https://media.licdn.com/dms/image/C5603AQH4xievny0uLQ/profile-displayphoto-shrink_100_100/0?e=1553126400&height=180&t=14iRe8enpptHfjEDFbCnh6OR-49J8EXBB9WR-UXjAhU&v=beta&width=180"
+        },
+        {
+            "name": "Akram Zeyada",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/662/274/datas/profile.jpg"
+        },
+        {
+            "name": "Trang Le",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/0384e3523445e4454dba9e5022c8bf25?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "JIN Thakur",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/383/411/datas/profile.jpg"
+        }
+    ],
+    "built_with": [
+        "ar",
+        "c#",
+        "love",
+        "microsoft-hololens",
+        "mr",
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>Gutenberg AR is designed to reformat and optimize ebooks and other 2D text documents to be searched and experienced using immersive computing and smartglasses.  The project was inspired by LoreBooks, which converted ebooks into 3D holograms, but couldn't be used to navigate different libraries and collections.</p>\n<h2>What it does</h2>\n<p>-Gutenberg AR allows users to surround themselves with a collection of random books pulled from the Gutenberg Project.  This experience is designed to optimize exploration and discovery of new content within the 50,000 public domain collection.</p>\n<h2>How we built it</h2>\n<p>-This project was constructed in Unity on the Microsoft HoloLens with assets from the LoreBooks project.</p>\n<h2>Challenges we ran into</h2>\n<p>-Because the LoreBooks project was created in 2016, it uses older versions of Unity (Unity 5.5.2) and Visual Studio 2015.  A majority of the code had become corrupted or was no longer functioning, which significantly reduced our ability to build on top of the project directly.</p>\n<p>-As a result, our exploration app was created separately until LoreBooks could be integrated with the newest versions of Unity.</p>\n<h2>Accomplishments that we're proud of</h2>\n<p>-Safety for a lot of E-books .\n-Easy to find your way to your E-books .\n-Help a lot of people save time and efforts .\n-Make reading session more comfortable and pace of mind.</p>\n<h2>What we learned</h2>\n<p>-Visual studio coding -  Unity - Vuforia - Web VR</p>\n<h2>What's next for Gutenberg AR</h2>\n<p>-The future goals for Gutenberg AR is to fully integrate the entire 50,000 books to function on AR, so that readers with special needs may use mixed reality headsets and smartglasses to more easily experience literature.  As headsets become cheaper and lighter, the quality of the experience will increase and allow for longer and more comfortable reading sessions.</p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nGutenberg AR is designed to reformat and optimize ebooks and other 2D text documents to be searched and experienced using immersive computing and smartglasses. The project was inspired by LoreBooks, which converted ebooks into 3D holograms, but couldn't be used to navigate different libraries and collections.\n\n\n## What it does\n\n\n-Gutenberg AR allows users to surround themselves with a collection of random books pulled from the Gutenberg Project. This experience is designed to optimize exploration and discovery of new content within the 50,000 public domain collection.\n\n\n## How we built it\n\n\n-This project was constructed in Unity on the Microsoft HoloLens with assets from the LoreBooks project.\n\n\n## Challenges we ran into\n\n\n-Because the LoreBooks project was created in 2016, it uses older versions of Unity (Unity 5.5.2) and Visual Studio 2015. A majority of the code had become corrupted or was no longer functioning, which significantly reduced our ability to build on top of the project directly.\n\n\n-As a result, our exploration app was created separately until LoreBooks could be integrated with the newest versions of Unity.\n\n\n## Accomplishments that we're proud of\n\n\n-Safety for a lot of E-books .\n-Easy to find your way to your E-books .\n-Help a lot of people save time and efforts .\n-Make reading session more comfortable and pace of mind.\n\n\n## What we learned\n\n\n-Visual studio coding - Unity - Vuforia - Web VR\n\n\n## What's next for Gutenberg AR\n\n\n-The future goals for Gutenberg AR is to fully integrate the entire 50,000 books to function on AR, so that readers with special needs may use mixed reality headsets and smartglasses to more easily experience literature. As headsets become cheaper and lighter, the quality of the experience will increase and allow for longer and more comfortable reading sessions.\n\n\n"
+}

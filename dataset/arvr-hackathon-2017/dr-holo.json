@@ -1,0 +1,43 @@
+{
+    "source": "https://devpost.com/software/dr-holo",
+    "title": "Dr. Holo",
+    "blurb": "Hololens AR App that focuses on optimizing patient care and reducing medical errors.",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/Z6ied3XJNgk?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "JulietDiBenedetto",
+            "about": "worked on concept and UI design, in Unity and C#. Worked with team to learn to design for Hololens and for the first time learned to use Mixed Media Toolkit. We are still coding behaviors for the project as I respond to this. Go Hackers!",
+            "photo": "https://avatars0.githubusercontent.com/u/32585184?height=180&v=4&width=180"
+        },
+        {
+            "name": "Samantha Garcia",
+            "about": "Worked on initial UI design. Implemented searching algorithm to retrieve patient information based on MRN. ",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/537/870/datas/profile.jpg"
+        },
+        {
+            "name": "Alec Hoffmann",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/460/892/datas/profile.jpg"
+        },
+        {
+            "name": "Abel Paguio",
+            "about": "",
+            "photo": "https://graph.facebook.com/1683672631651822/picture?height=180&width=180"
+        },
+        {
+            "name": "DennysPelegrin",
+            "about": "",
+            "photo": "https://avatars2.githubusercontent.com/u/17902296?height=180&v=4&width=180"
+        }
+    ],
+    "built_with": [
+        "microsoft-hololens",
+        "unity"
+    ],
+    "content_html": "<div>\n<p>Application:</p>\n<p>-Purpose: Create a Hololens AR App that focuses on optimizing patient care and reduce medical errors. App functions within hospital premises to provide Dr.\u2019s and rotating medical staff \u201chands free\u201d access to interact with patient information on inter-hospital secure medical database. With potential to view Medical Imaging (MRI, Xray, Ultrasound) data in 3D to assist with treatment plan.</p>\n<p>-Design: Hololens- Unity</p>\n<p>-Required Components: UI Database- access and view appropriate patient data- digital patient records- confine app and device (hololens) to secure hospital database- patient information only accessible inter-hospital. Image capture and barcode scan component Input of information- voice to text conversion, scan digital characters on medical devices to text conversion</p>\n<p>-Benefit: Reduce risk of medical errors, nosocomial infections and malpractice Faster and \u201chands free\u201d interface for immediate access to patient information and treatment plan with capability to add new patient information, or update/order treatment plan/schedule/medications, without having to physically handle or flip through paper charts where information can get lost or misplaced. Ability to confirm with the hospital\u2019s secure internal database that the patient and treatment plan are the correct one Ability to monitor patient care inter-hospital and communicate instantly regarding patient care with hospital staff, real time updates</p>\n<p>*<em>We will be leaving on Monday at around 12:30 - 1:00 p.m. *</em></p>\n<p>\u2022 Team Leader: Samantha Garcia</p>\n<p>\u2022 Team Name: Dr. Holo</p>\n<p>\u2022 Team Leader\u2019s Mobile Number: 1 (305) 965-1895</p>\n<p>\u2022 List of all team members:\no   Dennys Arturo Pelegrin Santos\no   Samantha Garcia\no   Alec Hoffmann\no   Juliet DiBenedetto\no   Abel Rakuhana</p>\n<p>\u2022 Category: Healthcare</p>\n<p>\u2022 Brief Description: A Hololens application that focuses on optimizing patient care and reducing medical errors in an emergency room setting. </p>\n<p>\u2022 Location: third floor, E15-315, 53</p>\n<p>\u2022 Environment:\no   Platform: Hololens\no   Development tools: Unity, Hololens Emulator\no   SDKs: Microsoft\u2019s \u201cMixedRealityToolkit-Unity\u201d. <a href=\"https://github.com/Microsoft/MixedRealityToolkit-Unity\" rel=\"nofollow\">https://github.com/Microsoft/MixedRealityToolkit-Unity</a>\no   APIs: none\no   Assets: Personal medical imagery from high field MRI\no   Libraries: none\no   Components not created at hackathon: none</p>\n</div>",
+    "content_md": "\nApplication:\n\n\n-Purpose: Create a Hololens AR App that focuses on optimizing patient care and reduce medical errors. App functions within hospital premises to provide Dr.\u2019s and rotating medical staff \u201chands free\u201d access to interact with patient information on inter-hospital secure medical database. With potential to view Medical Imaging (MRI, Xray, Ultrasound) data in 3D to assist with treatment plan.\n\n\n-Design: Hololens- Unity\n\n\n-Required Components: UI Database- access and view appropriate patient data- digital patient records- confine app and device (hololens) to secure hospital database- patient information only accessible inter-hospital. Image capture and barcode scan component Input of information- voice to text conversion, scan digital characters on medical devices to text conversion\n\n\n-Benefit: Reduce risk of medical errors, nosocomial infections and malpractice Faster and \u201chands free\u201d interface for immediate access to patient information and treatment plan with capability to add new patient information, or update/order treatment plan/schedule/medications, without having to physically handle or flip through paper charts where information can get lost or misplaced. Ability to confirm with the hospital\u2019s secure internal database that the patient and treatment plan are the correct one Ability to monitor patient care inter-hospital and communicate instantly regarding patient care with hospital staff, real time updates\n\n\n**We will be leaving on Monday at around 12:30 - 1:00 p.m. **\n\n\n\u2022 Team Leader: Samantha Garcia\n\n\n\u2022 Team Name: Dr. Holo\n\n\n\u2022 Team Leader\u2019s Mobile Number: 1 (305) 965-1895\n\n\n\u2022 List of all team members:\no Dennys Arturo Pelegrin Santos\no Samantha Garcia\no Alec Hoffmann\no Juliet DiBenedetto\no Abel Rakuhana\n\n\n\u2022 Category: Healthcare\n\n\n\u2022 Brief Description: A Hololens application that focuses on optimizing patient care and reducing medical errors in an emergency room setting. \n\n\n\u2022 Location: third floor, E15-315, 53\n\n\n\u2022 Environment:\no Platform: Hololens\no Development tools: Unity, Hololens Emulator\no SDKs: Microsoft\u2019s \u201cMixedRealityToolkit-Unity\u201d. <https://github.com/Microsoft/MixedRealityToolkit-Unity>\no APIs: none\no Assets: Personal medical imagery from high field MRI\no Libraries: none\no Components not created at hackathon: none\n\n\n"
+}

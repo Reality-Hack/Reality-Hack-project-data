@@ -1,0 +1,48 @@
+{
+    "source": "https://devpost.com/software/data-tree-modeler",
+    "title": "Data Tree Modeler",
+    "blurb": "A program to visualize large scale collaborative data",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/LXIt47NgGdQ?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [
+        {
+            "title": "Bonsai Data Tree 1",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/455/927/datas/original.png"
+        }
+    ],
+    "team": [
+        {
+            "name": "Adam Sauer",
+            "about": "I contributed to the ideation of the idea, and the scripting for the information into roots and branches.",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/544/762/datas/profile.jpg"
+        },
+        {
+            "name": "Sarthak Giri",
+            "about": "I helped with the ideation process. I also worked on interaction in the 3d environment.",
+            "photo": "https://www.gravatar.com/avatar/db9f3d2f8d170ac4e8cd8c4519fa3b10?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Ethan Anderson",
+            "about": "I created the visual effects for our application including the 3D environment. I also contributed to the ideation of the application and it's functionality.",
+            "photo": "https://www.gravatar.com/avatar/cecbb436165fdef0373775a84cb263a4?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Aravind Elangovan",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/8a2d93ccac2f66781d6c740b342d6b30?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Tim Besard",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/311f28d70bb1de3b0e9bb55e9d5fd26d?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        }
+    ],
+    "built_with": [
+        "c#",
+        "unity"
+    ],
+    "content_html": "<div>\n<p>Our modeler takes coding data structures and visualizes it as a tree. By doing so we are eliminating the complexity and relating it to something we see everyday. The tree structure is something that we inherently understand because we have evolved to understand objects and structures in nature. Our modeler also interacts with the tree in a very meaningful way. Like the roots of a tree, some of which are filament like and some very thick and strong, the data structures are the same way. We have rendered that effect by changing the opacity of the trace code depending on the use. Similarly as a plant/leaves grows old, it slowly turns from green (young, new) to brown (old, dead), the user is able to see that in the tree modeler. Zooming in and out gives the depth of information that the person is looking obtain.</p>\n</div>",
+    "content_md": "\nOur modeler takes coding data structures and visualizes it as a tree. By doing so we are eliminating the complexity and relating it to something we see everyday. The tree structure is something that we inherently understand because we have evolved to understand objects and structures in nature. Our modeler also interacts with the tree in a very meaningful way. Like the roots of a tree, some of which are filament like and some very thick and strong, the data structures are the same way. We have rendered that effect by changing the opacity of the trace code depending on the use. Similarly as a plant/leaves grows old, it slowly turns from green (young, new) to brown (old, dead), the user is able to see that in the tree modeler. Zooming in and out gives the depth of information that the person is looking obtain.\n\n\n"
+}

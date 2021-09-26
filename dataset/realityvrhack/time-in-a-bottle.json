@@ -1,0 +1,47 @@
+{
+    "source": "https://devpost.com/software/time-in-a-bottle",
+    "title": "Time in a bottle",
+    "blurb": "Memory exploration through sound ques, music, and 3D visuals. ",
+    "awards": [],
+    "videos": [],
+    "images": [
+        {
+            "title": "Time in a bottle",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/424/102/datas/original.jpg"
+        }
+    ],
+    "team": [
+        {
+            "name": "Dulce Baerga",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/c6b79be3756c1a4572870f9e4148d9a9?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "sokudo",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/3ad627f8de8ea48f537df105609c246e?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Cl\u00e9mence Hermann",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/001/076/861/datas/profile.jpg"
+        },
+        {
+            "name": "Sherrie Robertson",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/432/581/datas/profile.jpg"
+        },
+        {
+            "name": "Colin Greenhill",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/85b769fac153e8a3ccf4197b209023fb?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        }
+    ],
+    "built_with": [
+        "c#",
+        "javascript",
+        "unity"
+    ],
+    "content_html": "<div>\n<p>The user goes back to his childhood home after being away for many years. Now, at the age of twenty-eight, he is reeling from a bad break-up. Things are arranged as they were when he was still a teenager, but they are now aged and dusty.</p>\n<p>Amidst the dusty yearbooks, travel photos, and old things he strewn about his room, the user finds a song he has not heard in a long time. As he plays it, he is pulled into a place he has not been for a long, long time. He is pulled through a portal of time to explore key romantic moments at ages six, thirteen, and then nineteen years old.</p>\n</div>",
+    "content_md": "\nThe user goes back to his childhood home after being away for many years. Now, at the age of twenty-eight, he is reeling from a bad break-up. Things are arranged as they were when he was still a teenager, but they are now aged and dusty.\n\n\nAmidst the dusty yearbooks, travel photos, and old things he strewn about his room, the user finds a song he has not heard in a long time. As he plays it, he is pulled into a place he has not been for a long, long time. He is pulled through a portal of time to explore key romantic moments at ages six, thirteen, and then nineteen years old.\n\n\n"
+}

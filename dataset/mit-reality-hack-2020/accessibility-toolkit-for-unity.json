@@ -1,0 +1,41 @@
+{
+    "source": "https://devpost.com/software/accessibility-toolkit-for-unity",
+    "title": "Accessibility Toolkit For Unity",
+    "blurb": "An open source package for adding accessibility features to XR games, interactive experiences, education and more.",
+    "awards": [
+        "Best of VR",
+        "Best application to Accessibility [Sponsored by Microsoft]"
+    ],
+    "videos": [
+        "https://www.youtube.com/embed/NWkXf7ObV5s?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [
+        {
+            "title": "Subtitle screenshot",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/230/datas/original.png"
+        }
+    ],
+    "team": [
+        {
+            "name": "Mo Kakwan",
+            "about": "",
+            "photo": "https://avatars0.githubusercontent.com/u/315474?height=180&v=4&width=180"
+        },
+        {
+            "name": "Scott Doxey",
+            "about": "",
+            "photo": "https://avatars3.githubusercontent.com/u/6753?height=180&v=4&width=180"
+        },
+        {
+            "name": "luiginicastro",
+            "about": "",
+            "photo": "https://avatars0.githubusercontent.com/u/58125435?height=180&v=4&width=180"
+        }
+    ],
+    "built_with": [
+        "c#",
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>We noticed that many AR/VR apps didn't make experiences for people who were hard of hearing or hearing impaired. AR/VR is the future - and should be accessible for all. Given that the theme of the MIT Reality Hack was \"Building a Utopia\" we wanted to follow the old adage \"the world is what you make of it\" and create a world where anyone could easily create accessible and enriched AR/VR applications.</p>\n<h2>What it does</h2>\n<p>The Accessibility Toolkit will create context aware subtitles for VR/AR projects. This will encourage developers to include subtitles for those with hearing impairments since we know that the process can take a long time. By making the subtitle creation process more efficient we can have developers make their projects more inclusive for all users. </p>\n<h2>How we built it</h2>\n<p>We built it using the Unity package manager architecture. We made two repos, one that was the public facing package that people would install and another that was a demo app that used the package.</p>\n<h2>Challenges we ran into</h2>\n<p>Spatial context aware subtitles are very difficult to position in 3d space relative to the user as it requires a lot of spatial math. This is something we plan to address after the hackathon.</p>\n<h2>Accomplishments that we're proud of</h2>\n<p>When we conducted user interviews we found that a lot of the teams here at the hack would be very interested in using our toolkit. The interviews expanded further to where we found how our work would affect Hard of Hearing and Hearing Impaired people. But really, in the end, the hard of hearing folks we spoke with taught us that Accessibility isn't about making your app more accessible but making your AR/VR experiences better.</p>\n<h2>What we learned</h2>\n<p>Subtitling isn't just for Hard of Hearing and Hearing Disabled folks! It can be used by able hearing individuals and is very useful for internationalization and experiences where you're going to a country which you're not fluent in. Subtitles are just a useful feature in general.</p>\n<h2>What's next for Accessibility Toolkit For Unity</h2>\n<p>We have a large backlog of features we would like to implement like SRT file parsing, localization, dynamic context based positioning, better support for fonts, script event blocking and cloud based text to speech.</p>\n<p>We also have plans to add additional features not specific to hearing impairment like a magnifying glass for seeing objects at a distance, and haptic feedback for tooltips on smaller objects.</p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nWe noticed that many AR/VR apps didn't make experiences for people who were hard of hearing or hearing impaired. AR/VR is the future - and should be accessible for all. Given that the theme of the MIT Reality Hack was \"Building a Utopia\" we wanted to follow the old adage \"the world is what you make of it\" and create a world where anyone could easily create accessible and enriched AR/VR applications.\n\n\n## What it does\n\n\nThe Accessibility Toolkit will create context aware subtitles for VR/AR projects. This will encourage developers to include subtitles for those with hearing impairments since we know that the process can take a long time. By making the subtitle creation process more efficient we can have developers make their projects more inclusive for all users. \n\n\n## How we built it\n\n\nWe built it using the Unity package manager architecture. We made two repos, one that was the public facing package that people would install and another that was a demo app that used the package.\n\n\n## Challenges we ran into\n\n\nSpatial context aware subtitles are very difficult to position in 3d space relative to the user as it requires a lot of spatial math. This is something we plan to address after the hackathon.\n\n\n## Accomplishments that we're proud of\n\n\nWhen we conducted user interviews we found that a lot of the teams here at the hack would be very interested in using our toolkit. The interviews expanded further to where we found how our work would affect Hard of Hearing and Hearing Impaired people. But really, in the end, the hard of hearing folks we spoke with taught us that Accessibility isn't about making your app more accessible but making your AR/VR experiences better.\n\n\n## What we learned\n\n\nSubtitling isn't just for Hard of Hearing and Hearing Disabled folks! It can be used by able hearing individuals and is very useful for internationalization and experiences where you're going to a country which you're not fluent in. Subtitles are just a useful feature in general.\n\n\n## What's next for Accessibility Toolkit For Unity\n\n\nWe have a large backlog of features we would like to implement like SRT file parsing, localization, dynamic context based positioning, better support for fonts, script event blocking and cloud based text to speech.\n\n\nWe also have plans to add additional features not specific to hearing impairment like a magnifying glass for seeing objects at a distance, and haptic feedback for tooltips on smaller objects.\n\n\n"
+}

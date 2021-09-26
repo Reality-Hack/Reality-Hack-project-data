@@ -1,0 +1,44 @@
+{
+    "source": "https://devpost.com/software/ablation-cascade-vr",
+    "title": "Ablation Cascade VR",
+    "blurb": "Space debris is a growing and terrifying problem. A problem you will solve with whatever tools you can find. In space",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/f_IUKyhEy9w?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [
+        {
+            "title": "Logo",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/746/067/datas/original.png"
+        }
+    ],
+    "team": [
+        {
+            "name": "Costas Frost",
+            "about": "I made Girraffics",
+            "photo": "https://avatars2.githubusercontent.com/u/7755346?height=180&v=3&width=180"
+        },
+        {
+            "name": "Trevor Morrisey",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/095e515072e90eb6f0f0a6f460e334f4?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "casparmkerr",
+            "about": "",
+            "photo": "https://avatars2.githubusercontent.com/u/28448519?height=180&v=4&width=180"
+        }
+    ],
+    "built_with": [
+        "blender",
+        "c#",
+        "photoshop",
+        "steamvr",
+        "substance-designer",
+        "substance-painter",
+        "unity",
+        "zbrush"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>Space debris is a huge threat to the future of space exploration but has been allowed to steadily build up for decades. It's far away and small which makes it easy to ignore. For now...</p>\n<h2>What it does</h2>\n<p>Ablation Cascade VR brings space debris to the spotlight. The user takes on the role of an astronaut who has been stranded in orbit after his shuttle was struck by debris. As more debris sails at the player, they'll need to destroy or dodge it. Although any debris they dodge will cycle around towards them again. Ultimately, with never-ending waves of increasing intensity, the player will inevitably lose eventually. The increasing intensity of the waves of debris represent the actual build up of space junk in Earth's atmosphere. Ablation Cascade VR is an arcade style game inspired by the classic Asteroid and is meant to be light-hearted and fun but it also provides an engaging way to draw attention to and quantify a growing problem.</p>\n<h2>How I built it</h2>\n<p>Ablation Cascade VR was built with Unity. We used SteamVR to manage input so it could be played with any major headset.</p>\n<h2>Challenges I ran into</h2>\n<p>Getting collisions to work correctly, lack of time</p>\n<h2>Accomplishments that I'm proud of</h2>\n<p>We made a VR game in a weekend. That's pretty cool</p>\n<h2>What I learned</h2>\n<p>Developing games is both fun and hard.</p>\n<h2>What's next for Ablation Cascade VR</h2>\n<p>We want to polish it, improve mechanics and perhaps publish it somewhere.</p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nSpace debris is a huge threat to the future of space exploration but has been allowed to steadily build up for decades. It's far away and small which makes it easy to ignore. For now...\n\n\n## What it does\n\n\nAblation Cascade VR brings space debris to the spotlight. The user takes on the role of an astronaut who has been stranded in orbit after his shuttle was struck by debris. As more debris sails at the player, they'll need to destroy or dodge it. Although any debris they dodge will cycle around towards them again. Ultimately, with never-ending waves of increasing intensity, the player will inevitably lose eventually. The increasing intensity of the waves of debris represent the actual build up of space junk in Earth's atmosphere. Ablation Cascade VR is an arcade style game inspired by the classic Asteroid and is meant to be light-hearted and fun but it also provides an engaging way to draw attention to and quantify a growing problem.\n\n\n## How I built it\n\n\nAblation Cascade VR was built with Unity. We used SteamVR to manage input so it could be played with any major headset.\n\n\n## Challenges I ran into\n\n\nGetting collisions to work correctly, lack of time\n\n\n## Accomplishments that I'm proud of\n\n\nWe made a VR game in a weekend. That's pretty cool\n\n\n## What I learned\n\n\nDeveloping games is both fun and hard.\n\n\n## What's next for Ablation Cascade VR\n\n\nWe want to polish it, improve mechanics and perhaps publish it somewhere.\n\n\n"
+}

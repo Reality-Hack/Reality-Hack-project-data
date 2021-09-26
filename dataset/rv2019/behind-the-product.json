@@ -1,0 +1,46 @@
+{
+    "source": "https://devpost.com/software/behind-the-product",
+    "title": "Insider",
+    "blurb": "Augmented Reality to reveal hidden story of people's daily products.",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/d8AWnYEVnHQ?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "Yujie Jiang",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/742/474/datas/profile.JPG"
+        },
+        {
+            "name": "bohanchen Chen",
+            "about": "",
+            "photo": "https://avatars2.githubusercontent.com/u/19295984?height=180&v=4&width=180"
+        },
+        {
+            "name": "JunguGuo",
+            "about": "",
+            "photo": "https://avatars2.githubusercontent.com/u/30543186?height=180&v=4&width=180"
+        },
+        {
+            "name": "Ta-Kai Shueh",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/746/250/datas/profile.jpg"
+        },
+        {
+            "name": "Yi(Yuna) Lu",
+            "about": "",
+            "photo": "https://graph.facebook.com/1597262743714795/picture?height=180&width=180"
+        }
+    ],
+    "built_with": [
+        "adobe-xd",
+        "blender",
+        "maya",
+        "unity",
+        "vuforia"
+    ],
+    "content_html": "<div>\n<p>Hey! We are team #84. </p>\n<h2>Location, floor, and room</h2>\n<p>Table 94, MIT E15 Building Ground Floor.</p>\n<h2>The development tools used to build the project:</h2>\n<p>Unity, Blender,  Adobe Photoshop, Maya</p>\n<h2>Inspiration</h2>\n<p>Water bottles are around us daily. Have you ever think about why is so cheap when it might take ages to produce a bottle of water and we might drink up in 1 minute? How much resource and manpower involved in the production? So we start to brainstorming about the story behind it. </p>\n<h2>Purpose</h2>\n<p>AR provides opportunities for us to not only augment reality but also unveil the hidden side of the reality.  </p>\n<p>Technological products have significantly improved our daily life. We enjoy the convenience they provide but most of us rarely think about the issues behind these products. Through the project, we want to promote an awareness of these issues, discussing the negative influences which these high technology products bring out. Our team believes that all products have their own story and are valuable enough to be shared, so we could learn and cherish the hidden efforts and impact. </p>\n<p>Team 84 is here to reveal them with our AR Product.</p>\n<h2>What it does</h2>\n<p>It is an AR app that people can use it to screen any electronic device, i.e., phone, laptop, watches, etc, and you will find out every detail and valuable stories that you had never paid enough attention to.</p>\n<h2>How we built it</h2>\n<p>Prototype: iPhones. \nAssign a unique identifier for each type of iPhone. -----&gt; AR transparent view inside iPhone. -----&gt; Animation for each electronic little components in order to show its own story. </p>\n<h2>Challenges we ran into</h2>\n<p>Non-members have done either AR/VR related projects or animation. Learn from 0 for 24 hours, then debug &amp; improve. </p>\n<p>E15 far from E14 6th floor where they got snacks. </p>\n<h2>What's next for Insider</h2>\n<p>Link to demo video: \nWe are looking forward to expanding our database and revealing more behind product stories.</p>\n</div>",
+    "content_md": "\nHey! We are team #84. \n\n\n## Location, floor, and room\n\n\nTable 94, MIT E15 Building Ground Floor.\n\n\n## The development tools used to build the project:\n\n\nUnity, Blender, Adobe Photoshop, Maya\n\n\n## Inspiration\n\n\nWater bottles are around us daily. Have you ever think about why is so cheap when it might take ages to produce a bottle of water and we might drink up in 1 minute? How much resource and manpower involved in the production? So we start to brainstorming about the story behind it. \n\n\n## Purpose\n\n\nAR provides opportunities for us to not only augment reality but also unveil the hidden side of the reality. \n\n\nTechnological products have significantly improved our daily life. We enjoy the convenience they provide but most of us rarely think about the issues behind these products. Through the project, we want to promote an awareness of these issues, discussing the negative influences which these high technology products bring out. Our team believes that all products have their own story and are valuable enough to be shared, so we could learn and cherish the hidden efforts and impact. \n\n\nTeam 84 is here to reveal them with our AR Product.\n\n\n## What it does\n\n\nIt is an AR app that people can use it to screen any electronic device, i.e., phone, laptop, watches, etc, and you will find out every detail and valuable stories that you had never paid enough attention to.\n\n\n## How we built it\n\n\nPrototype: iPhones. \nAssign a unique identifier for each type of iPhone. -----> AR transparent view inside iPhone. -----> Animation for each electronic little components in order to show its own story. \n\n\n## Challenges we ran into\n\n\nNon-members have done either AR/VR related projects or animation. Learn from 0 for 24 hours, then debug & improve. \n\n\nE15 far from E14 6th floor where they got snacks. \n\n\n## What's next for Insider\n\n\nLink to demo video: \nWe are looking forward to expanding our database and revealing more behind product stories.\n\n\n"
+}

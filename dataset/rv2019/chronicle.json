@@ -1,0 +1,64 @@
+{
+    "source": "https://devpost.com/software/chronicle",
+    "title": "Chronicle",
+    "blurb": "Swipe from your phone to Magic Leap, curate memories in AR",
+    "awards": [],
+    "videos": [
+        "https://player.vimeo.com/video/316869925?byline=0&portrait=0&title=0#t="
+    ],
+    "images": [
+        {
+            "title": "iOS",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/745/979/datas/original.PNG"
+        },
+        {
+            "title": "iOS",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/745/980/datas/original.PNG"
+        },
+        {
+            "title": "iOS app",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/745/981/datas/original.PNG"
+        },
+        {
+            "title": "iOS",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/745/982/datas/original.PNG"
+        }
+    ],
+    "team": [
+        {
+            "name": "Gaston Montemayor",
+            "about": "",
+            "photo": "https://avatars.githubusercontent.com/u/6088934?height=180&v=3&width=180"
+        },
+        {
+            "name": "Josh",
+            "about": "",
+            "photo": "https://avatars0.githubusercontent.com/u/9309884?height=180&v=4&width=180"
+        },
+        {
+            "name": "scherrer-joshua",
+            "about": "",
+            "photo": "https://avatars1.githubusercontent.com/u/25680609?height=180&v=4&width=180"
+        },
+        {
+            "name": "Leopold Mebazaa",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/667e0b7597485c303f5bc386f0380cad?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "nnewberg",
+            "about": "",
+            "photo": "https://avatars3.githubusercontent.com/u/7318768?height=180&v=4&width=180"
+        }
+    ],
+    "built_with": [
+        "blender",
+        "c#",
+        "heroku",
+        "magic-leap",
+        "node.js",
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>We wanted to play with the connection between phones and Magic Leap. We also wanted a way to make AR more social, personal, and emotional.</p>\n<p>Some sources of inspiration: scrapbooks, hyperlinks + HTML, Myspace, memory palaces, Benedict Cumberbatch.</p>\n<h2>What it does</h2>\n<ol>\n<li>Swipe images, video, songs, and 3D objects from your phone to AR</li>\n<li>Arrange and curate collections of objects into memories</li>\n<li>Save memories to \"stickers\" in the real world</li>\n<li>Share them with others</li>\n</ol>\n<h2>How we built it</h2>\n<p>Unity, C#, REST api, Magic Leap, React Native iOS app, Google Poly, Node.js backend server, Heroku server</p>\n<h2>Challenges we ran into</h2>\n<p>Web socket hell</p>\n<h2>Accomplishments that we're proud of</h2>\n<p>OMG it works</p>\n<h2>What we learned</h2>\n<p>TBD</p>\n<h2>What's next for Chronicle</h2>\n<ol>\n<li>Dual-wield your phone in AR, i.e. more phone interactions</li>\n<li>Bluetooth connection from phone to Magic Leap (depends on Magic Leap API)</li>\n<li>Raycast snapping</li>\n<li>Eye gaze actions</li>\n</ol>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nWe wanted to play with the connection between phones and Magic Leap. We also wanted a way to make AR more social, personal, and emotional.\n\n\nSome sources of inspiration: scrapbooks, hyperlinks + HTML, Myspace, memory palaces, Benedict Cumberbatch.\n\n\n## What it does\n\n\n1. Swipe images, video, songs, and 3D objects from your phone to AR\n2. Arrange and curate collections of objects into memories\n3. Save memories to \"stickers\" in the real world\n4. Share them with others\n\n\n## How we built it\n\n\nUnity, C#, REST api, Magic Leap, React Native iOS app, Google Poly, Node.js backend server, Heroku server\n\n\n## Challenges we ran into\n\n\nWeb socket hell\n\n\n## Accomplishments that we're proud of\n\n\nOMG it works\n\n\n## What we learned\n\n\nTBD\n\n\n## What's next for Chronicle\n\n\n1. Dual-wield your phone in AR, i.e. more phone interactions\n2. Bluetooth connection from phone to Magic Leap (depends on Magic Leap API)\n3. Raycast snapping\n4. Eye gaze actions\n\n\n"
+}

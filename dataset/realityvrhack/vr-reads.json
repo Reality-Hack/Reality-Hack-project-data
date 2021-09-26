@@ -1,0 +1,33 @@
+{
+    "source": "https://devpost.com/software/vr-reads",
+    "title": "VR Reads",
+    "blurb": "Enhance your reading experience through VR Reads.",
+    "awards": [],
+    "videos": [],
+    "images": [],
+    "team": [
+        {
+            "name": "Ira",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/1a206cf6aa29a9635aaedede7ca4927c?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Nabib Ahmed",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/157447e130b8a8dbec2ff82f65606c26?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Merve \u00c7elebi",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/7e239f2ad94c7c92429adca1ba72c2ec?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        }
+    ],
+    "built_with": [
+        "c#",
+        "gearvr",
+        "javascript",
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>My aunt Amanda has always enjoyed a good book, however two years ago, after a devastating car crash, she developed paralysis in most of her body, including her arms and hands, thus losing the ability to ever hold and flip through a book. She continues to follow her love of reading through audio books but sorely misses reading through pages. We were inspired to pursue this project by enabling her to experience books through pages once more. We hope this tool will enable her experience pages as she once did before.</p>\n<h2>What it does</h2>\n<p>We essentially created a VR tool to experience books and enhance the reading experience. Users will see pages of their books in VR and use head motions to flip through pages. In addition, the background will change relative to the content in the story or can be set by the user (thus giving them a pleasant visual environment to enjoy their reading).</p>\n<h2>How we built it</h2>\n<p>We used Unity, C#, and Javascript to develop an virtual environment that can be run through GearVR.</p>\n<h2>Challenges we ran into</h2>\n<p>Being that all team members were novices in VR and Unity programming, we had to overcome the learning curve required to complete our project.</p>\n<h2>Accomplishments that we're proud of</h2>\n<p>We were able to develop to our goal and hope that Amanda will soon be able to reunite with love and passion for reading through the visual pages.</p>\n<h2>What we learned</h2>\n<p>We learn the possibilities contained within the realm of VR along with technical skills using Unity, C#, GearVR, and Javascript</p>\n<h2>What's next for VR Reads</h2>\n<p>We hope to make it more dynamic, expand our library collection, and make the experience for all bookworms, like Amanda, more comfortable.</p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nMy aunt Amanda has always enjoyed a good book, however two years ago, after a devastating car crash, she developed paralysis in most of her body, including her arms and hands, thus losing the ability to ever hold and flip through a book. She continues to follow her love of reading through audio books but sorely misses reading through pages. We were inspired to pursue this project by enabling her to experience books through pages once more. We hope this tool will enable her experience pages as she once did before.\n\n\n## What it does\n\n\nWe essentially created a VR tool to experience books and enhance the reading experience. Users will see pages of their books in VR and use head motions to flip through pages. In addition, the background will change relative to the content in the story or can be set by the user (thus giving them a pleasant visual environment to enjoy their reading).\n\n\n## How we built it\n\n\nWe used Unity, C#, and Javascript to develop an virtual environment that can be run through GearVR.\n\n\n## Challenges we ran into\n\n\nBeing that all team members were novices in VR and Unity programming, we had to overcome the learning curve required to complete our project.\n\n\n## Accomplishments that we're proud of\n\n\nWe were able to develop to our goal and hope that Amanda will soon be able to reunite with love and passion for reading through the visual pages.\n\n\n## What we learned\n\n\nWe learn the possibilities contained within the realm of VR along with technical skills using Unity, C#, GearVR, and Javascript\n\n\n## What's next for VR Reads\n\n\nWe hope to make it more dynamic, expand our library collection, and make the experience for all bookworms, like Amanda, more comfortable.\n\n\n"
+}

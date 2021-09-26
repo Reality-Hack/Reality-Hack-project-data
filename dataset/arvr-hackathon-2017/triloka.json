@@ -1,0 +1,64 @@
+{
+    "source": "https://devpost.com/software/triloka",
+    "title": "Triloka",
+    "blurb": "Engaging VR simulation to assuage depression by providing diverse range of interactions to address negative feelings",
+    "awards": [
+        "1st Prize in Healthcare and medicine category"
+    ],
+    "videos": [
+        "https://player.vimeo.com/video/237704061?byline=0&portrait=0&title=0#t="
+    ],
+    "images": [
+        {
+            "title": "Sit around Bon Fire - Listen and Share",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/546/656/datas/original.png"
+        },
+        {
+            "title": "Bon Fire",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/546/844/datas/original.png"
+        },
+        {
+            "title": "Meditation near the serene sea",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/546/857/datas/original.png"
+        }
+    ],
+    "team": [
+        {
+            "name": "Rohan Pooniwala",
+            "about": "",
+            "photo": "https://avatars3.githubusercontent.com/u/17231273?height=180&v=4&width=180"
+        },
+        {
+            "name": "Raghav Gupta",
+            "about": "",
+            "photo": "https://avatars0.githubusercontent.com/u/17514444?height=180&v=4&width=180"
+        },
+        {
+            "name": "Gama Liu",
+            "about": "",
+            "photo": "https://graph.facebook.com/1359194997512920/picture?height=180&width=180"
+        },
+        {
+            "name": "Yan Liu",
+            "about": "",
+            "photo": "https://media.licdn.com/mpr/mprx/0_Glx-Bes7nr1U09KCQPItxec7BvbFy6Piah5ytjzmnPIQy9CfGbbPxyUmz_esVzfmGv5PVJNa0vq6sGIxSGsaxyJGsvqbsG6_aGsANg2flN3IKqj0CP2xqdGOVhaB1GltbTOO1ipe7SB?height=180&width=180"
+        },
+        {
+            "name": "Meenakshi Sivapriya Manikandaswamy",
+            "about": "",
+            "photo": "https://avatars0.githubusercontent.com/u/22399529?height=180&v=4&width=180"
+        }
+    ],
+    "built_with": [
+        "adobe-illustrator",
+        "ibm-watson",
+        "maya",
+        "microsoft",
+        "oculus-gear-vr",
+        "photoshop",
+        "sapi-wysabuddy-fbchat-aftereffects",
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>Losing a friend to the grim ailment of depression a few days back, got us thinking as to why there has not been an effective solution to such a common problem faced by the youth nowadays. Millions of lives could have been saved if there had been at least one person who they could've talked to without worrying about the stigma associated with mental health problems. Though there are multiple helplines and chatbots to help people with depression, the fear of your identity being revealed or being judged causes most victims to hesitate. Moreover, the unfriendly platform on which it is carried out also serves as a hindrance for people to open up.</p>\n<h2>What it does</h2>\n<p>Triloka blends the three realms of the virtual, physical and the spiritual world to help the user address and overcome all the negative feelings that are a result of depression. The user goes through a series of interactions that help him prevail over his loneliness, sadness, guilt, disinterest in daily activities, inability to concentrate, and the feeling of hopelessness. Various environments, including a forest where people share their depression stories around a bonfire, a virtual therapist who suggests activities to help overcome depression, an exciting canoeing encounter that helps bring back the user's interest in fun activities, a peaceful mountain environment to encourage meditation, all the while listening to soothing music and a mood reflecting sky, adds to this therapeutic experience.</p>\n<p><strong>The negative feelings faced and the way they are tackled:</strong></p>\n<p><strong>Loneliness</strong>: Meeting new people around the campfire and opening up without the fear of being judged or having \npreconceptions.\n<strong>Sadness</strong>: Lulling soft music in the background that calms the user\n<strong>Guilt</strong>: Listening to how other people overcame their depression and trying to empathize with them\n<strong>Lack of Interest in daily activities</strong>: Energetic activities like canoeing that can revitalise the mind\n<strong>Difficulty concentrating</strong>: Meditation session under serene conditions\n<strong>Hopelessness</strong>: Motivating and engaging incentives like unlocking more environments if positive thoughts are spoken, slowly giving hope.</p>\n<h2>How we built it</h2>\n<p>Used Microsoft Speech API for conversion of speech to text and vice-versa. We use it for conversing with the specialized (for depression) facebook bot and return the responses in voice using text to speech. IBM Watson's Tone Analyzer is used to track the user's mood and keep a measure of the score to reflect it on the sky colour.\nThe major aspect of this project that we spent most of our time building was the environments and the models associated with it. We imported free 3D models from the online website free3D.com and customised them to our requirements using the student version of Autodesk Maya. All the character animations and terrain systems were built using Maya and Unity engine to bring about a realistic VR experience.</p>\n<h2>Challenges we ran into</h2>\n<p>We brainstormed a lot on how to structure the interactions and environment such that it feels realistic enough to engage the user to take up multiple sessions which will ultimately help assuage depression. We had some trouble trying to stitch together each environment, interfacing them to provide an appealing storyline.\nWe ran out of time implementing the third environment involving the canoeing activity. Our members were inexperienced in character animation and thus spent a lot of time executing it. </p>\n<h2>Accomplishments that we're proud of</h2>\n<p>We are very proud of how we worked as a team and how our skills complemented each other to make this project.\nOur members successfully integrated speech-to-text and text-to-speech conversions for operating the talk-bot in a realistic manner. The environments, which we managed to build, are high-quality renderings that are also structured such that the user finds the environment engaging to return the next time. Enabling the users to have functional conversations with a specially trained bot, Wysa, that offers meaningful advice to get over depression. Learning and implementing character animation in such a short time.</p>\n<h2>What we learned</h2>\n<p>We learnt how to rig and animate humanoid characters, efficient ways to render models with a high degree of detail, to integrate Microsoft speech API to have expressive conversations with a bot interfaced over Facebook.</p>\n<h2>What's next for Triloka</h2>\n<p>The future for Triloka involves real-time implementation of the talk-bots which allows the user to choose, if he prefers, to talk to an actual therapist or a loved one. We are also excited to release this to the real world market and analyse how people react to this interactive experience. This would also give us more ideas to improve upon in Triloka 2.0</p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nLosing a friend to the grim ailment of depression a few days back, got us thinking as to why there has not been an effective solution to such a common problem faced by the youth nowadays. Millions of lives could have been saved if there had been at least one person who they could've talked to without worrying about the stigma associated with mental health problems. Though there are multiple helplines and chatbots to help people with depression, the fear of your identity being revealed or being judged causes most victims to hesitate. Moreover, the unfriendly platform on which it is carried out also serves as a hindrance for people to open up.\n\n\n## What it does\n\n\nTriloka blends the three realms of the virtual, physical and the spiritual world to help the user address and overcome all the negative feelings that are a result of depression. The user goes through a series of interactions that help him prevail over his loneliness, sadness, guilt, disinterest in daily activities, inability to concentrate, and the feeling of hopelessness. Various environments, including a forest where people share their depression stories around a bonfire, a virtual therapist who suggests activities to help overcome depression, an exciting canoeing encounter that helps bring back the user's interest in fun activities, a peaceful mountain environment to encourage meditation, all the while listening to soothing music and a mood reflecting sky, adds to this therapeutic experience.\n\n\n**The negative feelings faced and the way they are tackled:**\n\n\n**Loneliness**: Meeting new people around the campfire and opening up without the fear of being judged or having \npreconceptions.\n**Sadness**: Lulling soft music in the background that calms the user\n**Guilt**: Listening to how other people overcame their depression and trying to empathize with them\n**Lack of Interest in daily activities**: Energetic activities like canoeing that can revitalise the mind\n**Difficulty concentrating**: Meditation session under serene conditions\n**Hopelessness**: Motivating and engaging incentives like unlocking more environments if positive thoughts are spoken, slowly giving hope.\n\n\n## How we built it\n\n\nUsed Microsoft Speech API for conversion of speech to text and vice-versa. We use it for conversing with the specialized (for depression) facebook bot and return the responses in voice using text to speech. IBM Watson's Tone Analyzer is used to track the user's mood and keep a measure of the score to reflect it on the sky colour.\nThe major aspect of this project that we spent most of our time building was the environments and the models associated with it. We imported free 3D models from the online website free3D.com and customised them to our requirements using the student version of Autodesk Maya. All the character animations and terrain systems were built using Maya and Unity engine to bring about a realistic VR experience.\n\n\n## Challenges we ran into\n\n\nWe brainstormed a lot on how to structure the interactions and environment such that it feels realistic enough to engage the user to take up multiple sessions which will ultimately help assuage depression. We had some trouble trying to stitch together each environment, interfacing them to provide an appealing storyline.\nWe ran out of time implementing the third environment involving the canoeing activity. Our members were inexperienced in character animation and thus spent a lot of time executing it. \n\n\n## Accomplishments that we're proud of\n\n\nWe are very proud of how we worked as a team and how our skills complemented each other to make this project.\nOur members successfully integrated speech-to-text and text-to-speech conversions for operating the talk-bot in a realistic manner. The environments, which we managed to build, are high-quality renderings that are also structured such that the user finds the environment engaging to return the next time. Enabling the users to have functional conversations with a specially trained bot, Wysa, that offers meaningful advice to get over depression. Learning and implementing character animation in such a short time.\n\n\n## What we learned\n\n\nWe learnt how to rig and animate humanoid characters, efficient ways to render models with a high degree of detail, to integrate Microsoft speech API to have expressive conversations with a bot interfaced over Facebook.\n\n\n## What's next for Triloka\n\n\nThe future for Triloka involves real-time implementation of the talk-bots which allows the user to choose, if he prefers, to talk to an actual therapist or a loved one. We are also excited to release this to the real world market and analyse how people react to this interactive experience. This would also give us more ideas to improve upon in Triloka 2.0\n\n\n"
+}

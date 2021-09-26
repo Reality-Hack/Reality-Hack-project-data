@@ -1,0 +1,25 @@
+{
+    "source": "https://devpost.com/software/wearablewerewolves",
+    "title": "WearableWerewolves",
+    "blurb": "Exploring AR interfaces and interactions, as wolves. ",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/6aAbWrYN0ek?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "Albert Schweitzer",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/c5d805c5862bac69139d705e75f789b3?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        }
+    ],
+    "built_with": [
+        "raspberry-pi",
+        "unity",
+        "vuforia",
+        "watchos"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>The inspiration for our Augmented Wearables project was based out of frustration of navigating and understanding the screen based interactions on current smart watches. We wanted to use Augmented Reality to overcome the difficulty many users face when using smart watches. </p>\n<h2>What it does</h2>\n<p>We present a proof of concept interface design which represents the potential future of Apple Watch when used in conjunction with mixed/augmented reality head-mounted displays. Our applications features 3 menu designs which could be used on the watch; a main watch face, a health/workout app, and a Spotify music player. The watch also connects with smart home devices, and can monitor data coming from these devices to give the user updates about their home. We use the Raspberry Pi for this IoT feature. </p>\n<h2>How we built it</h2>\n<p>We used Vuforia, Unity for iOS, and a Raspberry Pi in order to generate our vision. The Unity application is sending and receiving data between the Raspberry Pi for the IoT portion of the concept, and the UI is completely custom built. Because we could not get access to an AR head mounted display such as Hololens or Meta, we are using an iPhone 8Plus to present our concept with the idea being that it is viewed from AR/MR glasses. </p>\n<h2>Challenges we ran into</h2>\n<p>Networking. We also had trouble with Apple's ARKit as it does not use image tracking in its functionality. </p>\n<h2>Accomplishments that we're proud of</h2>\n<p>Getting connection between our application and an IoT device, have a clear, intuitive interface. </p>\n<h2>What we learned</h2>\n<p>There are still many difficulties ahead in terms of user interaction with gesture, however we demonstrate that still being able to use a screen or touch pad to navigate an AR interface is extremely promising for future application designs. </p>\n<h2>What's next for WearableWerewolves</h2>\n<p>We will continue to explore the connected device realm and how augmented interfaces can play a part in this future. </p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nThe inspiration for our Augmented Wearables project was based out of frustration of navigating and understanding the screen based interactions on current smart watches. We wanted to use Augmented Reality to overcome the difficulty many users face when using smart watches. \n\n\n## What it does\n\n\nWe present a proof of concept interface design which represents the potential future of Apple Watch when used in conjunction with mixed/augmented reality head-mounted displays. Our applications features 3 menu designs which could be used on the watch; a main watch face, a health/workout app, and a Spotify music player. The watch also connects with smart home devices, and can monitor data coming from these devices to give the user updates about their home. We use the Raspberry Pi for this IoT feature. \n\n\n## How we built it\n\n\nWe used Vuforia, Unity for iOS, and a Raspberry Pi in order to generate our vision. The Unity application is sending and receiving data between the Raspberry Pi for the IoT portion of the concept, and the UI is completely custom built. Because we could not get access to an AR head mounted display such as Hololens or Meta, we are using an iPhone 8Plus to present our concept with the idea being that it is viewed from AR/MR glasses. \n\n\n## Challenges we ran into\n\n\nNetworking. We also had trouble with Apple's ARKit as it does not use image tracking in its functionality. \n\n\n## Accomplishments that we're proud of\n\n\nGetting connection between our application and an IoT device, have a clear, intuitive interface. \n\n\n## What we learned\n\n\nThere are still many difficulties ahead in terms of user interaction with gesture, however we demonstrate that still being able to use a screen or touch pad to navigate an AR interface is extremely promising for future application designs. \n\n\n## What's next for WearableWerewolves\n\n\nWe will continue to explore the connected device realm and how augmented interfaces can play a part in this future. \n\n\n"
+}

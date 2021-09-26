@@ -1,0 +1,68 @@
+{
+    "source": "https://devpost.com/software/cosplayar",
+    "title": "CosplayAR",
+    "blurb": "An easily accessible AR tool for clothing patterns and creation.",
+    "awards": [
+        "Grand Prize in AR",
+        "Best Object Augmentation"
+    ],
+    "videos": [
+        "https://www.youtube.com/embed/9dUAmJhmx0w?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [
+        {
+            "title": "Choose from user-created designs",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/546/823/datas/original.png"
+        },
+        {
+            "title": "Edit designs to suit your unique you.",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/546/845/datas/original.png"
+        },
+        {
+            "title": "Never be in the dark about what materials you need again.",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/546/855/datas/original.png"
+        },
+        {
+            "title": "Position AR trackers...",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/546/834/datas/original.png"
+        },
+        {
+            "title": "...and overlay design over your fabric.",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/546/835/datas/original.png"
+        }
+    ],
+    "team": [
+        {
+            "name": "Ben Taylor",
+            "about": "Design",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/651/400/datas/profile.jpg"
+        },
+        {
+            "name": "Justin Ng",
+            "about": "Lead Engineer (AR)",
+            "photo": "https://media.licdn.com/mpr/mprx/0_5P24iI_lws0B-I94bqIFiWGpIxuRKe94FN4bie3aqsZI723ZdvpqSHvhLA2X17cqkKa62fPuNObP?height=180&width=180"
+        },
+        {
+            "name": "Dawn Rivers",
+            "about": "",
+            "photo": "https://media.licdn.com/mpr/mprx/0_tSg6dNnWaytpdwFUZSLQGc2WfZO8odzRgpde238efJ23oJbs4pdHkQZWdRxpWJVUZpb6eCBdGZgT2DJRjOZV38nLbZgh2DiBZOZLoT_HuMeu6R4Iq7awEzSJFDbr5DNQAgpoS1SVJiC?height=180&width=180"
+        },
+        {
+            "name": "gfaline",
+            "about": "",
+            "photo": "https://avatars1.githubusercontent.com/u/24961131?height=180&v=4&width=180"
+        },
+        {
+            "name": "Lilika Markatou",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/326e21b82e77d651b10ccde87be17c6e?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        }
+    ],
+    "built_with": [
+        "mergevr",
+        "unity",
+        "vuforia"
+    ],
+    "content_html": "<div>\n<h2>CosplayAR - An easily accessible AR tool for clothing patterns and creation.</h2>\n<p>Making clothes is a complicated nightmare. With AR, it can be a breeze! It's time to modernize a method in use since 1860. </p>\n</div>",
+    "content_md": "\n## CosplayAR - An easily accessible AR tool for clothing patterns and creation.\n\n\nMaking clothes is a complicated nightmare. With AR, it can be a breeze! It's time to modernize a method in use since 1860. \n\n\n"
+}

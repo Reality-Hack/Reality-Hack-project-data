@@ -1,0 +1,27 @@
+{
+    "source": "https://devpost.com/software/surgvr",
+    "title": "SurgVR",
+    "blurb": "A VR surgery education and practicing platform. used VR headset and provides haptic feedback using Vibration.",
+    "awards": [],
+    "videos": [],
+    "images": [],
+    "team": [
+        {
+            "name": "Sarfraz Ahmad",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/b37ce38af182aec3d4e86d2d23039036?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "orochi663",
+            "about": "",
+            "photo": "https://avatars3.githubusercontent.com/u/2004233?height=180&v=4&width=180"
+        }
+    ],
+    "built_with": [
+        "android",
+        "samsung-gear-vr",
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>Improve quality of learning for medical professionals working in the field of surgery and making it cost effective for individual to learn anywhere using the commonly available VR platforms. We wanted to make sure the surgeon is well focused in application so we want to measure the performance of user by measuring precision and attention level of user. </p>\n<h2>What it does</h2>\n<p>Surgeons or future Surgeons can use this App to explore organs and practice surgery on them, in VR environment, using the commonly available VR platforms and/or controllers. It provides haptic feedback using vibration motor of smartphone and/or watch. The App can read EEG headset data to measure attention/concentration level of user which becomes as input to performance measurement.</p>\n<h2>How we built it</h2>\n<ul>\n<li>We used Unity 3D v2017 to design models of stomach and patient model. On phone side we worked on communicating with Android watch for vibrator.</li>\n</ul>\n<h2>Challenges we ran into</h2>\n<ul>\n<li>The main challenge was to do everything in short time. So we have to drop techniques that require lot of time and instead focused on prototyping a basic demo of the idea/concept.</li>\n<li>There was no EEG headset hardware available for hackathon this year, so we had to work without it and make it optional part.</li>\n<li>We wanted to use operation theater props to create a close to real environment but unity asset for that was paid and finally after talking with mentors we have to let it go.</li>\n<li>We struggled with Oculus App loading on Samsung Galaxy 8 phone. It wasted our 8 hours, finally after multiple tries we were able to load it.\n## Accomplishments that we're proud of</li>\n<li>We are happy that we were able to give our idea a try on this platform. We got chance to utilize our time and resources as a team.\n## What we learned</li>\n<li>working with Oculus platform using Samsung Gear VR.</li>\n<li>We learned about some of the evolving startups working in related space, even had a chance to talk to one of the mentor who is leading a startup in this space.</li>\n</ul>\n<h2>What's next for SurgVR</h2>\n<ul>\n<li>We would like to improve the App and incorporate features we could not. Since it is open source so we would like to  invite community to contribute in it so it can fulfill its purpose.</li>\n</ul>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nImprove quality of learning for medical professionals working in the field of surgery and making it cost effective for individual to learn anywhere using the commonly available VR platforms. We wanted to make sure the surgeon is well focused in application so we want to measure the performance of user by measuring precision and attention level of user. \n\n\n## What it does\n\n\nSurgeons or future Surgeons can use this App to explore organs and practice surgery on them, in VR environment, using the commonly available VR platforms and/or controllers. It provides haptic feedback using vibration motor of smartphone and/or watch. The App can read EEG headset data to measure attention/concentration level of user which becomes as input to performance measurement.\n\n\n## How we built it\n\n\n* We used Unity 3D v2017 to design models of stomach and patient model. On phone side we worked on communicating with Android watch for vibrator.\n\n\n## Challenges we ran into\n\n\n* The main challenge was to do everything in short time. So we have to drop techniques that require lot of time and instead focused on prototyping a basic demo of the idea/concept.\n* There was no EEG headset hardware available for hackathon this year, so we had to work without it and make it optional part.\n* We wanted to use operation theater props to create a close to real environment but unity asset for that was paid and finally after talking with mentors we have to let it go.\n* We struggled with Oculus App loading on Samsung Galaxy 8 phone. It wasted our 8 hours, finally after multiple tries we were able to load it.\n## Accomplishments that we're proud of\n* We are happy that we were able to give our idea a try on this platform. We got chance to utilize our time and resources as a team.\n## What we learned\n* working with Oculus platform using Samsung Gear VR.\n* We learned about some of the evolving startups working in related space, even had a chance to talk to one of the mentor who is leading a startup in this space.\n\n\n## What's next for SurgVR\n\n\n* We would like to improve the App and incorporate features we could not. Since it is open source so we would like to invite community to contribute in it so it can fulfill its purpose.\n\n\n"
+}

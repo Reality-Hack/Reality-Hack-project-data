@@ -1,0 +1,56 @@
+{
+    "source": "https://devpost.com/software/voice-of-one",
+    "title": "Voice of One",
+    "blurb": "Your voice has the power to change the world!",
+    "awards": [
+        "Film Festival/Storytelling[Sponsored by VRTO]",
+        "Social Good [Sponsored by MIT Center for Advanced Virtuality]"
+    ],
+    "videos": [
+        "https://www.youtube.com/embed/k_4ieKh0op0?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [
+        {
+            "title": "Initial sketch for the enviroment",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/280/datas/original.png"
+        }
+    ],
+    "team": [
+        {
+            "name": "Shirley McPhaul",
+            "about": "Concept ideation, Narrative design, interaction ideation and documentation. ",
+            "photo": "https://graph.facebook.com/10161345079000654/picture?height=180&width=180"
+        },
+        {
+            "name": "samluckart",
+            "about": "Hi! My name is Sam Luck and I was the VR Artist and Animator of this project! All of the assets and environments were drawn/made during the hackathon (2 days) using Quill (Oculus).  I truly believe the efficiency and simplicity of Quill is unmatched for events like the XR Hackathon and Global Game Jam. I really enjoyed creating the world and characters for our concept also a big thank you to my awesome team!",
+            "photo": "https://graph.facebook.com/10158132278498699/picture?height=180&width=180"
+        },
+        {
+            "name": "Jesse Paterson",
+            "about": "",
+            "photo": "https://media.licdn.com/dms/image/C5603AQGFZh12LSwPnQ/profile-displayphoto-shrink_100_100/0?e=1554336000&height=180&t=D8PF7oihaq0gmcDEvnCJqfUkpeBoLGyEzRmTE-pOA9g&v=beta&width=180"
+        },
+        {
+            "name": "Cory Robertson",
+            "about": "",
+            "photo": "https://media-exp2.licdn.com/dms/image/C4E03AQHObewRWx4MiQ/profile-displayphoto-shrink_800_800/0?e=1585180800&height=180&t=gWPgR_sSBbZp0yYkP3KC74Z8fEeTP0hagHbMcNA5LW4&v=beta&width=180"
+        },
+        {
+            "name": "morgansmith",
+            "about": "",
+            "photo": "https://graph.facebook.com/2926896767342627/picture?height=180&width=180"
+        }
+    ],
+    "built_with": [
+        "azure",
+        "c#",
+        "quill",
+        "reverb",
+        "speechapi",
+        "steamvr",
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>From the beginning, we wanted to create something that would have an impact and resonate with a general audience while really taking advantage of the medium. We arrived at the idea of using our voice as a main mechanic because we wanted to do just that, give them a voice and show them they can use it. We know that standing up to injustice is a difficult thing to do, and VR is a great way to practice putting yourself in difficult situations, channeling emotions, and learning new soft skills.</p>\n<h2>What it does</h2>\n<p>As the player moves around an eerie grey landscape, they are able to use the sound of their voice to bring color back into the world and engage with the story. The narrative takes the player through several scenarios where they have to take action in order to intercede for others while a dark figure spectates . At the end of the experience the user is left to confront the shadow only to realize it is the representation of their own silence.</p>\n<h2>How I built it</h2>\n<p>The experience was built in Unity and the art was made almost entirely in VR using Quill.</p>\n<p>We knew that we wanted to incorporate elements of fantasy, interactivity, scripted poetic language, and an immersive environment. On that first night, we nailed down a basic story structure, themes we wanted to return to, and the visual aesthetics we wanted to implement throughout the experience. When we began hacking on Friday we were able to jump right into asset creation in Quill, establishing the underlying framework for the interactive speech elements, and script-writing </p>\n<h2>Challenges I ran into</h2>\n<p>The shader that made possible turning the grayscale environments into color was a true challenge to create, as was the fact that we didn't get the chance to play test before the judging period.</p>\n<h2>Accomplishments that I'm proud of</h2>\n<p>The environment is a true accomplishment (all thanks to our artist Sam Luck). The fact that we were able to get the shader working and all four scenes animated in such a short amount of time is a true accomplishment.</p>\n<h2>What I learned</h2>\n<p>We learned so much from this experience! Not just about the software we used, but also about interactivity and storytelling in VR.</p>\n<h2>What's next for Voice of One</h2>\n<p>For the final version of the experience, we want to polish the interactions and do some UX testing so that we make sure our message comes through. We also want to include subtitles and an additional shader for the color blind, alongside translations in several languages (ideally sign language as well!). We'd also like to have speech recognition, so that positive words make the environment change, while negative ones will take the colors away.</p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nFrom the beginning, we wanted to create something that would have an impact and resonate with a general audience while really taking advantage of the medium. We arrived at the idea of using our voice as a main mechanic because we wanted to do just that, give them a voice and show them they can use it. We know that standing up to injustice is a difficult thing to do, and VR is a great way to practice putting yourself in difficult situations, channeling emotions, and learning new soft skills.\n\n\n## What it does\n\n\nAs the player moves around an eerie grey landscape, they are able to use the sound of their voice to bring color back into the world and engage with the story. The narrative takes the player through several scenarios where they have to take action in order to intercede for others while a dark figure spectates . At the end of the experience the user is left to confront the shadow only to realize it is the representation of their own silence.\n\n\n## How I built it\n\n\nThe experience was built in Unity and the art was made almost entirely in VR using Quill.\n\n\nWe knew that we wanted to incorporate elements of fantasy, interactivity, scripted poetic language, and an immersive environment. On that first night, we nailed down a basic story structure, themes we wanted to return to, and the visual aesthetics we wanted to implement throughout the experience. When we began hacking on Friday we were able to jump right into asset creation in Quill, establishing the underlying framework for the interactive speech elements, and script-writing \n\n\n## Challenges I ran into\n\n\nThe shader that made possible turning the grayscale environments into color was a true challenge to create, as was the fact that we didn't get the chance to play test before the judging period.\n\n\n## Accomplishments that I'm proud of\n\n\nThe environment is a true accomplishment (all thanks to our artist Sam Luck). The fact that we were able to get the shader working and all four scenes animated in such a short amount of time is a true accomplishment.\n\n\n## What I learned\n\n\nWe learned so much from this experience! Not just about the software we used, but also about interactivity and storytelling in VR.\n\n\n## What's next for Voice of One\n\n\nFor the final version of the experience, we want to polish the interactions and do some UX testing so that we make sure our message comes through. We also want to include subtitles and an additional shader for the color blind, alongside translations in several languages (ideally sign language as well!). We'd also like to have speech recognition, so that positive words make the environment change, while negative ones will take the colors away.\n\n\n"
+}

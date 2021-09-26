@@ -1,0 +1,21 @@
+{
+    "source": "https://devpost.com/software/arge-of-empires",
+    "title": "ARge of Empires",
+    "blurb": "Medieval Real Time Strategy Game in Augmented Reality on Google Tango",
+    "awards": [],
+    "videos": [],
+    "images": [],
+    "team": [
+        {
+            "name": "Michael Norris",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/04545ce49bf4a81e4469aff061451f9a?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        }
+    ],
+    "built_with": [
+        "project-tango",
+        "unity"
+    ],
+    "content_html": "<div>\n<p>Tower Defense on Google Tango using Augmented Reality.  Place your base and units and defend it for as long as you can!</p>\n<p>I'm on the 3rd floor.</p>\n</div>",
+    "content_md": "\nTower Defense on Google Tango using Augmented Reality. Place your base and units and defend it for as long as you can!\n\n\nI'm on the 3rd floor.\n\n\n"
+}

@@ -1,0 +1,64 @@
+{
+    "source": "https://devpost.com/software/the-flowjo",
+    "title": "The FlowJo",
+    "blurb": "The FlowJo is an interactive VR experience that encourages the participant to develop a curiosity for culture through expressive movement.",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/sr7U-ZDvllw?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [
+        {
+            "title": "Blair Photography. ",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/912/083/datas/original.jpg"
+        },
+        {
+            "title": "FlowJo&#39;s first meeting in the frozen depths of Atlantis, or Dante&#39;s Inferno (Dante&#39;s vision of hell was an icy tundra, not a fiery hell). ",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/912/084/datas/original.jpg"
+        },
+        {
+            "title": "People trying to find people. ",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/912/085/datas/original.jpg"
+        },
+        {
+            "title": "Blair Photography. ",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/912/086/datas/original.jpg"
+        },
+        {
+            "title": "People doing stuff. ",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/912/091/datas/original.jpg"
+        },
+        {
+            "title": "People doing stuff. ",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/912/092/datas/original.jpg"
+        },
+        {
+            "title": "People doing stuff. ",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/912/093/datas/original.jpg"
+        },
+        {
+            "title": "Blair is in a state of flow getting inspiration from the most unlikely of places. ",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/912/094/datas/original.jpg"
+        }
+    ],
+    "team": [
+        {
+            "name": "et3rnald",
+            "about": "I came up with the original idea for the project: a musical nunchaku rhythm Virtual Reality game (which eventually pivoted to a calligraphic Japanese language learning VR game). I contributed to our project's design, development (in Unity/C#), project management, and user experience. I was thankful for a team that was open and honest with communication, respectful, and talented in our individual ways. The success of creating a fully fledged technical prototype is super inspiring, and I can't wait to continue designing and developing edifying VR projects after this amazing hackathon.",
+            "photo": "https://graph.facebook.com/10155917091572805/picture?height=180&width=180"
+        },
+        {
+            "name": "Adeeb Syed",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/917/945/datas/profile.jpg"
+        }
+    ],
+    "built_with": [
+        "c#",
+        "canadians",
+        "nocigarettes",
+        "oculus",
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>Music brought the most geographically distannt group together.\nNunchucks threatened to chuck us apart.\nBut the slowmo flow of our dojo got us together though yo. </p>\n<h2>What it does</h2>\n<p>Enter the FlowJo is a calm, rhythm-based painting VR experience that helps players learn Japanese characters using their whole bodies. </p>\n<h2>How I built it</h2>\n<p>We built this in Unity using lots of googling, coffee, cookies, and Oculus Quests. </p>\n<h2>Challenges I ran into</h2>\n<p>We only had 1 real developer and 1 person that was a really good googler (2nd developer). We tried to do something really difficult, which was simulate the physics of nunchucks in VR. I would like to say we learned much about physics, but we mostly learned the importance of the \"v\" in virtual-- namely that it is virtual and not really real and therefore nunchuks in a virtual world won't behave exactly like nunchucks in VR. </p>\n<h2>Accomplishments that I'm proud of</h2>\n<p>The really-good-googler-developer felt very proud about all he learned in Unity. </p>\n<h2>What I learned</h2>\n<p>The \"really good googler\" learned a lot about developing in Unity. We learned a lot about physics. </p>\n<h2>What's next for The FlowJo</h2>\n<p>We may keep working on it as a team and improve the physics and adapt it to more Japanese characters or other script-based languages. </p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nMusic brought the most geographically distannt group together.\nNunchucks threatened to chuck us apart.\nBut the slowmo flow of our dojo got us together though yo. \n\n\n## What it does\n\n\nEnter the FlowJo is a calm, rhythm-based painting VR experience that helps players learn Japanese characters using their whole bodies. \n\n\n## How I built it\n\n\nWe built this in Unity using lots of googling, coffee, cookies, and Oculus Quests. \n\n\n## Challenges I ran into\n\n\nWe only had 1 real developer and 1 person that was a really good googler (2nd developer). We tried to do something really difficult, which was simulate the physics of nunchucks in VR. I would like to say we learned much about physics, but we mostly learned the importance of the \"v\" in virtual-- namely that it is virtual and not really real and therefore nunchuks in a virtual world won't behave exactly like nunchucks in VR. \n\n\n## Accomplishments that I'm proud of\n\n\nThe really-good-googler-developer felt very proud about all he learned in Unity. \n\n\n## What I learned\n\n\nThe \"really good googler\" learned a lot about developing in Unity. We learned a lot about physics. \n\n\n## What's next for The FlowJo\n\n\nWe may keep working on it as a team and improve the physics and adapt it to more Japanese characters or other script-based languages. \n\n\n"
+}

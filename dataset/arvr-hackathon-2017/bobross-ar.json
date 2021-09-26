@@ -1,0 +1,43 @@
+{
+    "source": "https://devpost.com/software/bobross-ar",
+    "title": "BobRossAR",
+    "blurb": "An AR experience that helps beginner artists learn to draw and paint by overlaying step-by-step instructors on canvas",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/UUyzZPqvf-o?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "Anthony Liu",
+            "about": "I worked on the marker tracking system that localizes the painting canvas in the camera feed.",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/402/822/datas/profile.jpg"
+        },
+        {
+            "name": "Tomiwa Oladele",
+            "about": "",
+            "photo": "https://avatars3.githubusercontent.com/u/30136471?height=180&v=4&width=180"
+        },
+        {
+            "name": "arapstar",
+            "about": "",
+            "photo": "https://avatars0.githubusercontent.com/u/32597419?height=180&v=4&width=180"
+        },
+        {
+            "name": "Heath Palmer",
+            "about": "",
+            "photo": "https://avatars1.githubusercontent.com/u/15958006?height=180&v=4&width=180"
+        },
+        {
+            "name": "Seyitan Oke",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/412/928/datas/profile.jpg"
+        }
+    ],
+    "built_with": [
+        "html",
+        "javascript"
+    ],
+    "content_html": "<div>\n<h1>Hackathon Submission Requirements</h1>\n<p><strong>Team Lead:</strong> Anthony Liu, 650-922-4476</p>\n<p><strong>Team Members:</strong> Anthony Liu, Heath Palmer, Ara Parikh, Tommy Oladele, Seyitan Oke </p>\n<p><strong>Category:</strong> Education, AR &amp; VR For Good</p>\n<p><strong>Brief Description:</strong> BobRossAR is a mobile augmented reality experience that helps students learn how to draw and paint by overlaying step-by-step instructions on the paper and canvases in front of them. </p>\n<p><strong>Location:</strong> 5th floor, to the right of the elevator on high top tables, Table 34</p>\n<p><strong>Environment:</strong> \nPlatform: HTML/Web; Assets: Minion.png image; Libraries: three.js, js-aruco for marker tracking </p>\n<h1>Why we built it</h1>\n<p>Arts funding in U.S. public schools have decreased--just 5% of elementary school students in Boston take a weekly art class as part of their education. They\u2019re missing education that is foundational to their development. Third grade art curriculum includes teaching core geometry concepts such as spatial understanding, depth perception, and positive and negative space. We need our kids to know that if AR/VR is the future!</p>\n<p>Our project, BobRossAR, wants to help increase access to basic art principles students just can\u2019t get in schools. Using just their phone, a sheet of paper, and a drawing tool, we teach them how to draw, just as easily as Bob Ross taught millions how to draw through TV. But, here we use mobile AR to break down the steps and overlay instructions onto your canvas to build a more immersive learning experience.  AR is the only way we can create an immersive learning experience that is similar to your teacher right next to you modelling drawing strokes. Mobile AR is cheap and easy to access-- a critical goal for our project. </p>\n<h2>Accomplishments that we're proud of</h2>\n<p>-We creatively solved tracking issues with other tracking libraries </p>\n</div>",
+    "content_md": "\n# Hackathon Submission Requirements\n\n\n**Team Lead:** Anthony Liu, 650-922-4476\n\n\n**Team Members:** Anthony Liu, Heath Palmer, Ara Parikh, Tommy Oladele, Seyitan Oke \n\n\n**Category:** Education, AR & VR For Good\n\n\n**Brief Description:** BobRossAR is a mobile augmented reality experience that helps students learn how to draw and paint by overlaying step-by-step instructions on the paper and canvases in front of them. \n\n\n**Location:** 5th floor, to the right of the elevator on high top tables, Table 34\n\n\n**Environment:** \nPlatform: HTML/Web; Assets: Minion.png image; Libraries: three.js, js-aruco for marker tracking \n\n\n# Why we built it\n\n\nArts funding in U.S. public schools have decreased--just 5% of elementary school students in Boston take a weekly art class as part of their education. They\u2019re missing education that is foundational to their development. Third grade art curriculum includes teaching core geometry concepts such as spatial understanding, depth perception, and positive and negative space. We need our kids to know that if AR/VR is the future!\n\n\nOur project, BobRossAR, wants to help increase access to basic art principles students just can\u2019t get in schools. Using just their phone, a sheet of paper, and a drawing tool, we teach them how to draw, just as easily as Bob Ross taught millions how to draw through TV. But, here we use mobile AR to break down the steps and overlay instructions onto your canvas to build a more immersive learning experience. AR is the only way we can create an immersive learning experience that is similar to your teacher right next to you modelling drawing strokes. Mobile AR is cheap and easy to access-- a critical goal for our project. \n\n\n## Accomplishments that we're proud of\n\n\n-We creatively solved tracking issues with other tracking libraries \n\n\n"
+}

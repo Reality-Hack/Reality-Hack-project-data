@@ -1,0 +1,45 @@
+{
+    "source": "https://devpost.com/software/stay-alive-7bsrq2",
+    "title": "Stay Alive",
+    "blurb": "Interactive, immersive, historical story telling experience",
+    "awards": [],
+    "videos": [
+        "https://player.vimeo.com/video/312404827?byline=0&portrait=0&title=0#t="
+    ],
+    "images": [
+        {
+            "title": "title screen",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/746/193/datas/original.jpg"
+        }
+    ],
+    "team": [
+        {
+            "name": "Shan Shan",
+            "about": "I'm the sound artist. ",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/741/978/datas/profile.jpg"
+        },
+        {
+            "name": "bassholio Bassler",
+            "about": "I assisted the team with UX/UI, Story flow, Interactions, layout, environments, creative direction, storyboarding, user flows, etc, etc, etc.",
+            "photo": "https://avatars1.githubusercontent.com/u/22763359?height=180&v=4&width=180"
+        },
+        {
+            "name": "Viveka CD",
+            "about": "I assisted the team with 3D modelling, props, 2D images, retouching, 3D environments, creative direction, story-boarding, user design, etc.",
+            "photo": "https://avatars0.githubusercontent.com/u/37417994?height=180&v=4&width=180"
+        },
+        {
+            "name": "vbousis Bousis, MBA, JD",
+            "about": "",
+            "photo": "https://avatars3.githubusercontent.com/u/46832233?height=180&v=4&width=180"
+        },
+        {
+            "name": "connerkward",
+            "about": "",
+            "photo": "https://graph.facebook.com/10215994332364810/picture?height=180&width=180"
+        }
+    ],
+    "built_with": [],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>The experience is based on countless survival stories about the genocide I heard while visiting Cambodia. The sad and complex history I discovered while visiting the country and meeting the people was gut-wrenching. It was, however, also inspiring, as so many people managed to courageously survive due to their willingness to live. </p>\n<h2>What it does</h2>\n<p>The interactive experience uses the insprirational narrative of several stories as dramatic pretext to outline the choices the user must make at each scene. Each decision will either result in their survival, imprisonment, or death. With each choice, the stakes heighten. The user stands to lose everything, including their family. Finally, at the end of the experience, the gravitas behind each decision will complete a puzzle about the user and their specific life story. </p>\n<h2>How I built it</h2>\n<p>We took a lot of time in the begining to storyboard the narrative and the interactivity. We also spent time organizing our workflow so we could pick up speed later. We build it using various software programs including unity, Photoshop, logic, audition, 3Ds-Max, QuickTime, iMovie, GitHub, Oculus STK's. We created most of our 3D and 2D assets, but used some free ones from the Unity store.  </p>\n<h2>Challenges I ran into</h2>\n<p>The challenges were making choices that were raising the stakes at each turn get maintaining a strong visual AND emotional narrative. We were also a team with only one new developer so it was challenging with so many scene changes and material to execute. The tradeoff was some of the interactive elements of the experience - it became limited to allowed time to build scenes, driving the narrative. Not to mention, our computer broke down in the middle of the hackathon which caused us a delay in our work. We lost time to replace the computer and then to rebuild some of the lost scenes. Adding the element of time constraint and the importance of this story with each passing hour, our stress increased exponentially. The hackathon became more than a project, but a personal endeavor to protect and represent the stories of so many people respectfully. </p>\n<h2>Accomplishments that I'm proud of</h2>\n<p>I am really proud of my team and our accomplishment. They exemplified the upmost commitment to the project and a deep passion for the story from the beginning. We brought this story to life as a collaborative team with shared values. We all worked diligently and extensively, extending our comfort zone to make this project a reality. </p>\n<h2>What I learned</h2>\n<p>I learned that passion comes first. It helps you endure the long nights, challenging moments, and difficult decisions. Second, the difference between a good experience and a great experience is story, story, and story. It all stems from there, then the artistry and technology follow. And thirdly, there is nothing better than pre-production planning and time vested in storyboarding. It helped align the vision for the entire team, whilst also providing direction, task management, and execution.</p>\n<h2>What's next for Stay Alive</h2>\n<p>I would like to continue to work on this experience with this team, while adding additional team members so we can really expand, perfect, and personalize the experience. Eventually, I would love to submit this into a film festival in hopes of bringing attention to these stories and helping people put the pieces together to their past.</p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nThe experience is based on countless survival stories about the genocide I heard while visiting Cambodia. The sad and complex history I discovered while visiting the country and meeting the people was gut-wrenching. It was, however, also inspiring, as so many people managed to courageously survive due to their willingness to live. \n\n\n## What it does\n\n\nThe interactive experience uses the insprirational narrative of several stories as dramatic pretext to outline the choices the user must make at each scene. Each decision will either result in their survival, imprisonment, or death. With each choice, the stakes heighten. The user stands to lose everything, including their family. Finally, at the end of the experience, the gravitas behind each decision will complete a puzzle about the user and their specific life story. \n\n\n## How I built it\n\n\nWe took a lot of time in the begining to storyboard the narrative and the interactivity. We also spent time organizing our workflow so we could pick up speed later. We build it using various software programs including unity, Photoshop, logic, audition, 3Ds-Max, QuickTime, iMovie, GitHub, Oculus STK's. We created most of our 3D and 2D assets, but used some free ones from the Unity store. \n\n\n## Challenges I ran into\n\n\nThe challenges were making choices that were raising the stakes at each turn get maintaining a strong visual AND emotional narrative. We were also a team with only one new developer so it was challenging with so many scene changes and material to execute. The tradeoff was some of the interactive elements of the experience - it became limited to allowed time to build scenes, driving the narrative. Not to mention, our computer broke down in the middle of the hackathon which caused us a delay in our work. We lost time to replace the computer and then to rebuild some of the lost scenes. Adding the element of time constraint and the importance of this story with each passing hour, our stress increased exponentially. The hackathon became more than a project, but a personal endeavor to protect and represent the stories of so many people respectfully. \n\n\n## Accomplishments that I'm proud of\n\n\nI am really proud of my team and our accomplishment. They exemplified the upmost commitment to the project and a deep passion for the story from the beginning. We brought this story to life as a collaborative team with shared values. We all worked diligently and extensively, extending our comfort zone to make this project a reality. \n\n\n## What I learned\n\n\nI learned that passion comes first. It helps you endure the long nights, challenging moments, and difficult decisions. Second, the difference between a good experience and a great experience is story, story, and story. It all stems from there, then the artistry and technology follow. And thirdly, there is nothing better than pre-production planning and time vested in storyboarding. It helped align the vision for the entire team, whilst also providing direction, task management, and execution.\n\n\n## What's next for Stay Alive\n\n\nI would like to continue to work on this experience with this team, while adding additional team members so we can really expand, perfect, and personalize the experience. Eventually, I would love to submit this into a film festival in hopes of bringing attention to these stories and helping people put the pieces together to their past.\n\n\n"
+}

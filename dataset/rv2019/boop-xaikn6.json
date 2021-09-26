@@ -1,0 +1,28 @@
+{
+    "source": "https://devpost.com/software/boop-xaikn6",
+    "title": "Boop",
+    "blurb": "Conceal your emotions while your opponent does questionable things to your face. Played on Magic Leap One / iPhone X.",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/4y-N3qcJg48?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "Brenda Chen",
+            "about": "I collaborated to design the game, build the IPhone AR app, create the art assets, and animate. ",
+            "photo": "https://avatars3.githubusercontent.com/u/25263586?height=180&v=4&width=180"
+        },
+        {
+            "name": "Sagar Ramesh",
+            "about": "",
+            "photo": "https://avatars2.githubusercontent.com/u/16869869?height=180&v=4&width=180"
+        }
+    ],
+    "built_with": [
+        "c#",
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>Social multiplayer games IRL. </p>\n<h2>What it does</h2>\n<p>iPhone player conceals his / her emotions while the Magic Leap player throws and drops objects (eggs, steaks, flip flops, etc.) on them to make them laugh. The Magic Leap player can also change what the iPhone player looks like, all in an attempt to make the iPhone player break his / her straight face.</p>\n<h2>How we built it</h2>\n<p>Unity, C#, ARKit, Magic Leap SDK</p>\n<h2>Challenges we ran into</h2>\n<p>Ensuring that the Magic Leap One, iPhone XR, and computer(s) running the game are able to talk to each other seamlessly. </p>\n<h2>Accomplishments that we're proud of</h2>\n<p>Our silly visual style and interactions. </p>\n<h2>What we learned</h2>\n<p>Scoping down and how to work with new hardware (Magic Leap).</p>\n<h2>What's next for Boop</h2>\n<p>More polish!</p>\n<h2>RV Requirements</h2>\n<p>Main work area, Sixth Floor.\nMade with Unity, C#, ARKit, Magic Leap SDK, LeanTween.\nAll other assets in project are original.</p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nSocial multiplayer games IRL. \n\n\n## What it does\n\n\niPhone player conceals his / her emotions while the Magic Leap player throws and drops objects (eggs, steaks, flip flops, etc.) on them to make them laugh. The Magic Leap player can also change what the iPhone player looks like, all in an attempt to make the iPhone player break his / her straight face.\n\n\n## How we built it\n\n\nUnity, C#, ARKit, Magic Leap SDK\n\n\n## Challenges we ran into\n\n\nEnsuring that the Magic Leap One, iPhone XR, and computer(s) running the game are able to talk to each other seamlessly. \n\n\n## Accomplishments that we're proud of\n\n\nOur silly visual style and interactions. \n\n\n## What we learned\n\n\nScoping down and how to work with new hardware (Magic Leap).\n\n\n## What's next for Boop\n\n\nMore polish!\n\n\n## RV Requirements\n\n\nMain work area, Sixth Floor.\nMade with Unity, C#, ARKit, Magic Leap SDK, LeanTween.\nAll other assets in project are original.\n\n\n"
+}

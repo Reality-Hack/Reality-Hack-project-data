@@ -1,0 +1,45 @@
+{
+    "source": "https://devpost.com/software/vrchitecture",
+    "title": "A",
+    "blurb": "A",
+    "awards": [],
+    "videos": [],
+    "images": [],
+    "team": [
+        {
+            "name": "Sean Dekkers",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/7658834e51ac4850b1ccc2d10739d190?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Patrick Murray",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/fcca186ffd8ff4726e83b8bed2f2c758?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Liam Tuohy",
+            "about": "",
+            "photo": "https://media.licdn.com/dms/image/C5603AQG-pO0dYpPokA/profile-displayphoto-shrink_800_800/0?e=1577923200&height=180&t=YgX6qpDavOcq-ifrSROIfAQPfXFsugRZMBjOe8qa6h0&v=beta&width=180"
+        },
+        {
+            "name": "Thiyagarajan Adi Raman",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/327fe3efca12609c80c7c7207bd517b7?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Kelly Wang",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/78dca0c3d35d7ca668b88d7526e83d56?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        }
+    ],
+    "built_with": [
+        "c-sharp",
+        "javascript",
+        "json",
+        "maya",
+        "unity",
+        "vive"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<h2>What it does</h2>\n<p>A</p>\n<h2>How we built it</h2>\n<h2>Challenges we ran into</h2>\n<h2>Accomplishments that we're proud of</h2>\n<h2>What we learned</h2>\n<h2>What's next for</h2>\n</div>",
+    "content_md": "\n## Inspiration\n\n\n## What it does\n\n\nA\n\n\n## How we built it\n\n\n## Challenges we ran into\n\n\n## Accomplishments that we're proud of\n\n\n## What we learned\n\n\n## What's next for\n\n\n"
+}

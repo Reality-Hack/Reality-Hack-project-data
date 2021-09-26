@@ -1,0 +1,26 @@
+{
+    "source": "https://devpost.com/software/flockar-v26h7f",
+    "title": "flockAR",
+    "blurb": "Augmented design thinking ",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/xvzfrLghMhk?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "Sabrina Naumovski",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/748/332/datas/profile.JPG"
+        }
+    ],
+    "built_with": [
+        "c#",
+        "microsoft-hololens",
+        "nreal",
+        "unity",
+        "vuforia"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>viral videos of cats</p>\n<h2>What it does</h2>\n<p>takes some plans, makes them 3d or something like that and shows you what a layout can be. </p>\n<h2>How I built it</h2>\n<p>Unity</p>\n<h2>Challenges I ran into</h2>\n<p>Hololens dev </p>\n<h2>Accomplishments that I'm proud of</h2>\n<p>Failing and failing fast</p>\n<h2>What I learned</h2>\n<p>Baby steps </p>\n<h2>What's next for flockAR</h2>\n<p>Probably go to sleep, maybe some other dev shit on it later. tbd </p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nviral videos of cats\n\n\n## What it does\n\n\ntakes some plans, makes them 3d or something like that and shows you what a layout can be. \n\n\n## How I built it\n\n\nUnity\n\n\n## Challenges I ran into\n\n\nHololens dev \n\n\n## Accomplishments that I'm proud of\n\n\nFailing and failing fast\n\n\n## What I learned\n\n\nBaby steps \n\n\n## What's next for flockAR\n\n\nProbably go to sleep, maybe some other dev shit on it later. tbd \n\n\n"
+}

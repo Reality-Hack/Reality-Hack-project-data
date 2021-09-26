@@ -1,0 +1,61 @@
+{
+    "source": "https://devpost.com/software/holo-learn",
+    "title": "HoloLeARn - IVO",
+    "blurb": "Interactive, self-learning Hololens app. Teach an avatar your customized content to increase retention & have fun",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/2QUVgjR78A4?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [
+        {
+            "title": "Hololearn - IVO",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/746/646/datas/original.jpg"
+        },
+        {
+            "title": "Hololearn on Hololens",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/746/649/datas/original.jpg"
+        },
+        {
+            "title": "Welcome screen",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/746/648/datas/original.jpg"
+        },
+        {
+            "title": "Flash cards",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/746/647/datas/original.jpg"
+        },
+        {
+            "title": "Teach Ivo!",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/746/645/datas/original.jpg"
+        }
+    ],
+    "team": [
+        {
+            "name": "Brodey Lajoie",
+            "about": "The lead developer on this project, I built HoloLeARn in Unity with Joe. I handled the systems and mechanics of the application, the avatar-user interaction, and the Hololens capability integration into the application.",
+            "photo": "https://avatars2.githubusercontent.com/u/32546217?height=180&v=4&width=180"
+        },
+        {
+            "name": "Eileen Hoff",
+            "about": "Worked with the team on user journey and story boards.",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/745/964/datas/profile.jpg"
+        },
+        {
+            "name": "Joe Chung",
+            "about": "I worked on the character  animation controller, scripts for audio and animations. I also helped with developing pedagogical features and logo + graphic design.",
+            "photo": "https://graph.facebook.com/912294205218/picture?height=180&width=180"
+        },
+        {
+            "name": "Madeleine M",
+            "about": "",
+            "photo": "https://media.licdn.com/dms/image/C5603AQHZ4rAvZ4XDcA/profile-displayphoto-shrink_100_100/0?e=1553126400&height=180&t=qC8W6z-iczqL6XmCUA8FWelhZbrUig6s8P564qIPbY0&v=beta&width=180"
+        },
+        {
+            "name": "Masaya Sasaki",
+            "about": "",
+            "photo": "https://graph.facebook.com/1328302520597572/picture?height=180&width=180"
+        }
+    ],
+    "built_with": [],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>Education has enormous transformative power, and the potential to change the world. However, the potential is unrealized and we strongly believe this can be changed with AR.</p>\n<p>Studying alone is boring, especially when you only read or simply listen. It's also ineffective, as content is only retained at a 10% rate with this method. This leads to frustrated students and teachers. What a waste of time! </p>\n<p>Studying is fun and engaging when you can explain the material to someone else. It's also the most effective way of retaining information, at a rate of 90%. Win-Win! </p>\n<p>IVO - The name of the avatar \u201cIVO\u201d comes from the Japanese word with the same pronunciation \u201cAibou\u201d which means pal, partner, or buddy.</p>\n<h2>What it does</h2>\n<p>Customized Content: </p>\n<p>Users insert customized content of what they are learning at school, such as; definitions, concepts, and key terms. The content is from the users traditional educational materials, such as; textbooks, study guides, or flashcards. The content is inputted through speech recognition or via the web. </p>\n<p>Avatar:</p>\n<p>The user is greeted by an avatar upon setting up their Hololens AR headset. The avatar has a positive, asset-based minded personality, who encourages the growth mindset and lifelong learning of the user. The avatar is always curious about the topic that the user is learning, and really wants to learn more. </p>\n<p>Stage 1 Learn:: </p>\n<p>In stage 1, the user has a time period to review flashcards of the content. The time period is dependent on the amount of content that has been inputted. Next to the flashcards, there are retrieval image cues that are related to keywords within the content. </p>\n<p>Stage 2 Explain:</p>\n<p>In stage 2, the avatar is ready and excited to learn from you.The avatar asks you to explain the topic of each flashcard, with various conversational prompts. When the avatar prompts the user, the retrieval image cue is shown.  The conversation is structured within a time period based on the amount of content. When the user is answering the prompt, there is a visual in the form of a brain, that is progressively colored in while the user is answering the prompt correctly. </p>\n<p>The avatar reacts with body gestures to the user responses based on whether the response is correct or incorrect. </p>\n<p>Once all of the prompts have been answered, the avatar either congratulates the user or directs the user to review the flashcards again in stage 1. </p>\n<h2>How we built it</h2>\n<p>This application was built in Unity using the UWP platform. We used Microsoft's Mixed Reality Toolkit in order to build the groundwork for HoloLeARn.</p>\n<p>The animation was built using a character and animations from mixamo. The voice of the avatar was recorded by one of the team members. </p>\n<h2>Challenges we ran into</h2>\n<p>We started the project with Magic Leap, and ran into issues with the speech recognition capabilities. After switching platforms to the Hololens, we had to tackle the issue of keyword and phrase recognition. We also ran into issues with the Unity build process and application lag.</p>\n<h2>Accomplishments that we're proud of</h2>\n<p>We are proud of identifying a huge gap in the education space and leveraging AR to develop to open retrieval practice, the most effective method of enhancing memory, to everyone. The avatar that we have built, embodies characteristics that encourage positive-minded and lifelong learners, through the connection built during the game. </p>\n<p>Creating a virtual avatar that will interact and react with the user in Mixed Reality is a huge accomplishment as well. Getting the avatar to respond and actually listen to and recognize our voices was a big step for us.</p>\n<h2>What we learned</h2>\n<p>Majoring learning came from starting with the Magic Leap. We learned what the platform is capable of and isn't capable of. We also learned more about the Hololens platform and how spatial perception comes into play. </p>\n<h2>What's next for HoloLeARn - IVO</h2>\n<p>Adding additional avatars to have a wide variety of representation for users to identify with. </p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nEducation has enormous transformative power, and the potential to change the world. However, the potential is unrealized and we strongly believe this can be changed with AR.\n\n\nStudying alone is boring, especially when you only read or simply listen. It's also ineffective, as content is only retained at a 10% rate with this method. This leads to frustrated students and teachers. What a waste of time! \n\n\nStudying is fun and engaging when you can explain the material to someone else. It's also the most effective way of retaining information, at a rate of 90%. Win-Win! \n\n\nIVO - The name of the avatar \u201cIVO\u201d comes from the Japanese word with the same pronunciation \u201cAibou\u201d which means pal, partner, or buddy.\n\n\n## What it does\n\n\nCustomized Content: \n\n\nUsers insert customized content of what they are learning at school, such as; definitions, concepts, and key terms. The content is from the users traditional educational materials, such as; textbooks, study guides, or flashcards. The content is inputted through speech recognition or via the web. \n\n\nAvatar:\n\n\nThe user is greeted by an avatar upon setting up their Hololens AR headset. The avatar has a positive, asset-based minded personality, who encourages the growth mindset and lifelong learning of the user. The avatar is always curious about the topic that the user is learning, and really wants to learn more. \n\n\nStage 1 Learn:: \n\n\nIn stage 1, the user has a time period to review flashcards of the content. The time period is dependent on the amount of content that has been inputted. Next to the flashcards, there are retrieval image cues that are related to keywords within the content. \n\n\nStage 2 Explain:\n\n\nIn stage 2, the avatar is ready and excited to learn from you.The avatar asks you to explain the topic of each flashcard, with various conversational prompts. When the avatar prompts the user, the retrieval image cue is shown. The conversation is structured within a time period based on the amount of content. When the user is answering the prompt, there is a visual in the form of a brain, that is progressively colored in while the user is answering the prompt correctly. \n\n\nThe avatar reacts with body gestures to the user responses based on whether the response is correct or incorrect. \n\n\nOnce all of the prompts have been answered, the avatar either congratulates the user or directs the user to review the flashcards again in stage 1. \n\n\n## How we built it\n\n\nThis application was built in Unity using the UWP platform. We used Microsoft's Mixed Reality Toolkit in order to build the groundwork for HoloLeARn.\n\n\nThe animation was built using a character and animations from mixamo. The voice of the avatar was recorded by one of the team members. \n\n\n## Challenges we ran into\n\n\nWe started the project with Magic Leap, and ran into issues with the speech recognition capabilities. After switching platforms to the Hololens, we had to tackle the issue of keyword and phrase recognition. We also ran into issues with the Unity build process and application lag.\n\n\n## Accomplishments that we're proud of\n\n\nWe are proud of identifying a huge gap in the education space and leveraging AR to develop to open retrieval practice, the most effective method of enhancing memory, to everyone. The avatar that we have built, embodies characteristics that encourage positive-minded and lifelong learners, through the connection built during the game. \n\n\nCreating a virtual avatar that will interact and react with the user in Mixed Reality is a huge accomplishment as well. Getting the avatar to respond and actually listen to and recognize our voices was a big step for us.\n\n\n## What we learned\n\n\nMajoring learning came from starting with the Magic Leap. We learned what the platform is capable of and isn't capable of. We also learned more about the Hololens platform and how spatial perception comes into play. \n\n\n## What's next for HoloLeARn - IVO\n\n\nAdding additional avatars to have a wide variety of representation for users to identify with. \n\n\n"
+}

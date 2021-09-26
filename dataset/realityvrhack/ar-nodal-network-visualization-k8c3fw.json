@@ -1,0 +1,37 @@
+{
+    "source": "https://devpost.com/software/ar-nodal-network-visualization-k8c3fw",
+    "title": "AR Nodal Network Visualization for Academic Citations",
+    "blurb": "Use AR to visualize academic citation data to identify influencers in a given field, and facilitate comparisons.",
+    "awards": [],
+    "videos": [],
+    "images": [],
+    "team": [
+        {
+            "name": "Charles Niu",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/71dc5af38927ad75e8c99245a980a9ea?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Paulo Jansen",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/151ded7e736f005846dadcae8f93d582?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Jes\u00fas Armand",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/5ac6f572bf830ab82d354db8a43ed3ca?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Ralston Louie",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/50455d6065b1388e3fed4d2fe4929aa3?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        }
+    ],
+    "built_with": [
+        "elsevier-api",
+        "meta2",
+        "unity"
+    ],
+    "content_html": "<div>\n<p>Team Point person: Charles Niu</p>\n<p>Phone Number: 425-260-1098</p>\n<p>Location: 3rd Floor, far in the back, left side (call if cannot find, we are pretty hidden)</p>\n<p>Vertical: Human Well-being (education specifically)</p>\n<h2>Inspiration</h2>\n<p>Prior to becoming an engineer, I studied History in University. When conducting research for my thesis, I became increasingly aware that despite the sea of books/articles on a given topic, they all reference the same core academic sources. In other words, in most fields, there is only a handful of highly influential sources of which all other papers derive from. This kind of information, when parsed in the traditional fashion, requires hours of dedicated research, the majority of it spent on sifting through citation data. I feel that by utilizing AR as a medium for visualizing data, we can display a nodal network of academic citations to more easily view the origins of data, and influencers in any given field. </p>\n<h2>What it does</h2>\n<p>Parse an online JSON repository of data, such as a scholarly archive. Bring up a paper, see its citations displayed behind it through connecting lines. As the network is projected in 3D space, one merely has to walk over to see the other citations.</p>\n<h2>How I built it</h2>\n<p>We used Unity in conjunction with the Elsevier api. We collect a JSON dataset from calls to the Elsevier api, and then project the information onto a nodal network framework we built in Unity.</p>\n<h2>Challenges I ran into</h2>\n<p>Displaying the data in a meaningful and understandable way has been challenging. We've run into numerous UX troubles in figuring out the best way to display the data so that it is not overly cluttered. This is especially challenging for papers with a large pool of sources. We iterated through many different nodal models. By the end of the hackathon, there is still work to be done to improve the UX experience.</p>\n<h2>Accomplishments that I'm proud of</h2>\n<p>Successfully calling the API, organizing the JSON data, and inputting it into the nodal network framework that we built was the meat of the project. And it surprisingly worked almost without any hitches. Great success there!</p>\n<h2>What I learned</h2>\n<p>Our team learned a lot about organizing visual data networks, as well as the best practice methods to display the data in a meaningful way. Lots more to be learned still however!</p>\n<h2>What's next for AR Nodal Network Visualization</h2>\n<p>A couple of our team have spent time organizing data for other topics, including mapping taxonomic relationships, historical photographs from China. We are building the system to be robust enough for all kinds of data visualization, and once we have iterated the kinks out with the UX, we hope this will be a useful open source tool!</p>\n</div>",
+    "content_md": "\nTeam Point person: Charles Niu\n\n\nPhone Number: 425-260-1098\n\n\nLocation: 3rd Floor, far in the back, left side (call if cannot find, we are pretty hidden)\n\n\nVertical: Human Well-being (education specifically)\n\n\n## Inspiration\n\n\nPrior to becoming an engineer, I studied History in University. When conducting research for my thesis, I became increasingly aware that despite the sea of books/articles on a given topic, they all reference the same core academic sources. In other words, in most fields, there is only a handful of highly influential sources of which all other papers derive from. This kind of information, when parsed in the traditional fashion, requires hours of dedicated research, the majority of it spent on sifting through citation data. I feel that by utilizing AR as a medium for visualizing data, we can display a nodal network of academic citations to more easily view the origins of data, and influencers in any given field. \n\n\n## What it does\n\n\nParse an online JSON repository of data, such as a scholarly archive. Bring up a paper, see its citations displayed behind it through connecting lines. As the network is projected in 3D space, one merely has to walk over to see the other citations.\n\n\n## How I built it\n\n\nWe used Unity in conjunction with the Elsevier api. We collect a JSON dataset from calls to the Elsevier api, and then project the information onto a nodal network framework we built in Unity.\n\n\n## Challenges I ran into\n\n\nDisplaying the data in a meaningful and understandable way has been challenging. We've run into numerous UX troubles in figuring out the best way to display the data so that it is not overly cluttered. This is especially challenging for papers with a large pool of sources. We iterated through many different nodal models. By the end of the hackathon, there is still work to be done to improve the UX experience.\n\n\n## Accomplishments that I'm proud of\n\n\nSuccessfully calling the API, organizing the JSON data, and inputting it into the nodal network framework that we built was the meat of the project. And it surprisingly worked almost without any hitches. Great success there!\n\n\n## What I learned\n\n\nOur team learned a lot about organizing visual data networks, as well as the best practice methods to display the data in a meaningful way. Lots more to be learned still however!\n\n\n## What's next for AR Nodal Network Visualization\n\n\nA couple of our team have spent time organizing data for other topics, including mapping taxonomic relationships, historical photographs from China. We are building the system to be robust enough for all kinds of data visualization, and once we have iterated the kinks out with the UX, we hope this will be a useful open source tool!\n\n\n"
+}

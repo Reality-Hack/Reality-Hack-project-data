@@ -1,0 +1,37 @@
+{
+    "source": "https://devpost.com/software/bird-4ytr5a",
+    "title": "Bird",
+    "blurb": "Learning-focused introduction to VR creative tools",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/F3zA14blSYs?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [
+        {
+            "title": "Logo",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/916/166/datas/original.png"
+        }
+    ],
+    "team": [
+        {
+            "name": "jamil mehdaoui",
+            "about": "VR painter, I worked on visual aspects of bird, developping the environment directly in VR using Quill",
+            "photo": "https://www.gravatar.com/avatar/5fa62a5e3a461d2b12ecb07c2734a8f7?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Aaron Santiago",
+            "about": "",
+            "photo": "https://avatars2.githubusercontent.com/u/47049060?height=180&v=4&width=180"
+        },
+        {
+            "name": "petersim",
+            "about": "",
+            "photo": "https://graph.facebook.com/3430511460354604/picture?height=180&width=180"
+        }
+    ],
+    "built_with": [
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>VR creation tools are a new paradigm of creation, but they are hard to learn and have intimidating interfaces. How can we onboard new creators in a way that will empower them to use the amazing tools available?</p>\n<h2>What it does</h2>\n<p>Bird uses an adaptive drawing guide alongside a storytelling environment to ease users into understanding spatial design. Bird's drawing tools reflect tools found in other apps, like Quill, Medium, and Tilt Brush, so that these skills will give creatives confidence in using VR to make art.</p>\n<h2>How we built it</h2>\n<p>We used Unity alongside some VR asset creation tools like Gravity Sketch and Quill to create a welcoming environment to draw in.</p>\n<h2>Challenges we ran into</h2>\n<p>Finding mechanics that could challenge new artists while not scaring them away took some time, iteration, and user testing. Additionally, recreating drawing tools within the hackathon constraints meant that we had to tailor a lot of our designs around what we could accomplish within the time frame.</p>\n<h2>Accomplishments that we're proud of</h2>\n<p>Bird's main feature is its adaptive drawing guide. Users are prompted to \"fill in\" a model using a template, but as their skills progress, we can remove the guide while they are painting. This mechanic allows them to use it as a reference in-place, while easing the transition from using the guide to freehand painting.</p>\n<p>Our environments are a welcoming alternative to the empty spaces and grid environments in classic VR apps, and the concepts we have that take users drawings and weave them into the environments create a positive feedback loop that can keep new artists engaged with VR creativity.</p>\n<p>Bird's demo system is built for efficiency, so we could test users at the drop of the hat. It intelligently places the environment and the sculpt each time the headset is put on, so there is no down-time between demos.</p>\n<h2>What we learned</h2>\n<p>People are monsters! Through our user testing we learned intimately what kind of guidance people needed to be able to immerse themselves in their project.</p>\n<p>Additionally, the challenge of running demos throughout the hackathon meant that the app had to be streamlined from the beginning, meaning that our development approach was rigorously focused on MVP and iterate.</p>\n<h2>What's next for Bird</h2>\n<p>Currently, the demo is a vertical slice of one of the creation sessions. It features a brush that resembles the Quill sphere brush, however it is lacking many of the features. Bird's demo can teach new VR creatives how to draw in 3D space, but other techniques such as shading would be fantastic to be able to show as well.</p>\n<p>We want to have a full suite of lessons, from beginner to advanced, and have the related environmental and narrative rewards for completing them.</p>\n<p>Teaching skills related to other tools, like the clay tools in Medium and the hull brush in Tilt Brush, are also on Bird's roadmap.</p>\n<p>And of course, more user tests are on each day of the roadmap!</p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nVR creation tools are a new paradigm of creation, but they are hard to learn and have intimidating interfaces. How can we onboard new creators in a way that will empower them to use the amazing tools available?\n\n\n## What it does\n\n\nBird uses an adaptive drawing guide alongside a storytelling environment to ease users into understanding spatial design. Bird's drawing tools reflect tools found in other apps, like Quill, Medium, and Tilt Brush, so that these skills will give creatives confidence in using VR to make art.\n\n\n## How we built it\n\n\nWe used Unity alongside some VR asset creation tools like Gravity Sketch and Quill to create a welcoming environment to draw in.\n\n\n## Challenges we ran into\n\n\nFinding mechanics that could challenge new artists while not scaring them away took some time, iteration, and user testing. Additionally, recreating drawing tools within the hackathon constraints meant that we had to tailor a lot of our designs around what we could accomplish within the time frame.\n\n\n## Accomplishments that we're proud of\n\n\nBird's main feature is its adaptive drawing guide. Users are prompted to \"fill in\" a model using a template, but as their skills progress, we can remove the guide while they are painting. This mechanic allows them to use it as a reference in-place, while easing the transition from using the guide to freehand painting.\n\n\nOur environments are a welcoming alternative to the empty spaces and grid environments in classic VR apps, and the concepts we have that take users drawings and weave them into the environments create a positive feedback loop that can keep new artists engaged with VR creativity.\n\n\nBird's demo system is built for efficiency, so we could test users at the drop of the hat. It intelligently places the environment and the sculpt each time the headset is put on, so there is no down-time between demos.\n\n\n## What we learned\n\n\nPeople are monsters! Through our user testing we learned intimately what kind of guidance people needed to be able to immerse themselves in their project.\n\n\nAdditionally, the challenge of running demos throughout the hackathon meant that the app had to be streamlined from the beginning, meaning that our development approach was rigorously focused on MVP and iterate.\n\n\n## What's next for Bird\n\n\nCurrently, the demo is a vertical slice of one of the creation sessions. It features a brush that resembles the Quill sphere brush, however it is lacking many of the features. Bird's demo can teach new VR creatives how to draw in 3D space, but other techniques such as shading would be fantastic to be able to show as well.\n\n\nWe want to have a full suite of lessons, from beginner to advanced, and have the related environmental and narrative rewards for completing them.\n\n\nTeaching skills related to other tools, like the clay tools in Medium and the hull brush in Tilt Brush, are also on Bird's roadmap.\n\n\nAnd of course, more user tests are on each day of the roadmap!\n\n\n"
+}

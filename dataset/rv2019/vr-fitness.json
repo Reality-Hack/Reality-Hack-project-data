@@ -1,0 +1,43 @@
+{
+    "source": "https://devpost.com/software/vr-fitness",
+    "title": "VR Fitness",
+    "blurb": "A VR game that motivates the player to move their body and exercise",
+    "awards": [],
+    "videos": [
+        "https://player.vimeo.com/video/312416755?byline=0&portrait=0&title=0#t="
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "Brian McDevitt",
+            "about": "I helped with the developing in Unity. I created the functionality of the hit objects in the application and built the menu that guided the user to different exercises.",
+            "photo": "https://avatars1.githubusercontent.com/u/8967395?height=180&v=3&width=180"
+        },
+        {
+            "name": "Lucid Dreams VR",
+            "about": "I proposed the idea and recruited and ran the team. I kept us organized using Trello, wrote several of the C# Unity scripts, helped teach other members, and designed and built the exercise routines and prefabs in the Unity editor.",
+            "photo": "https://avatars3.githubusercontent.com/u/28881505?height=180&v=4&width=180"
+        },
+        {
+            "name": "Kristen Palmer",
+            "about": "I worked on the shaders and created some of the paths for the objects to follow. I also helped build some of the exercise routines.",
+            "photo": "https://avatars3.githubusercontent.com/u/18505940?height=180&v=4&width=180"
+        },
+        {
+            "name": "Private user",
+            "about": "I worked on music composition and sound  design. ",
+            "photo": "https://devpost-challengepost.netdna-ssl.com/assets/defaults/no-avatar-180-caa7628ae0aae09831858639d32ace2a.png"
+        },
+        {
+            "name": "Melissa Chiu",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/6010a90961eb7de2b25bc4dbf9c52e6b?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        }
+    ],
+    "built_with": [
+        "htc-vive",
+        "unity"
+    ],
+    "content_html": "<div>\n<p>Inspired by 80s jazzercise videos, VR Fitness aims to motivate players to move their bodies and exercise. And it looks like an 80s screensaver! Also includes a seated mode for those who cannot exercise standing up. Obesity is a major challenge and making exercise fun and accessible is a good start. </p>\n<p>Theme: Health and Wellness</p>\n<p>Team 18</p>\n<p>MIT Media Lab, 6th floor, E14-674, Table 4</p>\n<p>Assets Used:</p>\n<ul>\n<li>VIU</li>\n<li>UCLA Wireframe Shader</li>\n<li>UETools</li>\n<li>VR Capture</li>\n<li>freesound.org</li>\n<li>Google fonts</li>\n</ul>\n</div>",
+    "content_md": "\nInspired by 80s jazzercise videos, VR Fitness aims to motivate players to move their bodies and exercise. And it looks like an 80s screensaver! Also includes a seated mode for those who cannot exercise standing up. Obesity is a major challenge and making exercise fun and accessible is a good start. \n\n\nTheme: Health and Wellness\n\n\nTeam 18\n\n\nMIT Media Lab, 6th floor, E14-674, Table 4\n\n\nAssets Used:\n\n\n* VIU\n* UCLA Wireframe Shader\n* UETools\n* VR Capture\n* freesound.org\n* Google fonts\n\n\n"
+}

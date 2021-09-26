@@ -1,0 +1,45 @@
+{
+    "source": "https://devpost.com/software/fit-nl0cr5",
+    "title": "FIT",
+    "blurb": "When clothes shopping online or in a catalog, our app shows how clothing would look on your body type in 3D space",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/ccUGsMpzjTk?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "John Knox",
+            "about": "I managed the team and workflow. I developed all the Unity and HoloLens scripts.  Worked with the team to port the code to iOS for demo on smartphone.",
+            "photo": "https://avatars3.githubusercontent.com/u/38356430?height=180&v=4&width=180"
+        },
+        {
+            "name": "steveice",
+            "about": "",
+            "photo": "https://graph.facebook.com/2331137156898466/picture?height=180&width=180"
+        },
+        {
+            "name": "mariaspark",
+            "about": "",
+            "photo": "https://avatars0.githubusercontent.com/u/46804238?height=180&v=4&width=180"
+        },
+        {
+            "name": "Minerstudio",
+            "about": "",
+            "photo": "https://avatars1.githubusercontent.com/u/45796624?height=180&v=4&width=180"
+        },
+        {
+            "name": "Namsoo Vincent Kim",
+            "about": "",
+            "photo": "https://media.licdn.com/dms/image/C4E03AQExqEppLA3a5w/profile-displayphoto-shrink_100_100/0?e=1553731200&height=180&t=Y9gL6-mnCzrDXWJP-kiD4YKYZ-PpkEkxULHvL_B2QWs&v=beta&width=180"
+        }
+    ],
+    "built_with": [
+        "c#",
+        "invision",
+        "unity",
+        "vuforia"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>The Original Idea for FIT, was to be more of an augmented reality style app, but after receiving feedback from mentors and peers, our team agreed that focusing more on the fit of the clothes rather than the style for online shoppers was a bigger issue, and one not thoroughly explored in the fashion market.</p>\n<h2>What it does</h2>\n<p>It allows the user to set up a profile where they input their Body Type parameters for their 3D model (avatar). Then the user can view a virtual representation of their body type in 3D space using their smartphone or tablet. The customer will be able to see how the clothes found during their online shopping experience will look on their body type, as well as where the tight and loose places are, from a large database of clothes (For the demo, it is just shirts).</p>\n<h2>How we built it</h2>\n<p>Our team used Unity and Vuforia for the 3D demonstration and Invision for the profile creator. </p>\n<h2>Challenges we ran into</h2>\n<p>Learning how to work with IOS Devices. The product was originally going to be on a HoloLens since the team had more experience with this device. However, we realized it would be tedious to enter the customer profile using the limited gesture control on the HoloLens. The team decided that the app would be better suited for smartphones and Tablets.  The team needed to quickly learn the iPhone and tablet touch screen functionality and create an operational GUI interface.</p>\n<h2>Accomplishments that we're proud of</h2>\n<p>Having not worked with IOS devices before, our team was proud of the fact we were able to get apps deployed on our phones. Also the designers on our team took on some programming challenges with Vuforia and succeeded in getting the scripts to work. </p>\n<h2>What we learned</h2>\n<p>Working with Unity and iOS. Using ground plane stage in Vuforia.     Understanding how to pitch an idea and form a team. How to effectively work with a team of people that just met.</p>\n<h2>What's next for FIT</h2>\n<p>Share data between smartphone and HoloLens</p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nThe Original Idea for FIT, was to be more of an augmented reality style app, but after receiving feedback from mentors and peers, our team agreed that focusing more on the fit of the clothes rather than the style for online shoppers was a bigger issue, and one not thoroughly explored in the fashion market.\n\n\n## What it does\n\n\nIt allows the user to set up a profile where they input their Body Type parameters for their 3D model (avatar). Then the user can view a virtual representation of their body type in 3D space using their smartphone or tablet. The customer will be able to see how the clothes found during their online shopping experience will look on their body type, as well as where the tight and loose places are, from a large database of clothes (For the demo, it is just shirts).\n\n\n## How we built it\n\n\nOur team used Unity and Vuforia for the 3D demonstration and Invision for the profile creator. \n\n\n## Challenges we ran into\n\n\nLearning how to work with IOS Devices. The product was originally going to be on a HoloLens since the team had more experience with this device. However, we realized it would be tedious to enter the customer profile using the limited gesture control on the HoloLens. The team decided that the app would be better suited for smartphones and Tablets. The team needed to quickly learn the iPhone and tablet touch screen functionality and create an operational GUI interface.\n\n\n## Accomplishments that we're proud of\n\n\nHaving not worked with IOS devices before, our team was proud of the fact we were able to get apps deployed on our phones. Also the designers on our team took on some programming challenges with Vuforia and succeeded in getting the scripts to work. \n\n\n## What we learned\n\n\nWorking with Unity and iOS. Using ground plane stage in Vuforia. Understanding how to pitch an idea and form a team. How to effectively work with a team of people that just met.\n\n\n## What's next for FIT\n\n\nShare data between smartphone and HoloLens\n\n\n"
+}

@@ -1,0 +1,61 @@
+{
+    "source": "https://devpost.com/software/animaid",
+    "title": "AnimAid",
+    "blurb": "AI/AR tool to allow anyone w/ an idea and a modern smartphone to prototype visual story concepts",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/2-PuKfeCO_s?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [
+        {
+            "title": "made with AnimAid",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/746/699/datas/original.png"
+        },
+        {
+            "title": "made with AnimAid",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/746/665/datas/original.png"
+        },
+        {
+            "title": "Deep learning network architecture",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/746/700/datas/original.png"
+        }
+    ],
+    "team": [
+        {
+            "name": "Ryan Reede",
+            "about": "I built the menu systems, did a lot of modeling in Blender and helped define the product direction",
+            "photo": "https://avatars0.githubusercontent.com/u/12736540?height=180&v=4&width=180"
+        },
+        {
+            "name": "Nicholas Grana",
+            "about": "AR UI/UX Engineer. Worked on 3D environment design, user controls, and animations. Used Unity to apply scale, position, rotation, live camera view, selection, and duplication actions to easily and quickly manipulate scenes.",
+            "photo": "https://avatars1.githubusercontent.com/u/16421258?height=180&v=4&width=180"
+        },
+        {
+            "name": "Matt Kelsey",
+            "about": "Machine learning developer. Implemented a convolutional neural net to convert 2D sketches to 3D models. Wrote Python server to interface with this neural net. Consumed copious amounts of coffee.",
+            "photo": "https://avatars2.githubusercontent.com/u/6994202?height=180&v=4&width=180"
+        },
+        {
+            "name": "Thomas Suarez",
+            "about": "AR Integration / Logic / Networking",
+            "photo": "https://avatars3.githubusercontent.com/u/5103968?height=180&v=4&width=180"
+        },
+        {
+            "name": "Sam Roquitte",
+            "about": "Built multipurpose scene to draw 2D images to be processed into 3D via the neural net.",
+            "photo": "https://avatars3.githubusercontent.com/u/3688992?height=180&v=4&width=180"
+        }
+    ],
+    "built_with": [
+        "autodesk",
+        "blender",
+        "forge",
+        "python",
+        "teleportal",
+        "tensorflow",
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>Speed up and democratize the ability to produce convincing storyboards and layouts for visual storytellers.</p>\n<h2>What it does</h2>\n<p>AnimAid is the ultimate tool for rapid prototyping of story concepts. Accessible to millions (available on all ARKit and ARCore devices), AnimAid seeks to democratize the skill and tools used for creating concept art and storyboards. There are 3 main components to the system.</p>\n<ol>\n<li>Drawing mode to feed two 2D viewports of a hypothetical 3D model. Uses deep learning to synthesize a basic 3d model from the two viewpoints.</li>\n<li>Laying out a scene's geometry in AR and moving cameras to get the perfect shot. Ability to add custom geometry formed by the deep learning system in (1).</li>\n<li>Capture a nice angle into the scene in AR, then drawing story content on top (chars, stage directions, etc..)</li>\n</ol>\n<h2>Check out our Slideshow for engineering details, challenges faced, and what is next for AnimAid:</h2>\n<p><a href=\"https://docs.google.com/presentation/d/e/2PACX-1vR53MlL9SgA1m3QzYEOIrYrteRKwDKQDDFpYX5wUN-NQRadJaaDn_6i2N99v56fwzBkCpnMV8jFo7y4/pub?start=true&amp;loop=false&amp;delayms=3000\" rel=\"nofollow\">https://docs.google.com/presentation/d/e/2PACX-1vR53MlL9SgA1m3QzYEOIrYrteRKwDKQDDFpYX5wUN-NQRadJaaDn_6i2N99v56fwzBkCpnMV8jFo7y4/pub?start=true&amp;loop=false&amp;delayms=3000</a></p>\n<h2>Also on Github here:</h2>\n<p><a href=\"https://github.com/RealityVirtually2019/ComposAR\" rel=\"nofollow\">https://github.com/RealityVirtually2019/ComposAR</a></p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nSpeed up and democratize the ability to produce convincing storyboards and layouts for visual storytellers.\n\n\n## What it does\n\n\nAnimAid is the ultimate tool for rapid prototyping of story concepts. Accessible to millions (available on all ARKit and ARCore devices), AnimAid seeks to democratize the skill and tools used for creating concept art and storyboards. There are 3 main components to the system.\n\n\n1. Drawing mode to feed two 2D viewports of a hypothetical 3D model. Uses deep learning to synthesize a basic 3d model from the two viewpoints.\n2. Laying out a scene's geometry in AR and moving cameras to get the perfect shot. Ability to add custom geometry formed by the deep learning system in (1).\n3. Capture a nice angle into the scene in AR, then drawing story content on top (chars, stage directions, etc..)\n\n\n## Check out our Slideshow for engineering details, challenges faced, and what is next for AnimAid:\n\n\n<https://docs.google.com/presentation/d/e/2PACX-1vR53MlL9SgA1m3QzYEOIrYrteRKwDKQDDFpYX5wUN-NQRadJaaDn_6i2N99v56fwzBkCpnMV8jFo7y4/pub?start=true&loop=false&delayms=3000>\n\n\n## Also on Github here:\n\n\n<https://github.com/RealityVirtually2019/ComposAR>\n\n\n"
+}

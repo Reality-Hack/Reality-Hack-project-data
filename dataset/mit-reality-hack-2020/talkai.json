@@ -1,0 +1,22 @@
+{
+    "source": "https://devpost.com/software/talkai",
+    "title": "TalkAI (Team 035)",
+    "blurb": "AI-driven, AR-enabled tool that helps people overcome the fear of public speaking and develop the ability to be heard.",
+    "awards": [
+        "Best in Tools"
+    ],
+    "videos": [
+        "https://www.youtube.com/embed/9g7O3tgTsTU?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "sxing2015 Xing",
+            "about": "",
+            "photo": "https://avatars0.githubusercontent.com/u/17692110?height=180&v=4&width=180"
+        }
+    ],
+    "built_with": [],
+    "content_html": "<div>\n<p>We are very passionate about giving everyone the ability to have their voices heard! Public speaking is a fear facing many of us, and because of this fear and the general lack of resources, many talented people do not have the chance to receive credit for their work or to make their opinions known.</p>\n<p>We began by brainstorming the key painpoint facing speakers today, and arrived at the key issue of the lack of opportunities to present in front of real audience while feeling like a safe environment. Therefore, we are working to create a virtual environment, where virtual audience can react and give feedback to the speaker, so the speaker can practice speaking and improve while not feeling unsafe or worried. We created this environment on the NReal platform.</p>\n<p>In generating the reaction in real time, we use natural language processing to extract sentiment from the user's spoken content (using Valence Aware Dictionary and Sentiment Reasoner). We also used neural networks to train a model on the speech audio file (using 1600+ video clips from RAVDESS dataset). Through the two-dimensional analysis, we are able to create a model that listens to the user's spoken content and generate a reaction accordingly, which then feeds into the reaction of our virtual audience.</p>\n<p>Our team created audience reaction animations for common emotions such as engaged, happy, sad, surprised. We also added verbal feedback that correspond to each one of the emotions. So while the user wears the device and speaks, the user is able to see the virtual audience, who reacts real time.</p>\n<p>We have also done work around improvement-focused feedback areas, such as speaking speed, tonal variety, volume adjustment. We have not had enough time to engineer the front end of these features yet, but these are areas that we are looking to work on going forward!</p>\n</div>",
+    "content_md": "\nWe are very passionate about giving everyone the ability to have their voices heard! Public speaking is a fear facing many of us, and because of this fear and the general lack of resources, many talented people do not have the chance to receive credit for their work or to make their opinions known.\n\n\nWe began by brainstorming the key painpoint facing speakers today, and arrived at the key issue of the lack of opportunities to present in front of real audience while feeling like a safe environment. Therefore, we are working to create a virtual environment, where virtual audience can react and give feedback to the speaker, so the speaker can practice speaking and improve while not feeling unsafe or worried. We created this environment on the NReal platform.\n\n\nIn generating the reaction in real time, we use natural language processing to extract sentiment from the user's spoken content (using Valence Aware Dictionary and Sentiment Reasoner). We also used neural networks to train a model on the speech audio file (using 1600+ video clips from RAVDESS dataset). Through the two-dimensional analysis, we are able to create a model that listens to the user's spoken content and generate a reaction accordingly, which then feeds into the reaction of our virtual audience.\n\n\nOur team created audience reaction animations for common emotions such as engaged, happy, sad, surprised. We also added verbal feedback that correspond to each one of the emotions. So while the user wears the device and speaks, the user is able to see the virtual audience, who reacts real time.\n\n\nWe have also done work around improvement-focused feedback areas, such as speaking speed, tonal variety, volume adjustment. We have not had enough time to engineer the front end of these features yet, but these are areas that we are looking to work on going forward!\n\n\n"
+}

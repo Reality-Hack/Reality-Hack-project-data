@@ -1,0 +1,42 @@
+{
+    "source": "https://devpost.com/software/realitysampler",
+    "title": "Let it Snow!",
+    "blurb": "A last chance to experience snowfall in the era of global warming.",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/lkq_TUulxHw?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [
+        {
+            "title": "Let it Snow!",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/424/217/datas/original.jpg"
+        }
+    ],
+    "team": [
+        {
+            "name": "Adrian Sas",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/29203c47f19f2dad330b5754e9ce972b?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Hao Chen Li",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/739bf20fdbb3fb668808ff42d1a3d1d8?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Sam L",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/74eb60334766f1c42dd104cd1728c9db?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "KR Saxton",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/a53f78c536bae228fc70fbdb3b4b7b9c?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        }
+    ],
+    "built_with": [
+        "microsoft-hololens"
+    ],
+    "content_html": "<div>\n<p>In this fanciful mixed reality experience, snow falls from above while a snowman serenades you.</p>\n<p>We created the winter wonderland effect from a Unity particle system which simulates snow, and worked with Hololens' spatial mapping function to locate surfaces and form a mesh which catches the accumulating snowfall. </p>\n<p>Let it Snow! transposes the magic of winter onto unlikely environments for a delightful, wintry experience everyone can enjoy. </p>\n</div>",
+    "content_md": "\nIn this fanciful mixed reality experience, snow falls from above while a snowman serenades you.\n\n\nWe created the winter wonderland effect from a Unity particle system which simulates snow, and worked with Hololens' spatial mapping function to locate surfaces and form a mesh which catches the accumulating snowfall. \n\n\nLet it Snow! transposes the magic of winter onto unlikely environments for a delightful, wintry experience everyone can enjoy. \n\n\n"
+}

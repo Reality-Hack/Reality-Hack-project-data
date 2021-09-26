@@ -1,0 +1,37 @@
+{
+    "source": "https://devpost.com/software/bottled-up",
+    "title": "Bottled Up",
+    "blurb": "a virtual reality alchemist's lab",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/CGBW--ZoaEU?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "ddgond",
+            "about": "",
+            "photo": "https://avatars1.githubusercontent.com/u/7691152?height=180&v=4&width=180"
+        },
+        {
+            "name": "Elissa He",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/82de3764aa9cb448c12b09ba1a66890c?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Danny Gelman",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/7d7b3bb228a489f7b162a8e8adfd51f2?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Isabel Lee",
+            "about": "",
+            "photo": "https://avatars3.githubusercontent.com/u/18541240?height=180&v=4&width=180"
+        }
+    ],
+    "built_with": [
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Location</h2>\n<p>Media Lab, 3rd Floor, outside E15-313.</p>\n<h2>Inspiration</h2>\n<p>Where do the potions in RPGs come from? Who makes them? Humanity has spent centuries searching for an answer to this age-old question. But the search is at an end - now <em>you</em> can make the potions.</p>\n<h2>What it does</h2>\n<p>Bottled Up is a game that invites players to invent and explore. Players chop, smash and boil ingredients to make their own magical potions.</p>\n<h2>How we built it</h2>\n<p>We used Unity and SteamVR, as well as Blender and Maya for modeling.</p>\n<h2>3rd Party Assets and libraries</h2>\n<p><a href=\"https://sketchfab.com/models/dfc462fb314a4ca2985b6ed7090d1e90\" rel=\"nofollow\">https://sketchfab.com/models/dfc462fb314a4ca2985b6ed7090d1e90</a>\n<a href=\"https://sketchfab.com/models/47c554254fd24ac29966e71819c2a0be\" rel=\"nofollow\">https://sketchfab.com/models/47c554254fd24ac29966e71819c2a0be</a>\n<a href=\"https://sketchfab.com/models/1be00a3695c046c69eca1e0a0381e188\" rel=\"nofollow\">https://sketchfab.com/models/1be00a3695c046c69eca1e0a0381e188</a>\n<a href=\"https://sketchfab.com/models/b264c4fbd0534372a278a9def943f52a\" rel=\"nofollow\">https://sketchfab.com/models/b264c4fbd0534372a278a9def943f52a</a>\n<a href=\"https://sketchfab.com/models/747a541d6dca4c8c8df2f4ec0f37c00e\" rel=\"nofollow\">https://sketchfab.com/models/747a541d6dca4c8c8df2f4ec0f37c00e</a>\n<a href=\"https://assetstore.unity.com/packages/tools/integration/steamvr-plugin-32647\" rel=\"nofollow\">https://assetstore.unity.com/packages/tools/integration/steamvr-plugin-32647</a>\n<a href=\"https://sketchfab.com/models/ea227e0235a54af48ae11142402b4323\" rel=\"nofollow\">https://sketchfab.com/models/ea227e0235a54af48ae11142402b4323</a></p>\n<h2>Challenges we ran into</h2>\n<p>Couldn't get a Vive for testing the first two days.</p>\n<h2>Accomplishments that we're proud of</h2>\n<p>We worked well together and made a lot of progress despite being unable to test in VR.</p>\n<h2>What we learned</h2>\n<p>Waking up early for equipment checkout is important.</p>\n<h2>What's next for Bottled Up</h2>\n<p>More crafting recipes and potions.</p>\n</div>",
+    "content_md": "\n## Location\n\n\nMedia Lab, 3rd Floor, outside E15-313.\n\n\n## Inspiration\n\n\nWhere do the potions in RPGs come from? Who makes them? Humanity has spent centuries searching for an answer to this age-old question. But the search is at an end - now *you* can make the potions.\n\n\n## What it does\n\n\nBottled Up is a game that invites players to invent and explore. Players chop, smash and boil ingredients to make their own magical potions.\n\n\n## How we built it\n\n\nWe used Unity and SteamVR, as well as Blender and Maya for modeling.\n\n\n## 3rd Party Assets and libraries\n\n\n<https://sketchfab.com/models/dfc462fb314a4ca2985b6ed7090d1e90>\n<https://sketchfab.com/models/47c554254fd24ac29966e71819c2a0be>\n<https://sketchfab.com/models/1be00a3695c046c69eca1e0a0381e188>\n<https://sketchfab.com/models/b264c4fbd0534372a278a9def943f52a>\n<https://sketchfab.com/models/747a541d6dca4c8c8df2f4ec0f37c00e>\n<https://assetstore.unity.com/packages/tools/integration/steamvr-plugin-32647>\n<https://sketchfab.com/models/ea227e0235a54af48ae11142402b4323>\n\n\n## Challenges we ran into\n\n\nCouldn't get a Vive for testing the first two days.\n\n\n## Accomplishments that we're proud of\n\n\nWe worked well together and made a lot of progress despite being unable to test in VR.\n\n\n## What we learned\n\n\nWaking up early for equipment checkout is important.\n\n\n## What's next for Bottled Up\n\n\nMore crafting recipes and potions.\n\n\n"
+}

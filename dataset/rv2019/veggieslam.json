@@ -1,0 +1,31 @@
+{
+    "source": "https://devpost.com/software/veggieslam",
+    "title": "VeggieSlam",
+    "blurb": "The kitchen is your arena. It's time to prove your mastery over vegetables.",
+    "awards": [],
+    "videos": [],
+    "images": [],
+    "team": [
+        {
+            "name": "Samantha Garcia",
+            "about": "Worked on Ball Physics, Implementing Multiplayer using Photon's PUN Unity Asset, Integrated VR for Daydream and Oculus Go",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/537/870/datas/profile.jpg"
+        },
+        {
+            "name": "Abel Paguio",
+            "about": "",
+            "photo": "https://graph.facebook.com/1683672631651822/picture?height=180&width=180"
+        }
+    ],
+    "built_with": [
+        "android",
+        "c#",
+        "oculus",
+        "oculus-go",
+        "photon",
+        "poly",
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>What it does</h2>\n</div>",
+    "content_md": "\n## What it does\n\n\n"
+}

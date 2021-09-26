@@ -1,0 +1,68 @@
+{
+    "source": "https://devpost.com/software/journalar",
+    "title": "journalAR",
+    "blurb": "An AR application for everyday people looking to take care of their mental health through active journaling.",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/eqc9JRP_Ric?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [
+        {
+            "title": "Private journal view - mobile",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/456/datas/original.jpg"
+        },
+        {
+            "title": "Text message, video - mobile",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/457/datas/original.jpg"
+        },
+        {
+            "title": "Emotion selection - HMD",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/458/datas/original.png"
+        },
+        {
+            "title": "Audio clip - HMD",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/459/datas/original.png"
+        },
+        {
+            "title": "Map view - mobile",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/460/datas/original.jpg"
+        },
+        {
+            "title": "Image - HMD",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/461/datas/original.png"
+        },
+        {
+            "title": "Private journal view - HMD",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/462/datas/original.png"
+        },
+        {
+            "title": "Photo framing - HMD",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/466/datas/original.png"
+        }
+    ],
+    "team": [
+        {
+            "name": "Tom\u00e1\u0161 Havl\u00edk",
+            "about": "I designed and hacked together a version of our app for Nreal AR HMD.",
+            "photo": "https://avatars1.githubusercontent.com/u/7209990?height=180&v=4&width=180"
+        },
+        {
+            "name": "nikkieto",
+            "about": "",
+            "photo": "https://avatars2.githubusercontent.com/u/46796781?height=180&v=4&width=180"
+        },
+        {
+            "name": "Sowmiya Nagarajan",
+            "about": "",
+            "photo": "https://avatars3.githubusercontent.com/u/20276568?height=180&v=4&width=180"
+        }
+    ],
+    "built_with": [
+        "c#",
+        "nreal",
+        "unity",
+        "vuforia"
+    ],
+    "content_html": "<div>\n<p>Our project is journalAR. It\u2019s for everyday people looking to take care of their mental health through active journaling.</p>\n<p>Journaling is a helpful way to process, reflect, and express your thoughts and feelings. This can be especially helpful for people struggling with mental health to manage stress, anxiety, and depression in their everyday life.</p>\n<p>There are two versions of this project that are both made in Unity. The mobile version uses Vuforia and the HMD version uses the Nreal SDK. The UX differs quite heavily inbetween versions in order to best utilize their capabilities. For the HMD version, we went with UI built on gaze interaction in order to enable the user to use the application hands-free. So far, it enables the user to add new image and voice recordings, support for text is intended via an online transcribing tool to help mitigate poor input capabilities on AR HMDs. The current mobile version of our app augments text, image, audio and video posts recorded by passerbys around the scanned target. It includes a closed captions (CC) accessibility feature to enable transcription for audio posts.</p>\n<p>Our project allows people to journal in the world by creating a written text entry, a voice recording, taking a photo, or a video, and tagging it to a real place. Accessibility features have been added to ensure close captioning is available for individuals who are hard of hearing, smileys can be chosen to show the mood of the post, and the integration with places in the real world encourages active living.</p>\n<p>You\u2019ll also be able to see posts from others who have left a public journal entry. Often, the feeling of anxiety and depression comes with the feeling of isolation and loneliness. This public archive of journals is a reminder that many of these thoughts and feelings are shared. Users can see their personal journal history as well, and can look at the map to see where personal and public entries have been placed.</p>\n<p>Our team consisted of a UX interactions designer and two developers, one who worked solely on the mobile version and another focusing on the version for Nreal HMD. A number of challenges were encountered, most notably stemming from lack of prior experience of one of the authors with Nreal SDK. Our mobile developer had to redesign their application to work around markers in order to support indoor areas, outside areas are meant to be covered using geolocation.</p>\n<p>We are proud of creating two separate user interfaces, each tailored for a specific class of device. It was incredible being part of a team that went from idea to finish in mere 2.5 days. Since we were a team of three, we had to wear many hats, which has provided us with valuable experience in many areas of development. We have learned about amazing new AR devices and for one of the members, the application was their first forray into HMD-based AR development.</p>\n<p>In the future, we hope to integrate the functionality of the mobile version with the user experience of the Nreal version. We would also like to improve and add more accessibility features, and include sensitive content warnings.</p>\n<p>Come join us and start journaling!</p>\n</div>",
+    "content_md": "\nOur project is journalAR. It\u2019s for everyday people looking to take care of their mental health through active journaling.\n\n\nJournaling is a helpful way to process, reflect, and express your thoughts and feelings. This can be especially helpful for people struggling with mental health to manage stress, anxiety, and depression in their everyday life.\n\n\nThere are two versions of this project that are both made in Unity. The mobile version uses Vuforia and the HMD version uses the Nreal SDK. The UX differs quite heavily inbetween versions in order to best utilize their capabilities. For the HMD version, we went with UI built on gaze interaction in order to enable the user to use the application hands-free. So far, it enables the user to add new image and voice recordings, support for text is intended via an online transcribing tool to help mitigate poor input capabilities on AR HMDs. The current mobile version of our app augments text, image, audio and video posts recorded by passerbys around the scanned target. It includes a closed captions (CC) accessibility feature to enable transcription for audio posts.\n\n\nOur project allows people to journal in the world by creating a written text entry, a voice recording, taking a photo, or a video, and tagging it to a real place. Accessibility features have been added to ensure close captioning is available for individuals who are hard of hearing, smileys can be chosen to show the mood of the post, and the integration with places in the real world encourages active living.\n\n\nYou\u2019ll also be able to see posts from others who have left a public journal entry. Often, the feeling of anxiety and depression comes with the feeling of isolation and loneliness. This public archive of journals is a reminder that many of these thoughts and feelings are shared. Users can see their personal journal history as well, and can look at the map to see where personal and public entries have been placed.\n\n\nOur team consisted of a UX interactions designer and two developers, one who worked solely on the mobile version and another focusing on the version for Nreal HMD. A number of challenges were encountered, most notably stemming from lack of prior experience of one of the authors with Nreal SDK. Our mobile developer had to redesign their application to work around markers in order to support indoor areas, outside areas are meant to be covered using geolocation.\n\n\nWe are proud of creating two separate user interfaces, each tailored for a specific class of device. It was incredible being part of a team that went from idea to finish in mere 2.5 days. Since we were a team of three, we had to wear many hats, which has provided us with valuable experience in many areas of development. We have learned about amazing new AR devices and for one of the members, the application was their first forray into HMD-based AR development.\n\n\nIn the future, we hope to integrate the functionality of the mobile version with the user experience of the Nreal version. We would also like to improve and add more accessibility features, and include sensitive content warnings.\n\n\nCome join us and start journaling!\n\n\n"
+}

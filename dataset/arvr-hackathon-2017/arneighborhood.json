@@ -1,0 +1,43 @@
+{
+    "source": "https://devpost.com/software/arneighborhood",
+    "title": "ARNeighborhood",
+    "blurb": "ARNeighborhood is an Augmented Reality educational tool designed to encourage people to learn about their community.",
+    "awards": [],
+    "videos": [],
+    "images": [],
+    "team": [
+        {
+            "name": "Krystal Cooper",
+            "about": "Krystal Cooper - Concept/Project Lead",
+            "photo": "https://avatars.githubusercontent.com/u/11076396?height=180&v=3&width=180"
+        },
+        {
+            "name": "Janeen Anderson",
+            "about": "I worked on AR Kit code development.  I integrated text to speech using Watson APIs.",
+            "photo": "https://media.licdn.com/dms/image/C4D03AQGhCwpegySbJg/profile-displayphoto-shrink_100_100/0?e=1545264000&height=180&t=eVI4bCoAUYYgaMKnBDYSUav2VqkYLc1tBMPS0wRr_8c&v=beta&width=180"
+        },
+        {
+            "name": "Brian Contreras",
+            "about": "",
+            "photo": "https://media.licdn.com/mpr/mprx/0_ORAOgKfo1vryHz1-sJ5rvCaozX4jHNx0R05OZksonXhySXYPU05xrC3oK5GjSvf7lEdxvCaEs_fpwr9_qeqGvkfQ0_fgwrV0BeqjY5VwqCVAT63_RJCPOAqsx9zSGrSaOIK-JcTvsOs?height=180&width=180"
+        },
+        {
+            "name": "Yifan Xing",
+            "about": "",
+            "photo": "https://avatars0.githubusercontent.com/u/15064985?height=180&v=3&width=180"
+        },
+        {
+            "name": "Fran Gardino",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/249fba9baa873e25aa63513e8aa11f0b?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        }
+    ],
+    "built_with": [
+        "arkit",
+        "ios",
+        "mapbox",
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Hackathon Requirements</h2>\n<h2>Location: E14 building, 5th floor.  Room 514B</h2>\n<h2>The development tools used to build the project</h2>\n<p>This application utilizes the iOS platform, xCode, Apple ARkit, Mapbox, IBM Watson Text Synthesis API and Unity 3D.</p>\n<h2>Any assets used in the project</h2>\n<p>Information courtesy of the Architectural Heritage Foundation and the Boston Landmarks Commission. </p>\n<p>Icons: <a href=\"https://icons8.com/license\" rel=\"nofollow\">https://icons8.com/license</a></p>\n<h2>Any components not created at the hackathon</h2>\n<p>Photographs courtesy of Fran Gardino.</p>\n<h2>What it does</h2>\n<p>ARNeighborhood (pronounced Our Neigborhood) is an Augmented Reality educational\ntool designed to encourage people to learn about the history of their communities.\nOur goal is to create a tool that augments the user's experience by giving them\nan interactive way to learn the unique stories waiting to be discovered\nright around the corner. </p>\n</div>",
+    "content_md": "\n## Hackathon Requirements\n\n\n## Location: E14 building, 5th floor. Room 514B\n\n\n## The development tools used to build the project\n\n\nThis application utilizes the iOS platform, xCode, Apple ARkit, Mapbox, IBM Watson Text Synthesis API and Unity 3D.\n\n\n## Any assets used in the project\n\n\nInformation courtesy of the Architectural Heritage Foundation and the Boston Landmarks Commission. \n\n\nIcons: <https://icons8.com/license>\n\n\n## Any components not created at the hackathon\n\n\nPhotographs courtesy of Fran Gardino.\n\n\n## What it does\n\n\nARNeighborhood (pronounced Our Neigborhood) is an Augmented Reality educational\ntool designed to encourage people to learn about the history of their communities.\nOur goal is to create a tool that augments the user's experience by giving them\nan interactive way to learn the unique stories waiting to be discovered\nright around the corner. \n\n\n"
+}

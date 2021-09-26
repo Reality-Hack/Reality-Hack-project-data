@@ -1,0 +1,49 @@
+{
+    "source": "https://devpost.com/software/superbugs-fighting-antimicrobial-resistance-no9zej",
+    "title": "Superbugs: fighting antimicrobial resistance ",
+    "blurb": "Educational immersive experience which teaches antimicrobial resistance ",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/qkj3MDvuB0I?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [
+        {
+            "title": "antibiotic model extracted from  Protein databank",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/420/904/datas/original.JPG"
+        },
+        {
+            "title": "unity game play of immersive 360  scene",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/420/905/datas/original.JPG"
+        },
+        {
+            "title": "Dr. Shu.  researcher of the star shaped protein ",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/420/906/datas/original.JPG"
+        }
+    ],
+    "team": [
+        {
+            "name": "Steve Doroff",
+            "about": "Built out Unity environment and developed and modified all C# code.",
+            "photo": "https://res.cloudinary.com/devpost/image/upload/b_transparent,c_pad,g_center,h_150,w_150/v1471804548/fyik2qhcgspzfww7xokn.jpg?height=180&width=180"
+        },
+        {
+            "name": "Sam Spaeth",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/401/938/datas/profile.jpg"
+        },
+        {
+            "name": "Karen Zastudil",
+            "about": "",
+            "photo": "https://media.licdn.com/mpr/mprx/0_FiVC9702c3w4U3y1W5Eg92e2cbO4RCD15Gaj92mlHCodX6VPwLomZuVxJdY6Z5206h4yJwyWo7tP?height=180&width=180"
+        }
+    ],
+    "built_with": [
+        "3dstudiomax",
+        "unity",
+        "weblabviewerlit",
+        "weblabviewerlite",
+        "zbrush"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>Mankind is under attack. D r  Shu Jie LAM. PhD  is researching a new line of treatment for antimicrobial therapy. Her research is a new hope for the growing MRSA like bugs. Her recent discoveries inspired our immersive experience.  </p>\n<h2>What it does</h2>\n<p>Immersive Experience where a video of a Microbiologist  open and closes with some educational information. The viewer experiences an immersive environment where they are represented as a bacterial entity (rod shaped gram negative bacteria)  treated with antibiotics. We (the bacteria) are invaded by antibiotics, which we have learned to be resistant to. Unfortunately a new line of nanotechnology of tiny star shaped protein molecules, have found a way to destroy our cell walls. <em>*<em>They won this battle but is this the end?  *</em></em>\n<a href=\"https://www.researchgate.net/publication/308024491_Combating_multidrug-resistant_Gram-negative_bacteria_with_structurally_nanoengineered_antimicrobial_peptide_polymers\" rel=\"nofollow\">link</a></p>\n<h2>How I built</h2>\n<p>Unity build for a Tango.\nVirtual environment was built from Unity's Survival Shooter game and the project Tango dev kit. Codebase has  than 50% of code and all assets modeled and built for this project. Within the virtual environment a customized video component of Dr. Shu has been added for educational value.<br/>\nUnity and C# were used for codebase, digital assets were built in 3DSmax and Zbrush. Textures created in Zbrush and photoshop.  </p>\n<h2>Challenges I ran into</h2>\n<p>Small team working together to create a short immersive experience. Learning functions and capabilities of various part of software and hardware to complete the goals in the allotted time available. </p>\n<ul>\n<li>resources with appropriate skills</li>\n<li>complexity of the technology component integration </li>\n<li>documentation of emerging technologies</li>\n</ul>\n<h2>Accomplishments that I'm proud of</h2>\n<p>Using emerging technologies to help educate people regarding an issue that effects all of Mankind. We developed educational material that used new technology to make engaging immersive content. Exploring way to develop an engaging story for microbial resistance. Being an immersive experience, it is platform agnostic. The material also presented in a multimodal manner that is not restricted to demographic or previous knowledge.</p>\n<h2>What I learned</h2>\n<p>Unity development. Thinking of ways of making learning engaging. </p>\n<h2>What's next for Superbugs: fighting antimicrobial resistance</h2>\n<p>Scene 2 where the next line of antibiotics are effective against the bacteria</p>\n<p>The name of your team lead\n      -Sam Spaeth </p>\n<p>2.) The team lead's telephone number\n        914-588-6149</p>\n<p>3.) The location where the judges can find your team including the floor number\n       - Foor 6, table 5 </p>\n<p>4.) The vertical category in which you are competing\n       - Human Well-Being (Education/Health/Wellness/Activism)</p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nMankind is under attack. D r Shu Jie LAM. PhD is researching a new line of treatment for antimicrobial therapy. Her research is a new hope for the growing MRSA like bugs. Her recent discoveries inspired our immersive experience. \n\n\n## What it does\n\n\nImmersive Experience where a video of a Microbiologist open and closes with some educational information. The viewer experiences an immersive environment where they are represented as a bacterial entity (rod shaped gram negative bacteria) treated with antibiotics. We (the bacteria) are invaded by antibiotics, which we have learned to be resistant to. Unfortunately a new line of nanotechnology of tiny star shaped protein molecules, have found a way to destroy our cell walls. ***They won this battle but is this the end? ***\n[link](https://www.researchgate.net/publication/308024491_Combating_multidrug-resistant_Gram-negative_bacteria_with_structurally_nanoengineered_antimicrobial_peptide_polymers)\n\n\n## How I built\n\n\nUnity build for a Tango.\nVirtual environment was built from Unity's Survival Shooter game and the project Tango dev kit. Codebase has than 50% of code and all assets modeled and built for this project. Within the virtual environment a customized video component of Dr. Shu has been added for educational value.  \n\nUnity and C# were used for codebase, digital assets were built in 3DSmax and Zbrush. Textures created in Zbrush and photoshop. \n\n\n## Challenges I ran into\n\n\nSmall team working together to create a short immersive experience. Learning functions and capabilities of various part of software and hardware to complete the goals in the allotted time available. \n\n\n* resources with appropriate skills\n* complexity of the technology component integration\n* documentation of emerging technologies\n\n\n## Accomplishments that I'm proud of\n\n\nUsing emerging technologies to help educate people regarding an issue that effects all of Mankind. We developed educational material that used new technology to make engaging immersive content. Exploring way to develop an engaging story for microbial resistance. Being an immersive experience, it is platform agnostic. The material also presented in a multimodal manner that is not restricted to demographic or previous knowledge.\n\n\n## What I learned\n\n\nUnity development. Thinking of ways of making learning engaging. \n\n\n## What's next for Superbugs: fighting antimicrobial resistance\n\n\nScene 2 where the next line of antibiotics are effective against the bacteria\n\n\nThe name of your team lead\n -Sam Spaeth \n\n\n2.) The team lead's telephone number\n 914-588-6149\n\n\n3.) The location where the judges can find your team including the floor number\n - Foor 6, table 5 \n\n\n4.) The vertical category in which you are competing\n - Human Well-Being (Education/Health/Wellness/Activism)\n\n\n"
+}

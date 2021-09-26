@@ -1,0 +1,50 @@
+{
+    "source": "https://devpost.com/software/worldwhispers",
+    "title": "WorldWhispers",
+    "blurb": "Introducing one of the World's First Augmented Audio Reality Apps for Bose\u2122 AR Frames",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/mcYI1439JcE?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [
+        {
+            "title": "AR Cloud will include spatial audio",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/745/362/datas/original.png"
+        }
+    ],
+    "team": [
+        {
+            "name": "Peter Iordanov",
+            "about": "I worked on building the Unity project and using the Bose AR SDK to interpret a series of head gestures and finger taps to navigate through our story.",
+            "photo": "https://avatars.githubusercontent.com/u/5401480?height=180&v=3&width=180"
+        },
+        {
+            "name": "Adriana Vecchioli",
+            "about": "I worked on the front-end, UX/UI, name, story & assets.",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/745/723/datas/profile.png"
+        },
+        {
+            "name": "Marlon Fuentes",
+            "about": "",
+            "photo": "https://graph.facebook.com/10155750215229904/picture?height=180&width=180"
+        },
+        {
+            "name": "Sunish Gupta",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/3a4a0b424eb49465263ff3af0f859471?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Dorothee Schmidt",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/b51bceffdee3ece5f4e25c35672fd334?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        }
+    ],
+    "built_with": [
+        "bose",
+        "ios",
+        "unity",
+        "xcode"
+    ],
+    "content_html": "<div>\n<p><strong>Augmenting the real world with contextual audio.</strong> \nLocation: MIT Media Lab, 6th Floor main hall. </p>\n<h1>Design Challenge</h1>\n<ul>\n<li>How might we make immersive experiences accessible (abilities, price) ?</li>\n<li>How might we reduce injuries from mobile phone distraction? </li>\n<li>How might we encourage people to walk? </li>\n<li>How might we give local residents an opportunity to tell their story?</li>\n</ul>\n<h3>Inspiration</h3>\n<p>Cities are \"smart\" and getting smarter, we're told. As information processing becomes embedded within and distributed throughout ever broader regions of urban space, we, humans, arrive at an opportune moment to take back the streets from cars and introduce a new opportunity for optimal pedestrian experiences using augmented reality. There is no higher fidelity than the real world. By augmenting our surroundings with audio, we can preserve a connection with reality while contextualizing it with human stories, critical information, and new paradigms in user experiences and interfaces. </p>\n<h2>What it does</h2>\n<p>World Whisper allows users to take the scenic route and enjoy the sights and sounds of reality with an additional layer of audio augmentation that tells you stories, and provides contextual information about your surroundings. </p>\n<h2>How we built it</h2>\n<p>Using Bose AR frames with projected audio and positional tracking, our team created scenes, menus, and audio pins in Unity for IOS using the Bose SDK. </p>\n<h2>Challenges we ran into</h2>\n<p>With new hardware that was only released to the public weeks before the hackathon, our team ventured into the unknown both on the software side as well as by having to explore new UX paradigms with audio only interaction. </p>\n<p>Technical:</p>\n<ul>\n<li>Bose AR SDK is early in development </li>\n<li>Had to implement our own gesture controls </li>\n<li>Calibrating device to keep center point of view</li>\n<li>Location services implementation </li>\n<li>Emerging paradigms in audio UX / UI</li>\n</ul>\n<h2>Accomplishments that we're proud of</h2>\n<p>Coding the head gestures ourselves was quite a challenge. Also, designing audio AR experience for comfort and creating intuitive interactions led us to dig deep into the human experience for queues that would start a conversation between the technology and the user. </p>\n<h2>What we learned</h2>\n<p>Immersive technology should not be exclusive to visual media. By exploring audio AR our team has learned that it is possible to create menus, icons, and conversations with users without a graphic visualization. </p>\n<h2>What's next for World Whispers</h2>\n<p>After further testing of our build, our team is eager to improve our ability to start a conversation with users and engage them in optimal experiences leveraging their surroundings. We will also collect a survey of our UX for Audio AR challenges and how we solved them. </p>\n</div>",
+    "content_md": "\n**Augmenting the real world with contextual audio.** \nLocation: MIT Media Lab, 6th Floor main hall. \n\n\n# Design Challenge\n\n\n* How might we make immersive experiences accessible (abilities, price) ?\n* How might we reduce injuries from mobile phone distraction?\n* How might we encourage people to walk?\n* How might we give local residents an opportunity to tell their story?\n\n\n### Inspiration\n\n\nCities are \"smart\" and getting smarter, we're told. As information processing becomes embedded within and distributed throughout ever broader regions of urban space, we, humans, arrive at an opportune moment to take back the streets from cars and introduce a new opportunity for optimal pedestrian experiences using augmented reality. There is no higher fidelity than the real world. By augmenting our surroundings with audio, we can preserve a connection with reality while contextualizing it with human stories, critical information, and new paradigms in user experiences and interfaces. \n\n\n## What it does\n\n\nWorld Whisper allows users to take the scenic route and enjoy the sights and sounds of reality with an additional layer of audio augmentation that tells you stories, and provides contextual information about your surroundings. \n\n\n## How we built it\n\n\nUsing Bose AR frames with projected audio and positional tracking, our team created scenes, menus, and audio pins in Unity for IOS using the Bose SDK. \n\n\n## Challenges we ran into\n\n\nWith new hardware that was only released to the public weeks before the hackathon, our team ventured into the unknown both on the software side as well as by having to explore new UX paradigms with audio only interaction. \n\n\nTechnical:\n\n\n* Bose AR SDK is early in development\n* Had to implement our own gesture controls\n* Calibrating device to keep center point of view\n* Location services implementation\n* Emerging paradigms in audio UX / UI\n\n\n## Accomplishments that we're proud of\n\n\nCoding the head gestures ourselves was quite a challenge. Also, designing audio AR experience for comfort and creating intuitive interactions led us to dig deep into the human experience for queues that would start a conversation between the technology and the user. \n\n\n## What we learned\n\n\nImmersive technology should not be exclusive to visual media. By exploring audio AR our team has learned that it is possible to create menus, icons, and conversations with users without a graphic visualization. \n\n\n## What's next for World Whispers\n\n\nAfter further testing of our build, our team is eager to improve our ability to start a conversation with users and engage them in optimal experiences leveraging their surroundings. We will also collect a survey of our UX for Audio AR challenges and how we solved them. \n\n\n"
+}

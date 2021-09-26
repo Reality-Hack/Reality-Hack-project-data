@@ -1,0 +1,35 @@
+{
+    "source": "https://devpost.com/software/task-transfer",
+    "title": "TASK TRANSFER",
+    "blurb": "ENTERPRISE  TRAINING IN XR",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/HLyqFQoirRI?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "Lex Dreitser",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/274/391/datas/profile.png"
+        },
+        {
+            "name": "Maciek Jarosiewicz",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/0156ac1680c8854bbc277baffce382eb?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "megamindmo",
+            "about": "",
+            "photo": "https://avatars0.githubusercontent.com/u/23298720?height=180&v=4&width=180"
+        }
+    ],
+    "built_with": [
+        "magic",
+        "magic-leap",
+        "magic:-the-gathering",
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>Knowing that Magic Leap's corporate strategy has shifted to enterprise, we saw a great opportunity. </p>\n<h2>What it does</h2>\n<p>TASK TRANSFER \nENTERPRISE TRAINING in XR\ufffdEnd-to-end solution addressing \nthe world's aging workforce  </p>\n<ol>\n<li><p>Expert Wears Magic Leap and Performs Task - Magic Leap Records</p></li>\n<li><p>Novice Wears Magic Leap and Watches Recording - Performs Task Correctly - Magic Leap Records</p></li>\n<li><p>Expert Evaluates Novice Task Performance Remotely</p></li>\n</ol>\n<h2>How we built it</h2>\n<p>We used Unity and Magic Leap's developer resources to build an app that will spearhead Magic Leap's Enterprise offerings. </p>\n<h2>Challenges we ran into</h2>\n<p>Some of our team is developing on Magic Leap for the first time. There were some initial setup quirks.</p>\n<h2>Accomplishments that we're proud of</h2>\n<p>We were each able to build a new feature and commit to the repo on time.</p>\n<h2>What we learned</h2>\n<p>We learned a ton about teamwork and built great friendships. We each learned to build to Magic Leap</p>\n<h2>What's next for TASK TRANSFER</h2>\n<p>This is a very viable enterprise product. We will start pitching aerospace companies this week.</p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nKnowing that Magic Leap's corporate strategy has shifted to enterprise, we saw a great opportunity. \n\n\n## What it does\n\n\nTASK TRANSFER \nENTERPRISE TRAINING in XR\ufffdEnd-to-end solution addressing \nthe world's aging workforce \n\n\n1. Expert Wears Magic Leap and Performs Task - Magic Leap Records\n2. Novice Wears Magic Leap and Watches Recording - Performs Task Correctly - Magic Leap Records\n3. Expert Evaluates Novice Task Performance Remotely\n\n\n## How we built it\n\n\nWe used Unity and Magic Leap's developer resources to build an app that will spearhead Magic Leap's Enterprise offerings. \n\n\n## Challenges we ran into\n\n\nSome of our team is developing on Magic Leap for the first time. There were some initial setup quirks.\n\n\n## Accomplishments that we're proud of\n\n\nWe were each able to build a new feature and commit to the repo on time.\n\n\n## What we learned\n\n\nWe learned a ton about teamwork and built great friendships. We each learned to build to Magic Leap\n\n\n## What's next for TASK TRANSFER\n\n\nThis is a very viable enterprise product. We will start pitching aerospace companies this week.\n\n\n"
+}

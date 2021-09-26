@@ -1,0 +1,47 @@
+{
+    "source": "https://devpost.com/software/cat-match-ar",
+    "title": "Cat Match AR",
+    "blurb": "Cat Match AR is a game that helps match players with their purrfect furry friend through AR kitty interaction.",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/JmVBJ4YQ9vA?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [
+        {
+            "title": "in process image showing a kitty avatar in AR",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/546/574/datas/original.jpg"
+        }
+    ],
+    "team": [
+        {
+            "name": "shylo shepherd",
+            "about": "I worked on art assets, design and general team/project management during the hackathon. Great job everyone!!!",
+            "photo": "https://avatars3.githubusercontent.com/u/5191443?height=180&v=4&width=180"
+        },
+        {
+            "name": "Meredith Wilson",
+            "about": "I helped with the technical game design and Unity development, especially dealing with the UI. The biggest problem I solved was getting a 3D particle system to track properly with a 2D camera overlay UI canvas. This component is an essential part of the Cat Match AR game play feedback mechanism. ",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/429/240/datas/profile.png"
+        },
+        {
+            "name": "Leonard Wedderburn",
+            "about": "I was the programmer that worked with ARcore SDK to work and also place the objects in virtual space",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/424/958/datas/profile.jpg"
+        },
+        {
+            "name": "Joe Marchuk",
+            "about": "I took care of sound design, music, and audio implementation for Cat Match AR! I created cat sounds from my own voice as well as a cohesive UI soundscape based on modulating my own whistling. The music adapts to the player's interaction with the cat by changing instrumentation and harmony when the player's affection with the cat reaches a certain level.",
+            "photo": "https://www.gravatar.com/avatar/ed38ebc19147d1af840bcc5bdcd8fb89?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        }
+    ],
+    "built_with": [
+        "affinity-designer",
+        "arcore",
+        "photoshop",
+        "pro-tools",
+        "reaper",
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>We all love cats and wanted to make a fun experience in AR interacting with cats. The idea of a cat matching app lent to the opportunity to also help real animals find families. </p>\n<h2>What it does</h2>\n<p>Cat Match AR is an idle game with 5 inputs: pet, feed, play, swap cat to left, and swap cat to right. The player is timed while they interact with a variety of adorable animated cats in the comfort of their own homes through Augmented Reality by petting the kitties, giving the kitties treats and playing with the kitties. Depending on the cat's profile, each kitty's approval meter will fill or empty accordingly to how much they enjoy the activity. Player's can visit with multiple kitties to find the kitty that they get along with the best. At the end of their time, the player is given their \"purrfect match\" and their stats so they can see what kind of interactions the player prefers. This is to help them understand their kitty preferences for actual adoption. </p>\n<h2>How we built it</h2>\n<p>We used Unity 3D and the ARCore SDK. </p>\n<h2>Challenges we ran into</h2>\n<p>Learning how to use the ARCore SDK with Unity in such a short period of time was the big challenge this weekend. That and keeping it working throughout our modifications. It's a new technology and is still being developed, so documentation and stability are still in the beginning stages.  Mentors were a great resource and helped immensely.</p>\n<h2>Accomplishments that we're proud of</h2>\n<p>We are honestly proud of getting it working at all. It's the little achievements throughout the process that make it so rewarding. All of those little aha-moments give you a boost of energy and help you realize how important the small things are in technology. We're also proud of managing our time and scope effectively during the hackathon so that we were well rested, fed and minimized stress.</p>\n<h2>What we learned</h2>\n<p>We got a jumpstart on AR and ARCore, which will be hugely helpful as we continue to pursue AR development in the future.</p>\n<h2>What's next for Cat Match AR</h2>\n<p>The Big Picture is to connect the game to animal shelters and allow them to create avatars for real cats in the game, as well as improve the profiles to incorporate more personality attributes of the cats for more accurate results. An \"idle observation mode\" allowing the kitty avatar to imitate the personality of their real-life cat would be helpful to allow players a chance to see how the real cats they're interacting with might act in their home. The avatars would give cats that are \"less attractive\" a better chance at being adopted, and players a better idea of the types of cat personalities that suit them best so both cat and adopted family are better matched and happier together. We would also like to add mechanics to generate paid content to earn donations for cat rescues and shelters. In the future we would like to develop the same kind of game with dogs. </p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nWe all love cats and wanted to make a fun experience in AR interacting with cats. The idea of a cat matching app lent to the opportunity to also help real animals find families. \n\n\n## What it does\n\n\nCat Match AR is an idle game with 5 inputs: pet, feed, play, swap cat to left, and swap cat to right. The player is timed while they interact with a variety of adorable animated cats in the comfort of their own homes through Augmented Reality by petting the kitties, giving the kitties treats and playing with the kitties. Depending on the cat's profile, each kitty's approval meter will fill or empty accordingly to how much they enjoy the activity. Player's can visit with multiple kitties to find the kitty that they get along with the best. At the end of their time, the player is given their \"purrfect match\" and their stats so they can see what kind of interactions the player prefers. This is to help them understand their kitty preferences for actual adoption. \n\n\n## How we built it\n\n\nWe used Unity 3D and the ARCore SDK. \n\n\n## Challenges we ran into\n\n\nLearning how to use the ARCore SDK with Unity in such a short period of time was the big challenge this weekend. That and keeping it working throughout our modifications. It's a new technology and is still being developed, so documentation and stability are still in the beginning stages. Mentors were a great resource and helped immensely.\n\n\n## Accomplishments that we're proud of\n\n\nWe are honestly proud of getting it working at all. It's the little achievements throughout the process that make it so rewarding. All of those little aha-moments give you a boost of energy and help you realize how important the small things are in technology. We're also proud of managing our time and scope effectively during the hackathon so that we were well rested, fed and minimized stress.\n\n\n## What we learned\n\n\nWe got a jumpstart on AR and ARCore, which will be hugely helpful as we continue to pursue AR development in the future.\n\n\n## What's next for Cat Match AR\n\n\nThe Big Picture is to connect the game to animal shelters and allow them to create avatars for real cats in the game, as well as improve the profiles to incorporate more personality attributes of the cats for more accurate results. An \"idle observation mode\" allowing the kitty avatar to imitate the personality of their real-life cat would be helpful to allow players a chance to see how the real cats they're interacting with might act in their home. The avatars would give cats that are \"less attractive\" a better chance at being adopted, and players a better idea of the types of cat personalities that suit them best so both cat and adopted family are better matched and happier together. We would also like to add mechanics to generate paid content to earn donations for cat rescues and shelters. In the future we would like to develop the same kind of game with dogs. \n\n\n"
+}

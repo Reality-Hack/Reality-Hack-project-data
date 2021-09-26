@@ -1,0 +1,43 @@
+{
+    "source": "https://devpost.com/software/caution-no-bear-in-area",
+    "title": "Caution: No Bear in Area",
+    "blurb": "Can we help people anywhere in the world to help slow global warming at home?",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/pZgkOl4fOEU?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "LongzeXia Xia",
+            "about": "Design & 3D Modelling",
+            "photo": "https://avatars1.githubusercontent.com/u/16907034?height=180&v=4&width=180"
+        },
+        {
+            "name": "Matt Kaminski",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/01d2f4695b5c4b0e8d3c7f937c315d3e?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Sandeep Bangalore Venkatesh",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/131ddfe0d8f6457f0639379e031b7baf?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Axel S. Toro Vega",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/001/250/285/datas/profile.JPG"
+        }
+    ],
+    "built_with": [
+        "adobe-illustrator",
+        "blender",
+        "cinema-4d",
+        "google-cloud-text-to-speech",
+        "photoshop",
+        "unity",
+        "visual-studio"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>How can individuals at home impact a global problem?  Can we teach people anywhere in the world to take action at home that will help slow global warming?</p>\n<h2>What it does</h2>\n<p>The experience charges people with the task of learning activities that can be done in their home that could help slow global warming.  Users are encouraged to communicate the tasks with others.</p>\n<h2>How we built it</h2>\n<p>We started with the desire to educate people about global warming.  We researched on the web to educate ourselves and help define the problem.  We went through ideation, design, and implementation, then iteration.  In each phase we used different materials and opportunities.  We used interviews with adults to understand their knowledge.  We decided to target young adults and adults.</p>\n<p>Global warming is a macro problem.  We decided to make a connection between young adults and global warming problem.  We choose simple educational language.  To help focus attention, we chose a specific species which is impacted - Polar bears.  A sign sometimes has the caution text \"Bear in Area\"; we think we need to caution people \"No Bear in Area\".  Oculus with Unity was chosen to create an immersive environment.   We iterated and refined the learning experiences, visuals, language and interactions.</p>\n<h2>Challenges we ran into</h2>\n<p>The design challenge for us was how can we translate this complex issue into language that anyone can understand.  How can we make an experience that is both attractive and compelling, and give the users a sense of meaning and urgency to perform the tasks.</p>\n<p>We needed to integrate the grabbing gesture and teleportation in Oculus. </p>\n<p>Wanted to create elements dynamically to show the dynamically loaded text strings.</p>\n<h2>Accomplishments that we're proud of</h2>\n<p>We know we needed to balance between our expectations and ability given the short timeframe.  We were able to meet and make adjustments, and design decisions, as needed.  Long video sample (<a href=\"https://youtu.be/aX28r7El-o4\" rel=\"nofollow\">https://youtu.be/aX28r7El-o4</a>).</p>\n<h2>What we learned</h2>\n<p>We learned some startling facts about global warming.  We were exposed to cross discipline tools and concepts\nAs a team we had broad experience and were able to learn from one another conceptually and technically.</p>\n<h2>What's next for Caution: No Bear in Area</h2>\n<p>Please contact us with questions or ideas.  Our project would benefit from widespread user testing to refine interactions.  We would like to create other meaningful elements in the experience which users can discover.  This project can be easily localized - we used external string files - so that it can be experienced throughout the globe</p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nHow can individuals at home impact a global problem? Can we teach people anywhere in the world to take action at home that will help slow global warming?\n\n\n## What it does\n\n\nThe experience charges people with the task of learning activities that can be done in their home that could help slow global warming. Users are encouraged to communicate the tasks with others.\n\n\n## How we built it\n\n\nWe started with the desire to educate people about global warming. We researched on the web to educate ourselves and help define the problem. We went through ideation, design, and implementation, then iteration. In each phase we used different materials and opportunities. We used interviews with adults to understand their knowledge. We decided to target young adults and adults.\n\n\nGlobal warming is a macro problem. We decided to make a connection between young adults and global warming problem. We choose simple educational language. To help focus attention, we chose a specific species which is impacted - Polar bears. A sign sometimes has the caution text \"Bear in Area\"; we think we need to caution people \"No Bear in Area\". Oculus with Unity was chosen to create an immersive environment. We iterated and refined the learning experiences, visuals, language and interactions.\n\n\n## Challenges we ran into\n\n\nThe design challenge for us was how can we translate this complex issue into language that anyone can understand. How can we make an experience that is both attractive and compelling, and give the users a sense of meaning and urgency to perform the tasks.\n\n\nWe needed to integrate the grabbing gesture and teleportation in Oculus. \n\n\nWanted to create elements dynamically to show the dynamically loaded text strings.\n\n\n## Accomplishments that we're proud of\n\n\nWe know we needed to balance between our expectations and ability given the short timeframe. We were able to meet and make adjustments, and design decisions, as needed. Long video sample (<https://youtu.be/aX28r7El-o4>).\n\n\n## What we learned\n\n\nWe learned some startling facts about global warming. We were exposed to cross discipline tools and concepts\nAs a team we had broad experience and were able to learn from one another conceptually and technically.\n\n\n## What's next for Caution: No Bear in Area\n\n\nPlease contact us with questions or ideas. Our project would benefit from widespread user testing to refine interactions. We would like to create other meaningful elements in the experience which users can discover. This project can be easily localized - we used external string files - so that it can be experienced throughout the globe\n\n\n"
+}

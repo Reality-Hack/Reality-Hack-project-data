@@ -1,0 +1,47 @@
+{
+    "source": "https://devpost.com/software/webvr-checkout",
+    "title": "WebVR Checkout",
+    "blurb": "Seamless WebVR checkout experience through authentification while immersed in VR",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/bkqCLEqe2Xw?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "Roland Dubois",
+            "about": "Team Lead. Concept, Design, Code & Production (A-Frame)",
+            "photo": "https://avatars.githubusercontent.com/u/347570?height=180&v=3&width=180"
+        },
+        {
+            "name": "pennyz",
+            "about": " Project Management, UX, Business Research, Production (Video), Q/A",
+            "photo": "https://avatars1.githubusercontent.com/u/30180346?height=180&v=4&width=180"
+        },
+        {
+            "name": "Sawan Ruparel",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/2724c50d2eb2cd5abd48d9d6faff2aac?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Maximiliano Madrid",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/fdca6ead77468b7b0260d9765c413f2c?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "manokhinv Manokhin",
+            "about": "",
+            "photo": "https://avatars2.githubusercontent.com/u/4396449?height=180&v=4&width=180"
+        }
+    ],
+    "built_with": [
+        "a-frame",
+        "ibm-watson",
+        "javascript",
+        "node.js",
+        "payment-processing",
+        "webvr"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>VR provides an escape from reality. VR is a new reality. When immersed in device agnostic web-based VR shopping experiences, one of the biggest user pain points is breaking out of the VR environment in order authenticate and process payments. </p>\n<h2>What it does</h2>\n<p>Tied to an immersive webVR experience, WebVR Checkout frees you from going back to the reality to finish the checkout authentication. Instead of finishing the payment information through mobile phones, computers, iPads, or pos machines, WebVRcheckout secures your E-commerce payment through biometric voice recognition, trustZone questions, and IBM Watson AI quiz. </p>\n<h2>How we built it</h2>\n<h2>Challenges we ran into</h2>\n<p>Mobile web browsers are not up to date with supporting latest web standards such as speech recognition of the Web Audio API or the Payment Request API. A few of our team members were only present for a day. </p>\n<h2>Accomplishments that we're proud of</h2>\n<p>Learned about limitations of WebRTC and potential new web standards allow our project to become real in the near future.</p>\n<h2>What we learned</h2>\n<p>Doing research and figuring out workarounds can take up a long time.</p>\n<h2>What's next for WebVR Checkout</h2>\n<p>Becoming a component of the A-Frame.</p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nVR provides an escape from reality. VR is a new reality. When immersed in device agnostic web-based VR shopping experiences, one of the biggest user pain points is breaking out of the VR environment in order authenticate and process payments. \n\n\n## What it does\n\n\nTied to an immersive webVR experience, WebVR Checkout frees you from going back to the reality to finish the checkout authentication. Instead of finishing the payment information through mobile phones, computers, iPads, or pos machines, WebVRcheckout secures your E-commerce payment through biometric voice recognition, trustZone questions, and IBM Watson AI quiz. \n\n\n## How we built it\n\n\n## Challenges we ran into\n\n\nMobile web browsers are not up to date with supporting latest web standards such as speech recognition of the Web Audio API or the Payment Request API. A few of our team members were only present for a day. \n\n\n## Accomplishments that we're proud of\n\n\nLearned about limitations of WebRTC and potential new web standards allow our project to become real in the near future.\n\n\n## What we learned\n\n\nDoing research and figuring out workarounds can take up a long time.\n\n\n## What's next for WebVR Checkout\n\n\nBecoming a component of the A-Frame.\n\n\n"
+}

@@ -1,0 +1,37 @@
+{
+    "source": "https://devpost.com/software/mixed-reality-sign-language-learning-studio",
+    "title": "Mixed Reality Sign Language Learning Studio",
+    "blurb": "A mixed reality application that helps users quickly learn Sign Language, using modern learning techniques and the latest devices in VR.",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/NeMCpeIceZ0?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "Tim Range",
+            "about": "I worked on the development of the application on the HoloLens 2 by Microsoft using Unity and Visual Studio and importing the MKRT, importing the various gestures and functions built into the device out of the box. ",
+            "photo": "https://avatars1.githubusercontent.com/u/42386765?height=180&v=4&width=180"
+        },
+        {
+            "name": "Derrick Wilson-Duncan",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/514/038/datas/profile.jpg"
+        },
+        {
+            "name": "cthosul",
+            "about": "",
+            "photo": "https://avatars2.githubusercontent.com/u/60049559?height=180&v=4&width=180"
+        }
+    ],
+    "built_with": [
+        "adobe-creative-sdk",
+        "c#",
+        "microsoft-hololens",
+        "nreal-sdk",
+        "unity",
+        "verbal-collective"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>A large number of Americans suffer from disabling hearing loss, causing problems with education, employment, and communication. With an improved method of teaching sign language people of all ages can regain their independence. </p>\n<h2>What it does</h2>\n<p>The Mixed Reality Sign Language Learning Studio or MRSLLS uses cutting edge education techniques to help students and users learn and understand sign language quickly.</p>\n<h2>How I built it</h2>\n<p>We built it for cross compatibility, targeting two platforms the Nreal Light and the Microsoft Hololens.</p>\n<h2>Challenges I ran into</h2>\n<p>A few build issues and a few missing libraries here and there.</p>\n<h2>Accomplishments that I'm proud of</h2>\n<p>I'm proud of our teamwork, personally speaking this is one of the most diverse teams I've worked with. </p>\n<h2>What I learned</h2>\n<p>Learned a lot about developing in Unity and the workflow for developing for mixed reality devices as a whole.</p>\n<h2>What's next for Mixed Reality Sign Language Learning Studio</h2>\n<p>Adding other sign languages like BSL.</p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nA large number of Americans suffer from disabling hearing loss, causing problems with education, employment, and communication. With an improved method of teaching sign language people of all ages can regain their independence. \n\n\n## What it does\n\n\nThe Mixed Reality Sign Language Learning Studio or MRSLLS uses cutting edge education techniques to help students and users learn and understand sign language quickly.\n\n\n## How I built it\n\n\nWe built it for cross compatibility, targeting two platforms the Nreal Light and the Microsoft Hololens.\n\n\n## Challenges I ran into\n\n\nA few build issues and a few missing libraries here and there.\n\n\n## Accomplishments that I'm proud of\n\n\nI'm proud of our teamwork, personally speaking this is one of the most diverse teams I've worked with. \n\n\n## What I learned\n\n\nLearned a lot about developing in Unity and the workflow for developing for mixed reality devices as a whole.\n\n\n## What's next for Mixed Reality Sign Language Learning Studio\n\n\nAdding other sign languages like BSL.\n\n\n"
+}

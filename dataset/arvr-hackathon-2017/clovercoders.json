@@ -1,0 +1,40 @@
+{
+    "source": "https://devpost.com/software/clovercoders",
+    "title": "CloverCoders",
+    "blurb": "Visualize 3D models before printing with Augmented Reality",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/ktrIa6h_uwo?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "Tushar Gupta",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/8e437550756edb1abeb57c702291891f?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Rohan Sapre",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/442/407/datas/profile.jpg"
+        },
+        {
+            "name": "Rakesh Ravi Shankar",
+            "about": "",
+            "photo": "https://media.licdn.com/mpr/mprx/0_0k9zITCg8gox-Ihezz2Uf5hykUTxBVPJnzCzavcy5O0O-o8Nx88v_bfy_xyGA4PZnkC459hpWVhYlOfkzc1div3r2Vh0lOXZ1c19HNqjFRzPUH0XxQ5ZehV2u7Vf4OPWsNBJ765hIQh?height=180&width=180"
+        },
+        {
+            "name": "Bharat Vaidhyanathan",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/442/459/datas/profile.jpg"
+        }
+    ],
+    "built_with": [
+        "arcore",
+        "c#",
+        "unet",
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>Tired of wasting money on printing 3D artifacts that looked good on paper but not in reality? Want to see your projects in real-life before going all in. We are here to help!</p>\n<h2>What it does</h2>\n<p>Presents your 3D models using Augmented Reality, on objects/terrains around you. Visualize it right where you want it to be. Removes unknowns out of the equation. Now you can get up close and inspect your model from awkward angles.</p>\n<h2>How we built it</h2>\n<p>Used Unity and ARCore. Scripts written in C#. Used library UNet. </p>\n<h2>Challenges we ran into</h2>\n<p>All of us are newbies in the world of VR/AR. </p>\n<h2>Accomplishments that we're proud of</h2>\n<p>We got out first VR project working. Includes Networking with devices.</p>\n<h2>What we learned</h2>\n<p>A lot about Unity and ARCore.</p>\n<h2>What's next for CloverCoders</h2>\n<p>Many more cool VR/AR </p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nTired of wasting money on printing 3D artifacts that looked good on paper but not in reality? Want to see your projects in real-life before going all in. We are here to help!\n\n\n## What it does\n\n\nPresents your 3D models using Augmented Reality, on objects/terrains around you. Visualize it right where you want it to be. Removes unknowns out of the equation. Now you can get up close and inspect your model from awkward angles.\n\n\n## How we built it\n\n\nUsed Unity and ARCore. Scripts written in C#. Used library UNet. \n\n\n## Challenges we ran into\n\n\nAll of us are newbies in the world of VR/AR. \n\n\n## Accomplishments that we're proud of\n\n\nWe got out first VR project working. Includes Networking with devices.\n\n\n## What we learned\n\n\nA lot about Unity and ARCore.\n\n\n## What's next for CloverCoders\n\n\nMany more cool VR/AR \n\n\n"
+}

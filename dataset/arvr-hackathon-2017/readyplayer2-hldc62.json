@@ -1,0 +1,31 @@
+{
+    "source": "https://devpost.com/software/readyplayer2-hldc62",
+    "title": "ReadyPlayerTWO",
+    "blurb": "Reenact your favorite movie scene in MR replacing one or more characters with you and your friends.",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/b8KBFZzTKWA?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "Pablo Criado-Perez",
+            "about": "",
+            "photo": "https://media-exp1.licdn.com/dms/image/C4D03AQERiB2VHBNSjg/profile-displayphoto-shrink_800_800/0?e=1596067200&height=180&t=mcm8qOVnSG9pPsz0wMl4pzKi-V12Da11uCawqqm3hQ4&v=beta&width=180"
+        },
+        {
+            "name": "Manuel Leon Madrigal",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/f56094c28d484710e2efaf75ed18165a?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        }
+    ],
+    "built_with": [
+        "3ds-max",
+        "maya",
+        "microsoft-hololens",
+        "unity",
+        "windows-speech"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>Most of us here today in this VR/AR/MR event were inspired by the capabilities and ideas brought by sci-fi writers and futurists. One of our team member was inspired by a book called Ready Player 1. Which led our team to come up with interactive way to reenact favorite movies or historical events. With the objective to re-live the moment that we love and cherish.</p>\n<h2>What it does</h2>\n<p>It's the Karaoke for Movies in Mixed Reality. Where multiple players can join a scene of their favorite movie and read-through the script. Throughout this experience the Virtual world plays a good part in the interaction of both players.\nThe juxtaposition of both the Virtual components (3D CGI elements) &amp; Real World(you, your friends, everything around) creates a unique experience like no other. This combination is allowed based on the way Hololens work</p>\n<h2>How we built it</h2>\n<p>Using Unity, Hololens, HoloToolKit, Windows Speech Recognition, 3DS Max, Maya, SketchUp and lots of patience </p>\n<h2>Challenges we ran into</h2>\n<p>1.Developing without a second pair of Hololens, to create the multi share experience.\n2.Generating Animated Scenes, since most of the 3D Models were not rigged\n3.Dealing with the Network Connections - There is an issue with the Hololens starting the dictation recognition while holding a shared session as a server.\n4.Making Shared Networks in the MIT WiFi</p>\n<h2>Accomplishments that we're proud of</h2>\n<p>Coming up with a cool idea, and putting all the pieces together\nBeing able to visualize a MVP after the two days of hard work.</p>\n<h2>What we learned</h2>\n<p>Maya, Speech recognition, Unity.</p>\n<h2>What's next for ReadyPlayer2</h2>\n<p>Add more experiences (scenes)\nImprove Graphics of the current 3D models\nImprove the Spatial Sound\nImproving the speech recognition\nUX/UI improvement, etc.\nAllow more than two players\nCreating Historical events for educational purposes</p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nMost of us here today in this VR/AR/MR event were inspired by the capabilities and ideas brought by sci-fi writers and futurists. One of our team member was inspired by a book called Ready Player 1. Which led our team to come up with interactive way to reenact favorite movies or historical events. With the objective to re-live the moment that we love and cherish.\n\n\n## What it does\n\n\nIt's the Karaoke for Movies in Mixed Reality. Where multiple players can join a scene of their favorite movie and read-through the script. Throughout this experience the Virtual world plays a good part in the interaction of both players.\nThe juxtaposition of both the Virtual components (3D CGI elements) & Real World(you, your friends, everything around) creates a unique experience like no other. This combination is allowed based on the way Hololens work\n\n\n## How we built it\n\n\nUsing Unity, Hololens, HoloToolKit, Windows Speech Recognition, 3DS Max, Maya, SketchUp and lots of patience \n\n\n## Challenges we ran into\n\n\n1.Developing without a second pair of Hololens, to create the multi share experience.\n2.Generating Animated Scenes, since most of the 3D Models were not rigged\n3.Dealing with the Network Connections - There is an issue with the Hololens starting the dictation recognition while holding a shared session as a server.\n4.Making Shared Networks in the MIT WiFi\n\n\n## Accomplishments that we're proud of\n\n\nComing up with a cool idea, and putting all the pieces together\nBeing able to visualize a MVP after the two days of hard work.\n\n\n## What we learned\n\n\nMaya, Speech recognition, Unity.\n\n\n## What's next for ReadyPlayer2\n\n\nAdd more experiences (scenes)\nImprove Graphics of the current 3D models\nImprove the Spatial Sound\nImproving the speech recognition\nUX/UI improvement, etc.\nAllow more than two players\nCreating Historical events for educational purposes\n\n\n"
+}

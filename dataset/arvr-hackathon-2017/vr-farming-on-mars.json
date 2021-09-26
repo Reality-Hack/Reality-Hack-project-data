@@ -1,0 +1,47 @@
+{
+    "source": "https://devpost.com/software/vr-farming-on-mars",
+    "title": "VR Farming on Mars",
+    "blurb": "Farming simulators aren't immersive enough - or extraterrestrial enough.",
+    "awards": [],
+    "videos": [],
+    "images": [
+        {
+            "title": "1/6",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/546/651/datas/original.jpg"
+        },
+        {
+            "title": "2/6",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/546/650/datas/original.jpg"
+        },
+        {
+            "title": "3/6",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/546/652/datas/original.jpg"
+        },
+        {
+            "title": "4/6",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/546/653/datas/original.jpg"
+        },
+        {
+            "title": "5/6",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/546/654/datas/original.jpg"
+        },
+        {
+            "title": "6/6",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/546/655/datas/original.jpg"
+        }
+    ],
+    "team": [
+        {
+            "name": "Nicholas (Nick) Rance",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/516/782/datas/profile.jpg"
+        }
+    ],
+    "built_with": [
+        "aframe",
+        "meteor.js",
+        "webvr"
+    ],
+    "content_html": "<div>\n<p><strong>Table #: 72</strong></p>\n<p><strong>Phone: 4074215139</strong></p>\n<p><strong>3rd Floor on the couches opposite the tangible media lab</strong></p>\n<h2>Try it here: <a href=\"http://farmingonmars.fun\" rel=\"nofollow\">www.farmingonmars.fun</a></h2>\n<h2>Plot</h2>\n<p>Elwin Musk has asked Snoop Dogg to be the lead astronaut on SpaceZ's first manned mission to Mars. The goal of this mission is create the first farm on Mars to start growing food to support a future human colony. Of course the adventurous Dogg agrees, help Snoop manage his plots, grow his farm and become the first martian.</p>\n<h2>Technical Description</h2>\n<p>My teammate and I both had backgrounds in web development so we decided that A-Frame was probably a cool framework to get our feet wet with VR. The code is available on <a href=\"https://github.com/Reality-Virtually-Hackathon/farmingonmars\" rel=\"nofollow\">this github repo</a> .</p>\n<p>The logic is fairly simple we made a grid of 's with each unit of the grid representing a farm plot. Everytime you click on a plot you either harvest it or plant a seed. When you plant a seed after sometime passes this seed grows into a Snoop Tree. When you harvest your crops you earn coins and with coins the size of your farmhouse increases.</p>\n</div>",
+    "content_md": "\n**Table #: 72**\n\n\n**Phone: 4074215139**\n\n\n**3rd Floor on the couches opposite the tangible media lab**\n\n\n## Try it here: [www.farmingonmars.fun](http://farmingonmars.fun)\n\n\n## Plot\n\n\nElwin Musk has asked Snoop Dogg to be the lead astronaut on SpaceZ's first manned mission to Mars. The goal of this mission is create the first farm on Mars to start growing food to support a future human colony. Of course the adventurous Dogg agrees, help Snoop manage his plots, grow his farm and become the first martian.\n\n\n## Technical Description\n\n\nMy teammate and I both had backgrounds in web development so we decided that A-Frame was probably a cool framework to get our feet wet with VR. The code is available on [this github repo](https://github.com/Reality-Virtually-Hackathon/farmingonmars) .\n\n\nThe logic is fairly simple we made a grid of 's with each unit of the grid representing a farm plot. Everytime you click on a plot you either harvest it or plant a seed. When you plant a seed after sometime passes this seed grows into a Snoop Tree. When you harvest your crops you earn coins and with coins the size of your farmhouse increases.\n\n\n"
+}

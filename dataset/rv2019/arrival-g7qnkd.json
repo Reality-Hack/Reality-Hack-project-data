@@ -1,0 +1,44 @@
+{
+    "source": "https://devpost.com/software/arrival-g7qnkd",
+    "title": "ARrival",
+    "blurb": "A Narrative Experience in which a user establishes a non-verbal connection with an alien using hand gestures. ",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/bzZceScAHRs?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "DreVinciBot",
+            "about": "I worked on the animations for the alien gestures. I used Blender originally, but I learned Autodesk Maya for this Hackathon. Great learning experience!",
+            "photo": "https://avatars3.githubusercontent.com/u/35714752?height=180&v=4&width=180"
+        },
+        {
+            "name": "alik5",
+            "about": "",
+            "photo": "https://avatars2.githubusercontent.com/u/7890536?height=180&v=4&width=180"
+        },
+        {
+            "name": "suibiweng",
+            "about": "",
+            "photo": "https://avatars1.githubusercontent.com/u/35569607?height=180&v=4&width=180"
+        },
+        {
+            "name": "Hannah Schilsky",
+            "about": "",
+            "photo": "https://media.licdn.com/dms/image/C5103AQG01PH5WnN8Tg/profile-displayphoto-shrink_100_100/0?e=1553126400&height=180&t=Z4KjylMRIAIHKjSjSMxpDwsRF3M38RxiCw7LpTftYwI&v=beta&width=180"
+        }
+    ],
+    "built_with": [
+        "blender",
+        "magic-leap",
+        "maya",
+        "photoshop",
+        "sculptris",
+        "substance-painter",
+        "unity",
+        "wayfair-model-api"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>The Inspiration was Magic Leap's ability to track three fingers which leaves developers able to use hand signals as inputs. This ability offers a new way and less mechanical way to simulate interaction with computers/machines/characters. We decided to take that idea further and create a situation in which the user interacts with an alien as a way of using the technology to show how interaction with a man made character can be achieved and reflects the human nature in our ability to interact with people who may not speak our language when you make an effort to connect.  </p>\n<h2>What it does</h2>\n<p>The app launches the user into an experience with an alien. He shows you how to interact with him and he has something he wants from you. </p>\n<h2>How we built it</h2>\n<p>We built it by creating an alien character and animating him from scratch and using Magic Leap's Unity docs and sdk to create a functioning app. </p>\n<h2>Challenges we ran into</h2>\n<p>Challenges included figuring out how to create a compelling and comfortable experience on Magic Leap and how to best use hand gestures and simulate interaction with a character. </p>\n<h2>Accomplishments that we're proud of</h2>\n<p>We are proud to have created a unique and endearing character and a functioning narrative experience that will hopefully leave users interested, entertained and surprised. </p>\n<h2>What we learned</h2>\n<p>We learned how to program and design to best suit our vision and also the specs of the Magic Leap One</p>\n<h2>What's next for ARrival</h2>\n<p>More stories! New interaction based exploration. </p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nThe Inspiration was Magic Leap's ability to track three fingers which leaves developers able to use hand signals as inputs. This ability offers a new way and less mechanical way to simulate interaction with computers/machines/characters. We decided to take that idea further and create a situation in which the user interacts with an alien as a way of using the technology to show how interaction with a man made character can be achieved and reflects the human nature in our ability to interact with people who may not speak our language when you make an effort to connect. \n\n\n## What it does\n\n\nThe app launches the user into an experience with an alien. He shows you how to interact with him and he has something he wants from you. \n\n\n## How we built it\n\n\nWe built it by creating an alien character and animating him from scratch and using Magic Leap's Unity docs and sdk to create a functioning app. \n\n\n## Challenges we ran into\n\n\nChallenges included figuring out how to create a compelling and comfortable experience on Magic Leap and how to best use hand gestures and simulate interaction with a character. \n\n\n## Accomplishments that we're proud of\n\n\nWe are proud to have created a unique and endearing character and a functioning narrative experience that will hopefully leave users interested, entertained and surprised. \n\n\n## What we learned\n\n\nWe learned how to program and design to best suit our vision and also the specs of the Magic Leap One\n\n\n## What's next for ARrival\n\n\nMore stories! New interaction based exploration. \n\n\n"
+}

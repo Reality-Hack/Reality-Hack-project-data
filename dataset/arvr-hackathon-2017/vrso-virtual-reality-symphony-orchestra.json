@@ -1,0 +1,42 @@
+{
+    "source": "https://devpost.com/software/vrso-virtual-reality-symphony-orchestra",
+    "title": "VRSO (Virtual Reality Symphony Orchestra)",
+    "blurb": "An Educative VR Experience for Conducting a Symphonic Orchestra and Understanding Instrumental Roles in a Symphony",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/jak_2PMaoY0?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "Alexandria Heston",
+            "about": "3D Modeler and Interaction Designer",
+            "photo": "https://media.licdn.com/mpr/mprx/0_PotKeB6dBpRPEkPH9aXY85kHtgxmdq3H0UeKS_oHNgSfdkhZva6ruTFHKwxPEzlMMUeKLlkeUUp7fKN5xMBu8_5kOUpafKkNMMBPwCKWzsdCLQxHzH3jI9YZYa6OQK15rV1y2rx7ZGo?height=180&width=180"
+        },
+        {
+            "name": "Kiran Hegde",
+            "about": "",
+            "photo": "https://avatars0.githubusercontent.com/u/4781482?height=180&v=4&width=180"
+        },
+        {
+            "name": "Patrick Ryan",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/0e725f1b1a03f708821588fc4bf82858?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "ShirlySpikes",
+            "about": "",
+            "photo": "https://graph.facebook.com/10212867947467710/picture?height=180&width=180"
+        }
+    ],
+    "built_with": [
+        "blender",
+        "itween",
+        "kondak",
+        "leap-motion",
+        "qbase",
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>An Educative VR Experience for Conducting a Classical Orchestra and Understanding Instrumental Roles in a Symphony</p>\n<h2>What it does</h2>\n<h2>How we built it</h2>\n<p>Development is primarily in Unity, Model creation is done in Blender, Audio composition is done in Qbase/Kondak.\nVR Equipments are Hive &amp; Leapmotion</p>\n<h2>Challenges we ran into</h2>\n<p>Leapmotion \nBiggest snag was trying to do large hand gestures, since Leapmotion is more optimized for more hand-gestures</p>\n<h2>Accomplishments that we're proud of</h2>\n<h2>What we learned</h2>\n<p>A hell lot of different things</p>\n<h2>What's next for VRSO (Virtual Reality Symphony Orchestra)</h2>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nAn Educative VR Experience for Conducting a Classical Orchestra and Understanding Instrumental Roles in a Symphony\n\n\n## What it does\n\n\n## How we built it\n\n\nDevelopment is primarily in Unity, Model creation is done in Blender, Audio composition is done in Qbase/Kondak.\nVR Equipments are Hive & Leapmotion\n\n\n## Challenges we ran into\n\n\nLeapmotion \nBiggest snag was trying to do large hand gestures, since Leapmotion is more optimized for more hand-gestures\n\n\n## Accomplishments that we're proud of\n\n\n## What we learned\n\n\nA hell lot of different things\n\n\n## What's next for VRSO (Virtual Reality Symphony Orchestra)\n\n\n"
+}

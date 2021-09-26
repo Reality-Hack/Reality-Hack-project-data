@@ -1,0 +1,37 @@
+{
+    "source": "https://devpost.com/software/panopticon-my25br",
+    "title": "PANOPTICON",
+    "blurb": "Eyes in the Back of Your Head",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/wOBmQ9UEebs?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [
+        {
+            "title": "View from Inside the Headset",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/205/datas/original.png"
+        },
+        {
+            "title": "Testing",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/206/datas/original.png"
+        }
+    ],
+    "team": [
+        {
+            "name": "Rihn H",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/001/425/937/datas/profile.PNG"
+        },
+        {
+            "name": "James Koppel",
+            "about": "",
+            "photo": "https://avatars3.githubusercontent.com/u/1279592?height=180&v=4&width=180"
+        }
+    ],
+    "built_with": [
+        "camon",
+        "magic-leap"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>We wanted to explore extensions of the human senses, such as seeing more than that which is usually visible.</p>\n<h2>What it does</h2>\n<p>Provides the User with a view of a rearward facing camera without altering the orientation of one's head.</p>\n<h2>How we built it</h2>\n<p>In order to view the camera feed with good bandwidth through LAN and because of a bug mentioned below, we viewed it in-browser. </p>\n<h2>Challenges we ran into</h2>\n<p>We then encountered two bugs in Magic Leap which burnt the bulk of our remaining time. The first bug was that the Magic Leap browser, Helio, is by default configured to not access LAN, and would not prompt for permission upon accessing a LAN URL. The second bug, more serious, is that the Magic Leap Media Player is evidently unable to load videos from LAN, even with permissions properly configured. A Magic Leap employee confirmed this bug and filed it internally on our behalf.</p>\n<h2>Accomplishments that we're proud of</h2>\n<p>Despite a lot of struggle with bugs in the Magic Leap, we managed to put together a cool demo pretty fast. </p>\n<h2>What we learned</h2>\n<p>From a cold start, we became comfortable with the Magic Leap's interface and its programmatic interface, as well as dabbles in Unity 3D.</p>\n<h2>What's next for PANOPTICON</h2>\n<p>The next step would be to create a more permanent hardware attachment, and to integrate cameras in more directions for true omnidirectional view.</p>\n<p>Team 72\n3A-12\nFuture Mobility; AR</p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nWe wanted to explore extensions of the human senses, such as seeing more than that which is usually visible.\n\n\n## What it does\n\n\nProvides the User with a view of a rearward facing camera without altering the orientation of one's head.\n\n\n## How we built it\n\n\nIn order to view the camera feed with good bandwidth through LAN and because of a bug mentioned below, we viewed it in-browser. \n\n\n## Challenges we ran into\n\n\nWe then encountered two bugs in Magic Leap which burnt the bulk of our remaining time. The first bug was that the Magic Leap browser, Helio, is by default configured to not access LAN, and would not prompt for permission upon accessing a LAN URL. The second bug, more serious, is that the Magic Leap Media Player is evidently unable to load videos from LAN, even with permissions properly configured. A Magic Leap employee confirmed this bug and filed it internally on our behalf.\n\n\n## Accomplishments that we're proud of\n\n\nDespite a lot of struggle with bugs in the Magic Leap, we managed to put together a cool demo pretty fast. \n\n\n## What we learned\n\n\nFrom a cold start, we became comfortable with the Magic Leap's interface and its programmatic interface, as well as dabbles in Unity 3D.\n\n\n## What's next for PANOPTICON\n\n\nThe next step would be to create a more permanent hardware attachment, and to integrate cameras in more directions for true omnidirectional view.\n\n\nTeam 72\n3A-12\nFuture Mobility; AR\n\n\n"
+}

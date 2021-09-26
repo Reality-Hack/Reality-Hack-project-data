@@ -1,0 +1,38 @@
+{
+    "source": "https://devpost.com/software/nosebleed-saves-the-world-r9lwxv",
+    "title": "Nosebleed Saves The World",
+    "blurb": "Lie down, bleed your nose, save the world.",
+    "awards": [],
+    "videos": [],
+    "images": [
+        {
+            "title": "Icon",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/424/081/datas/original.jpg"
+        },
+        {
+            "title": "Screenshot_1",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/423/925/datas/original.png"
+        },
+        {
+            "title": "Screenshot_2",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/423/924/datas/original.png"
+        }
+    ],
+    "team": [
+        {
+            "name": "Terry Li",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/7f1e5266e954691f8d71c045ba7efe5b?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Tony Kao",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/82de5716fcdc1ebb49d211ef38335b7c?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        }
+    ],
+    "built_with": [
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>We have only one Oculus Rift DK2 for hackathon. This lack of equipment made us wonder what kind of head-based interaction we can create. We like a PSVR game called \"Street Luge\" which requires players to lie down to play. Taking inspiration from \"Street Luge\" we made \"Nosebleed Saves The World\" to let players lie down and use head movement to shoot meteors in the game.</p>\n<h2>What it does</h2>\n<p>A game where you need to lie down and shoot stuff with your nosebleed. Every time you look at your date, you can refill your nosebleed to keep shooting! </p>\n<h2>How we built it</h2>\n<p>Unity3D, Maya</p>\n<h2>Challenges we ran into</h2>\n<p>Adjusting camera position to make players feel they are embodied.</p>\n<h2>Accomplishments that we're proud of</h2>\n<p>The game is fun and also kinda difficult. </p>\n<h2>What we learned</h2>\n<p>You can design a lot of interesting game mechanics just around head-based interaction in VR.</p>\n<h2>What's next for Nosebleed Saves The World</h2>\n<p>Release it on itch.io, an indie game community, and maybe Steam.</p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nWe have only one Oculus Rift DK2 for hackathon. This lack of equipment made us wonder what kind of head-based interaction we can create. We like a PSVR game called \"Street Luge\" which requires players to lie down to play. Taking inspiration from \"Street Luge\" we made \"Nosebleed Saves The World\" to let players lie down and use head movement to shoot meteors in the game.\n\n\n## What it does\n\n\nA game where you need to lie down and shoot stuff with your nosebleed. Every time you look at your date, you can refill your nosebleed to keep shooting! \n\n\n## How we built it\n\n\nUnity3D, Maya\n\n\n## Challenges we ran into\n\n\nAdjusting camera position to make players feel they are embodied.\n\n\n## Accomplishments that we're proud of\n\n\nThe game is fun and also kinda difficult. \n\n\n## What we learned\n\n\nYou can design a lot of interesting game mechanics just around head-based interaction in VR.\n\n\n## What's next for Nosebleed Saves The World\n\n\nRelease it on itch.io, an indie game community, and maybe Steam.\n\n\n"
+}

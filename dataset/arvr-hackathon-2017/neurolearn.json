@@ -1,0 +1,18 @@
+{
+    "source": "https://devpost.com/software/neurolearn",
+    "title": "NeuroLearn",
+    "blurb": "Informative fMRI Brain network visualization tool ",
+    "awards": [],
+    "videos": [],
+    "images": [],
+    "team": [
+        {
+            "name": "paigehf",
+            "about": "",
+            "photo": "https://avatars0.githubusercontent.com/u/9815305?height=180&v=4&width=180"
+        }
+    ],
+    "built_with": [],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>Making fMRI data sensible </p>\n<h2>What it does</h2>\n<p>Provides an informative visualization for functional brain network data.</p>\n<h2>How I built it</h2>\n<p>With Unity</p>\n<h2>Challenges I ran into</h2>\n<p>Developing in Unity and heavy data processing</p>\n<h2>Accomplishments that I'm proud of</h2>\n<h2>What I learned</h2>\n<h2>What's next for NeuroLearn</h2>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nMaking fMRI data sensible \n\n\n## What it does\n\n\nProvides an informative visualization for functional brain network data.\n\n\n## How I built it\n\n\nWith Unity\n\n\n## Challenges I ran into\n\n\nDeveloping in Unity and heavy data processing\n\n\n## Accomplishments that I'm proud of\n\n\n## What I learned\n\n\n## What's next for NeuroLearn\n\n\n"
+}

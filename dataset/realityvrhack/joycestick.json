@@ -1,0 +1,32 @@
+{
+    "source": "https://devpost.com/software/joycestick",
+    "title": "JoyceStick",
+    "blurb": "A digital humanities project employing Unity to construct a VR game from Joyce\u2019s Ulysses.",
+    "awards": [],
+    "videos": [],
+    "images": [],
+    "team": [
+        {
+            "name": "ryan reede",
+            "about": "dev lead",
+            "photo": "https://www.gravatar.com/avatar/0c8125d5b7748720b98928c555764847?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Drew Hoo",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/11a203f73a9c20d8ae66c0f75ccbbb60?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Evan Otero",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/406/045/datas/profile.jpg"
+        }
+    ],
+    "built_with": [
+        "blender",
+        "c#",
+        "unity"
+    ],
+    "content_html": "<div>\n<ul>\n<li>A Boston College digital humanities project employing Unity (game engine) to construct a number of immersive experiences\nof scenes from Joyce\u2019s Ulysses for viewing on the Oculus Rift and HTC Vive.</li>\n<li>Utilize MVC architecture and script in C#. The game development team also assists the 3D modeling team, where software\nsuch as Blender, Adobe Photoshop, and more are utilized.</li>\n<li>Serve as head of the website development team, where I deployed an extensively customized WordPress site</li>\n</ul>\n</div>",
+    "content_md": "\n* A Boston College digital humanities project employing Unity (game engine) to construct a number of immersive experiences\nof scenes from Joyce\u2019s Ulysses for viewing on the Oculus Rift and HTC Vive.\n* Utilize MVC architecture and script in C#. The game development team also assists the 3D modeling team, where software\nsuch as Blender, Adobe Photoshop, and more are utilized.\n* Serve as head of the website development team, where I deployed an extensively customized WordPress site\n\n\n"
+}

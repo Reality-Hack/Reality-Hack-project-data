@@ -1,0 +1,39 @@
+{
+    "source": "https://devpost.com/software/urblox",
+    "title": "Urblox",
+    "blurb": "An urban planning tool that you can step into. Plan a location from above and then get in! ",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/Y6U7UCtfgw8?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [
+        {
+            "title": "Urblox Logo",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/746/237/datas/original.png"
+        }
+    ],
+    "team": [
+        {
+            "name": "Tay",
+            "about": "Primarily made the 3d assets for the projects, with the exception of the house models, and also 2d graphics- Logo. ",
+            "photo": "https://avatars2.githubusercontent.com/u/41489853?height=180&v=4&width=180"
+        },
+        {
+            "name": "Christopher Trinh",
+            "about": "I developed most of the VR interactions and mechanics, along with the main feature programming. It wouldn't have been successful at all without Khalea and Taylor though!",
+            "photo": "https://avatars0.githubusercontent.com/u/29661369?height=180&v=4&width=180"
+        },
+        {
+            "name": "Khalea Berry",
+            "about": "I came up with the idea of building an urban design application. I worked mostly on physics (collisions, interactions, etc) and level design! Also, lots of debugging & testing!",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/001/097/191/datas/profile.jpg"
+        }
+    ],
+    "built_with": [
+        "htc-vive",
+        "steamvr-2.0",
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Urblox Concept</h2>\n<p>Urblox an urban planning tool that you can step into! It's aimed at helping architects, urban designers, students, and hobbyists see how their ideas play out in an immersive environment.</p>\n<p>1) Import 3D assets into the \"studio\".\n2) Build an environment from scratch, or use a pre-existing environment to modify &amp; add on to.\n3) Teleport to street level and interact with the environment.</p>\n<h2>Basic Mechanics</h2>\n<p>The \"Design Studio\" is composed of the <em>Asset Display Table</em> and the <em>Sandbox Table</em> (which houses the environment you modify). </p>\n<p>The Asset table allows you to pull a copy of a 3D asset and move it into the Sandbox Table as you wish.</p>\n<h2>Future Prospects &amp; Features</h2>\n<p>Khalea (City Data &amp; Models): I make architectural models in my free time and use a product called Lumion 9 to render them. Lumion lets you import city data and will place grey blocks where buildings are, thus simulating a city. I wanted to have a similar feature in Urblox but we didn't have enough time to acquire that knowledge... but now we do :)</p>\n<h2>Accomplishments</h2>\n<p>We are a small but mighty team of 3 who <em>all</em> came in with little or no Unity scripting experience. We are proud that we pushed out a solid experience given the amount of time we had and learning that we had to catch up on.</p>\n<h2>Made With...</h2>\n<p>Unity, Vive Pro, Rhino (3D Modelling), SteamVR 2.0 (SDK)</p>\n<h2>Asset Attribution</h2>\n<ul>\n<li>SteamVR 2.0 default assets</li>\n<li>Ground Texture - <a href=\"https://freestocktextures.com/texture/soil-dirt-ground,268.html\" rel=\"nofollow\">https://freestocktextures.com/texture/soil-dirt-ground,268.html</a></li>\n<li><a href=\"https://www.turbosquid.com/3d-models/building-apartment-3d-model-1315556\" rel=\"nofollow\">https://www.turbosquid.com/3d-models/building-apartment-3d-model-1315556</a> </li>\n<li><a href=\"https://www.turbosquid.com/FullPreview/Index.cfm/ID/690329\" rel=\"nofollow\">https://www.turbosquid.com/FullPreview/Index.cfm/ID/690329</a></li>\n<li><a href=\"https://www.turbosquid.com/3d-models/3d-medium-model/813122\" rel=\"nofollow\">https://www.turbosquid.com/3d-models/3d-medium-model/813122</a></li>\n<li><a href=\"https://www.turbosquid.com/3d-models/3ds-max-medium-cn-tower/813127\" rel=\"nofollow\">https://www.turbosquid.com/3d-models/3ds-max-medium-cn-tower/813127</a></li>\n<li><a href=\"https://www.turbosquid.com/3d-models/building-3d-model-1362131\" rel=\"nofollow\">https://www.turbosquid.com/3d-models/building-3d-model-1362131</a></li>\n<li><a href=\"https://www.turbosquid.com/3d-models/building-01-3d-model-1362124\" rel=\"nofollow\">https://www.turbosquid.com/3d-models/building-01-3d-model-1362124</a></li>\n<li><a href=\"https://www.turbosquid.com/FullPreview/Index.cfm/ID/1326529\" rel=\"nofollow\">https://www.turbosquid.com/FullPreview/Index.cfm/ID/1326529</a></li>\n<li><a href=\"https://www.turbosquid.com/3d-models/lwo-football-stadium/930309\" rel=\"nofollow\">https://www.turbosquid.com/3d-models/lwo-football-stadium/930309</a></li>\n<li><a href=\"https://free3d.com/3d-model/red-brick-building-35698.html\" rel=\"nofollow\">https://free3d.com/3d-model/red-brick-building-35698.html</a></li>\n<li><a href=\"https://www.cgtrader.com/free-3d-models/exterior/house/apartment-ext\" rel=\"nofollow\">https://www.cgtrader.com/free-3d-models/exterior/house/apartment-ext</a></li>\n<li><a href=\"http://texturelib.com/texture/?path=/Textures/brick/pavement/brick_pavement_0098\" rel=\"nofollow\">http://texturelib.com/texture/?path=/Textures/brick/pavement/brick_pavement_0098</a></li>\n</ul>\n</div>",
+    "content_md": "\n## Urblox Concept\n\n\nUrblox an urban planning tool that you can step into! It's aimed at helping architects, urban designers, students, and hobbyists see how their ideas play out in an immersive environment.\n\n\n1) Import 3D assets into the \"studio\".\n2) Build an environment from scratch, or use a pre-existing environment to modify & add on to.\n3) Teleport to street level and interact with the environment.\n\n\n## Basic Mechanics\n\n\nThe \"Design Studio\" is composed of the *Asset Display Table* and the *Sandbox Table* (which houses the environment you modify). \n\n\nThe Asset table allows you to pull a copy of a 3D asset and move it into the Sandbox Table as you wish.\n\n\n## Future Prospects & Features\n\n\nKhalea (City Data & Models): I make architectural models in my free time and use a product called Lumion 9 to render them. Lumion lets you import city data and will place grey blocks where buildings are, thus simulating a city. I wanted to have a similar feature in Urblox but we didn't have enough time to acquire that knowledge... but now we do :)\n\n\n## Accomplishments\n\n\nWe are a small but mighty team of 3 who *all* came in with little or no Unity scripting experience. We are proud that we pushed out a solid experience given the amount of time we had and learning that we had to catch up on.\n\n\n## Made With...\n\n\nUnity, Vive Pro, Rhino (3D Modelling), SteamVR 2.0 (SDK)\n\n\n## Asset Attribution\n\n\n* SteamVR 2.0 default assets\n* Ground Texture - <https://freestocktextures.com/texture/soil-dirt-ground,268.html>\n* <https://www.turbosquid.com/3d-models/building-apartment-3d-model-1315556>\n* <https://www.turbosquid.com/FullPreview/Index.cfm/ID/690329>\n* <https://www.turbosquid.com/3d-models/3d-medium-model/813122>\n* <https://www.turbosquid.com/3d-models/3ds-max-medium-cn-tower/813127>\n* <https://www.turbosquid.com/3d-models/building-3d-model-1362131>\n* <https://www.turbosquid.com/3d-models/building-01-3d-model-1362124>\n* <https://www.turbosquid.com/FullPreview/Index.cfm/ID/1326529>\n* <https://www.turbosquid.com/3d-models/lwo-football-stadium/930309>\n* <https://free3d.com/3d-model/red-brick-building-35698.html>\n* <https://www.cgtrader.com/free-3d-models/exterior/house/apartment-ext>\n* <http://texturelib.com/texture/?path=/Textures/brick/pavement/brick_pavement_0098>\n\n\n"
+}

@@ -1,0 +1,48 @@
+{
+    "source": "https://devpost.com/software/kickalz",
+    "title": "KickALZ",
+    "blurb": "Using VR to improve the quality of life for persons living with Alzheimer's Disease",
+    "awards": [],
+    "videos": [],
+    "images": [
+        {
+            "title": "Memory Garden ",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/439/963/datas/original.JPG"
+        }
+    ],
+    "team": [
+        {
+            "name": "Meredith Wilson",
+            "about": "I developed the interactive game object behaviors and triggers in Unity and C# (e.g. the growing flowers and water balls that drop on them)",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/429/240/datas/profile.png"
+        },
+        {
+            "name": "Jacob Hamman",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/f367da7853266d3c6db7c68b6ac049d7?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Dig Vijay Kumar Yarlagadda",
+            "about": "",
+            "photo": "https://media.licdn.com/mpr/mprx/0_OB6ZZiF1Lv7jrgT04TOZ18S1ThIjvy-mB6p9On81T-Ryv2P0gTOZ9L31GlKjvg30NBKZ0zaPdl3p94cmqXikKcfxul3g94cOlXiUU9VtbKqApa2CjvvzRCq_2XRSx48f4bbNpeOQgtJ?height=180&width=180"
+        },
+        {
+            "name": "Alice Kra",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/420/757/datas/profile.jpg"
+        },
+        {
+            "name": "Akshay Mohan",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/92dcb5f41f948d34756cbbfdbbb1e1e1?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        }
+    ],
+    "built_with": [
+        "android-studio",
+        "daydream",
+        "ibm-watson",
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>Alzheimer's Disease is a horrible disease that robs a person of their memory, independence, and overall quality of life.  We want to use virtual reality to help reduce stress, improve cognition, and retain memories.   </p>\n<h2>What it does</h2>\n<p>Immerses a user in a garden where they can grown memory flowers and engage with stimulating music and atmosphere.</p>\n<h2>How we built it</h2>\n<p>Unity </p>\n<h2>Challenges we ran into</h2>\n<p>Implementing voice recognition and painstakingly little details</p>\n<h2>Accomplishments that we're proud of</h2>\n<p>Built one of the first apps built on Daydream platform to help Alzheimer's patients.</p>\n<h2>What we learned</h2>\n<p>We learned about daydream platform and Watson SDK for Daydream 3D.</p>\n<h2>What's next for KickALZ</h2>\n<p>Get as many people to use as possible</p>\n<p>Notes:</p>\n<p>1.) The name of your team lead\nJacob Hamman</p>\n<p>2.) The team lead's telephone number\n213-999-9272</p>\n<p>3.) The location where the judges can find your team including the floor number\nRoom E15-359a on 3rd Floor</p>\n<p>4.) The vertical category in which you are competing:\nHuman Well-Being (Education/Health/Wellness/Activism)</p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nAlzheimer's Disease is a horrible disease that robs a person of their memory, independence, and overall quality of life. We want to use virtual reality to help reduce stress, improve cognition, and retain memories. \n\n\n## What it does\n\n\nImmerses a user in a garden where they can grown memory flowers and engage with stimulating music and atmosphere.\n\n\n## How we built it\n\n\nUnity \n\n\n## Challenges we ran into\n\n\nImplementing voice recognition and painstakingly little details\n\n\n## Accomplishments that we're proud of\n\n\nBuilt one of the first apps built on Daydream platform to help Alzheimer's patients.\n\n\n## What we learned\n\n\nWe learned about daydream platform and Watson SDK for Daydream 3D.\n\n\n## What's next for KickALZ\n\n\nGet as many people to use as possible\n\n\nNotes:\n\n\n1.) The name of your team lead\nJacob Hamman\n\n\n2.) The team lead's telephone number\n213-999-9272\n\n\n3.) The location where the judges can find your team including the floor number\nRoom E15-359a on 3rd Floor\n\n\n4.) The vertical category in which you are competing:\nHuman Well-Being (Education/Health/Wellness/Activism)\n\n\n"
+}

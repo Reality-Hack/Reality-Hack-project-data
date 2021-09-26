@@ -1,0 +1,43 @@
+{
+    "source": "https://devpost.com/software/crouton",
+    "title": "Crouton",
+    "blurb": "Every crumb of your persona as an AR avatar",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/JO6Y3X8_oRg?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "Catherine Qiu",
+            "about": "I worked on 3d assets for the project",
+            "photo": "https://www.gravatar.com/avatar/d76a512158cd52b4deb64cbeecf97436?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Marcus Wong",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/fa25bd8e41ef17865e52a5f03ff58c12?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Nigel Gillis",
+            "about": "",
+            "photo": "https://avatars0.githubusercontent.com/u/32252985?height=180&v=4&width=180"
+        },
+        {
+            "name": "Viktor Makarskyy",
+            "about": "",
+            "photo": "https://media.licdn.com/dms/image/C5603AQFbNQr9f4HUQA/profile-displayphoto-shrink_100_100/0?e=1526486400&height=180&t=oL0CHOhSqr_1NeL8oH1E8rTAWrhTd9sTcCKDY4StNS8&v=alpha&width=180"
+        },
+        {
+            "name": "Rizky Wellyanto",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/745/451/datas/profile.jpeg"
+        }
+    ],
+    "built_with": [
+        "microsoft-hololens",
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>Expressing yourself is a part of being human. We all seek to be able to show the world our stories and interests liberates our soul. Currently, our profile information is stuck in the 2D-world; a flat profile picture and a short bio is the most common layout in most social media! What happens to profile pictures when we move on from mobile phones to AR glasses in the future? Well, Crouton is how we imagined profile information will be shown when both the real world and our digital world combined. With Crouton, you can show every crumb of your persona as an AR avatar</p>\n<h2>What it does</h2>\n<p>Crouton lets you upload any 3D models: An expressive art piece you created in TiltBrush, a 3D model badge, a cute bunny, any special effect, and overlay them around your face. Crouton out-of-the-box comes with face tracking, face detection, and face alignment for an immersive Mixed Reality experience that maps perfectly to the faces around you. Anyone who has an AR headset will be able to see your Croutons, in real time, when your face is within their vision. </p>\n<h2>How we built it</h2>\n<ol>\n<li><p>We implemented real-time local face tracking on Hololens platform. We found it to be quite challenging because it's not easy to take picture, do neural net inference to localize a face, and overlay 3D mesh within the constraint of a head-mounted device. Luckily we found a research paper that's done a very good job exploring this topic [1]. So, we learned, used, and implemented their findings to solve our need</p></li>\n<li><p>We used Microsoft's Azure face recognition API to do 1-1 mapping between croutons and faces. Microsoft's API is very easy to use, we love it. However, integrating API-based individual face recognition to the real time face tracker is pretty challenging</p></li>\n<li><p>We spent a lot of time making personal 3D assets because we really care about expressing our personal beliefs and things that we care about, and we think everyone should do too</p></li>\n</ol>\n<h2>Challenges we ran into</h2>\n<ol>\n<li><p>We spent a little bit of time setting up developer environment for Hololens, as Unity + Visual Studio + Hololens Dev Kit + Universal Windows Platform takes surprisingly a bajillion bytes to download</p></li>\n<li><p>We also borrowed 2 PCs because 2/3 of our developers only brought a Mac</p></li>\n<li><p>Again, Implementing real-time local face tracking is very challenging because of the computational and power constraint of AR glasses. At the same time we need to identify a face, track it, and overlay meshes with &lt; 5 inches error from the center of the face achieve good UI/UX</p></li>\n<li><p>Combining API-based face detection and local face localization is also tricky</p></li>\n</ol>\n<h2>Accomplishments that we're proud of</h2>\n<ol>\n<li>Got local face tracking to work</li>\n<li>Got face recognition to work</li>\n<li>Got face rendering to work</li>\n<li>Got all this to work real-time (it's a pretty big engineering feat)</li>\n</ol>\n<h2>What we learned</h2>\n<ol>\n<li>We learned that Hololens Development is exclusively PC</li>\n<li>We learned that 3D spatial UI/UX is completely different than screen-based UI/UX</li>\n</ol>\n<h2>What's next for Crouton</h2>\n<p>[1] Kowalski et al. HoloFace: Augmenting Human-to-Human Interactions on HoloLens <a href=\"https://arxiv.org/abs/1802.00278\" rel=\"nofollow\">Paper</a></p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nExpressing yourself is a part of being human. We all seek to be able to show the world our stories and interests liberates our soul. Currently, our profile information is stuck in the 2D-world; a flat profile picture and a short bio is the most common layout in most social media! What happens to profile pictures when we move on from mobile phones to AR glasses in the future? Well, Crouton is how we imagined profile information will be shown when both the real world and our digital world combined. With Crouton, you can show every crumb of your persona as an AR avatar\n\n\n## What it does\n\n\nCrouton lets you upload any 3D models: An expressive art piece you created in TiltBrush, a 3D model badge, a cute bunny, any special effect, and overlay them around your face. Crouton out-of-the-box comes with face tracking, face detection, and face alignment for an immersive Mixed Reality experience that maps perfectly to the faces around you. Anyone who has an AR headset will be able to see your Croutons, in real time, when your face is within their vision. \n\n\n## How we built it\n\n\n1. We implemented real-time local face tracking on Hololens platform. We found it to be quite challenging because it's not easy to take picture, do neural net inference to localize a face, and overlay 3D mesh within the constraint of a head-mounted device. Luckily we found a research paper that's done a very good job exploring this topic [1]. So, we learned, used, and implemented their findings to solve our need\n2. We used Microsoft's Azure face recognition API to do 1-1 mapping between croutons and faces. Microsoft's API is very easy to use, we love it. However, integrating API-based individual face recognition to the real time face tracker is pretty challenging\n3. We spent a lot of time making personal 3D assets because we really care about expressing our personal beliefs and things that we care about, and we think everyone should do too\n\n\n## Challenges we ran into\n\n\n1. We spent a little bit of time setting up developer environment for Hololens, as Unity + Visual Studio + Hololens Dev Kit + Universal Windows Platform takes surprisingly a bajillion bytes to download\n2. We also borrowed 2 PCs because 2/3 of our developers only brought a Mac\n3. Again, Implementing real-time local face tracking is very challenging because of the computational and power constraint of AR glasses. At the same time we need to identify a face, track it, and overlay meshes with < 5 inches error from the center of the face achieve good UI/UX\n4. Combining API-based face detection and local face localization is also tricky\n\n\n## Accomplishments that we're proud of\n\n\n1. Got local face tracking to work\n2. Got face recognition to work\n3. Got face rendering to work\n4. Got all this to work real-time (it's a pretty big engineering feat)\n\n\n## What we learned\n\n\n1. We learned that Hololens Development is exclusively PC\n2. We learned that 3D spatial UI/UX is completely different than screen-based UI/UX\n\n\n## What's next for Crouton\n\n\n[1] Kowalski et al. HoloFace: Augmenting Human-to-Human Interactions on HoloLens [Paper](https://arxiv.org/abs/1802.00278)\n\n\n"
+}

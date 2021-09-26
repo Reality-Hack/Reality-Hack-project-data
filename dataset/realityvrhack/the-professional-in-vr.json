@@ -1,0 +1,56 @@
+{
+    "source": "https://devpost.com/software/the-professional-in-vr",
+    "title": "L\u00e9on: The Professional in VR",
+    "blurb": "You are put into Leon's shoes to act out one of the most memorable scenes in action cinema!",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/AIph6fWqvUg?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "Jasmine Davis",
+            "about": "Designer (Level, Graphics, Textures), Unity Developer, and Communications Manager",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/419/866/datas/profile.jpg"
+        },
+        {
+            "name": "Whitney Fahnbulleh",
+            "about": "Game Design\n3D Modeling\nLevel Design\nGameplay Testing\n",
+            "photo": "https://www.gravatar.com/avatar/eace00865b4d600e83c3408e1ffce96f?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Fabian Patino",
+            "about": "Developer, ",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/420/703/datas/profile.jpg"
+        },
+        {
+            "name": "Luke Dickerson",
+            "about": "3D modelling in blender and worked in unity as well",
+            "photo": "https://www.gravatar.com/avatar/24effa22e2b44adf98f9298de428920e?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Lex Dreitser",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/274/391/datas/profile.png"
+        },
+        {
+            "name": "Freddy Garcia",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/076/976/datas/profile.jpg"
+        },
+        {
+            "name": "Kari Wu",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/738/628/datas/profile.jpg"
+        }
+    ],
+    "built_with": [
+        "adobe-creative-suite",
+        "blender",
+        "maya",
+        "unity",
+        "vive"
+    ],
+    "content_html": "<div>\n<h2>L\u00e9on: The Professional in VR</h2>\n<h2>We  are on the second floor in the lab, please come see our demo</h2>\n<h2>What it does:</h2>\n<p>You are put into Leon's shoes to act out one of the most memorable scenes in action cinema!</p>\n<h2>How we built it:</h2>\n<p>Using the Unity engine we have brought together all the elements of the movie into the HTC Vive.  We recreated the environment using custom Maya and Blender objects, textures, and scripts. We've also incorporated sound clips from the movie and replicated the movie's narrative structure and scene layout. </p>\n<h2>Challenges we ran into:</h2>\n<p>The hardware failed during our build, but much like Leon, nothing will stop this from happening!</p>\n<h2>Accomplishments that we're proud of:</h2>\n<p>Even though the PC attached to our Vive failed, our workflow didn't. We focused on what was controllable by the team and successfully completed every one of our main goals for the hackathon. Also, even though we all came with different backgrounds and levels of experience we managed to create a cohesive team that had a lot of fun together and is proud of their work.</p>\n<h2>What's next for L\u00e9on: The Professional in VR</h2>\n<p>In the future, we plan to add additional levels to the VR experience as well as expand on the spawning mechanics and enemy AI. </p>\n</div>",
+    "content_md": "\n## L\u00e9on: The Professional in VR\n\n\n## We are on the second floor in the lab, please come see our demo\n\n\n## What it does:\n\n\nYou are put into Leon's shoes to act out one of the most memorable scenes in action cinema!\n\n\n## How we built it:\n\n\nUsing the Unity engine we have brought together all the elements of the movie into the HTC Vive. We recreated the environment using custom Maya and Blender objects, textures, and scripts. We've also incorporated sound clips from the movie and replicated the movie's narrative structure and scene layout. \n\n\n## Challenges we ran into:\n\n\nThe hardware failed during our build, but much like Leon, nothing will stop this from happening!\n\n\n## Accomplishments that we're proud of:\n\n\nEven though the PC attached to our Vive failed, our workflow didn't. We focused on what was controllable by the team and successfully completed every one of our main goals for the hackathon. Also, even though we all came with different backgrounds and levels of experience we managed to create a cohesive team that had a lot of fun together and is proud of their work.\n\n\n## What's next for L\u00e9on: The Professional in VR\n\n\nIn the future, we plan to add additional levels to the VR experience as well as expand on the spawning mechanics and enemy AI. \n\n\n"
+}

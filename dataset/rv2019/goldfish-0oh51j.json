@@ -1,0 +1,36 @@
+{
+    "source": "https://devpost.com/software/goldfish-0oh51j",
+    "title": "Goldfish",
+    "blurb": "A joyful interaction between VR and the reality through the perspective of a Goldfish.",
+    "awards": [],
+    "videos": [
+        "https://player.vimeo.com/video/312404537?byline=0&portrait=0&title=0#t="
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "Kimberly Lin",
+            "about": "",
+            "photo": "https://avatars3.githubusercontent.com/u/31666429?height=180&v=4&width=180"
+        },
+        {
+            "name": "Maximegau",
+            "about": "",
+            "photo": "https://avatars0.githubusercontent.com/u/26672876?height=180&v=4&width=180"
+        }
+    ],
+    "built_with": [
+        "apis",
+        "hardware",
+        "hosts",
+        "languages",
+        "leap-motion",
+        "libraries",
+        "ui-kits",
+        "unity",
+        "vive",
+        "wwise"
+    ],
+    "content_html": "<div>\n<h2>Abstract</h2>\n<p>Exploring the dynamic between an immersed human and observers, Goldfish is a joyful interaction between VR and the reality through the perspective of a Goldfish. </p>\n<h2>Inspiration</h2>\n<p>In most VR games, we are sitting in a small space alone looking into a boundless world. What if we revert the dynamic, experience VR in a swimming pool, free from the constraint of gravity while we interact with the environment above us? How does it feel like being a small fish looking at the world outside of the fish bowl? With an unconventional approach to VR, we want create a performative VR sculpture that resembles life through the lens of a goldfish.</p>\n<h2>What it does</h2>\n<p>Two players are involved. Player 1 is put into the perspective of a goldfish via a VR headset and a Leap motion that turns Player 1\u2019s hands into fins. He/she explores the world he/she lives in contained by a fish tank. Player 2 acts as a cat holding a cat paw with tracker attached. He/she uses his/her paw to attack Player 1 where his/her claw will appear in Player 1\u2019s point of view. </p>\n<h2>How we built it</h2>\n<p>Besides Unity, Leap Motion, HTC Vive, we built a physical cat paw out of recycling materials we found at MIT\u2019s junkyard. </p>\n<h2>Challenges</h2>\n<p>Working with a relatively big team on a same project is rather challenging. We had a lot of conflicts and merging issues with GitHub. We also weren\u2019t able to scale the environment correctly in time due to limited VR headsets we have. Initially, we wanted to also add another interaction of an additional player fishing the goldfish with a marshmallow but we ran out of time. </p>\n<h2>Accomplishments</h2>\n<p>We have successfully completed our cat interaction with the goldfish as a proof of concept but more importantly, we are really happy that we found a team of talents who are passionate about the same topic. </p>\n<h2>What we learned</h2>\n<p>Interdisciplinary group work is very rewarding on a personal level but as well on a product level. </p>\n<h2>What\u2019s next</h2>\n<p>Moving forward, we would like to experiment how the sensations of our project can be enhanced by submerging in a swimming pool. We are in conversation with a fellow hacker we met during the Hackathon, Pierre Friquet, who have created an underwater VR headset. We also envision Goldfish to be an interactive installation at an aquarium or a science museum hence we plan to reach out to venues to show our piece. We are also interested in how haptics can improve motor functions and hand accuracy of stroke and parkinson's patients and would like to work with institutions to extend our research. </p>\n</div>",
+    "content_md": "\n## Abstract\n\n\nExploring the dynamic between an immersed human and observers, Goldfish is a joyful interaction between VR and the reality through the perspective of a Goldfish. \n\n\n## Inspiration\n\n\nIn most VR games, we are sitting in a small space alone looking into a boundless world. What if we revert the dynamic, experience VR in a swimming pool, free from the constraint of gravity while we interact with the environment above us? How does it feel like being a small fish looking at the world outside of the fish bowl? With an unconventional approach to VR, we want create a performative VR sculpture that resembles life through the lens of a goldfish.\n\n\n## What it does\n\n\nTwo players are involved. Player 1 is put into the perspective of a goldfish via a VR headset and a Leap motion that turns Player 1\u2019s hands into fins. He/she explores the world he/she lives in contained by a fish tank. Player 2 acts as a cat holding a cat paw with tracker attached. He/she uses his/her paw to attack Player 1 where his/her claw will appear in Player 1\u2019s point of view. \n\n\n## How we built it\n\n\nBesides Unity, Leap Motion, HTC Vive, we built a physical cat paw out of recycling materials we found at MIT\u2019s junkyard. \n\n\n## Challenges\n\n\nWorking with a relatively big team on a same project is rather challenging. We had a lot of conflicts and merging issues with GitHub. We also weren\u2019t able to scale the environment correctly in time due to limited VR headsets we have. Initially, we wanted to also add another interaction of an additional player fishing the goldfish with a marshmallow but we ran out of time. \n\n\n## Accomplishments\n\n\nWe have successfully completed our cat interaction with the goldfish as a proof of concept but more importantly, we are really happy that we found a team of talents who are passionate about the same topic. \n\n\n## What we learned\n\n\nInterdisciplinary group work is very rewarding on a personal level but as well on a product level. \n\n\n## What\u2019s next\n\n\nMoving forward, we would like to experiment how the sensations of our project can be enhanced by submerging in a swimming pool. We are in conversation with a fellow hacker we met during the Hackathon, Pierre Friquet, who have created an underwater VR headset. We also envision Goldfish to be an interactive installation at an aquarium or a science museum hence we plan to reach out to venues to show our piece. We are also interested in how haptics can improve motor functions and hand accuracy of stroke and parkinson's patients and would like to work with institutions to extend our research. \n\n\n"
+}

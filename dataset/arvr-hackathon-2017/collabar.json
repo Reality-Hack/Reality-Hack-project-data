@@ -1,0 +1,44 @@
+{
+    "source": "https://devpost.com/software/collabar",
+    "title": "CollabAR",
+    "blurb": "Imagine the ability to share a real office space with your team members across the world. ",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/QPNxozWyrQQ?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "bassholio Bassler",
+            "about": "I am the UX/UI designer",
+            "photo": "https://avatars1.githubusercontent.com/u/22763359?height=180&v=4&width=180"
+        },
+        {
+            "name": "kamal-mk Khraisheh",
+            "about": "I worked on the design elements of the app. I did most of the UI backend work for our features.",
+            "photo": "https://avatars2.githubusercontent.com/u/32181787?height=180&v=4&width=180"
+        },
+        {
+            "name": "Fatma Ozen",
+            "about": "I modeled and textured the 3D assets .",
+            "photo": "https://media.licdn.com/mpr/mprx/0_1IbP-_Q9cqLfG-Ox1fx1M6bcNvYfGPrxnfxPNBEcN6YmG_S19fA-vbX9P_o-Xih7rfxYrTbnMXkaTBTxyZC7VBQspXk7TBd7yZCKAnPBcLliwT-1rdqOlGgQylYxHBYYzR6xnXoTT1n?height=180&width=180"
+        },
+        {
+            "name": "Mauricio Coen",
+            "about": "I worked on the network development and communicating the theoretical aspects of AR to team members. ",
+            "photo": "https://media.licdn.com/mpr/mprx/0_1AB4wBJpLH1CqZxNvzi46-4jTxpilMuNrz34m_ujTgxCqWtNzz748lNpG7gO-WOzMAfM7PUydxxGBj_kyCtX__sKuxx_Bg9zJCtReC7gbYEfgwDWv1XvH9Tu2o5POgTXK39qfyA0CZo?height=180&width=180"
+        }
+    ],
+    "built_with": [
+        "android-studio",
+        "invision",
+        "maya",
+        "mudbox",
+        "photoshop",
+        "sketch",
+        "unity",
+        "visual-studio"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>We are all inspired by the following spaces: Education, Health, Engineering, Art</p>\n<h2>What it does</h2>\n<p>Our native AR app developed in Unity for Android devices allows multiple users to collaboratively share high fidelity 3d models with each other in real time in augmented space on their phone. </p>\n<p>This can be used for: </p>\n<ul>\n<li>Education where users use this to share models to teach about specific details of historic events, elements, people, art, etc.<br/></li>\n<li>Health, to share details visually for doctors, care providers, manufacturers, etc heart, lungs, cells to explain or teach findings in regards to particular elements of the body.</li>\n<li>Engineering to share models and interactions of models together for building, prototyping complex assemblies, annotating components.</li>\n<li>Art to visually learn from 3d models that appear in front of you in real time. E.g. Statues, paintings, buildings.\nGaming, augmented reality games!</li>\n</ul>\n<h2>How we built it</h2>\n<p>Built within Unity, Maya, Visual Studio,  Android Studio, Photoshop, Sketch, Invision, Mudbox as a collaborative effort between 3 developers, 1 3d modeler, and 1 UX/UI designer</p>\n<h2>Challenges we ran into</h2>\n<p>Learning Unity as a team. Version control for a big project with many different file types.\nNetworking for online collaboration, basic solutions for Unity and Android hard to implement on ARCore technology because of the camera setup, and we ran into a lot of dead ends in development due to lack of experience. </p>\n<h2>Accomplishments that we're proud of</h2>\n<p>Learning Unity as a team and creating something potentially groundbreaking. </p>\n<h2>What we learned</h2>\n<p>How powerful 5 people can be when we put our heads together!</p>\n<h2>What's next for CollabAR</h2>\n<p>Exploring other iterations that will emphasize the needs of other industries. </p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nWe are all inspired by the following spaces: Education, Health, Engineering, Art\n\n\n## What it does\n\n\nOur native AR app developed in Unity for Android devices allows multiple users to collaboratively share high fidelity 3d models with each other in real time in augmented space on their phone. \n\n\nThis can be used for: \n\n\n* Education where users use this to share models to teach about specific details of historic events, elements, people, art, etc.\n* Health, to share details visually for doctors, care providers, manufacturers, etc heart, lungs, cells to explain or teach findings in regards to particular elements of the body.\n* Engineering to share models and interactions of models together for building, prototyping complex assemblies, annotating components.\n* Art to visually learn from 3d models that appear in front of you in real time. E.g. Statues, paintings, buildings.\nGaming, augmented reality games!\n\n\n## How we built it\n\n\nBuilt within Unity, Maya, Visual Studio, Android Studio, Photoshop, Sketch, Invision, Mudbox as a collaborative effort between 3 developers, 1 3d modeler, and 1 UX/UI designer\n\n\n## Challenges we ran into\n\n\nLearning Unity as a team. Version control for a big project with many different file types.\nNetworking for online collaboration, basic solutions for Unity and Android hard to implement on ARCore technology because of the camera setup, and we ran into a lot of dead ends in development due to lack of experience. \n\n\n## Accomplishments that we're proud of\n\n\nLearning Unity as a team and creating something potentially groundbreaking. \n\n\n## What we learned\n\n\nHow powerful 5 people can be when we put our heads together!\n\n\n## What's next for CollabAR\n\n\nExploring other iterations that will emphasize the needs of other industries. \n\n\n"
+}

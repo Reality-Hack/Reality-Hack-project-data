@@ -1,0 +1,38 @@
+{
+    "source": "https://devpost.com/software/produce-ar",
+    "title": "Produce-AR",
+    "blurb": "An immersive AR musical production app that connects to a peripheral to register sounds.  User can arrange/play.",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/I-zGXmtL3Mk?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [
+        {
+            "title": "peripheral that hooks onto shoe",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/546/586/datas/original.jpg"
+        },
+        {
+            "title": "app screenshot",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/546/587/datas/original.PNG"
+        }
+    ],
+    "team": [
+        {
+            "name": "Ankush Gola",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/546/597/datas/profile.jpg"
+        }
+    ],
+    "built_with": [
+        "adafruit-accelerometer",
+        "adafruit-bluetooth",
+        "arduino",
+        "arkit",
+        "ios-avaudio",
+        "ios-corebluetooth",
+        "ios-vision-framework",
+        "scenekit"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>Mobile AR is big these days.  However, the user is usually limited to screen gestures to interact with the augmented world.  I wanted to build a mobile AR application that can talk to a hardware peripheral to make the experience more interactive.</p>\n<h2>What it does</h2>\n<p>An iOS augmented reality music production app created with ARKit that connects to a Bluetooth shoe peripheral to register sound hits.  In Recording mode you can register hits.  Hover over the shoe to change instruments.  Enter playback mode to walk through your arrangement and listen to it as you walk (both forwards and backwards), or simply press play.  Built over one weekend at Reality Virtually Hackathon 2017 at MIT.</p>\n<h2>How I built it</h2>\n<p>The iOS app is built with ARKit.  It connects to a hardware peripheral (a shoe) via bluetooth.  The app sends the shoe a notification to vibrate when the instrument selection menu pops up.  The shoe sends the app sound hits.  An Arduino on the controls the bluetooth shield, accelerometer, and vibration motor. </p>\n<p>The app runs animations, listens to bluetooth input, and runs computer vision on separate threads to avoid main thread latency.</p>\n<h2>Challenges I ran into</h2>\n<p>The system has a ton of different parts (bluetooth, sound, animation, computer vision), so getting them all to work/run simultaneously without race conditions was a challenge.</p>\n<h2>Accomplishments that I'm proud of</h2>\n<p>Got it working!</p>\n<h2>What I learned</h2>\n<p>A lot about ARKit, SceneKit, iOS development in general, how to communicate between an Arduino and an iOS App. </p>\n<h2>What's next for Produce-AR</h2>\n<p>Making some sick beats, yo. </p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nMobile AR is big these days. However, the user is usually limited to screen gestures to interact with the augmented world. I wanted to build a mobile AR application that can talk to a hardware peripheral to make the experience more interactive.\n\n\n## What it does\n\n\nAn iOS augmented reality music production app created with ARKit that connects to a Bluetooth shoe peripheral to register sound hits. In Recording mode you can register hits. Hover over the shoe to change instruments. Enter playback mode to walk through your arrangement and listen to it as you walk (both forwards and backwards), or simply press play. Built over one weekend at Reality Virtually Hackathon 2017 at MIT.\n\n\n## How I built it\n\n\nThe iOS app is built with ARKit. It connects to a hardware peripheral (a shoe) via bluetooth. The app sends the shoe a notification to vibrate when the instrument selection menu pops up. The shoe sends the app sound hits. An Arduino on the controls the bluetooth shield, accelerometer, and vibration motor. \n\n\nThe app runs animations, listens to bluetooth input, and runs computer vision on separate threads to avoid main thread latency.\n\n\n## Challenges I ran into\n\n\nThe system has a ton of different parts (bluetooth, sound, animation, computer vision), so getting them all to work/run simultaneously without race conditions was a challenge.\n\n\n## Accomplishments that I'm proud of\n\n\nGot it working!\n\n\n## What I learned\n\n\nA lot about ARKit, SceneKit, iOS development in general, how to communicate between an Arduino and an iOS App. \n\n\n## What's next for Produce-AR\n\n\nMaking some sick beats, yo. \n\n\n"
+}

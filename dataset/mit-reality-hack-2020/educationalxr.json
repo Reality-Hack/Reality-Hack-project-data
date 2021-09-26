@@ -1,0 +1,38 @@
+{
+    "source": "https://devpost.com/software/educationalxr",
+    "title": "EducationalXR",
+    "blurb": "It's an Educational Multi User Intractable Tool developed in Unity for XR.",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/M9A9u-lwjTs?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "HARI VAMSI YADAVALLI",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/869/019/datas/profile.jpg"
+        },
+        {
+            "name": "nirmita123",
+            "about": "",
+            "photo": "https://avatars2.githubusercontent.com/u/23376276?height=180&v=4&width=180"
+        },
+        {
+            "name": "Scottie113 Murrell",
+            "about": "",
+            "photo": "https://avatars2.githubusercontent.com/u/35502207?height=180&v=4&width=180"
+        }
+    ],
+    "built_with": [
+        "augmentedreality",
+        "c#",
+        "kinect",
+        "normal",
+        "normcore",
+        "nreal",
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>Since more and more learning resources are going online these days, like the MIT openLearning, Coursera, etc. They all provide a solid static content. which means the persons watching the videos live stream cannot interact with the class or the teacher\nwe want to bring back the interactive experience of this classrooms to that of the online teaching. So the major flaw in the online teaching is it misses the interactive experience between the student and the teacher.</p>\n<h2>What it does</h2>\n<p>It's an AR based education platform for educators and students with real time Multiplayer networking and interactive sessions between them. The teacher can record the lectures and the students can access them later. A new feature is that AR Live Streaming where the 3D holographic of the teacher can be seen from anywhere in the world by people connected to that server.</p>\n<h2>How we built it</h2>\n<p>We built it using the unity, normcore, and nreal's sdk. We had used the Microsoft's Kinect for the body tracking and recording. We had used the ipi soft to capture the kinect's image and to map it to an avatar.</p>\n<h2>Challenges we ran into</h2>\n<h2>Accomplishments that we're proud of</h2>\n<p>we able to make the multiplayer thing workout, so by this multiple students can be instructed simultaneously by the teacher with her laptop, and the students can visualize the experience in the nreal headsets. We are able to extract the body movement, tracking feature for the Microsoft kinect and successfully be able to map it to an avatar, which can be given an audio to explain about the scenarios.\nWe had created three sample scenes namely, solar system, anatomy of brain, and art to illustrate the working of our project.</p>\n<h2>What we learned</h2>\n<p>We learnt about the NReal's sdk and how to integrate the functionalities we need. The major difficulty came when we were trying to network two of these headsets and make them operate in the same state as in sync. So these are going to be our students.</p>\n<h2>What's next for EducationalXR</h2>\n<p>Create the 3d models of the modules to be taught and try implementing this on a small scale and validate our idea with the real world.</p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nSince more and more learning resources are going online these days, like the MIT openLearning, Coursera, etc. They all provide a solid static content. which means the persons watching the videos live stream cannot interact with the class or the teacher\nwe want to bring back the interactive experience of this classrooms to that of the online teaching. So the major flaw in the online teaching is it misses the interactive experience between the student and the teacher.\n\n\n## What it does\n\n\nIt's an AR based education platform for educators and students with real time Multiplayer networking and interactive sessions between them. The teacher can record the lectures and the students can access them later. A new feature is that AR Live Streaming where the 3D holographic of the teacher can be seen from anywhere in the world by people connected to that server.\n\n\n## How we built it\n\n\nWe built it using the unity, normcore, and nreal's sdk. We had used the Microsoft's Kinect for the body tracking and recording. We had used the ipi soft to capture the kinect's image and to map it to an avatar.\n\n\n## Challenges we ran into\n\n\n## Accomplishments that we're proud of\n\n\nwe able to make the multiplayer thing workout, so by this multiple students can be instructed simultaneously by the teacher with her laptop, and the students can visualize the experience in the nreal headsets. We are able to extract the body movement, tracking feature for the Microsoft kinect and successfully be able to map it to an avatar, which can be given an audio to explain about the scenarios.\nWe had created three sample scenes namely, solar system, anatomy of brain, and art to illustrate the working of our project.\n\n\n## What we learned\n\n\nWe learnt about the NReal's sdk and how to integrate the functionalities we need. The major difficulty came when we were trying to network two of these headsets and make them operate in the same state as in sync. So these are going to be our students.\n\n\n## What's next for EducationalXR\n\n\nCreate the 3d models of the modules to be taught and try implementing this on a small scale and validate our idea with the real world.\n\n\n"
+}

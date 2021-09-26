@@ -1,0 +1,42 @@
+{
+    "source": "https://devpost.com/software/real-talk",
+    "title": "Real Talk",
+    "blurb": "When you speak a language in real-world situations you learn better. Real Talk helps you do just that. ",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/zPp9tXHjss4?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "Ovetta Sampson",
+            "about": "I was the UX lead on this 36-hour VR/AR Hackathon project. Think you can't do user research in that short of time...think again. Ask me how. :) ",
+            "photo": "https://www.gravatar.com/avatar/153535964e8e5f7853f308f8c14ae98c?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Zachery Schiller",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/c461c3c0a82fdb8ed5d3a0d8a713f42e?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Krystian Babilinski",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/001/267/721/datas/profile.jpg"
+        },
+        {
+            "name": "Jeffrey King",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/51c66f3ff5dfff45da0f08cb90b8b23f?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Mark Kabban",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/23cf1a8caba9acaf95b628ef0158836d?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        }
+    ],
+    "built_with": [
+        "unity"
+    ],
+    "content_html": "<div>\n<p>Real Talk uses virtual reality to create an immersive experience for children ages 9 to 12 who are learning to speak another language. Players learn English, in a contextual, real world environment as they interact with characters in the game. They compose and speak their responses, offering youth a fun and interactive way to learn.</p>\n</div>",
+    "content_md": "\nReal Talk uses virtual reality to create an immersive experience for children ages 9 to 12 who are learning to speak another language. Players learn English, in a contextual, real world environment as they interact with characters in the game. They compose and speak their responses, offering youth a fun and interactive way to learn.\n\n\n"
+}

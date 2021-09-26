@@ -1,0 +1,53 @@
+{
+    "source": "https://devpost.com/software/garden-cards",
+    "title": "gARden Cards",
+    "blurb": "Send collaboratively made AR/VR get well soon cards friends",
+    "awards": [
+        "Best MR"
+    ],
+    "videos": [
+        "https://www.youtube.com/embed/S0gnBWntSqI?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "Mo Kakwan",
+            "about": "I wrote the model handling and rendering allowing for the particle effects as well as the Augmented Reality portion. Graphics were done in A-frame and Vue.js with augmented reality work done in AR.js.",
+            "photo": "https://avatars0.githubusercontent.com/u/315474?height=180&v=4&width=180"
+        },
+        {
+            "name": "Jason Morris",
+            "about": "I wrote most of the WebVR code in Vue and A-Frame, which before this hackathon I did not give nearly enough credit. Oh, and I'd never used Vue until Thursday either. It was a slightly more productive weekend than usual. ",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/747/548/datas/profile.JPG"
+        },
+        {
+            "name": "Lydia Jessup",
+            "about": "I helped with the ideation, design, wireframing, storyboarding and made the 3D flower assets using Cinema 4D (my first time doing 3D modeling!).",
+            "photo": "https://avatars3.githubusercontent.com/u/26204298?height=180&v=4&width=180"
+        },
+        {
+            "name": "Victoria Grant",
+            "about": "I helped with the design and created the print assets for the physical Get-Well Card.",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/854/699/datas/profile.jpg"
+        },
+        {
+            "name": "ooookai",
+            "about": "",
+            "photo": "https://avatars1.githubusercontent.com/u/9296143?height=180&v=4&width=180"
+        }
+    ],
+    "built_with": [
+        "a-frame",
+        "blender",
+        "cinema4d",
+        "firebase",
+        "javascript",
+        "microsoft-mixed-reality",
+        "three.js",
+        "vue",
+        "webar",
+        "webvr"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>One of our teammates got an email from his boss that a colleague from their office had fallen sick and would be out of the office for awhile in the hospital. People in the office struggled with coordinating to send flowers and cards and general well wishes. We wanted to create a tool that allowed us to make a heart felt message of well wishes and connect us with the recipient through technology.</p>\n<h2>What it does</h2>\n<p>gARden Cards allows users to collaboratively build a VR/AR experience for someone else. You are given an easy to use collaborative web interface that allows you and your friends to plant flowers on a garden planet and write and/or record good wishes for your recipient. The system then presents you with a PDF that you can use to print out a physical card. The card has a simple message and a AR Marker inside of it. When the recipient views the card from a phone or VR headset they will see the custom garden with voice and written messages (activated by gaze) spill open on a virtual landscape. The recipient is encouraged to come back to the garden over a period of time to see the garden grow and bloom in a celebration of their health and wellness.</p>\n<h2>How we built it</h2>\n<p>We used A-Frame in combination with Vue.js to build a platform agnostic VR/AR experience.</p>\n<h2>Challenges we ran into</h2>\n<p>We were super excited to use our Microsoft Mixed Reality but we only had MacBook Pro's with barely any graphical power to use them with. To make sure that we could all develop and be productive we leveraged webVR to ease our development and iteration cycle.</p>\n<h2>Accomplishments that we're proud of</h2>\n<ul>\n<li>We made new friends!</li>\n<li>Our solution is made to help connect people while using cutting edge technology. In a world with an increasing amount of devices that monitor us, it's still a real problem that we don't have emotional awareness of our relationships.</li>\n<li>None of us had used A-Frame before this weekend</li>\n<li>None of us had designed 3D graphic assests before this weekend</li>\n<li>We combined these technologies in a unique way to allow a community or group of friends to make a custom VR/AR experience for someone else</li>\n<li>VR is usually an isolating solo experience and this is an experience that is social and emotional</li>\n</ul>\n<h2>What we learned</h2>\n<ul>\n<li>How to use A-Frame</li>\n<li>How to use Cinema 4D</li>\n<li>How to quickly take a big idea and fit it into a weekend</li>\n<li>How to build a platform agnostic VR/AR experience</li>\n<li>How to do VR/AR development on macbook pros</li>\n</ul>\n<h2>What's next for gARden Cards</h2>\n<ul>\n<li>To make it accessible to all. We made this to share.</li>\n</ul>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nOne of our teammates got an email from his boss that a colleague from their office had fallen sick and would be out of the office for awhile in the hospital. People in the office struggled with coordinating to send flowers and cards and general well wishes. We wanted to create a tool that allowed us to make a heart felt message of well wishes and connect us with the recipient through technology.\n\n\n## What it does\n\n\ngARden Cards allows users to collaboratively build a VR/AR experience for someone else. You are given an easy to use collaborative web interface that allows you and your friends to plant flowers on a garden planet and write and/or record good wishes for your recipient. The system then presents you with a PDF that you can use to print out a physical card. The card has a simple message and a AR Marker inside of it. When the recipient views the card from a phone or VR headset they will see the custom garden with voice and written messages (activated by gaze) spill open on a virtual landscape. The recipient is encouraged to come back to the garden over a period of time to see the garden grow and bloom in a celebration of their health and wellness.\n\n\n## How we built it\n\n\nWe used A-Frame in combination with Vue.js to build a platform agnostic VR/AR experience.\n\n\n## Challenges we ran into\n\n\nWe were super excited to use our Microsoft Mixed Reality but we only had MacBook Pro's with barely any graphical power to use them with. To make sure that we could all develop and be productive we leveraged webVR to ease our development and iteration cycle.\n\n\n## Accomplishments that we're proud of\n\n\n* We made new friends!\n* Our solution is made to help connect people while using cutting edge technology. In a world with an increasing amount of devices that monitor us, it's still a real problem that we don't have emotional awareness of our relationships.\n* None of us had used A-Frame before this weekend\n* None of us had designed 3D graphic assests before this weekend\n* We combined these technologies in a unique way to allow a community or group of friends to make a custom VR/AR experience for someone else\n* VR is usually an isolating solo experience and this is an experience that is social and emotional\n\n\n## What we learned\n\n\n* How to use A-Frame\n* How to use Cinema 4D\n* How to quickly take a big idea and fit it into a weekend\n* How to build a platform agnostic VR/AR experience\n* How to do VR/AR development on macbook pros\n\n\n## What's next for gARden Cards\n\n\n* To make it accessible to all. We made this to share.\n\n\n"
+}

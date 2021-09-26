@@ -1,0 +1,24 @@
+{
+    "source": "https://devpost.com/software/scalenaut",
+    "title": "Scalenaut",
+    "blurb": "A VR game to explore infinite spaces, from macro to micro",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/o8mKZhgvfrQ?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "Louis Charron",
+            "about": "",
+            "photo": "https://avatars2.githubusercontent.com/u/32399381?height=180&v=4&width=180"
+        }
+    ],
+    "built_with": [
+        "grasshopper",
+        "rhinoceros",
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Information</h2>\n<p>Location: Room E15 054\nTools: Unity, Grasshopper, Rhinoceros, Mixamo\nSDK: none\nAPI: none</p>\n</div>",
+    "content_md": "\n## Information\n\n\nLocation: Room E15 054\nTools: Unity, Grasshopper, Rhinoceros, Mixamo\nSDK: none\nAPI: none\n\n\n"
+}

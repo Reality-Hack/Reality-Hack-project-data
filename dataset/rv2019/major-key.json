@@ -1,0 +1,74 @@
+{
+    "source": "https://devpost.com/software/major-key",
+    "title": "Major Key",
+    "blurb": "An application on Magic Leap that teaches you how to read sheet music and play piano. ",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/FuhKtq8BS18?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [
+        {
+            "title": "Ideation for home page of Major Key",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/748/489/datas/original.png"
+        },
+        {
+            "title": "Major Key",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/748/487/datas/original.png"
+        },
+        {
+            "title": "Persona",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/748/484/datas/original.png"
+        },
+        {
+            "title": "Journey map for Evan",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/748/483/datas/original.png"
+        },
+        {
+            "title": "Finding the MVP",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/748/488/datas/original.png"
+        },
+        {
+            "title": "Report card presented after each practice",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/748/486/datas/original.png"
+        }
+    ],
+    "team": [
+        {
+            "name": "Surbhi S Gupta",
+            "about": "I helped build the story. I created the interview screener and questionnaire and helped synthesize the research. I helped conduct research. Created Persona and Journey map. Helped with realizing the MVP and ideation with the team.",
+            "photo": "https://media.licdn.com/dms/image/C5603AQEaxSlCrnED7A/profile-displayphoto-shrink_100_100/0?e=1553126400&height=180&t=WzuBzmtNn0liBm3RDduG08VHbPlu5Qa8MIqU3zHRuzk&v=beta&width=180"
+        },
+        {
+            "name": "jordan gutt",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/8a72f3ab60724a9b70af1e4bc4a9783d?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Kalila Shapiro",
+            "about": "",
+            "photo": "https://media.licdn.com/dms/image/C5603AQGsERTrHvlP2g/profile-displayphoto-shrink_100_100/0?e=1553126400&height=180&t=XIxbd0tldOs9kz7ur8bGalFmjUpeC5P7hk_mgAOYDtM&v=beta&width=180"
+        },
+        {
+            "name": "Iain Smith",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/39886f2aebf66c964e4191fb17c6b399?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Marcel .",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/959/177/datas/profile.png"
+        }
+    ],
+    "built_with": [
+        "abelton-live",
+        "ableton-live",
+        "blender",
+        "finale",
+        "magic-leap",
+        "photoshop",
+        "sketch",
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Inspiration -- Kalila's brother wanted to teach himself piano, however, most of the resources he found online were video tutorials on YouTube.  We wanted to create a more immersive way to learn sheet music and play piano.</h2>\n<h2>What it does -- The Major Key app provides the user an immersive learning experience focused on teaching students how to read sheet music and play piano.</h2>\n<h2>How I built it -- We sent out surveys to conduct preliminary user research, created an affinity board, a user journey, wireframes, and a working prototype on Magic Leap. We included songs and exercises, an AR keyboard piano model, AR light up keys, and scrolling sheet music implemented with Blender and Unity.</h2>\n<h2>Challenges we ran into -- While understanding the capabilities of the Magic Leap hardware we realized that the microphone was best suited for personal input and was not great at taking input from our surroundings.  Magic Leap can currently only track three fingers while playing piano requires all 5 making finger tracking not feasible.  Proper piano playing requires good wrist position which would also block view of fingers from sensors. This would require a work around using inverse kinematics. Our work around was to use a midi keyboard for the hack.  Magic Leap does not accept serial input making plugging a midi keyboard into it impossible.  We tried to implement a server using node.js on a computer that would send the midi data to the Magic Leap over wifi.  This ended up being very problematic and we ended up just running the project within unity editor where both the magic Leap and the keyboard could work together.  All pianos are also different sizes accounting for that would be difficult (we planned on adding tracking markers onto certain keys with stickers).   After learning this we adapted our vision to best fit to the hardware within the time.</h2>\n<h2>Accomplishments that I'm proud of -- Using various software development tools and network protocols in order take our vision on to Magic Leap's cutting edge device.  Brain storming, wire framing, and prioritizing features to come up with a simple and intuitive user flow and Mixed Reality conventions to make accessing songs and practice usable.</h2>\n<h2>What's next for Major Key -- Lesson structures and fun exercises, being able to use other instruments, gamification to make playing music more fun and appealing, social features including leaderboard concept to increase indulgence in playing music, partnership with local music initiatives and schools or tutors to promote more music learning, bring easy music learning to every home</h2>\n</div>",
+    "content_md": "\n## Inspiration -- Kalila's brother wanted to teach himself piano, however, most of the resources he found online were video tutorials on YouTube. We wanted to create a more immersive way to learn sheet music and play piano.\n\n\n## What it does -- The Major Key app provides the user an immersive learning experience focused on teaching students how to read sheet music and play piano.\n\n\n## How I built it -- We sent out surveys to conduct preliminary user research, created an affinity board, a user journey, wireframes, and a working prototype on Magic Leap. We included songs and exercises, an AR keyboard piano model, AR light up keys, and scrolling sheet music implemented with Blender and Unity.\n\n\n## Challenges we ran into -- While understanding the capabilities of the Magic Leap hardware we realized that the microphone was best suited for personal input and was not great at taking input from our surroundings. Magic Leap can currently only track three fingers while playing piano requires all 5 making finger tracking not feasible. Proper piano playing requires good wrist position which would also block view of fingers from sensors. This would require a work around using inverse kinematics. Our work around was to use a midi keyboard for the hack. Magic Leap does not accept serial input making plugging a midi keyboard into it impossible. We tried to implement a server using node.js on a computer that would send the midi data to the Magic Leap over wifi. This ended up being very problematic and we ended up just running the project within unity editor where both the magic Leap and the keyboard could work together. All pianos are also different sizes accounting for that would be difficult (we planned on adding tracking markers onto certain keys with stickers). After learning this we adapted our vision to best fit to the hardware within the time.\n\n\n## Accomplishments that I'm proud of -- Using various software development tools and network protocols in order take our vision on to Magic Leap's cutting edge device. Brain storming, wire framing, and prioritizing features to come up with a simple and intuitive user flow and Mixed Reality conventions to make accessing songs and practice usable.\n\n\n## What's next for Major Key -- Lesson structures and fun exercises, being able to use other instruments, gamification to make playing music more fun and appealing, social features including leaderboard concept to increase indulgence in playing music, partnership with local music initiatives and schools or tutors to promote more music learning, bring easy music learning to every home\n\n\n"
+}

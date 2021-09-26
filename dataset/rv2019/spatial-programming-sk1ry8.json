@@ -1,0 +1,42 @@
+{
+    "source": "https://devpost.com/software/spatial-programming-sk1ry8",
+    "title": "Spatial Programming",
+    "blurb": "MIT Hackathon 2019. Learn programming intuitively and spatially in mixed reality",
+    "awards": [],
+    "videos": [
+        "https://player.vimeo.com/video/312312003?byline=0&portrait=0&title=0#t="
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "Suzan Oslin",
+            "about": "Interface design and user experience.",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/632/963/datas/profile.jpg"
+        },
+        {
+            "name": "et3rnald",
+            "about": "I focused on 3D modeling and animation, contributed to group discussion as we homed in on our project idea and its game mechanics and narrative, and worked on sound design as well.",
+            "photo": "https://graph.facebook.com/10155917091572805/picture?height=180&width=180"
+        },
+        {
+            "name": "Aakash Shah",
+            "about": "",
+            "photo": "https://media.licdn.com/dms/image/C5603AQHylR1wa2OfNg/profile-displayphoto-shrink_100_100/0?e=1526187600&height=180&t=y9sGUoWtTR_M7byBxpUAU7jlhYBFL42BQgtPRroRT4s&v=alpha&width=180"
+        },
+        {
+            "name": "Leonard Wedderburn",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/424/958/datas/profile.jpg"
+        },
+        {
+            "name": "Hat Nguyen",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/e8cc9122dd96e41edfdf29fa1789149b?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        }
+    ],
+    "built_with": [
+        "unity-mixedrealitytoolkit"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>Spatial programming is the beginnings of a node based programming interface, like <a href=\"https://scratch.mit.edu/\" rel=\"nofollow\">Scratch</a>, but in mixed reality. The idea stemmed from a desire to learn to program while rapidly prototyping for mixed reality. The productivity potentials for a system like caught our imagination as much as the educational potentials.</p>\n<h2>What it does</h2>\n<p>Control a robot by organizing a sequence of node-based commands in MR</p>\n<h2>How we built it</h2>\n<p>Built in unity with the mixed reality toolkit</p>\n<h2>Challenges we ran into</h2>\n<p>Figuring out what was possible to achieve in the limited time-frame</p>\n<h2>Accomplishments that we're proud of</h2>\n<p>We're proud of our use of natural interfaces, took advantage of the affordances of the WMR interface.</p>\n<h2>What we learned</h2>\n<p>We learned what it takes to create a pseudo-programming language. We learned programming languages are very complex and to break it down spatial. It involves more than just throwing objects together.</p>\n<h2>What's next for Spatial Programming</h2>\n<p>Phase One Features: finish fleshing out the library of nodes to get it closer to a full programming language.\nPhase Two: add features such as:</p>\n<ul>\n<li>Multi-user cross-platform AR/VR collaboration</li>\n<li>Connect IOT devices to literally program your environment</li>\n<li>Import &amp; parse scripts to visualize more complex program flows</li>\n</ul>\n<p>Generally pushing towards being an open source productivity tool.</p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nSpatial programming is the beginnings of a node based programming interface, like [Scratch](https://scratch.mit.edu/), but in mixed reality. The idea stemmed from a desire to learn to program while rapidly prototyping for mixed reality. The productivity potentials for a system like caught our imagination as much as the educational potentials.\n\n\n## What it does\n\n\nControl a robot by organizing a sequence of node-based commands in MR\n\n\n## How we built it\n\n\nBuilt in unity with the mixed reality toolkit\n\n\n## Challenges we ran into\n\n\nFiguring out what was possible to achieve in the limited time-frame\n\n\n## Accomplishments that we're proud of\n\n\nWe're proud of our use of natural interfaces, took advantage of the affordances of the WMR interface.\n\n\n## What we learned\n\n\nWe learned what it takes to create a pseudo-programming language. We learned programming languages are very complex and to break it down spatial. It involves more than just throwing objects together.\n\n\n## What's next for Spatial Programming\n\n\nPhase One Features: finish fleshing out the library of nodes to get it closer to a full programming language.\nPhase Two: add features such as:\n\n\n* Multi-user cross-platform AR/VR collaboration\n* Connect IOT devices to literally program your environment\n* Import & parse scripts to visualize more complex program flows\n\n\nGenerally pushing towards being an open source productivity tool.\n\n\n"
+}

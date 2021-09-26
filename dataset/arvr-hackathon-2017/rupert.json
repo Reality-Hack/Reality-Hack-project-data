@@ -1,0 +1,70 @@
+{
+    "source": "https://devpost.com/software/rupert",
+    "title": "Rupert",
+    "blurb": "Relive your childhoods worst nightmares in VR and fight the monsters by using your teddy bear as a tangible interface",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/KSpsgJqZchY?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [
+        {
+            "title": "Oh no, be careful! There is also a monster under the bed!",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/546/418/datas/original.PNG"
+        },
+        {
+            "title": "Lock the doors! There is something out there, coming to get you!",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/546/419/datas/original.PNG"
+        },
+        {
+            "title": "Interaction with the environment is only possible by interaction with the toy in reality",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/546/555/datas/original.JPG"
+        },
+        {
+            "title": "The incorporated Vive controller enabled the user to interact with the teddy bear and also indirectly with the environment",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/546/521/datas/original.jpg"
+        },
+        {
+            "title": "This is the teddy bear toy we used to build a tangible interface which can be touched in reality and also comes alive in VR",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/546/567/datas/original.JPG"
+        }
+    ],
+    "team": [
+        {
+            "name": "Fin Ambsdorf",
+            "about": "",
+            "photo": "https://avatars1.githubusercontent.com/u/32569726?height=180&v=4&width=180"
+        },
+        {
+            "name": "Dorothee Schmidt",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/b51bceffdee3ece5f4e25c35672fd334?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Charlie Pennington",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/9830a49a8f08e29994c8c8e9df0b74c0?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Tushar Purang",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/917/768/datas/profile.png"
+        },
+        {
+            "name": "Maximegau",
+            "about": "",
+            "photo": "https://avatars0.githubusercontent.com/u/26672876?height=180&v=4&width=180"
+        }
+    ],
+    "built_with": [
+        "blender",
+        "htc-vive",
+        "maya",
+        "photoshop",
+        "steam-vr",
+        "unity",
+        "wwise",
+        "zbrush"
+    ],
+    "content_html": "<div>\n<h2>The Project</h2>\n<p><strong>What we were going for:</strong>\nDrawing from our own experience with VR applications we wanted to create the most immersive VR experience, leaving the user emotionally invested. Therefore we asked ourselves how a <em>tangible interface</em> could change the way we interact with the virtual world. Therefore we turned a real life teddy bear into a controlling device for VR, by cutting open the back and incorporating the Vive controller into the toy and animating a version of it in VR. This offers the user a variety of possible interactions the teddy bear itself by picking him up, shaking him, hugging him, lifting him up to objects he can not reach on his own or squeezing him.  </p>\n<p><strong>What it looks like:</strong>\nThunderstorms and intense music are setting the mood in the surreal, dark bedroom of a child. the infinite ceiling and towering furniture are scaled to make the user feel like they are a child again. Under the bed and outside monsters are formed out of the shadows. Fighting them is only possible by interaction with the teddy bear. Completing these tasks and comforting the toy, which reacts to both the environment and the user\u2019s actions, forms an <em>emotional bond that outlasts the duration of the experience itself</em>. The biggest challenges we were facing were animating the toy\u2019s states, reactions and syncing it to the storyline as well as the accompanying sounds and visuals. This could easily be solved by spending more time on development. </p>\n<p><strong>What's next for Rupert:</strong>\nIn the future our approach could be used for educational purposes, to teach empathy and responsibility, recapture childhood fears, engage user more easily with VR by tangible interfaces or simply for fun. </p>\n<h2>Team Information</h2>\n<p><strong>Team Lead:</strong> Charlie Pennington</p>\n<p><strong>Team Name:</strong> Ruperts Friends</p>\n<p><strong>Team Lead's mobile number:</strong> 8133734212</p>\n<p><strong>Location:</strong> 6th Floor, E14 674, Table 12</p>\n<h2>Environment</h2>\n<p><strong>Plattform:</strong> PC,HTC Vive</p>\n<p><strong>Development tools:</strong> Unity, Maya, Blender, Photoshop, Mono, Visual Studio  </p>\n<p><strong>SDKs:</strong> Wwise (Audio)</p>\n<p><strong>APIs:</strong> SteamVR</p>\n<p><strong>Assets:</strong> 3D Warehouse Assets ( see 3D Asset List) </p>\n<p><strong>Libraries:</strong> ( SteamVR) </p>\n<p><strong>We used the following Third Party Assets:</strong></p>\n<p>3D Models under Creative Common from SketchUp 3d Warehouse Terms of Use <a href=\"https://3dwarehouse.sketchup.com/tos.html\" rel=\"nofollow\">link</a></p>\n<p>Bed <a href=\"https://3dwarehouse.sketchup.com/model/655dcd675ca7da8fcaf22871626d9a34/Bed-Frame\" rel=\"nofollow\">link</a></p>\n<p>Door <a href=\"https://3dwarehouse.sketchup.com/model/u4727fa09-70b8-4f8d-a9ee-2fabf36b9e3d/30-Six-Panel-Door-30x80-With-Hinges-and-Latch\" rel=\"nofollow\">link</a></p>\n<p>Window <a href=\"https://3dwarehouse.sketchup.com/model/d95728d1-aa98-4619-a97e-569d7d9bbbf3/Quad-Pane-Sash-Window\" rel=\"nofollow\">link</a></p>\n<p>Wardrobe <a href=\"https://3dwarehouse.sketchup.com/model/7f50a6bb1827b9f582bfcd34215ccfc7/eclectic-wardrobe\" rel=\"nofollow\">link</a></p>\n<p>Chest <a href=\"https://3dwarehouse.sketchup.com/model/u3284e43b-d512-4fe8-a541-8e29234b6ea8/Teak-Chest\" rel=\"nofollow\">link</a></p>\n<p>Tree <a href=\"https://3dwarehouse.sketchup.com/model/38c6cbdb7f75874cc52adcbe8dab860b/Dead-Tree\" rel=\"nofollow\">link</a></p>\n</div>",
+    "content_md": "\n## The Project\n\n\n**What we were going for:**\nDrawing from our own experience with VR applications we wanted to create the most immersive VR experience, leaving the user emotionally invested. Therefore we asked ourselves how a *tangible interface* could change the way we interact with the virtual world. Therefore we turned a real life teddy bear into a controlling device for VR, by cutting open the back and incorporating the Vive controller into the toy and animating a version of it in VR. This offers the user a variety of possible interactions the teddy bear itself by picking him up, shaking him, hugging him, lifting him up to objects he can not reach on his own or squeezing him. \n\n\n**What it looks like:**\nThunderstorms and intense music are setting the mood in the surreal, dark bedroom of a child. the infinite ceiling and towering furniture are scaled to make the user feel like they are a child again. Under the bed and outside monsters are formed out of the shadows. Fighting them is only possible by interaction with the teddy bear. Completing these tasks and comforting the toy, which reacts to both the environment and the user\u2019s actions, forms an *emotional bond that outlasts the duration of the experience itself*. The biggest challenges we were facing were animating the toy\u2019s states, reactions and syncing it to the storyline as well as the accompanying sounds and visuals. This could easily be solved by spending more time on development. \n\n\n**What's next for Rupert:**\nIn the future our approach could be used for educational purposes, to teach empathy and responsibility, recapture childhood fears, engage user more easily with VR by tangible interfaces or simply for fun. \n\n\n## Team Information\n\n\n**Team Lead:** Charlie Pennington\n\n\n**Team Name:** Ruperts Friends\n\n\n**Team Lead's mobile number:** 8133734212\n\n\n**Location:** 6th Floor, E14 674, Table 12\n\n\n## Environment\n\n\n**Plattform:** PC,HTC Vive\n\n\n**Development tools:** Unity, Maya, Blender, Photoshop, Mono, Visual Studio \n\n\n**SDKs:** Wwise (Audio)\n\n\n**APIs:** SteamVR\n\n\n**Assets:** 3D Warehouse Assets ( see 3D Asset List) \n\n\n**Libraries:** ( SteamVR) \n\n\n**We used the following Third Party Assets:**\n\n\n3D Models under Creative Common from SketchUp 3d Warehouse Terms of Use [link](https://3dwarehouse.sketchup.com/tos.html)\n\n\nBed [link](https://3dwarehouse.sketchup.com/model/655dcd675ca7da8fcaf22871626d9a34/Bed-Frame)\n\n\nDoor [link](https://3dwarehouse.sketchup.com/model/u4727fa09-70b8-4f8d-a9ee-2fabf36b9e3d/30-Six-Panel-Door-30x80-With-Hinges-and-Latch)\n\n\nWindow [link](https://3dwarehouse.sketchup.com/model/d95728d1-aa98-4619-a97e-569d7d9bbbf3/Quad-Pane-Sash-Window)\n\n\nWardrobe [link](https://3dwarehouse.sketchup.com/model/7f50a6bb1827b9f582bfcd34215ccfc7/eclectic-wardrobe)\n\n\nChest [link](https://3dwarehouse.sketchup.com/model/u3284e43b-d512-4fe8-a541-8e29234b6ea8/Teak-Chest)\n\n\nTree [link](https://3dwarehouse.sketchup.com/model/38c6cbdb7f75874cc52adcbe8dab860b/Dead-Tree)\n\n\n"
+}

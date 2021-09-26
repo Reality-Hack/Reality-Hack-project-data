@@ -1,0 +1,56 @@
+{
+    "source": "https://devpost.com/software/curiouser",
+    "title": "Curiouser",
+    "blurb": "Alice in Wonderland narrative themed puzzle game using scaling to locomote and as a game mechanic.",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/nzGr-g7sZIA?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [
+        {
+            "title": "Hallway",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/314/datas/original.png"
+        },
+        {
+            "title": "Garden View",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/315/datas/original.png"
+        }
+    ],
+    "team": [
+        {
+            "name": "Matt Rossman",
+            "about": "VR development, Git, and video editing.",
+            "photo": "https://avatars2.githubusercontent.com/u/22670878?height=180&v=4&width=180"
+        },
+        {
+            "name": "Marcel .",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/959/177/datas/profile.png"
+        },
+        {
+            "name": "Dawn Norton",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/d589adfed2894e1f1b2029341f0c302e?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Vikram Gupta",
+            "about": "",
+            "photo": "https://avatars0.githubusercontent.com/u/58710897?height=180&v=4&width=180"
+        }
+    ],
+    "built_with": [
+        "3ds-max",
+        "ableton",
+        "adobe-illustrator",
+        "blender",
+        "c#",
+        "hpvr",
+        "oculus",
+        "oculusintegration",
+        "photoshop",
+        "unity",
+        "visual-studio"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>Years ago at another XR MIT hackathon, another participant pitched the idea of using scaling locomotion as a solution to the room-scale vr problem.   Marcel thought that this was an awesome concept but didn't know what to do with it.</p>\n<p>A few months ago while listening to an audiobook of Alice's Adventures in Wonderland he realized that the scene where she eats various growing and shrinking foods to escape the hall and house was a beautiful little premade puzzle using that same scaling mechanic.  She needs to pick up and eat different foods to change sizes to reach certain keys and change size again to fit through doors.</p>\n<h2>What it does</h2>\n<p>On an Oculus Rift Alice(you) finds herself in a long hallway. She must pickup a key to open a tiny door.  The tiny door opens revealing a cake in a cave and a beautiful garden beyond.  Eating the cake will make Alice big which allows her to pick up a bottle from a shelf behind her. She is now too far from the door though.  Using the cake to grow big and take big steps and the cake to grow small Alice finally makes her way through the small door and towards the garden.  What happens next? Only Alice knows... </p>\n<h2>How I built it</h2>\n<p>We used Unity and the Oculus integration plugin to build our project.  All models were made from scratch in 3ds Max and Blender.  The music and some sounds were composed in Ableton and other sounds were downloaded from freesound.org.</p>\n<h2>Challenges I ran into</h2>\n<p>The play space would scale around a single point instead of at the player.  Some curiouser maths were needed to solve that problem. </p>\n<p>A deleted object in runtime was not ending a released trigger.</p>\n<p>Clipping through walls revealed the big finish.  A fading black panel that blocked the players vision was used to fix that.</p>\n<h2>Accomplishments that I'm proud of</h2>\n<p>WE HAD A FINISHED POLISHED-ISH EXPERIENCE.  Its pretty cool.</p>\n<h2>What I learned</h2>\n<p>Alot about Unity and VR. Not to trust Resonance. I experimented with haptics though we didn't get to implement it.  You can do math in unity inspector fields.  M&amp;Ms and Kool-aid Jammers fuel you. Teamwork. Practice. Discord (the app).</p>\n<h2>What's next for Curiouser</h2>\n<p>Sleep.</p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nYears ago at another XR MIT hackathon, another participant pitched the idea of using scaling locomotion as a solution to the room-scale vr problem. Marcel thought that this was an awesome concept but didn't know what to do with it.\n\n\nA few months ago while listening to an audiobook of Alice's Adventures in Wonderland he realized that the scene where she eats various growing and shrinking foods to escape the hall and house was a beautiful little premade puzzle using that same scaling mechanic. She needs to pick up and eat different foods to change sizes to reach certain keys and change size again to fit through doors.\n\n\n## What it does\n\n\nOn an Oculus Rift Alice(you) finds herself in a long hallway. She must pickup a key to open a tiny door. The tiny door opens revealing a cake in a cave and a beautiful garden beyond. Eating the cake will make Alice big which allows her to pick up a bottle from a shelf behind her. She is now too far from the door though. Using the cake to grow big and take big steps and the cake to grow small Alice finally makes her way through the small door and towards the garden. What happens next? Only Alice knows... \n\n\n## How I built it\n\n\nWe used Unity and the Oculus integration plugin to build our project. All models were made from scratch in 3ds Max and Blender. The music and some sounds were composed in Ableton and other sounds were downloaded from freesound.org.\n\n\n## Challenges I ran into\n\n\nThe play space would scale around a single point instead of at the player. Some curiouser maths were needed to solve that problem. \n\n\nA deleted object in runtime was not ending a released trigger.\n\n\nClipping through walls revealed the big finish. A fading black panel that blocked the players vision was used to fix that.\n\n\n## Accomplishments that I'm proud of\n\n\nWE HAD A FINISHED POLISHED-ISH EXPERIENCE. Its pretty cool.\n\n\n## What I learned\n\n\nAlot about Unity and VR. Not to trust Resonance. I experimented with haptics though we didn't get to implement it. You can do math in unity inspector fields. M&Ms and Kool-aid Jammers fuel you. Teamwork. Practice. Discord (the app).\n\n\n## What's next for Curiouser\n\n\nSleep.\n\n\n"
+}

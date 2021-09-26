@@ -1,0 +1,33 @@
+{
+    "source": "https://devpost.com/software/waypointpx",
+    "title": "WaypointRx",
+    "blurb": "AR fulfillment for pharmacies",
+    "awards": [],
+    "videos": [
+        "https://player.vimeo.com/video/186220545?byline=0&portrait=0&title=0#t="
+    ],
+    "images": [
+        {
+            "title": "WaypointRx",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/421/039/datas/original.png"
+        }
+    ],
+    "team": [
+        {
+            "name": "Umar Arshad",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/84bed654a4dc9153a0c93666846fd495?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Varun Mani",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/419/454/datas/profile.jpg"
+        }
+    ],
+    "built_with": [
+        "c#",
+        "unity"
+    ],
+    "content_html": "<div>\n<p>1.) The name of your team lead\nUMAR ARSHAD</p>\n<p>2.) The team lead's telephone number\n7033079266</p>\n<p>3.) The location where the judges can find your team including the floor number\n5th FLOOR - Conference Room 514b</p>\n<p>4.) The vertical category in which you are competing\nHuman Well-Being (Education/Health/Wellness/Activism)\nCommerce/Industry (Architecture/Engineering/Construction/Productivity/Industry/Commerce)</p>\n</div>",
+    "content_md": "\n1.) The name of your team lead\nUMAR ARSHAD\n\n\n2.) The team lead's telephone number\n7033079266\n\n\n3.) The location where the judges can find your team including the floor number\n5th FLOOR - Conference Room 514b\n\n\n4.) The vertical category in which you are competing\nHuman Well-Being (Education/Health/Wellness/Activism)\nCommerce/Industry (Architecture/Engineering/Construction/Productivity/Industry/Commerce)\n\n\n"
+}

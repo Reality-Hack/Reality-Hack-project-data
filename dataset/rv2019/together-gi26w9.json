@@ -1,0 +1,49 @@
+{
+    "source": "https://devpost.com/software/together-gi26w9",
+    "title": "Together",
+    "blurb": "Co-op game between HTC Vive and up to three mobile devices. Solve puzzles Together, and change the world around you.",
+    "awards": [
+        "Best in Games & Learning"
+    ],
+    "videos": [
+        "https://www.youtube.com/embed/rIk59CEwm0M?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "Colin Everton",
+            "about": "Blocked out the main scene, created animations, modeled the shell of the room and other small components, Pre-fabbed almost everything. Github Guru.",
+            "photo": "https://media.licdn.com/dms/image/C4E03AQERlA-vo6TxKg/profile-displayphoto-shrink_100_100/0?e=1553126400&height=180&t=X8jG9obUViQRQ8Gp_PMAAJFi9e6cJdgcGfpXDcQ7yJE&v=beta&width=180"
+        },
+        {
+            "name": "Jason Glenn",
+            "about": "I was one of the main programmers working on lighting objects opun being hit by a raycast. The objects would start off invisible and while the light was on it, the object slowly came into the scene and now became dynamic. These objects were then used to snap into place as the missing piece of the puzzle that needed to be solved. Being a asymmetrical experience the mobile player was the only one that could trigger the effect while the VR player could then and only then interact with that object.",
+            "photo": "https://www.gravatar.com/avatar/46e735b2e6bdc2794e54b824af04de03?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Anna Shabayev",
+            "about": "I worked on programming the game puzzles. I also worked on design, concept art, and 3D modeling of the drone and room frame.",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/353/377/datas/profile.jpg"
+        },
+        {
+            "name": "Josh Widdicombe",
+            "about": "Worked on Design and level creation. Decorated the interior with collected assets as well as created the landscape and exterior skybox environment. Implemented AR core into project as well as collaborated with general ideation and puzzle design with team.",
+            "photo": "https://www.gravatar.com/avatar/9230b3fb059967ce65a8b1a0ffb50164?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Eric Chan",
+            "about": "Worked on the game mechanic design, I worked on the cross platform multiplayer networking on the application in unity. This networking allows for both mobile and VR users to share the same space at the same time. ",
+            "photo": "https://avatars2.githubusercontent.com/u/8290772?height=180&v=4&width=180"
+        }
+    ],
+    "built_with": [
+        "ar-foundation",
+        "blender",
+        "maya",
+        "photon",
+        "unity",
+        "vui"
+    ],
+    "content_html": "<div>\n<h2>2nd Video</h2>\n<p><a href=\"https://youtu.be/UYBDKsvzO8Q\" rel=\"nofollow\">https://youtu.be/UYBDKsvzO8Q</a></p>\n<h2>Summary</h2>\n<p>Together is 2-4 player co-op game where one player uses a Vive headset and three other's use mobile devices to solve puzzles. The three mobile players assist with identifying puzzles, setting waypoints and finding objects while the Vive player completes the puzzles. Each mobile player emits a certain color light where they are looking at, this light shows objects that only they can see. Once the player identifies these objects, the Vive player is able to interact with them. Asymmetrical puzzle game.</p>\n<h2>Inspiration</h2>\n<p>From our experience, VR tends to be an isolated experience for the user. Not only that, but it tends to be expensive, often requiring consumers to buy a gaming PC as well. When approaching this, we wanted people to still be able to be part of the experience even if they don't have a VR headset, so instead they can join in on their phone.</p>\n<h2>What it does</h2>\n<p>Together is a cooperative asymmetrical cross platform escape the room puzzle game. One player is in room scale VR while three other people are playing on their phones to see the same environment in AR. The VR player is the only one able to complete the puzzles, but the AR players are the only ones that can see the puzzles. So without using speech, they will need to communicate with each other through body language to solve the puzzles. </p>\n<h2>Challenges we ran into</h2>\n<p>None of us have ever worked with cross platform multiplayer before. None of us had ever built games or worked with AR for mobile devices.</p>\n<h2>What's next for Together</h2>\n<p>We are going to continue working on it so that we can launch it!</p>\n</div>",
+    "content_md": "\n## 2nd Video\n\n\n<https://youtu.be/UYBDKsvzO8Q>\n\n\n## Summary\n\n\nTogether is 2-4 player co-op game where one player uses a Vive headset and three other's use mobile devices to solve puzzles. The three mobile players assist with identifying puzzles, setting waypoints and finding objects while the Vive player completes the puzzles. Each mobile player emits a certain color light where they are looking at, this light shows objects that only they can see. Once the player identifies these objects, the Vive player is able to interact with them. Asymmetrical puzzle game.\n\n\n## Inspiration\n\n\nFrom our experience, VR tends to be an isolated experience for the user. Not only that, but it tends to be expensive, often requiring consumers to buy a gaming PC as well. When approaching this, we wanted people to still be able to be part of the experience even if they don't have a VR headset, so instead they can join in on their phone.\n\n\n## What it does\n\n\nTogether is a cooperative asymmetrical cross platform escape the room puzzle game. One player is in room scale VR while three other people are playing on their phones to see the same environment in AR. The VR player is the only one able to complete the puzzles, but the AR players are the only ones that can see the puzzles. So without using speech, they will need to communicate with each other through body language to solve the puzzles. \n\n\n## Challenges we ran into\n\n\nNone of us have ever worked with cross platform multiplayer before. None of us had ever built games or worked with AR for mobile devices.\n\n\n## What's next for Together\n\n\nWe are going to continue working on it so that we can launch it!\n\n\n"
+}

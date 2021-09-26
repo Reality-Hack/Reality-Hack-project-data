@@ -1,0 +1,45 @@
+{
+    "source": "https://devpost.com/software/weflow",
+    "title": "WeFlow",
+    "blurb": "WeFlow is an AR artistic multiplayer game that offers a fun experience for eldery people to gain a healthier body.",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/yYakrqEWZAU?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "Grace Oh",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/2134ecd7d3e484fb6108ccdc1dc12e85?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Karen El Asmar",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/b1fe616ef5dd57874ba403936c61ab5b?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "mariabelenponcio",
+            "about": "",
+            "photo": "https://graph.facebook.com/10156066005958589/picture?height=180&width=180"
+        },
+        {
+            "name": "Alexander Gao",
+            "about": "",
+            "photo": "https://avatars2.githubusercontent.com/u/44277980?height=180&v=4&width=180"
+        },
+        {
+            "name": "Jomar G",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/601/750/datas/profile.jpg"
+        }
+    ],
+    "built_with": [
+        "adobe-audition",
+        "adobe-xd",
+        "magic-leap",
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>8.5 percent of people worldwide and 47.8 million of US citizens are 65 years old or older. This population usually suffers back pains and arthrosis and lose flexibility, balance and strength. Over 50% of residents of nurseing homes experience depression and isolation during their stay. We want to offer a new fun experience for the elderlies to have a good time a become healthier. </p>\n<h2>What it does</h2>\n<p>WeFlow is an AR artistic multiplayer game that offers a fun experience for elderly people (65-year-old and up) to gain a healthier body. The users make exercises based in yoga and mindfulness following music and creating with their movements a huge collective virtual art work. Some exercises are individual and some of them are collective. </p>\n<h2>How we built it</h2>\n<p>We developed this project for magic leap and worked with hand tracking. The animations and coding were designed in unity using the Magic Leap SDK. </p>\n<h2>Challenges we ran into</h2>\n<p>Hand tracking, position of interaction, creating a pathway for making the app collaborative on multiple Magic Leap devices.</p>\n<h2>Accomplishments that we're proud of</h2>\n<p>Coding the hand tracking and interactions. As well as working with hardware and software unfamiliar to us. </p>\n<h2>What we learned</h2>\n<p>Greater understanding of Magic Leap and its SDK's in addition to working in Unity.</p>\n<h2>What's next for WeFlow</h2>\n<p>Making the app collaborative and adding more movements as well as environments. </p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\n8.5 percent of people worldwide and 47.8 million of US citizens are 65 years old or older. This population usually suffers back pains and arthrosis and lose flexibility, balance and strength. Over 50% of residents of nurseing homes experience depression and isolation during their stay. We want to offer a new fun experience for the elderlies to have a good time a become healthier. \n\n\n## What it does\n\n\nWeFlow is an AR artistic multiplayer game that offers a fun experience for elderly people (65-year-old and up) to gain a healthier body. The users make exercises based in yoga and mindfulness following music and creating with their movements a huge collective virtual art work. Some exercises are individual and some of them are collective. \n\n\n## How we built it\n\n\nWe developed this project for magic leap and worked with hand tracking. The animations and coding were designed in unity using the Magic Leap SDK. \n\n\n## Challenges we ran into\n\n\nHand tracking, position of interaction, creating a pathway for making the app collaborative on multiple Magic Leap devices.\n\n\n## Accomplishments that we're proud of\n\n\nCoding the hand tracking and interactions. As well as working with hardware and software unfamiliar to us. \n\n\n## What we learned\n\n\nGreater understanding of Magic Leap and its SDK's in addition to working in Unity.\n\n\n## What's next for WeFlow\n\n\nMaking the app collaborative and adding more movements as well as environments. \n\n\n"
+}

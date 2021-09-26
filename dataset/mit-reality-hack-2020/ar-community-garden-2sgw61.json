@@ -1,0 +1,74 @@
+{
+    "source": "https://devpost.com/software/ar-community-garden-2sgw61",
+    "title": "AR Community Garden",
+    "blurb": "Plant AR Seeds to propagate AR Urban Edible & Medicinal Plants. Discover the Dandelion Patch, created by ~100 participants of the MIT Reality Hackathon and Public Expo. Pollinate plants with AR Bee!",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/zYaMRR4Hwxs?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [
+        {
+            "title": "AR Community Garden Mission",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/935/229/datas/original.JPG"
+        },
+        {
+            "title": "AR Seeds for Edible &amp; Medicinal Plants",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/935/228/datas/original.JPG"
+        },
+        {
+            "title": "AR Community Dandelion Patch Participants ",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/935/231/datas/original.JPG"
+        },
+        {
+            "title": "AR Community Dandelion Seed Target. Try it out with ARize App https://arize.page.link/eY9mKkHSQZqiGjH76",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/935/226/datas/original.JPG"
+        },
+        {
+            "title": "AR Seed Targets. Try them all with ARize! ",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/935/230/datas/original.jpg"
+        },
+        {
+            "title": "Environmental Sketches of MIT Media Lab. Oliver Dansinger",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/935/221/datas/original.JPG"
+        },
+        {
+            "title": "Non-Edible Plants, Tilt Brush. Oliver Dansinger",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/935/235/datas/original.JPG"
+        },
+        {
+            "title": "Social XR Drawing Lesson ",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/935/219/datas/original.jpg"
+        },
+        {
+            "title": "Community Dandelion Patch ",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/935/224/datas/original.JPG"
+        },
+        {
+            "title": "Pollinating Bee",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/935/218/datas/original.JPG"
+        },
+        {
+            "title": "Dandelion for XR Art Show. Try it out: https://arize.page.link/PzMFongpiUaoFydX7",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/935/232/datas/original.JPG"
+        }
+    ],
+    "team": [
+        {
+            "name": "Paige Dansinger",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/917/166/datas/profile.JPG"
+        }
+    ],
+    "built_with": [
+        "autocad",
+        "blender",
+        "oculusquest",
+        "poly",
+        "procreate",
+        "tiltbrush",
+        "unity",
+        "vuforia"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>Our inspiration was to engage members of the community at MIT Reality Hackathon and Public Expo in creative ways to engage and identify edible and medicinal plants to build individual, group, and community resilience through drawing together.</p>\n<h2>What it does</h2>\n<p>This art installation invites participants to plant AR Seeds, watch AR Plants grow, and pollinate the plants with an AR Bee. People propagating and pollinate plants using AR creates deeper connection to the plants in inhabited environments. Discovering edible and medicinal plants empowers the public. Creating and recognizing a dandelion, or other flower one created in a VR Dandelion Patch makes people feel awesome! They see their work with every one else's and know they are in an inclusive and more equitable shared shared space; this is Utopian.  </p>\n<h2>How I built it</h2>\n<p>We used Unity, Vuforia, Tilt Brush, Oculus Quest, and Procreate App for the Hackathon. I also added all AR images to the ARize App. AR Dandelion Patch created by participants of MIT Reality Hackathon. Try it out: <a href=\"https://arize.page.link/Y4ek2H4sZaGozsBn9\" rel=\"nofollow\">https://arize.page.link/Y4ek2H4sZaGozsBn9</a></p>\n<p>We built by practicing listening to our partner's skills, voices, and experiences while supporting new growing opportunities. We also built it by having a strong mission, perspective, and ability to edit unnecessary elements. Our team each had a purpose and was able to combine our work together. As XR Artist, I personally loved drawing in Tilt Brush with over 50 people at the Hackathon. I wanted to include diverse people from all over the world. For some it was their first-time drawing in Tilt Brush. I would instruct them their right hand was Hand of Infinite Power, that by pressing the button they can create anything in the world. And their left or non-dominated hand was their Hand of Infinite Choices, with tools, nibs, and brushes. Each participant felt super-empowered to create something that expressed their joy and individuality. By doing this I created new friends, connected people together in a group activity that created deeper connections and took opportunity to add XR public art practice &amp; XR Social Ed community resilience-building in simple pleasant ways. </p>\n<h2>What's next for AR Community Garden</h2>\n<p>A single dandelion <a href=\"https://arize.page.link/o2E1rVeqZyWo27uz9\" rel=\"nofollow\">https://arize.page.link/o2E1rVeqZyWo27uz9</a> will be included in the XR Art Show in San Diego. Additionally, being exposed to VIVE Eye and hand tracking inspired me to learn how to use them for future projects, and to import my work into Nreal through friends at FXG. </p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nOur inspiration was to engage members of the community at MIT Reality Hackathon and Public Expo in creative ways to engage and identify edible and medicinal plants to build individual, group, and community resilience through drawing together.\n\n\n## What it does\n\n\nThis art installation invites participants to plant AR Seeds, watch AR Plants grow, and pollinate the plants with an AR Bee. People propagating and pollinate plants using AR creates deeper connection to the plants in inhabited environments. Discovering edible and medicinal plants empowers the public. Creating and recognizing a dandelion, or other flower one created in a VR Dandelion Patch makes people feel awesome! They see their work with every one else's and know they are in an inclusive and more equitable shared shared space; this is Utopian. \n\n\n## How I built it\n\n\nWe used Unity, Vuforia, Tilt Brush, Oculus Quest, and Procreate App for the Hackathon. I also added all AR images to the ARize App. AR Dandelion Patch created by participants of MIT Reality Hackathon. Try it out: <https://arize.page.link/Y4ek2H4sZaGozsBn9>\n\n\nWe built by practicing listening to our partner's skills, voices, and experiences while supporting new growing opportunities. We also built it by having a strong mission, perspective, and ability to edit unnecessary elements. Our team each had a purpose and was able to combine our work together. As XR Artist, I personally loved drawing in Tilt Brush with over 50 people at the Hackathon. I wanted to include diverse people from all over the world. For some it was their first-time drawing in Tilt Brush. I would instruct them their right hand was Hand of Infinite Power, that by pressing the button they can create anything in the world. And their left or non-dominated hand was their Hand of Infinite Choices, with tools, nibs, and brushes. Each participant felt super-empowered to create something that expressed their joy and individuality. By doing this I created new friends, connected people together in a group activity that created deeper connections and took opportunity to add XR public art practice & XR Social Ed community resilience-building in simple pleasant ways. \n\n\n## What's next for AR Community Garden\n\n\nA single dandelion <https://arize.page.link/o2E1rVeqZyWo27uz9> will be included in the XR Art Show in San Diego. Additionally, being exposed to VIVE Eye and hand tracking inspired me to learn how to use them for future projects, and to import my work into Nreal through friends at FXG. \n\n\n"
+}

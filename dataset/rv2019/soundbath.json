@@ -1,0 +1,25 @@
+{
+    "source": "https://devpost.com/software/soundbath",
+    "title": "SoundBath",
+    "blurb": "Creating tones with your voice, you create immersive sound objects which bathe you in a tonal hum ",
+    "awards": [],
+    "videos": [],
+    "images": [],
+    "team": [
+        {
+            "name": "Vladimir Storm",
+            "about": "VFX",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/753/480/datas/profile.png"
+        },
+        {
+            "name": "ChelleySherman",
+            "about": "",
+            "photo": "https://graph.facebook.com/10155841749466782/picture?height=180&width=180"
+        }
+    ],
+    "built_with": [
+        "c#"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>something</p>\n<h2>What it does</h2>\n<h2>How we built it</h2>\n<p>sdfsdfsdf</p>\n<h2>Challenges we ran into</h2>\n<h2>Accomplishments that we're proud of</h2>\n<h2>What we learned</h2>\n<h2>What's next for SoundBath</h2>\n<p>sdf</p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nsomething\n\n\n## What it does\n\n\n## How we built it\n\n\nsdfsdfsdf\n\n\n## Challenges we ran into\n\n\n## Accomplishments that we're proud of\n\n\n## What we learned\n\n\n## What's next for SoundBath\n\n\nsdf\n\n\n"
+}

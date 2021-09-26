@@ -1,0 +1,24 @@
+{
+    "source": "https://devpost.com/software/rv-hack-2019-nature-s-wrath",
+    "title": "RV Hack 2019 - Nature's Wrath",
+    "blurb": "An immersive VR experience where you play as a giant polar bear seeking to cleanse an abandoned toxic city.",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/Y6MGPSyKwiQ?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "Gary Nguyen",
+            "about": "",
+            "photo": "https://avatars0.githubusercontent.com/u/35552077?height=180&v=4&width=180"
+        }
+    ],
+    "built_with": [
+        "blender",
+        "htc-vive-pro",
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>We wanted to have fun, building something cool, learn as much as we can, and smash things. The idea was to have a polar bear become mutated by radiation, grow to a gigantic size, and seek to destroy a city polluted by waste to make way for nature to revive.</p>\n<h2>What it does</h2>\n<p>You get to smash buildings.</p>\n<h2>How I built it</h2>\n<p>Using Unity, Unity Asset Store, HTC Vive Pro, and Blender</p>\n<h2>Challenges I ran into</h2>\n<p>Making buildings appear to fracture, learning curves for beginners on the team, and destructive paw mechanics.</p>\n<h2>Accomplishments that I'm proud of</h2>\n<p>Getting to code successful scripts for some animations. Being able to grab and throw objects.</p>\n<h2>What I learned</h2>\n<p>Learned basics of Blender and Unity in a few days' time! And C# scripting for game objects.</p>\n<h2>What's next for RV Hack 2019 - Nature's Wrath</h2>\n<p>To develop a scoring system and to create an antagonist (trash golem maybe).</p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nWe wanted to have fun, building something cool, learn as much as we can, and smash things. The idea was to have a polar bear become mutated by radiation, grow to a gigantic size, and seek to destroy a city polluted by waste to make way for nature to revive.\n\n\n## What it does\n\n\nYou get to smash buildings.\n\n\n## How I built it\n\n\nUsing Unity, Unity Asset Store, HTC Vive Pro, and Blender\n\n\n## Challenges I ran into\n\n\nMaking buildings appear to fracture, learning curves for beginners on the team, and destructive paw mechanics.\n\n\n## Accomplishments that I'm proud of\n\n\nGetting to code successful scripts for some animations. Being able to grab and throw objects.\n\n\n## What I learned\n\n\nLearned basics of Blender and Unity in a few days' time! And C# scripting for game objects.\n\n\n## What's next for RV Hack 2019 - Nature's Wrath\n\n\nTo develop a scoring system and to create an antagonist (trash golem maybe).\n\n\n"
+}

@@ -1,0 +1,55 @@
+{
+    "source": "https://devpost.com/software/crane",
+    "title": "Crane",
+    "blurb": "Crane is a design language used for 6DoF XR interactions, inspired by traditional origami style",
+    "awards": [],
+    "videos": [
+        "https://player.vimeo.com/video/312383180?byline=0&portrait=0&title=0#t="
+    ],
+    "images": [
+        {
+            "title": "Music player",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/742/612/datas/original.jpg"
+        },
+        {
+            "title": "Weather + music player widgets",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/742/883/datas/original.jpg"
+        }
+    ],
+    "team": [
+        {
+            "name": "Yu Jen Chen",
+            "about": "Interaction demo animation",
+            "photo": "https://avatars0.githubusercontent.com/u/30551434?height=180&v=4&width=180"
+        },
+        {
+            "name": "Sara Birchard",
+            "about": "UX/UI Designer",
+            "photo": "https://avatars2.githubusercontent.com/u/6678010?height=180&v=4&width=180"
+        },
+        {
+            "name": "Earl NIE",
+            "about": "UX Designer and creative technologist, created and built interactive motions in Unity.\n",
+            "photo": "https://avatars3.githubusercontent.com/u/30550746?height=180&v=4&width=180"
+        },
+        {
+            "name": "Ke Ding",
+            "about": "Design Lead of Project: Crane. XR Designer.",
+            "photo": "https://avatars2.githubusercontent.com/u/11837655?height=180&v=4&width=180"
+        },
+        {
+            "name": "Wei Dai",
+            "about": "UI/UX Designer and developer",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/747/064/datas/profile.jpeg"
+        }
+    ],
+    "built_with": [
+        "c#",
+        "cinema4d",
+        "oculus",
+        "sketch",
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>6 DoF controllers &amp; freedom to use hands in XR</p>\n<h2>What it is</h2>\n<p>Crane is a design language used for 6DoF XR interactions, inspired by traditional origami style.</p>\n<p>Our XR interface utilizes the space surrounding the user.  It\u2019s not necessary to have a lot of space to navigate through XR, especially when we are using our hands as controllers and cannot reach too far away.</p>\n<p>The visual style and the interaction feedback in today\u2019s XR sometimes feel inconsistent. With a systematic design language, we can unify the experience and make it even more <strong>intuitive</strong>.</p>\n<p>Crane uses a set of interfaces and interactions that inherit &amp; simulate origami.</p>\n<p>Our goal is to make the experience in XR robust, tangible &amp; intuitive.</p>\n<h2>How we built it</h2>\n<p>Unity, Leap Motion, Oculus Rift, Cinema4D, After Effects, Sketch</p>\n<h2>Challenges we ran into</h2>\n<h2>Accomplishments that we're proud of</h2>\n<h2>What we learned</h2>\n<h2>What's next for Crane</h2>\n</div>",
+    "content_md": "\n## Inspiration\n\n\n6 DoF controllers & freedom to use hands in XR\n\n\n## What it is\n\n\nCrane is a design language used for 6DoF XR interactions, inspired by traditional origami style.\n\n\nOur XR interface utilizes the space surrounding the user. It\u2019s not necessary to have a lot of space to navigate through XR, especially when we are using our hands as controllers and cannot reach too far away.\n\n\nThe visual style and the interaction feedback in today\u2019s XR sometimes feel inconsistent. With a systematic design language, we can unify the experience and make it even more **intuitive**.\n\n\nCrane uses a set of interfaces and interactions that inherit & simulate origami.\n\n\nOur goal is to make the experience in XR robust, tangible & intuitive.\n\n\n## How we built it\n\n\nUnity, Leap Motion, Oculus Rift, Cinema4D, After Effects, Sketch\n\n\n## Challenges we ran into\n\n\n## Accomplishments that we're proud of\n\n\n## What we learned\n\n\n## What's next for Crane\n\n\n"
+}

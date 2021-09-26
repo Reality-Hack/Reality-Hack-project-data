@@ -1,0 +1,38 @@
+{
+    "source": "https://devpost.com/software/ghost-simulator",
+    "title": "Ghost Simulator",
+    "blurb": "You're a ghost and kids are in your house! You need to scare them away!",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/xWNcAiG3BDY?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "Kathleen Kamali",
+            "about": "I was team lead, idea person and Unity dev. ",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/537/549/datas/profile.jpg"
+        },
+        {
+            "name": "Joe Marchuk",
+            "about": "I took care of sound design, music, and audio implementation! I created a music system that layers instruments as the player scares more children. There's also a theremin melody that plays while the player is using their mic input to move around the level. In addition, I created a sound system that creates a more immersive environment by having dynamic sound effects that randomize and react to player actions. ",
+            "photo": "https://www.gravatar.com/avatar/ed38ebc19147d1af840bcc5bdcd8fb89?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Dan Donato",
+            "about": "Code, and designed the \"spooky\" object interactions. My favorite was the hands reaching out of the walls.",
+            "photo": "https://avatars2.githubusercontent.com/u/10944648?height=180&v=4&width=180"
+        },
+        {
+            "name": "Sherry Huai-Hsuan Shih",
+            "about": "",
+            "photo": "https://media.licdn.com/mpr/mprx/0_0Bi5Z6uCe930yDo1rBUw0T9CIXt0yjoPyTJ5g-JCfbRYJSbxrBRw0XaCD530MxVxyPJ5vhSG6qKOsJEazX6MK-ua_qKxsMitKX6QU1Miez51K74apvKHRbB-iTE71MN_JbCWp3m3zSe?height=180&width=180"
+        }
+    ],
+    "built_with": [
+        "oculus",
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>Halloween's just around the corner! It's time to scare children and be festive!</p>\n<h2>What it does</h2>\n<p>It's a first person horror game, where you are the horror. You also control your ghostly corporeal form with your voice. Say \"boooooooo\" and watch yourself fly. </p>\n<h2>How we built it</h2>\n<p>We used Unity and the available Oculus SDK to build this game. </p>\n<h2>Challenges we ran into</h2>\n<p>Slight differences between the two dev computers led to strange bugs. </p>\n<h2>Accomplishments that we're proud of</h2>\n<p>Alternate control schemes are the best!</p>\n<h2>What we learned</h2>\n<p>The right source control is important. Microphone input isn't that bad to set up! </p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nHalloween's just around the corner! It's time to scare children and be festive!\n\n\n## What it does\n\n\nIt's a first person horror game, where you are the horror. You also control your ghostly corporeal form with your voice. Say \"boooooooo\" and watch yourself fly. \n\n\n## How we built it\n\n\nWe used Unity and the available Oculus SDK to build this game. \n\n\n## Challenges we ran into\n\n\nSlight differences between the two dev computers led to strange bugs. \n\n\n## Accomplishments that we're proud of\n\n\nAlternate control schemes are the best!\n\n\n## What we learned\n\n\nThe right source control is important. Microphone input isn't that bad to set up! \n\n\n"
+}

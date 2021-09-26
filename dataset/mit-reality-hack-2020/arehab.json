@@ -1,0 +1,46 @@
+{
+    "source": "https://devpost.com/software/arehab",
+    "title": "ARehab",
+    "blurb": "Combinig the use of Hololens2 and Kinect for Azure for an immersive, engaging and fun rehabilitation",
+    "awards": [],
+    "videos": [
+        "https://player.vimeo.com/video/385983447?byline=0&portrait=0&title=0#t="
+    ],
+    "images": [
+        {
+            "title": "Defend Earth while rehabilitating!",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/730/datas/original.jpg"
+        }
+    ],
+    "team": [
+        {
+            "name": "Michael Potts",
+            "about": "I helped with 3d modeling, animation  and design ",
+            "photo": "https://media-exp1.licdn.com/dms/image/C4E03AQHg1d2Di9NIpQ/profile-displayphoto-shrink_800_800/0?e=1585180800&height=180&t=cCY1J8AP80F6WG2UwUnJdmJBCH9_nGD36hPDcgcG-0M&v=beta&width=180"
+        },
+        {
+            "name": "Paolo Meriggi",
+            "about": "",
+            "photo": "https://avatars2.githubusercontent.com/u/14932390?height=180&v=4&width=180"
+        },
+        {
+            "name": "Xinyun Chen",
+            "about": "",
+            "photo": "https://media-exp2.licdn.com/dms/image/C4E03AQGxxJX0x6WMzA/profile-displayphoto-shrink_800_800/0?e=1585180800&height=180&t=UOhgHwEvSDTcgX8BdeMJ4MZRCT_Bp1hQ7OAiLUP4EF0&v=beta&width=180"
+        },
+        {
+            "name": "Luiz Evandro",
+            "about": "",
+            "photo": "https://avatars0.githubusercontent.com/u/46703887?height=180&v=4&width=180"
+        }
+    ],
+    "built_with": [
+        "c#",
+        "kinect",
+        "microsoft-hololens",
+        "mrtk",
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>Conventional Rehabilitation, is often based on the repetition of spcified movements. This can result in a low engagement and in a poor compliance by the patient. There are many techonogical solutions to make it more engaging and interesting, but they have still some limitations. Among the many, two technologies are currently largely studied: Kinect based rehab and VR/AR based rehabilitation. </p>\n<p>The first has great potentials, but it is not immersive and forces the patient to interact with an avatar in a virtual environment presented usually on a large screen. on the other hand, Immersive VR/AR (usually based on Head Mounted Displays (HMD), can be higly immersive, but they require other devices to keep track of the whole body segments or they are just limited to upper limbs or solely the tracking of the hands (when they are in the line of sight of the sensor). </p>\n<p>We thought to integrate Kinect and Hololens 2 to combine the best features of both technology, offering the patient an immersive (and engaging) experience, while tracking (and measuring) all the ody segments, included those not tracked by the Hololens2 </p>\n<h2>What it does</h2>\n<p>It offers a interesting and interactive rehabilitation experience, based on a simple nice story of a possible aline invasion that the patient should fight, by playin two different games, one stationary, more relate to upper limbs motor activities, and one more cogintive and full-body exercise</p>\n<h2>How we built it</h2>\n<p>We used Unity3d/MRTK and C# to develop two app, one which runs on the PC where the Kinect for Azure is connected, and one directly on the Hololens </p>\n<h2>Challenges we ran into</h2>\n<p>Make Kinect and Hololens talk to each other\nCAlculate the transformation from the Kinect reference system into the Hololens one</p>\n<h2>Accomplishments that we're proud of</h2>\n<p>We succesfully developed a nice and engaging environment for a funny and engagin AR Rehabilitation experiece, based on the idea of a small town where to fight an alien invasion. </p>\n<h2>What we learned</h2>\n<p>We learnt a lot about the different approaches of the 4 members of the team and how to deal with these brand new devices.</p>\n<h2>What's next for ARehab</h2>\n<p>Hopefully we'd like to make it an extended version more stable and robust.</p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nConventional Rehabilitation, is often based on the repetition of spcified movements. This can result in a low engagement and in a poor compliance by the patient. There are many techonogical solutions to make it more engaging and interesting, but they have still some limitations. Among the many, two technologies are currently largely studied: Kinect based rehab and VR/AR based rehabilitation. \n\n\nThe first has great potentials, but it is not immersive and forces the patient to interact with an avatar in a virtual environment presented usually on a large screen. on the other hand, Immersive VR/AR (usually based on Head Mounted Displays (HMD), can be higly immersive, but they require other devices to keep track of the whole body segments or they are just limited to upper limbs or solely the tracking of the hands (when they are in the line of sight of the sensor). \n\n\nWe thought to integrate Kinect and Hololens 2 to combine the best features of both technology, offering the patient an immersive (and engaging) experience, while tracking (and measuring) all the ody segments, included those not tracked by the Hololens2 \n\n\n## What it does\n\n\nIt offers a interesting and interactive rehabilitation experience, based on a simple nice story of a possible aline invasion that the patient should fight, by playin two different games, one stationary, more relate to upper limbs motor activities, and one more cogintive and full-body exercise\n\n\n## How we built it\n\n\nWe used Unity3d/MRTK and C# to develop two app, one which runs on the PC where the Kinect for Azure is connected, and one directly on the Hololens \n\n\n## Challenges we ran into\n\n\nMake Kinect and Hololens talk to each other\nCAlculate the transformation from the Kinect reference system into the Hololens one\n\n\n## Accomplishments that we're proud of\n\n\nWe succesfully developed a nice and engaging environment for a funny and engagin AR Rehabilitation experiece, based on the idea of a small town where to fight an alien invasion. \n\n\n## What we learned\n\n\nWe learnt a lot about the different approaches of the 4 members of the team and how to deal with these brand new devices.\n\n\n## What's next for ARehab\n\n\nHopefully we'd like to make it an extended version more stable and robust.\n\n\n"
+}

@@ -1,0 +1,67 @@
+{
+    "source": "https://devpost.com/software/mixalise",
+    "title": "Mixalise",
+    "blurb": "Youtube video content creation in AR. Record in a virtual environment. Add new lighting, camera angles, or even change sets on the fly.",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/K-qH84BM1rA?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [
+        {
+            "title": "The scene in Unity",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/227/datas/original.png"
+        },
+        {
+            "title": "You can see an entire 3D enviromenet we created, or use your own",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/255/datas/original.PNG"
+        },
+        {
+            "title": "Start recording by doing an ok/pinch gesture",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/234/datas/original.jpeg"
+        },
+        {
+            "title": "User in an AR headset puppeteering an avatar in a virtual set",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/207/datas/original.png"
+        },
+        {
+            "title": "Moving the camera and view finder in experience to modify the camera angle which is output. The camera has a cute face so you look at it",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/208/datas/original.png"
+        },
+        {
+            "title": "Smashing that subscribe button to celebrate with an airhorn and blast some confetti in the room",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/209/datas/original.png"
+        }
+    ],
+    "team": [
+        {
+            "name": "Mikko Haapoja",
+            "about": "- I setup an Inverse Kinematics rig on our character\n- Wrote logic to solve for Magic Leap hand tracking\n- Implemented the ability to grab objects\n- Random scripts to fire interactions such as airhorns and hide tutorials",
+            "photo": "https://avatars2.githubusercontent.com/u/496903?height=180&v=4&width=180"
+        },
+        {
+            "name": "Ben Clarke",
+            "about": "I wrote software to record position data for a user, and then replay it.  I also wrote an audio capture system, a ViewFinder camera system, a camera switcher, and several other pieces of functionality for the project.",
+            "photo": "https://avatars1.githubusercontent.com/u/29555850?height=180&v=4&width=180"
+        },
+        {
+            "name": "Yinjia Wen",
+            "about": "Graphic and UI Assets,\nAssist with Experience Design,\nFilming and Video Editing",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/936/250/datas/profile.jpg"
+        },
+        {
+            "name": "Brian C McDonald",
+            "about": "",
+            "photo": "https://avatars3.githubusercontent.com/u/60007142?height=180&v=4&width=180"
+        }
+    ],
+    "built_with": [
+        "augmented-reality",
+        "blender",
+        "c#",
+        "magicleap",
+        "solidworks",
+        "unity"
+    ],
+    "content_html": "<div>\n<h1>Inspiration</h1>\n<p>Mikko\u2019s brother is a Youtuber by profession. He likes to evangelize everyone telling them to start publishing content on Youtube since it\u2019s changed his life. This is hard since the cost to create quality videos is high. To create quality videos you require a DSLR Camera, Lighting, and Locations to film in. We hope that AR and VR could possibly democratize video creation by giving people the option to create videos entirely virtually solving the need to have a camera, lighting, or location. People who live in small rooms in expensive cities can now have enough virtual space to make professional videos. We also hope that this new medium which can have a high level of anonymity can give people a voice to communicate. For instance product reviews created with our application could have a higher level of truth compared to the often rosey reviews posted to Youtube. Also by giving users the ability to choose their virtual avatar they can embody a character which is more representative of who they identify with.</p>\n<h1>How we built it</h1>\n<p>We built and designed all the 3D assets in our scene, working from Solidworks to Blender to Unity. We iterated using GitHub and Unity, getting the basic interactions right and then working on details like set design. We implemented custom code to record and playback scenes. In our application we had to create logic to solve for hand orientation for the Magic Leap.</p>\n<h1>What we learned</h1>\n<ul>\n<li>Since we\u2019re not bound by physical limitations we can use a human like face as a camera which is more approachable than the typical form factor of a camera</li>\n<li>Hand tracking can be a bit limiting for the actor since the hands need to be in view of the AR headset</li>\n<li>Many learnings about the Magic Leap Tool Chain and how Magic Leap works</li>\n<li>How to create assets for VR and to optimize these assets to run in lightweight headsets</li>\n</ul>\n<h1>Challenges we faced</h1>\n<ul>\n<li>Beyond tracking key points for hands Magic Leap does not return rotational information for hand tracking. A large portion of time was spent implementing this functionality</li>\n<li>Many members were using software that was not their specialty, and spent time learning Unity, Blender, and Git</li>\n</ul>\n</div>",
+    "content_md": "\n# Inspiration\n\n\nMikko\u2019s brother is a Youtuber by profession. He likes to evangelize everyone telling them to start publishing content on Youtube since it\u2019s changed his life. This is hard since the cost to create quality videos is high. To create quality videos you require a DSLR Camera, Lighting, and Locations to film in. We hope that AR and VR could possibly democratize video creation by giving people the option to create videos entirely virtually solving the need to have a camera, lighting, or location. People who live in small rooms in expensive cities can now have enough virtual space to make professional videos. We also hope that this new medium which can have a high level of anonymity can give people a voice to communicate. For instance product reviews created with our application could have a higher level of truth compared to the often rosey reviews posted to Youtube. Also by giving users the ability to choose their virtual avatar they can embody a character which is more representative of who they identify with.\n\n\n# How we built it\n\n\nWe built and designed all the 3D assets in our scene, working from Solidworks to Blender to Unity. We iterated using GitHub and Unity, getting the basic interactions right and then working on details like set design. We implemented custom code to record and playback scenes. In our application we had to create logic to solve for hand orientation for the Magic Leap.\n\n\n# What we learned\n\n\n* Since we\u2019re not bound by physical limitations we can use a human like face as a camera which is more approachable than the typical form factor of a camera\n* Hand tracking can be a bit limiting for the actor since the hands need to be in view of the AR headset\n* Many learnings about the Magic Leap Tool Chain and how Magic Leap works\n* How to create assets for VR and to optimize these assets to run in lightweight headsets\n\n\n# Challenges we faced\n\n\n* Beyond tracking key points for hands Magic Leap does not return rotational information for hand tracking. A large portion of time was spent implementing this functionality\n* Many members were using software that was not their specialty, and spent time learning Unity, Blender, and Git\n\n\n"
+}

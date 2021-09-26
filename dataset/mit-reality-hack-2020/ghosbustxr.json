@@ -1,0 +1,88 @@
+{
+    "source": "https://devpost.com/software/ghosbustxr",
+    "title": "GhostBustXR",
+    "blurb": "We aim to break the barriers in between the VR and the physical world. Social gatherings won't be the same anymore in this cross platform multiplayer game in ghosts vs. human.  ",
+    "awards": [
+        "Most Fun!"
+    ],
+    "videos": [
+        "https://www.youtube.com/embed/aUwOWMqDkcQ?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [
+        {
+            "title": "Description of GhostBustXR!",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/918/274/datas/original.png"
+        },
+        {
+            "title": "We&#39;re compatible with a variety of XR devices to allow everyone to be able to play together.",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/918/272/datas/original.png"
+        },
+        {
+            "title": "A wider view of what you see from the previous graphic",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/911/910/datas/original.png"
+        },
+        {
+            "title": "What you see in AR from a mobile phone. You have a little ghost avatar and can control it.",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/414/datas/original.png"
+        },
+        {
+            "title": "What you see in AR when they is another AR/mobile player in the game",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/413/datas/original.jpg"
+        },
+        {
+            "title": "A view of you and your VR friend in AR",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/918/275/datas/original.jpg"
+        },
+        {
+            "title": "A view of your AR friend in VR",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/918/273/datas/original.jpg"
+        },
+        {
+            "title": "Setting an anchor in AR at the beginning of the game to set your playspace",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/917/415/datas/original.png"
+        }
+    ],
+    "team": [
+        {
+            "name": "Sam De Lara",
+            "about": "3D Artist",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/919/240/datas/profile.png"
+        },
+        {
+            "name": "F O",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/980/054/datas/profile.jpg"
+        },
+        {
+            "name": "Chris Papenfu\u00df",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/517/947/datas/profile.png"
+        },
+        {
+            "name": "Jason Evans",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/417/132/datas/profile.png"
+        },
+        {
+            "name": "Josh Widdicombe",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/9230b3fb059967ce65a8b1a0ffb50164?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        }
+    ],
+    "built_with": [
+        "android",
+        "azure",
+        "blender",
+        "htc",
+        "ios",
+        "microsoft-hololens",
+        "mrtk",
+        "oculus-quest",
+        "photon",
+        "substance",
+        "unity",
+        "valve"
+    ],
+    "content_html": "<div>\n<h2>The Videos</h2>\n<ul>\n<li>Intro: https://youtu.be/aUwOWMqDkcQ</li>\n<li>Demo: https://youtu.be/4L08MydQf98</li>\n<li>Interview with the developer: https://youtu.be/1mH2JYmEAC0</li>\n<li>Interview with the designer: https://youtu.be/4obnM-JDYF4</li>\n</ul>\n<h2>Intro</h2>\n<p>GhostBustXR is an asymmetrical multiplayer social XR game that creates friendly competition between one human and 3 ghosts. The trick is they are all controlled in real time by people either on their phones or on their headset. It\u2019s a fun spooky game for everyone to play!</p>\n<h2>Inspiration</h2>\n<p>Most of the people using VR these days just have one device so when they invite friends to play they have to play by turns and wait. The result is that VR/MR players are often isolated in their play experience. If anything, there can be a screen that other spectators can view what the player sees. Now, they can be active participants and even be a core mechanic of game play.</p>\n<h2>What it does</h2>\n<p>GhostBustXR is a multiplayer game where end-users can be players, spectators, or ghosts depending on the type of device (XR headsets or mobile phones) they use to connect to the game.\nIt is multi-platform compatible. You are able to have different experiences depending on if you are accessing the game from a mobile device or XR headset. This increases replay ability among friends. </p>\n<h2>Gameplay</h2>\n<p>As a mobile phone general AR player, you will be able to control a ghost avatar within your AR scene. As a VR player, you will be in the scene armed with a flashlight. As a ghost, you and your other ghost friends need to run into the VR player(s) 3 times to ensure a victory. If you are a VR player, you need to make sure you survive the onslaught of ghosts for 1 minute, repelling any ghosts you see with your flashlight.  </p>\n<h2>How we built it</h2>\n<p>Team work, brainstorming, creativity and a lot of good vibes. (Also through Unity, Photon, and spatial anchors.)</p>\n<h2>Challenges we ran into</h2>\n<ul>\n<li>Spatial anchors seems to not work well with Open VR in one Project</li>\n<li>Mixing a lot of frameworks</li>\n<li>Transferring positions with different scales</li>\n<li>Rigging problems with 3D assets</li>\n</ul>\n<h2>Accomplishments that we're proud of</h2>\n<p>Multiplayer gaming- we were able to combine both game experiences and make a very engaging game.</p>\n<h2>What we learned</h2>\n<ul>\n<li>How to handle spatial anchors</li>\n<li>Working with multiple target devices</li>\n<li>Better rigging in Blender</li>\n<li>Create multiplayer applications with Photon</li>\n</ul>\n<h2>What's next for GhostBustXR</h2>\n<p>We have ideas for creating different levels of the same game and for extending the game using different set ups like island and monkeys, boats and sharks, etc. We also have several power-up ideas for the current level too, such as a vacuum cleaner item for the human, a combined ghost superpower, etc. </p>\n</div>",
+    "content_md": "\n## The Videos\n\n\n* Intro: https://youtu.be/aUwOWMqDkcQ\n* Demo: https://youtu.be/4L08MydQf98\n* Interview with the developer: https://youtu.be/1mH2JYmEAC0\n* Interview with the designer: https://youtu.be/4obnM-JDYF4\n\n\n## Intro\n\n\nGhostBustXR is an asymmetrical multiplayer social XR game that creates friendly competition between one human and 3 ghosts. The trick is they are all controlled in real time by people either on their phones or on their headset. It\u2019s a fun spooky game for everyone to play!\n\n\n## Inspiration\n\n\nMost of the people using VR these days just have one device so when they invite friends to play they have to play by turns and wait. The result is that VR/MR players are often isolated in their play experience. If anything, there can be a screen that other spectators can view what the player sees. Now, they can be active participants and even be a core mechanic of game play.\n\n\n## What it does\n\n\nGhostBustXR is a multiplayer game where end-users can be players, spectators, or ghosts depending on the type of device (XR headsets or mobile phones) they use to connect to the game.\nIt is multi-platform compatible. You are able to have different experiences depending on if you are accessing the game from a mobile device or XR headset. This increases replay ability among friends. \n\n\n## Gameplay\n\n\nAs a mobile phone general AR player, you will be able to control a ghost avatar within your AR scene. As a VR player, you will be in the scene armed with a flashlight. As a ghost, you and your other ghost friends need to run into the VR player(s) 3 times to ensure a victory. If you are a VR player, you need to make sure you survive the onslaught of ghosts for 1 minute, repelling any ghosts you see with your flashlight. \n\n\n## How we built it\n\n\nTeam work, brainstorming, creativity and a lot of good vibes. (Also through Unity, Photon, and spatial anchors.)\n\n\n## Challenges we ran into\n\n\n* Spatial anchors seems to not work well with Open VR in one Project\n* Mixing a lot of frameworks\n* Transferring positions with different scales\n* Rigging problems with 3D assets\n\n\n## Accomplishments that we're proud of\n\n\nMultiplayer gaming- we were able to combine both game experiences and make a very engaging game.\n\n\n## What we learned\n\n\n* How to handle spatial anchors\n* Working with multiple target devices\n* Better rigging in Blender\n* Create multiplayer applications with Photon\n\n\n## What's next for GhostBustXR\n\n\nWe have ideas for creating different levels of the same game and for extending the game using different set ups like island and monkeys, boats and sharks, etc. We also have several power-up ideas for the current level too, such as a vacuum cleaner item for the human, a combined ghost superpower, etc. \n\n\n"
+}

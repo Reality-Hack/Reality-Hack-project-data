@@ -1,0 +1,20 @@
+{
+    "source": "https://devpost.com/software/vrv-virtual-reality-virtutually-syk10m",
+    "title": "VRV Virtual Reality Virtutually",
+    "blurb": "The Virtual Reality Experience of the Virtual Reality Hackathon (in Virtual Reality)",
+    "awards": [],
+    "videos": [],
+    "images": [],
+    "team": [
+        {
+            "name": "Lex Dreitser",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/274/391/datas/profile.png"
+        }
+    ],
+    "built_with": [
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>We are on the Second floor, please ask for Lex to get a Demo</h2>\n<h2>Inspiration</h2>\n<p>This Project was inspired by this amazing hackathon an the possibilies of exporing spaces and events in VR</p>\n<h2>What it does</h2>\n<p>It allows you to see the Organizers, Mentors Sponsors and participants in 3D in VR</p>\n<h2>How I built it</h2>\n<p>Using Unity and Android VR</p>\n<h2>Challenges I ran into</h2>\n<p>There is never enough time. We wanted to scan everybody into the app, so we did a smaller sample size this time.</p>\n<h2>Accomplishments that I'm proud of</h2>\n<p>This will document this hackathon. Everybody can experience it for years to come.</p>\n<h2>What I learned</h2>\n<p>Amazing community, I got to meet some great people, and scan. </p>\n<h2>What's next for VRV Virtual Reality Virtutually</h2>\n<p>Publishing on Google Play store tonight.</p>\n</div>",
+    "content_md": "\n## We are on the Second floor, please ask for Lex to get a Demo\n\n\n## Inspiration\n\n\nThis Project was inspired by this amazing hackathon an the possibilies of exporing spaces and events in VR\n\n\n## What it does\n\n\nIt allows you to see the Organizers, Mentors Sponsors and participants in 3D in VR\n\n\n## How I built it\n\n\nUsing Unity and Android VR\n\n\n## Challenges I ran into\n\n\nThere is never enough time. We wanted to scan everybody into the app, so we did a smaller sample size this time.\n\n\n## Accomplishments that I'm proud of\n\n\nThis will document this hackathon. Everybody can experience it for years to come.\n\n\n## What I learned\n\n\nAmazing community, I got to meet some great people, and scan. \n\n\n## What's next for VRV Virtual Reality Virtutually\n\n\nPublishing on Google Play store tonight.\n\n\n"
+}

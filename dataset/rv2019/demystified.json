@@ -1,0 +1,71 @@
+{
+    "source": "https://devpost.com/software/demystified",
+    "title": "Demistified for Magic Leap",
+    "blurb": "A 4th-dimensional art experience concept using the Magic Leap and digital museum archives ",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/KBGZkb5M3to?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [
+        {
+            "title": "testing the image recognition",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/742/483/datas/original.jpg"
+        },
+        {
+            "title": "Brainstorming!",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/742/485/datas/original.jpg"
+        },
+        {
+            "title": "storyboarding the interaction",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/742/484/datas/original.jpg"
+        },
+        {
+            "title": "getting to work",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/742/482/datas/original.jpg"
+        }
+    ],
+    "team": [
+        {
+            "name": "Robyn Janz",
+            "about": "I worked on 2D procurement, photo / video editing as well as sound effect procurement and admin parcels.  This is my first time developing content for Magic Leap.",
+            "photo": "https://avatars0.githubusercontent.com/u/42664959?height=180&v=4&width=180"
+        },
+        {
+            "name": "cieraej",
+            "about": "I worked on Unity, sequencing and technical  things.",
+            "photo": "https://avatars1.githubusercontent.com/u/6461347?height=180&v=4&width=180"
+        },
+        {
+            "name": "IrisPan1991",
+            "about": "I worked on the overall interaction design, assets building, particle effects and animation in Unity, and XR user testing.",
+            "photo": "https://avatars2.githubusercontent.com/u/38545715?height=180&v=4&width=180"
+        },
+        {
+            "name": "Lauren Slowik",
+            "about": "I worked on 3D assets, asset integration into Unity, Ideation for project and some visual effects. This was my first time developing for XR.",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/747/733/datas/profile.jpg"
+        },
+        {
+            "name": "Annelie Koller",
+            "about": "I worked on design, narrative experience design, UX UI, 3D, conceptual development and project managed.  This was my first time developing for XR. ",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/746/587/datas/profile.png"
+        }
+    ],
+    "built_with": [
+        "acer",
+        "adobe-illustrator",
+        "alienware",
+        "mac",
+        "magic-leap",
+        "meshlab",
+        "meshmixer",
+        "oculus",
+        "photoshop",
+        "rhino",
+        "sketchfab-api-unity",
+        "tinkercad",
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>The 2019 Reality Virtually Hackathon corresponded with the second anniversary of the Women's March. The five of us came to the hack ready to engage with a community of which we love being a part. We didn't <em>intend</em> to form an all-woman team but as we discussed the fourth-dimensional affordances of the Magic Leap headset an exciting idea began to form and we had to pursue it together.</p>\n<h2>What it does</h2>\n<p>The average museum goer spends 17 seconds viewing an art piece* and rarely has the chance to dive into the mists of the history of a work. Demistified will plunge a viewer into the world of an art work and the context of its creation within the gallery viewing experience, hopefully creating a longer, educational engagement with works of art. This format will give those extra viewing seconds to women and historical figures depicted in art who have been marginalized or overlooked. Demistified immerses the viewer in the contextual history of the piece. It is not simply animating the painting, instead the interaction gives life to a world of related archival materials, rarely viewed by the public such as fragile historical garments, ephemera and other difficult-to-display pieces.</p>\n<p>*<a href=\"https://journals.sagepub.com/doi/10.2190/5MQM-59JH-X21R-JN5J\" rel=\"nofollow\">Art viewing study at the Metropolitan Museum of Art, NYC</a></p>\n<h2>How we built it</h2>\n<p>For the hardware and interaction there was no question that the Magic Leap\u2019s hands-free, immersive augmented reality capabilities was the main mechanic we wanted to use. We story-boarded the elements of research we were able to gather about our chosen art piece. From there we began searching for cc licensed assets such as 3D scans of garments and objects, archival photographs and collecting audio effects to complete the immersive experience.</p>\n<h2>Challenges we ran into</h2>\n<p>The image tracking wasn\u2019t as high fidelity as we were hoping but our developer thinks that we can combine the spatial computing room mesh generation with image tracking so that the staging of the augmentation is consistent and delightful in the future.</p>\n<h2>Accomplishments that we're proud of</h2>\n<p>Proud that we have a strong proof of concept that was merely constrained by time. It\u2019s going to be really special when we can spend even more time making the experience rich. Really happy that we got to focus on fine arts in the context of technology. We\u2019re pretty proud to be an all-women team.</p>\n<h2>What we learned</h2>\n<p>We all learned how to do a VR/AR/XR. Two of us on the team learned how to do a hackathon! But we also learned that Magic Leap\u2019s AR needs a narrow range of dark colors for assets to be viewed satisfactorily. The constrained field of view is something that needs to be kept in mind for both Unity setup and interaction planning for the Magic Leap.</p>\n<h2>What's next</h2>\n<p>An exhibition to test the full extent of the possible experiences, ideally at the Boston MFA where our demo painting is currently on view. Should application in a real museum setting prove effective we would then pursue creating multi-contributor AR platform. This would make it possible for museum curators to create these experiences and users to do research and unearth Creative Commons archives. We would also like to take advantage of the Magic Leap web platform as outlet for art lovers who do not live near art institutions.</p>\n<h2>Logistics</h2>\n<p>6th Floor, MPR, NW Corner</p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nThe 2019 Reality Virtually Hackathon corresponded with the second anniversary of the Women's March. The five of us came to the hack ready to engage with a community of which we love being a part. We didn't *intend* to form an all-woman team but as we discussed the fourth-dimensional affordances of the Magic Leap headset an exciting idea began to form and we had to pursue it together.\n\n\n## What it does\n\n\nThe average museum goer spends 17 seconds viewing an art piece* and rarely has the chance to dive into the mists of the history of a work. Demistified will plunge a viewer into the world of an art work and the context of its creation within the gallery viewing experience, hopefully creating a longer, educational engagement with works of art. This format will give those extra viewing seconds to women and historical figures depicted in art who have been marginalized or overlooked. Demistified immerses the viewer in the contextual history of the piece. It is not simply animating the painting, instead the interaction gives life to a world of related archival materials, rarely viewed by the public such as fragile historical garments, ephemera and other difficult-to-display pieces.\n\n\n*[Art viewing study at the Metropolitan Museum of Art, NYC](https://journals.sagepub.com/doi/10.2190/5MQM-59JH-X21R-JN5J)\n\n\n## How we built it\n\n\nFor the hardware and interaction there was no question that the Magic Leap\u2019s hands-free, immersive augmented reality capabilities was the main mechanic we wanted to use. We story-boarded the elements of research we were able to gather about our chosen art piece. From there we began searching for cc licensed assets such as 3D scans of garments and objects, archival photographs and collecting audio effects to complete the immersive experience.\n\n\n## Challenges we ran into\n\n\nThe image tracking wasn\u2019t as high fidelity as we were hoping but our developer thinks that we can combine the spatial computing room mesh generation with image tracking so that the staging of the augmentation is consistent and delightful in the future.\n\n\n## Accomplishments that we're proud of\n\n\nProud that we have a strong proof of concept that was merely constrained by time. It\u2019s going to be really special when we can spend even more time making the experience rich. Really happy that we got to focus on fine arts in the context of technology. We\u2019re pretty proud to be an all-women team.\n\n\n## What we learned\n\n\nWe all learned how to do a VR/AR/XR. Two of us on the team learned how to do a hackathon! But we also learned that Magic Leap\u2019s AR needs a narrow range of dark colors for assets to be viewed satisfactorily. The constrained field of view is something that needs to be kept in mind for both Unity setup and interaction planning for the Magic Leap.\n\n\n## What's next\n\n\nAn exhibition to test the full extent of the possible experiences, ideally at the Boston MFA where our demo painting is currently on view. Should application in a real museum setting prove effective we would then pursue creating multi-contributor AR platform. This would make it possible for museum curators to create these experiences and users to do research and unearth Creative Commons archives. We would also like to take advantage of the Magic Leap web platform as outlet for art lovers who do not live near art institutions.\n\n\n## Logistics\n\n\n6th Floor, MPR, NW Corner\n\n\n"
+}

@@ -1,0 +1,59 @@
+{
+    "source": "https://devpost.com/software/the-dark-room-blackout",
+    "title": "The Dark Room (Blackout)",
+    "blurb": "Blackout is Virtual Reality Horror Game where you fight monster creeping up on you in a dark morgue.",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/SP1JtvDkJTs?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [
+        {
+            "title": "Cover Page",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/546/719/datas/original.png"
+        },
+        {
+            "title": "One of the Main Enemies We Use",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/546/740/datas/original.png"
+        },
+        {
+            "title": "The Flashlight that is controlled Merge Cube Ar",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/546/742/datas/original.png"
+        },
+        {
+            "title": "A Birds Eye View of the Entire Environment",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/546/744/datas/original.png"
+        }
+    ],
+    "team": [
+        {
+            "name": "Kabeer -",
+            "about": "Creative Development +  UI/UX Design + 3D Modeling & Asset Creation",
+            "photo": "https://media.licdn.com/mpr/mprx/0_18kiD3D6eCXNp3sW8lMTM42LR_W44_NfA-M8jxDh4YLZ47MuhGMLSn25J_Xqp7V2iQMLpnS5obXZwtqiQIzuVVD6gbX4wtefiIzuWRp8HbHZwtBXGO4bRfh2wy4qVXJknrd27hy7grvAH9Z_KCyyhy?height=180&width=180"
+        },
+        {
+            "name": "Jheel Mehta",
+            "about": "Implementation of Vuforia and Merge Cube's AR tracking in Unity",
+            "photo": "https://media.licdn.com/mpr/mprx/0_Of6NctlB8hclkfCO-YYMJLxBLlnlTyGiNYpV-FOn8TFrT2i7qYYsJQKnGvWCbjmfZIONpAx9d9wKG4Bxlyie0Q-Vu9wAG4baqyiBqbFcbcYgHaytZDvJN1d62_l3w4r0g0bZPzrkn90?height=180&width=180"
+        },
+        {
+            "name": "OscarCoen",
+            "about": "Sound Design + Implementation",
+            "photo": "https://graph.facebook.com/10214252120839453/picture?height=180&width=180"
+        },
+        {
+            "name": "Noah Senzel",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/275b1915ce391028ce9762ab390f2c1d?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        }
+    ],
+    "built_with": [
+        "c#",
+        "maya",
+        "merge-vr",
+        "unity",
+        "vuforia",
+        "wwise"
+    ],
+    "content_html": "<div>\n<p>Blackout is Virtual Reality Horror Game which puts you into a pitch black VR environment where you can see nothing and only hear the scary sounds of the monsters creeping up on you. The only source of light you have is a flashlight which you can control using Merge Cube\u2019s AR tracking. </p>\n<p>This game is inspired from the classic Hitchcockian McGuffin technique where the constant sound triggers keep you engaged and the intentional lack of visuals amps up the scare factor. These aspects keep you from easily achieving the main goal of the game; which is to survive as long as you can and kill all the creatures.</p>\n</div>",
+    "content_md": "\nBlackout is Virtual Reality Horror Game which puts you into a pitch black VR environment where you can see nothing and only hear the scary sounds of the monsters creeping up on you. The only source of light you have is a flashlight which you can control using Merge Cube\u2019s AR tracking. \n\n\nThis game is inspired from the classic Hitchcockian McGuffin technique where the constant sound triggers keep you engaged and the intentional lack of visuals amps up the scare factor. These aspects keep you from easily achieving the main goal of the game; which is to survive as long as you can and kill all the creatures.\n\n\n"
+}

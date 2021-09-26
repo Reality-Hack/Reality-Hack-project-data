@@ -1,0 +1,38 @@
+{
+    "source": "https://devpost.com/software/project-awkward",
+    "title": "Project Awkward",
+    "blurb": "A simulation of awkward situations to help people handle those situations",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/x62-X9dzHe4?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "Private user",
+            "about": "I worked for the Unity3D programming part. I learned how to integrate NLP in VR games.",
+            "photo": "https://devpost-challengepost.netdna-ssl.com/assets/defaults/no-avatar-180-caa7628ae0aae09831858639d32ace2a.png"
+        },
+        {
+            "name": "nampham148",
+            "about": "",
+            "photo": "https://avatars2.githubusercontent.com/u/20184749?height=180&v=4&width=180"
+        },
+        {
+            "name": "Yana Pyryalina",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/74115aa3035372aa185fb96af9565815?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Ari Weinkle",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/a5271cd8e8a96829d79d50cecdc84406?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        }
+    ],
+    "built_with": [
+        "oculus",
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Location for Judging:</h2>\n<p>E14 building, 6th floor, Purple room, far back left corner next to windows</p>\n<h2>Inspiration</h2>\n<p>You forget someone's name. You don't know anyone at the party. You're not sure who's paying for the meal. Your ex is at the bar. Our inspiration comes from these every-day awkward situations, from all of those times when you say \"Uh, I could've handled this so much better\". \nOur goal is to give people practice and suggestions on how to handle these awkward situations, so that they can confidently say \"I can handle this, I\u2019ve done this a thousand times by now\". </p>\n<h2>What it does</h2>\n<p>Our VR app simulates situations of different awkwardness levels. As users look around, we show them hints to get out of the situation, giving feedback, explanations, as well as things to stay to make the situation less awkward.</p>\n<h2>How we built it</h2>\n<p>We used Unity to develop on Oculus Rift. To understand human voice inputs, we used Azure Language Processing. To design and animate the characters, we used Blender and Cinema 4D. We also made real recordings to create the characters' dialogues. </p>\n<h2>Challenges we ran into</h2>\n<p>We had a hard time capturing Oculus Rift input, because we didn't use the Oculus Integration for Unity and we couldn't find good tutorials dealing with inputs. We also spent a lot of time discussing scenarios and deciding how we should design them to be both gamified and educational. </p>\n<h2>Accomplishments that we're proud of</h2>\n<p>Our application has some really cool scenarios that we're excited to show people! Also, our app can understand human voice input, catch where the users are looking, and uses real conversation records, creating a very natural interaction with users. We want to simulate realistic situations after all!</p>\n<h2>What we learned</h2>\n<ul>\n<li>Creating realistic awkward scenarios in VR </li>\n<li>Uniting various story-telling, educational, and game design aspects in one project</li>\n<li>Creating a VR project from the ground up just in 3 days</li>\n<li>Writing and recording realistic conversations with real people's voices</li>\n<li>Capturing users' speech in VR using NLP</li>\n<li>Using gaze tracking to create more immersive, realistic, and responsive VR environments</li>\n<li>Balancing reality and gamified experiences when designing the visuals of environments and non-player characters</li>\n<li>Getting Oculus Rift inputs</li>\n<li>Working as a true team</li>\n</ul>\n<h2>What's next for Project Awkward</h2>\n<p>We see this project going a long way. We would like to create more scenarios to cover a wider range of situations, as well as use machine learning to produce natural continuous conversations between users and neural networks. It is also a possibility that the app will host multiple users in one scenario, possibly creating awkward situations among real users. Also, we would like to do more research to refine the interaction between users and non-player characters, so that the experience is as realistic as possible. The more realistic, the more effective!</p>\n</div>",
+    "content_md": "\n## Location for Judging:\n\n\nE14 building, 6th floor, Purple room, far back left corner next to windows\n\n\n## Inspiration\n\n\nYou forget someone's name. You don't know anyone at the party. You're not sure who's paying for the meal. Your ex is at the bar. Our inspiration comes from these every-day awkward situations, from all of those times when you say \"Uh, I could've handled this so much better\". \nOur goal is to give people practice and suggestions on how to handle these awkward situations, so that they can confidently say \"I can handle this, I\u2019ve done this a thousand times by now\". \n\n\n## What it does\n\n\nOur VR app simulates situations of different awkwardness levels. As users look around, we show them hints to get out of the situation, giving feedback, explanations, as well as things to stay to make the situation less awkward.\n\n\n## How we built it\n\n\nWe used Unity to develop on Oculus Rift. To understand human voice inputs, we used Azure Language Processing. To design and animate the characters, we used Blender and Cinema 4D. We also made real recordings to create the characters' dialogues. \n\n\n## Challenges we ran into\n\n\nWe had a hard time capturing Oculus Rift input, because we didn't use the Oculus Integration for Unity and we couldn't find good tutorials dealing with inputs. We also spent a lot of time discussing scenarios and deciding how we should design them to be both gamified and educational. \n\n\n## Accomplishments that we're proud of\n\n\nOur application has some really cool scenarios that we're excited to show people! Also, our app can understand human voice input, catch where the users are looking, and uses real conversation records, creating a very natural interaction with users. We want to simulate realistic situations after all!\n\n\n## What we learned\n\n\n* Creating realistic awkward scenarios in VR\n* Uniting various story-telling, educational, and game design aspects in one project\n* Creating a VR project from the ground up just in 3 days\n* Writing and recording realistic conversations with real people's voices\n* Capturing users' speech in VR using NLP\n* Using gaze tracking to create more immersive, realistic, and responsive VR environments\n* Balancing reality and gamified experiences when designing the visuals of environments and non-player characters\n* Getting Oculus Rift inputs\n* Working as a true team\n\n\n## What's next for Project Awkward\n\n\nWe see this project going a long way. We would like to create more scenarios to cover a wider range of situations, as well as use machine learning to produce natural continuous conversations between users and neural networks. It is also a possibility that the app will host multiple users in one scenario, possibly creating awkward situations among real users. Also, we would like to do more research to refine the interaction between users and non-player characters, so that the experience is as realistic as possible. The more realistic, the more effective!\n\n\n"
+}

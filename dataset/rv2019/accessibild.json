@@ -1,0 +1,55 @@
+{
+    "source": "https://devpost.com/software/accessibild",
+    "title": "accessIbIld",
+    "blurb": "An AR solution for assessing ADA compliance in buildings, facilities and other spaces with one tap.",
+    "awards": [
+        "Best use of AR and IOT in industrial, manufacturing and field service (PTC)"
+    ],
+    "videos": [
+        "https://www.youtube.com/embed/Qd9c4dSo8IE?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [
+        {
+            "title": "Main menu",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/746/017/datas/original.jpg"
+        },
+        {
+            "title": "Toilet recognition through customvision.ai",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/746/018/datas/original.jpg"
+        }
+    ],
+    "team": [
+        {
+            "name": "Alexandria  de Aranzeta",
+            "about": "Idea creator and domain expert in ADA compliance. Team Lead and Product Manager- set all vision, specs (incl. AI), content, and strategy for building the app and MVP feature.  As an example, assessed ADA standards (federal/ local) and converted to MVP feature strategy (60\" turnaround) and test parameters. Recorded in-app audio, designed prototype UI/ user flow, testing, and in-app photographs.       ",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/753/526/datas/profile.jpg"
+        },
+        {
+            "name": "Chris Papenfu\u00df",
+            "about": "HoloLens develompent, Icon creation, Unity development, ARFoundation development",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/517/947/datas/profile.png"
+        },
+        {
+            "name": "Ishlok Vashistha",
+            "about": "Statistical data research and Project management. Also helped in collecting data to train the machine learning model.",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/745/511/datas/profile.png"
+        },
+        {
+            "name": "Amrit Kaur Choudhary",
+            "about": "Trained Artificial Intelligence Model using Custom Vision. Collected and managed various data-sets.",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/753/785/datas/profile.jpg"
+        },
+        {
+            "name": "Nikolaos Angelos Papastavrou",
+            "about": "AI/ML model training and dataset creation",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/756/923/datas/profile.png"
+        }
+    ],
+    "built_with": [
+        "cogito-intelligence",
+        "microsoft-hololens",
+        "unity"
+    ],
+    "content_html": "<div>\n<h2>Team Name</h2>\n<p>Accessibild (Team #69, Table# 20)</p>\n<h2>Location</h2>\n<p>MIT Media Lab, Floor 6, Multipurpose Room (front table by the entrance)</p>\n<h2>Idea Inspiration</h2>\n<p>Accessibild can allow for faster and more cost efficient access, with people and society in mind. Accessible design and compliance with ADA standards for buildings and physical spaces are critical to achieving barrier-free living and working, and growing equity and inclusion in society. As an issue of increasing importance in the United States, and as universal design is becoming more prevalent worldwide, there is a need to address the gaps in the compliance assessment process, specifically wasted time and cost associated with the redundant site visits from various stakeholders.  This AR app has immediate impact, with no customization needed, for a multiple user segments: US Federal, State and Local government, small to large businesses, contractors, architectural boards and consultants, among others.</p>\n<h2>Use Case</h2>\n<p>Any building/ facilities manager, contractor or consultant wanting to audit an existing bathroom for ADA compliance.</p>\n<h2>Development Tools Used to Build the Project</h2>\n<ul>\n<li>Unity 3D</li>\n<li>Visual Studio</li>\n<li>Paint.net</li>\n<li>Inkscape</li>\n<li>Azure Cognitive Services</li>\n</ul>\n<h2>SDKs Used</h2>\n<ul>\n<li>Universal Windows SDK</li>\n<li>Unity Game Engine</li>\n</ul>\n<h2>APIs Used</h2>\n<ul>\n<li>(HoloLens)Spatial Mapping</li>\n<li>(HoloLens)Spatial Sound</li>\n<li>(HoloLens)Speech recognition</li>\n<li>ARFoundation (not ended up in final product)</li>\n<li>ARCore (not ended up in final product)</li>\n<li>Azure <a href=\"https://customvision.ai\" rel=\"nofollow\">https://customvision.ai</a></li>\n</ul>\n<h2>Assets Used (not created by us)</h2>\n<ul>\n<li>Icons from <a href=\"https://materialdesignicons.com\" rel=\"nofollow\">https://materialdesignicons.com</a></li>\n<li>Sounds from <a href=\"https://freesound.org\" rel=\"nofollow\">https://freesound.org</a></li>\n</ul>\n<h2>Libraries Used</h2>\n<ul>\n<li>Included in Unity &amp; UWP</li>\n<li>MixedRealityToolkit (from Microsoft @Github)</li>\n<li>Json.NET from Newtonsoft</li>\n</ul>\n<h2>Components Not Created at the Hackathon</h2>\n<p>N/A</p>\n</div>",
+    "content_md": "\n## Team Name\n\n\nAccessibild (Team #69, Table# 20)\n\n\n## Location\n\n\nMIT Media Lab, Floor 6, Multipurpose Room (front table by the entrance)\n\n\n## Idea Inspiration\n\n\nAccessibild can allow for faster and more cost efficient access, with people and society in mind. Accessible design and compliance with ADA standards for buildings and physical spaces are critical to achieving barrier-free living and working, and growing equity and inclusion in society. As an issue of increasing importance in the United States, and as universal design is becoming more prevalent worldwide, there is a need to address the gaps in the compliance assessment process, specifically wasted time and cost associated with the redundant site visits from various stakeholders. This AR app has immediate impact, with no customization needed, for a multiple user segments: US Federal, State and Local government, small to large businesses, contractors, architectural boards and consultants, among others.\n\n\n## Use Case\n\n\nAny building/ facilities manager, contractor or consultant wanting to audit an existing bathroom for ADA compliance.\n\n\n## Development Tools Used to Build the Project\n\n\n* Unity 3D\n* Visual Studio\n* Paint.net\n* Inkscape\n* Azure Cognitive Services\n\n\n## SDKs Used\n\n\n* Universal Windows SDK\n* Unity Game Engine\n\n\n## APIs Used\n\n\n* (HoloLens)Spatial Mapping\n* (HoloLens)Spatial Sound\n* (HoloLens)Speech recognition\n* ARFoundation (not ended up in final product)\n* ARCore (not ended up in final product)\n* Azure <https://customvision.ai>\n\n\n## Assets Used (not created by us)\n\n\n* Icons from <https://materialdesignicons.com>\n* Sounds from <https://freesound.org>\n\n\n## Libraries Used\n\n\n* Included in Unity & UWP\n* MixedRealityToolkit (from Microsoft @Github)\n* Json.NET from Newtonsoft\n\n\n## Components Not Created at the Hackathon\n\n\nN/A\n\n\n"
+}

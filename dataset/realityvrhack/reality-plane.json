@@ -1,0 +1,63 @@
+{
+    "source": "https://devpost.com/software/reality-plane",
+    "title": "Reality Plane",
+    "blurb": "A haptic tablet bridging the gap between the virtual and reality, allowing new interactions with a familiar interface",
+    "awards": [],
+    "videos": [],
+    "images": [
+        {
+            "title": "Tablet Side View",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/424/002/datas/original.jpg"
+        },
+        {
+            "title": "Circuit Integration",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/424/000/datas/original.jpg"
+        },
+        {
+            "title": "Circuit Integration",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/424/001/datas/original.jpg"
+        },
+        {
+            "title": "Laser EtchingTablet Interface",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/424/003/datas/original.JPG"
+        }
+    ],
+    "team": [
+        {
+            "name": "igal nassima",
+            "about": "Design of the concept and hardware design for haptic feedback.\nDeveloped Unity project, integrating Vuforia with HoloLens.\nBuilt Arduino Haptic interface.\nTeam building, and task management.",
+            "photo": "https://www.gravatar.com/avatar/e867a8572cbbea701fc2f0c2b1f5b7da?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Yereem Park",
+            "about": "I mainly worked on the design side of the project - made frame marker, worked on design of the plexiglass part of the tablet and handheld part of the tablet, designed menu icons, banners, and assets for Unity. I also assisted the team with developing concept and demo ideas.",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/402/222/datas/profile.jpg"
+        },
+        {
+            "name": "Michael Peguero",
+            "about": "Concept development. ",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/421/007/datas/profile.PNG"
+        },
+        {
+            "name": "Jeff Katz",
+            "about": "* Concept and experience ideation",
+            "photo": "https://www.gravatar.com/avatar/912490a14ffec834f1e86be0ac9ff55f?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        }
+    ],
+    "built_with": [
+        "ableton",
+        "acryllic",
+        "arduino",
+        "blood-sweat-and-tears",
+        "btle",
+        "c#",
+        "caffine",
+        "cinema4d",
+        "foam-core",
+        "microsoft-hololens",
+        "unity",
+        "vibration-motor"
+    ],
+    "content_html": "<div>\n<h2>TEAM INFO</h2>\n<p><strong>Team lead:</strong>  Igal Nassima</p>\n<p><strong>Team lead's telephone number:</strong> 646 696 9286</p>\n<p><strong>We're located:</strong> (Floor 6, table 7, on the corner where the balcony entrance door is)</p>\n<p><strong>Category:</strong> Commerce/Industry (Architecture/Engineering/Construction/Productivity/Industry/Commerce)</p>\n<h2>Inspiration</h2>\n<p>\"The physical plane, in emanationist metaphysics taught in Neoplatonism, Hermeticism, Hinduism, and Theosophy, refers to the visible reality of space and time, energy and matter\"</p>\n<p>As we subscribe ourselves to worlds created or altered in Virtual or Augmented Reality, we are leaving and redefining our current plane of reality. In this mode of transition, it will become important to explore how our existing bodies simultaneously interact with physical and virtual environments.</p>\n<p>The Reality Plane begins to explore our interaction in Mixed Reality through added sensory cues in a familiar input device, a tablet.\u00a0</p>\n<h2>What it does</h2>\n<p>Reality Plane presents a completely blank surface onto which information can be projected in mixed or virtual reality. It has the potential to support natural interactions (touching, sliding, pinching, et cetera) and provides haptic feedback for interactions. Developers can create their own experiences while users experience a more natural mode of interactions (as compared with air gestures or game controllers)</p>\n<p>The orientation of the Reality Plane allows for different types of information to be displayed. In the demo game we created, when orientated horizontally a game map appears and displays the location of crystals to collect. Vertical orientation allows you to engage with the crystals that are floating in your environment. When you catch the crystals you simultaneously feel a buzz and hear the sound that each crystal emits.\u00a0</p>\n<p>Our demo game and tablet shows how it is possible to seamlessly integrate Arduino with Hololens, Vuforia and Unity to add tactile experience in addition to visual, audio, and motion.\u00a0</p>\n<h2>How we built it</h2>\n<ul>\n<li>Hololens as the primary mixed reality device. </li>\n<li>We created a Unity plugin for communicating with BTLE devices</li>\n<li>We created an Arduino Circuit, and integrated it into a custom fabricated tablet with a vibration motor to create haptic feedback</li>\n<li>We integrated Vuforia AR tracking into Hololens to be able to track the location of the tablet</li>\n<li>We also created an interactive \"game\" displaying some of the potential of the device.</li>\n</ul>\n<h2>Challenges we ran into</h2>\n<p>We built a BLE library for unity from scratch, which took a long time to get working with consistency--it's already a great start but there's more to do</p>\n<p>We had to design haptic tablet in multiple iterations and test it to create a balanced physical UX. The viewport scale of </p>\n<p>Hololens creates a challenge in terms of designing the interaction between tablet, navigation and gestures that change the environment at any time.</p>\n<p>Vuforia performance create a delay in the content movement, we designed in the interface to minimize its use.</p>\n<p>One of our team members, Dale, had to drop out due to sickness. Feel better Dale!</p>\n<h2>Accomplishments that we're proud of</h2>\n<ul>\n<li>We created a new BLE library for Unity Windows 10 UWP.<br/></li>\n<li> Designing a tablet from scratch, fabricating with haptic responsive circuit.</li>\n<li>Integrating Vuforia and Hololens to create a unique game experience.</li>\n<li>Having something to present in 48 hours</li>\n</ul>\n<h2>What we learned</h2>\n<ul>\n<li>Lots about GATT and the UWP API</li>\n<li>Creating AR experiences in Unity</li>\n<li>It's possible to create and connect devices to Unity</li>\n<li>Learned about creating markers for Vuforia</li>\n<li>3D Software Cinema 4d</li>\n<li>Got much deeper into HoloLens Mixed Reality capabilities</li>\n<li>Design considerations building a physical haptic interface, such as weight, balance, etc.</li>\n</ul>\n<h2>What's next for Reality Plane</h2>\n<ul>\n<li>Adding IR Tracking, IMU, and other sensors and inputs to the tablet to make the experience even more compelling</li>\n<li>Using the rotation of the tablet to trigger menu items</li>\n</ul>\n</div>",
+    "content_md": "\n## TEAM INFO\n\n\n**Team lead:** Igal Nassima\n\n\n**Team lead's telephone number:** 646 696 9286\n\n\n**We're located:** (Floor 6, table 7, on the corner where the balcony entrance door is)\n\n\n**Category:** Commerce/Industry (Architecture/Engineering/Construction/Productivity/Industry/Commerce)\n\n\n## Inspiration\n\n\n\"The physical plane, in emanationist metaphysics taught in Neoplatonism, Hermeticism, Hinduism, and Theosophy, refers to the visible reality of space and time, energy and matter\"\n\n\nAs we subscribe ourselves to worlds created or altered in Virtual or Augmented Reality, we are leaving and redefining our current plane of reality. In this mode of transition, it will become important to explore how our existing bodies simultaneously interact with physical and virtual environments.\n\n\nThe Reality Plane begins to explore our interaction in Mixed Reality through added sensory cues in a familiar input device, a tablet.\u00a0\n\n\n## What it does\n\n\nReality Plane presents a completely blank surface onto which information can be projected in mixed or virtual reality. It has the potential to support natural interactions (touching, sliding, pinching, et cetera) and provides haptic feedback for interactions. Developers can create their own experiences while users experience a more natural mode of interactions (as compared with air gestures or game controllers)\n\n\nThe orientation of the Reality Plane allows for different types of information to be displayed. In the demo game we created, when orientated horizontally a game map appears and displays the location of crystals to collect. Vertical orientation allows you to engage with the crystals that are floating in your environment. When you catch the crystals you simultaneously feel a buzz and hear the sound that each crystal emits.\u00a0\n\n\nOur demo game and tablet shows how it is possible to seamlessly integrate Arduino with Hololens, Vuforia and Unity to add tactile experience in addition to visual, audio, and motion.\u00a0\n\n\n## How we built it\n\n\n* Hololens as the primary mixed reality device.\n* We created a Unity plugin for communicating with BTLE devices\n* We created an Arduino Circuit, and integrated it into a custom fabricated tablet with a vibration motor to create haptic feedback\n* We integrated Vuforia AR tracking into Hololens to be able to track the location of the tablet\n* We also created an interactive \"game\" displaying some of the potential of the device.\n\n\n## Challenges we ran into\n\n\nWe built a BLE library for unity from scratch, which took a long time to get working with consistency--it's already a great start but there's more to do\n\n\nWe had to design haptic tablet in multiple iterations and test it to create a balanced physical UX. The viewport scale of \n\n\nHololens creates a challenge in terms of designing the interaction between tablet, navigation and gestures that change the environment at any time.\n\n\nVuforia performance create a delay in the content movement, we designed in the interface to minimize its use.\n\n\nOne of our team members, Dale, had to drop out due to sickness. Feel better Dale!\n\n\n## Accomplishments that we're proud of\n\n\n* We created a new BLE library for Unity Windows 10 UWP.\n* Designing a tablet from scratch, fabricating with haptic responsive circuit.\n* Integrating Vuforia and Hololens to create a unique game experience.\n* Having something to present in 48 hours\n\n\n## What we learned\n\n\n* Lots about GATT and the UWP API\n* Creating AR experiences in Unity\n* It's possible to create and connect devices to Unity\n* Learned about creating markers for Vuforia\n* 3D Software Cinema 4d\n* Got much deeper into HoloLens Mixed Reality capabilities\n* Design considerations building a physical haptic interface, such as weight, balance, etc.\n\n\n## What's next for Reality Plane\n\n\n* Adding IR Tracking, IMU, and other sensors and inputs to the tablet to make the experience even more compelling\n* Using the rotation of the tablet to trigger menu items\n\n\n"
+}

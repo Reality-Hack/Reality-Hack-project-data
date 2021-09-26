@@ -1,0 +1,33 @@
+{
+    "source": "https://devpost.com/software/sparky-srh7k9",
+    "title": "Sparky",
+    "blurb": "Use AR to bring toys to life to comfort, entertain, and reassure children facing long-term hospitalization.",
+    "awards": [],
+    "videos": [],
+    "images": [],
+    "team": [
+        {
+            "name": "Sophie Salomon",
+            "about": "",
+            "photo": "https://avatars3.githubusercontent.com/u/16977639?height=180&v=4&width=180"
+        },
+        {
+            "name": "Harrison Krug",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/e7730f6a737edab56c00266d5b3e9c4b?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Abhigyan Kaustubh",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/192/813/datas/profile.jpg"
+        }
+    ],
+    "built_with": [
+        "arcore",
+        "arkit",
+        "unity",
+        "vuforia"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>Children facing long-term hospitalization or outpatient recovery often struggle with loneliness, boredom, and depression from the isolation caused by their restrictive environment. Particularly children whose parents work full-time, and who may be vulnerable to illness with exposure to other children or family members, face many lonely hours in a sterile, depersonalized, and often overwhelming environment, that may include medical machines and intimidating interactions with medical professionals. With this in mind, our goal is to improve the patient experience for these children by bringing an element of warmth and friendship to this traumatic and limiting environment. Project Sparky aims to assuage the loneliness, anxiety, and confusion that these young children might face in the hospital environment using accessible Augmented Reality through smartphone and tablet devices. </p>\n<h2>What it does</h2>\n<p>Project Sparky provides young children facing medical processes and hospitalization lasting longer than one week with a stuffed animal paired with an AR avatar of that plush that they can keep, in order to provide them a comfort object that doubles as a virtual friend. This encourages healthy processing of their situation as opposed to outright escapism, which could cause a jarring return to reality. By giving them a soft toy to hold when anxious as well as a friendly entity to interact with, this project helps bring a comforting element to the unpleasant, depersonalized hospital environment. It stimulates the children's imaginations and encourages social interaction, as well as discussion of their emotions and the positive, optimistic elements of their lives, as opposed to a passive, solo activity such as watching television. Version 0.1 includes a proof of concept of an example animated character with a semi-scripted set of interactions that can be seen through a phone with or without a headset on a surface based on a pairing with a physical stuffed animal. </p>\n<h2>How we built it</h2>\n<p>[...] Unity, ARCore, ARKit [...]</p>\n<h2>Challenges we ran into</h2>\n<p>[...]</p>\n<h2>Accomplishments that we're proud of</h2>\n<p>[...]</p>\n<h2>What we learned</h2>\n<p>[...]</p>\n<h2>What's next for Sparky</h2>\n<p>[...]</p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nChildren facing long-term hospitalization or outpatient recovery often struggle with loneliness, boredom, and depression from the isolation caused by their restrictive environment. Particularly children whose parents work full-time, and who may be vulnerable to illness with exposure to other children or family members, face many lonely hours in a sterile, depersonalized, and often overwhelming environment, that may include medical machines and intimidating interactions with medical professionals. With this in mind, our goal is to improve the patient experience for these children by bringing an element of warmth and friendship to this traumatic and limiting environment. Project Sparky aims to assuage the loneliness, anxiety, and confusion that these young children might face in the hospital environment using accessible Augmented Reality through smartphone and tablet devices. \n\n\n## What it does\n\n\nProject Sparky provides young children facing medical processes and hospitalization lasting longer than one week with a stuffed animal paired with an AR avatar of that plush that they can keep, in order to provide them a comfort object that doubles as a virtual friend. This encourages healthy processing of their situation as opposed to outright escapism, which could cause a jarring return to reality. By giving them a soft toy to hold when anxious as well as a friendly entity to interact with, this project helps bring a comforting element to the unpleasant, depersonalized hospital environment. It stimulates the children's imaginations and encourages social interaction, as well as discussion of their emotions and the positive, optimistic elements of their lives, as opposed to a passive, solo activity such as watching television. Version 0.1 includes a proof of concept of an example animated character with a semi-scripted set of interactions that can be seen through a phone with or without a headset on a surface based on a pairing with a physical stuffed animal. \n\n\n## How we built it\n\n\n[...] Unity, ARCore, ARKit [...]\n\n\n## Challenges we ran into\n\n\n[...]\n\n\n## Accomplishments that we're proud of\n\n\n[...]\n\n\n## What we learned\n\n\n[...]\n\n\n## What's next for Sparky\n\n\n[...]\n\n\n"
+}
