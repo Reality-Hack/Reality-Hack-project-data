@@ -1,0 +1,65 @@
+{
+    "source": "https://devpost.com/software/pantomime-elaiub",
+    "title": "Pantomime",
+    "blurb": "Gestures to actions for disability aid and more",
+    "awards": [
+        "Best Lifestyle Improvement Hack for Drivers powered by Ford",
+        "Health Access and Delivery, National Security or Mis/Dis Information by Mitre"
+    ],
+    "videos": [
+        "https://www.youtube.com/embed/iIlG0HFebes?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [
+        {
+            "title": "Flow Chart of both the Units",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/670/705/datas/original.jpg"
+        },
+        {
+            "title": "Schematic of Sensing and Transmitter Circuitry",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/670/504/datas/original.png"
+        },
+        {
+            "title": "PCB of the Sensing and Transmitter Circuitry",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/670/503/datas/original.png"
+        },
+        {
+            "title": "3d Model of Sensing and Transmitter Circuitry",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/670/716/datas/original.png"
+        },
+        {
+            "title": "Schematic of Receiving and Control Unit",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/670/644/datas/original.png"
+        },
+        {
+            "title": "PCB of Receiving and Control Unit",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/670/643/datas/original.png"
+        },
+        {
+            "title": "3d Model of Receiving and Control Unit",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/670/545/datas/original.png"
+        }
+    ],
+    "team": [
+        {
+            "name": "Deblina Chattopadhyay",
+            "about": "",
+            "photo": "https://lh3.googleusercontent.com/a-/AOh14GhoS-XoGENSIfNWQlstzOPHGTRfAAq-AdJ-hCqbLw=s96-c?height=180&width=180"
+        },
+        {
+            "name": "Avijit Das",
+            "about": "",
+            "photo": "https://lh3.googleusercontent.com/a-/AOh14Gi2CA5iEA_o7qLnU5oOnolBBTTEIWvmKWPlGoEGQQ=s96-c?height=180&width=180"
+        }
+    ],
+    "built_with": [
+        "accelerometer",
+        "arduino",
+        "c",
+        "filters",
+        "hardware",
+        "l293d",
+        "rf"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>Being in the field of electronic engineering, we wanted to explore and experiment with the different possibilities of working with several sensors and components. The idea of controlling mobile devices using simple hand gestures is very fascinating and useful. We also wanted to make a product that solves several problems, makes tasks easier and all-in-all be a useful tool for people.  </p>\n<h2>What it does</h2>\n<p>Pantomime is a configurable gesture controller unit that can be used for reliable human-machine interaction. For the demo purpose, we have shown a use case of the Pantomime in a chassis of 4WD, which here can be easily altered with a smart wheelchair. The Pantomime responds to the hand gestures to control the 4wd rover. The motions we were able to show using the prototype are forward, backward, left, right.</p>\n<h2>How we built it</h2>\n<p>The prototype of the project was built using 4 300 RPM BO motors, 4 wheels, an L293d motor driver, a 433mHz RF (transmitter and receiver) modules to transmit and receive the gesture commands, and two Arduino Uno (one for the receiver i.e. on the rover, and the other for the transmitter circuitry) for communication and controlling purposes. Along with that, to power the rover, we used 2 3.7v Li-On batteries. The chassis was built using an acrylic board. Some basic Arduino coding was done to communicate between the transmitter and receiver with checksums. For the gesture identifying wearable, we interfaced the transmitter with a three-axis accelerometer to calculate the angle of inclination in each direction. And lastly to show the utility of the receiver we incorporated it in a 4WD rover.</p>\n<h2>Challenges we ran into</h2>\n<p>Setting up the transmitter and receiver modules to send and receive the gesture commands was a bit tricky, there is a lag between the gesture made and the rover to perform the respective action, but later by modifying the code with some filters and adjusting the hardware circuitry as well, we got comparatively better results. We were also having some troubles with the 5v input port of the Arduino connected to the receiver that is on the rover, but we tackled that by moving the connections to the 5v port of the ICSP headers.</p>\n<h2>Accomplishments that we're proud of</h2>\n<p>Completing the project on time including the PCB design, getting the prototype to work, and overcoming the obstacles faced while building it were some of our greatest achievements. </p>\n<h2>What we learned</h2>\n<p>We learned about RF communication and interfacing the modules with an accelerometer and a 4WD rover. We also learned about checksums, the eradication of errors, and haptic feedback. </p>\n<h2>What's next for Pantomime</h2>\n<p>Next, we would definitely try to make the interface much more smoother and efficient. We would also like to make Pantomime market-ready and user-configurable. We are planning to test the same gesture controller on different mobile devices like drones in the future. </p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nBeing in the field of electronic engineering, we wanted to explore and experiment with the different possibilities of working with several sensors and components. The idea of controlling mobile devices using simple hand gestures is very fascinating and useful. We also wanted to make a product that solves several problems, makes tasks easier and all-in-all be a useful tool for people. \n\n\n## What it does\n\n\nPantomime is a configurable gesture controller unit that can be used for reliable human-machine interaction. For the demo purpose, we have shown a use case of the Pantomime in a chassis of 4WD, which here can be easily altered with a smart wheelchair. The Pantomime responds to the hand gestures to control the 4wd rover. The motions we were able to show using the prototype are forward, backward, left, right.\n\n\n## How we built it\n\n\nThe prototype of the project was built using 4 300 RPM BO motors, 4 wheels, an L293d motor driver, a 433mHz RF (transmitter and receiver) modules to transmit and receive the gesture commands, and two Arduino Uno (one for the receiver i.e. on the rover, and the other for the transmitter circuitry) for communication and controlling purposes. Along with that, to power the rover, we used 2 3.7v Li-On batteries. The chassis was built using an acrylic board. Some basic Arduino coding was done to communicate between the transmitter and receiver with checksums. For the gesture identifying wearable, we interfaced the transmitter with a three-axis accelerometer to calculate the angle of inclination in each direction. And lastly to show the utility of the receiver we incorporated it in a 4WD rover.\n\n\n## Challenges we ran into\n\n\nSetting up the transmitter and receiver modules to send and receive the gesture commands was a bit tricky, there is a lag between the gesture made and the rover to perform the respective action, but later by modifying the code with some filters and adjusting the hardware circuitry as well, we got comparatively better results. We were also having some troubles with the 5v input port of the Arduino connected to the receiver that is on the rover, but we tackled that by moving the connections to the 5v port of the ICSP headers.\n\n\n## Accomplishments that we're proud of\n\n\nCompleting the project on time including the PCB design, getting the prototype to work, and overcoming the obstacles faced while building it were some of our greatest achievements. \n\n\n## What we learned\n\n\nWe learned about RF communication and interfacing the modules with an accelerometer and a 4WD rover. We also learned about checksums, the eradication of errors, and haptic feedback. \n\n\n## What's next for Pantomime\n\n\nNext, we would definitely try to make the interface much more smoother and efficient. We would also like to make Pantomime market-ready and user-configurable. We are planning to test the same gesture controller on different mobile devices like drones in the future. \n\n\n"
+}

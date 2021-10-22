@@ -1,0 +1,31 @@
+{
+    "source": "https://devpost.com/software/test-project-hello",
+    "title": "Example Project",
+    "blurb": "Use this as a starting point for planning your own post.",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/eBTPq9bzWEc?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [
+        {
+            "title": "Example image 2",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/705/423/datas/original.jpg"
+        },
+        {
+            "title": "Example image 1",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/705/375/datas/original.jpg"
+        }
+    ],
+    "team": [
+        {
+            "name": "Wiley Corning",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/7a33574e3f20ae3d61f83b92cc718e14?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        }
+    ],
+    "built_with": [
+        "c#"
+    ],
+    "content_html": "<div>\n<h2>Motivation</h2>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut tristique et egestas quis ipsum suspendisse ultrices gravida dictum. Sed faucibus turpis in eu mi.</p>\n<p>Elit scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique. Massa eget egestas purus viverra accumsan in nisl nisi scelerisque.</p>\n<h2>What it does</h2>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut tristique et egestas quis ipsum suspendisse ultrices gravida dictum. Sed faucibus turpis in eu mi.</p>\n<p>Elit scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique. Massa eget egestas purus viverra accumsan in nisl nisi scelerisque.</p>\n<h2>How we built it</h2>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut tristique et egestas quis ipsum suspendisse ultrices gravida dictum. Sed faucibus turpis in eu mi.</p>\n<p>Elit scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique. Massa eget egestas purus viverra accumsan in nisl nisi scelerisque.</p>\n</div>",
+    "content_md": "\n## Motivation\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut tristique et egestas quis ipsum suspendisse ultrices gravida dictum. Sed faucibus turpis in eu mi.\n\n\nElit scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique. Massa eget egestas purus viverra accumsan in nisl nisi scelerisque.\n\n\n## What it does\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut tristique et egestas quis ipsum suspendisse ultrices gravida dictum. Sed faucibus turpis in eu mi.\n\n\nElit scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique. Massa eget egestas purus viverra accumsan in nisl nisi scelerisque.\n\n\n## How we built it\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut tristique et egestas quis ipsum suspendisse ultrices gravida dictum. Sed faucibus turpis in eu mi.\n\n\nElit scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique. Massa eget egestas purus viverra accumsan in nisl nisi scelerisque.\n\n\n"
+}

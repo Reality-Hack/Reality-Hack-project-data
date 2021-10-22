@@ -1,0 +1,41 @@
+{
+    "source": "https://devpost.com/software/parc-instrumental-spatial",
+    "title": "Parc Instrumental Spatial",
+    "blurb": "Take a walk in the park of acoustic architecture... consisted of three sound sculptures and 80 spatial sound sources.",
+    "awards": [],
+    "videos": [
+        "https://www.youtube.com/embed/XLx3wNTHSkY?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [],
+    "team": [
+        {
+            "name": "Joanna Liu",
+            "about": "",
+            "photo": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/000/936/177/datas/profile.jpeg"
+        },
+        {
+            "name": "Changbai Li",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/4966f41804d27bce4f7238904a7c5c6e?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "yuening cai",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/70176057ce467e24fc8c19d3916706af?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        },
+        {
+            "name": "Jialin LIU",
+            "about": "",
+            "photo": "https://www.gravatar.com/avatar/66630c4b4dc6b64d7f208731f5f8ca2f?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&s=180"
+        }
+    ],
+    "built_with": [
+        "quixel",
+        "udon",
+        "unity",
+        "unreal-engine",
+        "vrchat"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>During the pandemic, we encountered the VRC rave scene. When we attended THE VRC club \"Ghost Club\", we were shocked by the production quality, energy and the creator community's consistent contribution to the space. For the first time we saw the potential of virtual worlds and the positive connection between people established in such space. It is an alive, supportive community of creators and audience not some zombie product made to impress VC.\nSo we started trying to build our own world and host a \"portal event\" where we had a simultaneous live performance in an underground club offline in Shanghai and also in VRC. </p>\n<p>The world is consisted of indoor live stages and outdoor acoustic architecture park. For this exhibition because there is no live performances we are exhibiting the outdoor area.</p>\n<h2>What it does</h2>\n<p>It's an acoustic architecture park, consisted of 3 parts: </p>\n<p><strong>Part 1 Tunnel:</strong>\nThis piece was inspired by the text \"Der Tunnel\" by Friedrich D\u00fcrrenmatt. The text describes a young man, 24 years old,  who took the train to the university, but the train entered an endless tunnel and fell into the center of the earth.</p>\n<p><strong>Part 2 Waterphone:</strong>\nThis instrument has a ghost like sound. Every steel bar here bring an interesting pitch to the mixture of sound.</p>\n<p><strong>Part 3 Spherical Network:</strong>\nIt is constructed with thousands of thin beams forming a shape of hemisphere. You will see the trajectory of the three comets (les trois m\u00e9t\u00e9ores). They are all directly along the beam of the spheric networks.\nThese trajectories are used as the trajectory of the sound elements. There are three kind of sound materials: noise, granular sounds like pulse-train, and language. The sounds choose the direction freely, and pass very quickly, like a meteor in the sky. </p>\n<p>The architecture is inspired by the text of Borg\u00e8s, le jardin aux sentiers qui bifurquent, with the idea of parallel possibility of life events, and the three kind of sound and three trajectory are metaphor of the parallel possibility.</p>\n<h2>How we built it</h2>\n<p>This is the first VRC world we built. We started by reading vrc documentation, and we go from there.</p>\n<p>Model: Unreal\nTexture, lighting, UI, Interation: Unity + VRC SDK\nSound: 64 channel audio is recorded in Modalys</p>\n<h2>Challenges we ran into</h2>\n<ul>\n<li>Dynamic lighting that changes with video texture</li>\n<li>Network streaming issue within VRC</li>\n</ul>\n<h2>What we learned</h2>\n<ul>\n<li>Lighting, sound and post processing in Unity</li>\n<li>VRC SDK\n-Discord marketing and online community \"management\".</li>\n</ul>\n<h2>What's next for Parc Instrumental Spatial</h2>\n<p>We are constantly renovating the world, we are hoping to have the next portal event. We will update in this discord: <a href=\"https://discord.gg/j4NjQaXXJt\" rel=\"nofollow\">https://discord.gg/j4NjQaXXJt</a> </p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nDuring the pandemic, we encountered the VRC rave scene. When we attended THE VRC club \"Ghost Club\", we were shocked by the production quality, energy and the creator community's consistent contribution to the space. For the first time we saw the potential of virtual worlds and the positive connection between people established in such space. It is an alive, supportive community of creators and audience not some zombie product made to impress VC.\nSo we started trying to build our own world and host a \"portal event\" where we had a simultaneous live performance in an underground club offline in Shanghai and also in VRC. \n\n\nThe world is consisted of indoor live stages and outdoor acoustic architecture park. For this exhibition because there is no live performances we are exhibiting the outdoor area.\n\n\n## What it does\n\n\nIt's an acoustic architecture park, consisted of 3 parts: \n\n\n**Part 1 Tunnel:**\nThis piece was inspired by the text \"Der Tunnel\" by Friedrich D\u00fcrrenmatt. The text describes a young man, 24 years old, who took the train to the university, but the train entered an endless tunnel and fell into the center of the earth.\n\n\n**Part 2 Waterphone:**\nThis instrument has a ghost like sound. Every steel bar here bring an interesting pitch to the mixture of sound.\n\n\n**Part 3 Spherical Network:**\nIt is constructed with thousands of thin beams forming a shape of hemisphere. You will see the trajectory of the three comets (les trois m\u00e9t\u00e9ores). They are all directly along the beam of the spheric networks.\nThese trajectories are used as the trajectory of the sound elements. There are three kind of sound materials: noise, granular sounds like pulse-train, and language. The sounds choose the direction freely, and pass very quickly, like a meteor in the sky. \n\n\nThe architecture is inspired by the text of Borg\u00e8s, le jardin aux sentiers qui bifurquent, with the idea of parallel possibility of life events, and the three kind of sound and three trajectory are metaphor of the parallel possibility.\n\n\n## How we built it\n\n\nThis is the first VRC world we built. We started by reading vrc documentation, and we go from there.\n\n\nModel: Unreal\nTexture, lighting, UI, Interation: Unity + VRC SDK\nSound: 64 channel audio is recorded in Modalys\n\n\n## Challenges we ran into\n\n\n* Dynamic lighting that changes with video texture\n* Network streaming issue within VRC\n\n\n## What we learned\n\n\n* Lighting, sound and post processing in Unity\n* VRC SDK\n-Discord marketing and online community \"management\".\n\n\n## What's next for Parc Instrumental Spatial\n\n\nWe are constantly renovating the world, we are hoping to have the next portal event. We will update in this discord: <https://discord.gg/j4NjQaXXJt> \n\n\n"
+}

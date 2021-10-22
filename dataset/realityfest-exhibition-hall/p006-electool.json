@@ -1,0 +1,50 @@
+{
+    "source": "https://devpost.com/software/electool",
+    "title": "ElecTool",
+    "blurb": "An all-in-one handy hardware tool",
+    "awards": [
+        "Top Market Validation"
+    ],
+    "videos": [
+        "https://www.youtube.com/embed/bsUqbQLBRdA?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [
+        {
+            "title": "Height Measurement (Electronic Theodolites ?) ;)",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/639/589/datas/original.jpg"
+        },
+        {
+            "title": "The Laser pointer and the LED for Stroboscope.",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/639/614/datas/original.jpg"
+        },
+        {
+            "title": "Accelerometer and the Transistors for Live Wire detection",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/639/678/datas/original.jpg"
+        },
+        {
+            "title": "Metal Plate at the back for the Live wire detection.",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/639/566/datas/original.jpg"
+        }
+    ],
+    "team": [
+        {
+            "name": "Deblina Chattopadhyay",
+            "about": "",
+            "photo": "https://lh3.googleusercontent.com/a-/AOh14GhoS-XoGENSIfNWQlstzOPHGTRfAAq-AdJ-hCqbLw=s96-c?height=180&width=180"
+        },
+        {
+            "name": "Avijit Das",
+            "about": "",
+            "photo": "https://lh3.googleusercontent.com/a-/AOh14Gi2CA5iEA_o7qLnU5oOnolBBTTEIWvmKWPlGoEGQQ=s96-c?height=180&width=180"
+        }
+    ],
+    "built_with": [
+        "arduino",
+        "c++",
+        "laser",
+        "led",
+        "oled"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>Being engineering students, we realized how in industries and several other aspects of work, a person and especially an engineer needs to use different tools for the sole purpose of measuring. Hence we thought of building a hack that is an all-in-one solution for measuring requirements, which can also come in handy to beginner electricians. Many times we hear during the drilling of holes in walls, humans get shocked by rupturing live wires. So we thought of incorporating a live wire detector that can sense live wires. Along with that, we took inspiration from theodolites that were used to measure very tall structures, to build the height measuring device.</p>\n<h2>What it does</h2>\n<p>It is an electronic tool that can measure if a surface is leveled or not, measure pretty high heights using a laser pointer, the concept of theodolites, RPM of rotating objects using the stroboscopic effect. And a live wire detector can be useful for measuring live wires behind walls of concealing wiring.  The purpose of Laser theodolite was to give the electricians a rough Idea of how much wire to buy for tall buildings.  This can also be used by painter to estimate area of faces of buildings.</p>\n<h2>How we built it</h2>\n<p>ElecTool contains an accelerometer to measure the inclination angles. The level meter was pretty straight forward it senses the inclination on the X-axis. Upon tilting the board, the acceleration due to the gravity vector changes at an angle phi. Along with that using some trigonometry, we find the exact angle. \nThe next was the stroboscope, where it uses a potentiometer to change the flickering rate i.e how fast the LED oscillates and upon matching that with a moving or rotating object, we can see the object is still and steady, by calculating the period of oscillation and inversing it, we calculate the frequency of the object.  Here my camera's shutter speed is being approximated.\nNext is the Live wire detector, where it can detect the presence of live wires. Using transistors as Darlington pairs, it was picking up very small signals. Upon bringing that near an AC supply, there's a metallic plate behind the breadboard which acts as a surface capacitor and triggers the Arduino. \nFinally, the Height measurement tool is made by a laser pointer and the inclination readings. Using basic geometry and the tan(phi)=height/base, we were able to measure the height. The phi is the inclination angle measured by the accelerometer and the base is kept unity. Thus the height equals the tan(phi). \nThese were all controlled by the Arduino, and along with that, an OLED display is used for displaying the menu and a button and potentiometer for selecting. </p>\n<h2>Challenges we ran into</h2>\n<p>Completing the hardware prototype and making the code work for the different parts was the biggest challenge of them all. Mainly getting rid of noises that were coming from the accelerometer data. Which was resulting in very jittery measurements of the angles thus bad readings. The live wire detector was false triggering sometimes. Making the demo video finally was very constrained, as it contains a demo of 4 tools. </p>\n<h2>Accomplishments that we're proud of</h2>\n<p>Being able to complete the project on time was the biggest achievement of them all. Watching the height measurements was pretty amazing, as it was a very crude device giving some accurate results. Removing the false triggering of the live wire detector.</p>\n<h2>What we learned</h2>\n<p>Learned about Theodolites and how previously people used to measure tall sculptures. </p>\n<h2>What's next for ElecTool</h2>\n<p>Making a perfect enclosure and a PCB for making a perfect handy tool for Engineers and as well as beginner Electricians.</p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nBeing engineering students, we realized how in industries and several other aspects of work, a person and especially an engineer needs to use different tools for the sole purpose of measuring. Hence we thought of building a hack that is an all-in-one solution for measuring requirements, which can also come in handy to beginner electricians. Many times we hear during the drilling of holes in walls, humans get shocked by rupturing live wires. So we thought of incorporating a live wire detector that can sense live wires. Along with that, we took inspiration from theodolites that were used to measure very tall structures, to build the height measuring device.\n\n\n## What it does\n\n\nIt is an electronic tool that can measure if a surface is leveled or not, measure pretty high heights using a laser pointer, the concept of theodolites, RPM of rotating objects using the stroboscopic effect. And a live wire detector can be useful for measuring live wires behind walls of concealing wiring. The purpose of Laser theodolite was to give the electricians a rough Idea of how much wire to buy for tall buildings. This can also be used by painter to estimate area of faces of buildings.\n\n\n## How we built it\n\n\nElecTool contains an accelerometer to measure the inclination angles. The level meter was pretty straight forward it senses the inclination on the X-axis. Upon tilting the board, the acceleration due to the gravity vector changes at an angle phi. Along with that using some trigonometry, we find the exact angle. \nThe next was the stroboscope, where it uses a potentiometer to change the flickering rate i.e how fast the LED oscillates and upon matching that with a moving or rotating object, we can see the object is still and steady, by calculating the period of oscillation and inversing it, we calculate the frequency of the object. Here my camera's shutter speed is being approximated.\nNext is the Live wire detector, where it can detect the presence of live wires. Using transistors as Darlington pairs, it was picking up very small signals. Upon bringing that near an AC supply, there's a metallic plate behind the breadboard which acts as a surface capacitor and triggers the Arduino. \nFinally, the Height measurement tool is made by a laser pointer and the inclination readings. Using basic geometry and the tan(phi)=height/base, we were able to measure the height. The phi is the inclination angle measured by the accelerometer and the base is kept unity. Thus the height equals the tan(phi). \nThese were all controlled by the Arduino, and along with that, an OLED display is used for displaying the menu and a button and potentiometer for selecting. \n\n\n## Challenges we ran into\n\n\nCompleting the hardware prototype and making the code work for the different parts was the biggest challenge of them all. Mainly getting rid of noises that were coming from the accelerometer data. Which was resulting in very jittery measurements of the angles thus bad readings. The live wire detector was false triggering sometimes. Making the demo video finally was very constrained, as it contains a demo of 4 tools. \n\n\n## Accomplishments that we're proud of\n\n\nBeing able to complete the project on time was the biggest achievement of them all. Watching the height measurements was pretty amazing, as it was a very crude device giving some accurate results. Removing the false triggering of the live wire detector.\n\n\n## What we learned\n\n\nLearned about Theodolites and how previously people used to measure tall sculptures. \n\n\n## What's next for ElecTool\n\n\nMaking a perfect enclosure and a PCB for making a perfect handy tool for Engineers and as well as beginner Electricians.\n\n\n"
+}

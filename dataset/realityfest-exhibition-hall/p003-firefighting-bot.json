@@ -1,0 +1,61 @@
+{
+    "source": "https://devpost.com/software/firefighting-bot",
+    "title": "Firefighting Bot",
+    "blurb": "A crude and efficient solution to save many lives",
+    "awards": [
+        "Hacking - Runner Up",
+        "Best Hardware Hack Sponsored by Digi-Key",
+        "Third Overall"
+    ],
+    "videos": [
+        "https://www.youtube.com/embed/b22K9MwNXhk?enablejsapi=1&hl=en_US&rel=0&start=&version=3&wmode=transparent"
+    ],
+    "images": [
+        {
+            "title": "Circuit Schematic",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/661/764/datas/original.png"
+        },
+        {
+            "title": "Flow Chart of the System",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/661/896/datas/original.png"
+        },
+        {
+            "title": "PCB design of the Unit",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/661/719/datas/original.png"
+        },
+        {
+            "title": "3d Model of the Unit(Photodiodes are such placed, for omni directional flame sensing)",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/661/760/datas/original.png"
+        },
+        {
+            "title": "One unit of Flame sensor",
+            "src": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/661/716/datas/original.jpg"
+        }
+    ],
+    "team": [
+        {
+            "name": "Deblina Chattopadhyay",
+            "about": "",
+            "photo": "https://lh3.googleusercontent.com/a-/AOh14GhoS-XoGENSIfNWQlstzOPHGTRfAAq-AdJ-hCqbLw=s96-c?height=180&width=180"
+        },
+        {
+            "name": "Avijit Das",
+            "about": "",
+            "photo": "https://lh3.googleusercontent.com/a-/AOh14Gi2CA5iEA_o7qLnU5oOnolBBTTEIWvmKWPlGoEGQQ=s96-c?height=180&width=180"
+        }
+    ],
+    "built_with": [
+        "arduino",
+        "autonomous",
+        "c",
+        "hardware",
+        "iot",
+        "mqtt",
+        "pcb",
+        "photodiode",
+        "robot",
+        "wifi"
+    ],
+    "content_html": "<div>\n<h2>Inspiration</h2>\n<p>The main inspiration behind building this project was that a few years back, one of our friends mistakenly set fire in his room while doing a science experiment. While he was able to put the fire out, many things were burnt down and were unrepairable.  Also, it was very noticeable that the number of fire breakout cases in factories and mines across the globe was quite high in 2021. </p>\n<p>We always find automatic fire extinguishers, like sprinklers in commercial places, like airports, offices, etc. But not so frequent in our houses, since they are quite expensive to set up, and sometimes the alarm going off at the wrong time can lead to things being destroyed because of the water. Us being electronics engineers, we thought of designing an inexpensive yet very consistent circuit to make an automatic fire alarm and sprinkler control, that can be easily placed in outhouses. </p>\n<h2>What it does</h2>\n<p>A firefighter robot control unit, that can actively sense the presence of fire and tries its best to put it off autonomously. It can sense fire no matter how the robot is oriented in a place. \nIoT connectivity to get you notified, if any mishap occurs, no matter where you are(of course not inside deep caves, or the middle of the ocean. </p>\n<h2>How we built it</h2>\n<p><img alt=\"alt text\" data-canonical-url=\"https://media.discordapp.net/attachments/792856016340910083/889024692495745044/Screenshot_2493.png?width=760&amp;height=427\" src=\"https://res.cloudinary.com/devpost/image/fetch/s--o-698kym--/c_limit,f_auto,fl_lossy,q_auto:eco,w_900/https://media.discordapp.net/attachments/792856016340910083/889024692495745044/Screenshot_2493.png%3Fwidth%3D760%26height%3D427\"/></p>\n<p>The power supply receives an unregulated dc power supply from the outside, preferably a battery, and creates voltage levels with ample amount of current for different components. </p>\n<p>The sensor circuitry is responsible for sensing the flame. As we know, that fire emits infrared radiations(700 nm to 1 mm), we use photodiodes to measure peak wavelengths of around 650nm. With having 6 of them placed for omnidirectional sensing. An analog multiplexer, multiplex these signals and sends it to the MCU.</p>\n<p>The Main Control Unit (MCU) is the brain of the system. It interfaces with the sensor circuit by addressing the analog multiplexer since it has only one ADC. After reading the signals from the 6 sensors, it computes centroid and approximates the position of the burning fire. And after moving towards the fire, it switches to PID control to navigate the robot near to the fire. Then it actuates the relay. \nAlong with that, it has WiFi so that it can be connected to the network and act as a thing of IoT. It can notify you about the mishap instantly. Thus being a major player in critical situations like fire.</p>\n<p>And last but not the least, the driver circuit, which as the name suggests drives or actuates by receiving the control signal from the MCU. It can drive four to eight motors for the movement of an autonomous robot. It also contains a relay that can actuate any high power element such as a water pump to push water, or a strong electromagnet, or a solenoid to trigger a fire extinguisher.</p>\n<h2>Challenges we ran into</h2>\n<p>Sorting out and writing the centroid algorithm for detecting the position of the fire was a challenge. \nAnother challenge that we took upon ourselves was simplifying the circuit to a great extent for very optimized results and very low power consumption. Last but not least, routing the PCB in a very small area was also quite challenging.</p>\n<h2>Accomplishments that we're proud of</h2>\n<p>Coming up with a very inexpensive design to such was one of our accomplishments. We were also very happy for being able to create and complete the entire PCB on time. </p>\n<h2>What we learned</h2>\n<p>We learned a lot about digital and analog circuitry. And along with that, we also learned about different components while designing the PCB. </p>\n<h2>What's next for Firefighting Bot</h2>\n<p>In the future, we would like to create a pathway for the circuitry to notify the owner as well as the Fire and Emergency services nearby, on the instance of a fire break out at the location using IoT.</p>\n</div>",
+    "content_md": "\n## Inspiration\n\n\nThe main inspiration behind building this project was that a few years back, one of our friends mistakenly set fire in his room while doing a science experiment. While he was able to put the fire out, many things were burnt down and were unrepairable. Also, it was very noticeable that the number of fire breakout cases in factories and mines across the globe was quite high in 2021. \n\n\nWe always find automatic fire extinguishers, like sprinklers in commercial places, like airports, offices, etc. But not so frequent in our houses, since they are quite expensive to set up, and sometimes the alarm going off at the wrong time can lead to things being destroyed because of the water. Us being electronics engineers, we thought of designing an inexpensive yet very consistent circuit to make an automatic fire alarm and sprinkler control, that can be easily placed in outhouses. \n\n\n## What it does\n\n\nA firefighter robot control unit, that can actively sense the presence of fire and tries its best to put it off autonomously. It can sense fire no matter how the robot is oriented in a place. \nIoT connectivity to get you notified, if any mishap occurs, no matter where you are(of course not inside deep caves, or the middle of the ocean. \n\n\n## How we built it\n\n\n![alt text](https://res.cloudinary.com/devpost/image/fetch/s--o-698kym--/c_limit,f_auto,fl_lossy,q_auto:eco,w_900/https://media.discordapp.net/attachments/792856016340910083/889024692495745044/Screenshot_2493.png%3Fwidth%3D760%26height%3D427)\n\n\nThe power supply receives an unregulated dc power supply from the outside, preferably a battery, and creates voltage levels with ample amount of current for different components. \n\n\nThe sensor circuitry is responsible for sensing the flame. As we know, that fire emits infrared radiations(700 nm to 1 mm), we use photodiodes to measure peak wavelengths of around 650nm. With having 6 of them placed for omnidirectional sensing. An analog multiplexer, multiplex these signals and sends it to the MCU.\n\n\nThe Main Control Unit (MCU) is the brain of the system. It interfaces with the sensor circuit by addressing the analog multiplexer since it has only one ADC. After reading the signals from the 6 sensors, it computes centroid and approximates the position of the burning fire. And after moving towards the fire, it switches to PID control to navigate the robot near to the fire. Then it actuates the relay. \nAlong with that, it has WiFi so that it can be connected to the network and act as a thing of IoT. It can notify you about the mishap instantly. Thus being a major player in critical situations like fire.\n\n\nAnd last but not the least, the driver circuit, which as the name suggests drives or actuates by receiving the control signal from the MCU. It can drive four to eight motors for the movement of an autonomous robot. It also contains a relay that can actuate any high power element such as a water pump to push water, or a strong electromagnet, or a solenoid to trigger a fire extinguisher.\n\n\n## Challenges we ran into\n\n\nSorting out and writing the centroid algorithm for detecting the position of the fire was a challenge. \nAnother challenge that we took upon ourselves was simplifying the circuit to a great extent for very optimized results and very low power consumption. Last but not least, routing the PCB in a very small area was also quite challenging.\n\n\n## Accomplishments that we're proud of\n\n\nComing up with a very inexpensive design to such was one of our accomplishments. We were also very happy for being able to create and complete the entire PCB on time. \n\n\n## What we learned\n\n\nWe learned a lot about digital and analog circuitry. And along with that, we also learned about different components while designing the PCB. \n\n\n## What's next for Firefighting Bot\n\n\nIn the future, we would like to create a pathway for the circuitry to notify the owner as well as the Fire and Emergency services nearby, on the instance of a fire break out at the location using IoT.\n\n\n"
+}
